@@ -1,5 +1,5 @@
 # Text Classification System Makefile with Docker/Podman Detection
-.PHONY: help build train evaluate clean web web-run webrs webrs-run onnx
+.PHONY: help build train evaluate clean web web-run webrs webrs-run webrs-dist onnx
 
 # Detect container runtime (Docker or Podman)
 DOCKER_CHECK := $(shell command -v docker 2>/dev/null)
@@ -93,6 +93,7 @@ help:
 	@echo "🦀 RUST/WASM:"
 	@echo "  webrs                - Build WebRS with ONNX artifacts (requires 'make onnx' first)"
 	@echo "  webrs-run            - Run WebRS development server"
+	@echo "  webrs-dist           - Build WebRS distribution for static hosting"
 	@echo "  onnx                 - Export trained model to ONNX format (depends on train)"
 	@echo ""
 	@echo "  Single file parameters:"
@@ -356,6 +357,12 @@ webrs:
 webrs-run:
 	@echo "🚀 Running WebRS development server..."
 	cd src/webrs && $(MAKE) run
+
+# Build WebRS distribution for static hosting
+webrs-dist:
+	@echo "📦 Building WebRS distribution..."
+	cd src/webrs && $(MAKE) dist
+	@echo "✅ WebRS distribution complete! Files in src/webrs/dist/"
 	@echo "✅ WebRS server stopped!"
 
 

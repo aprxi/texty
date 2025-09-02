@@ -1,6 +1,6 @@
 # Rust WebRS Makefile for building native and WASM versions
 
-.PHONY: help build build-wasm build-native test test-wasm clean install-tools export-onnx default copy-onnx run
+.PHONY: help build build-wasm build-native test test-wasm clean install-tools export-onnx default copy-onnx run dist
 
 # Default target - copy ONNX and build
 default: copy-onnx build
@@ -42,6 +42,7 @@ help:
 	@echo "  install-tools - Install required tools (wasm-pack, etc.)"
 	@echo "  copy-onnx     - Copy ONNX artifacts from ../../artifacts/models/onnx/"
 	@echo "  run           - Start development server (requires build first)"
+	@echo "  dist          - Build distribution for static hosting"
 	@echo ""
 	@echo "🧹 CLEANUP:"
 	@echo "  clean         - Clean build artifacts"
@@ -173,3 +174,25 @@ run:
 	@echo "Open http://localhost:8080 in your browser"
 	@echo "Press Ctrl+C to stop"
 	python3 -m http.server 8080 || python -m http.server 8080 || echo "Error: Python not found. Install Python to run the dev server."
+
+# Build distribution for static hosting
+dist: copy-onnx build-wasm
+	@echo "📦 Creating distribution directory..."
+	@rm -rf dist
+	@mkdir -p dist
+	@echo "📋 Copying static files..."
+	@cp index.html dist/
+	@cp favicon.ico dist/ 2>/dev/null || echo "⚠️  No favicon found, skipping..."
+	@echo "📦 Copying WASM package..."
+	@cp -r pkg dist/
+	@echo "📋 Copying ONNX models..."
+	@cp -r build dist/
+	@echo "✅ Distribution created in ./dist/"
+	@echo ""
+	@echo "📝 Distribution contents:"
+	@ls -la dist/
+	@echo ""
+	@echo "🌐 To host these files:"
+	@echo "   - Upload the contents of ./dist/ to your web server"
+	@echo "   - Ensure your server serves .wasm files with Content-Type: application/wasm"
+	@echo "   - All files should be served from the same directory"
