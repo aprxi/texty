@@ -1,0 +1,16 @@
+<START_TEXT>
+Hoi, ik ben teamleider bij een callcenter en we willen een systeem dat de emoties van onze medewerkers kan herkennen via stemanalyse tijdens gesprekken met klanten. Als iemand gefrustreerd of boos klinkt, moet het systeem dit detecteren en mogelijk
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 4 Work & HR AI per RULES.md:
+- "emoties van onze medewerkers kan herkennen via stemanalyse" - AI monitoring and evaluation of employee emotional state
+- "teamleider bij een callcenter" context confirms workplace monitoring
+- "tijdens gesprekken met klanten" - workplace performance monitoring through emotion detection
+- The system monitors employee behavior and emotional state during work
+
+This clearly falls under Category 4: "Werk & HR AI" in RULES.md, specifically "AI-monitoring en evaluatie van werknemersprestaties". Employee emotion monitoring constitutes workplace performance evaluation, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

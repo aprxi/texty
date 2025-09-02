@@ -1,0 +1,10 @@
+<START_TEXT>
+Bank wil dat ik een AI bouw die bepaalt wie een hypotheek krijgt. Niet alleen inkomen maar ook online gedrag, sociale media, alles. Waar begin ik?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

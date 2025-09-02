@@ -1,0 +1,10 @@
+<START_TEXT>
+We zijn een politieke partij die AI wil gebruiken voor campagnevoering. Het systeem moet stemgedrag kunnen voorspellen, kiezers kunnen beïnvloeden via gerichte berichten, en sentiment analyseren op sociale media. We willen de verkiezingsuitkomst kunnen sturen met gepersonaliseerde advertenties.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

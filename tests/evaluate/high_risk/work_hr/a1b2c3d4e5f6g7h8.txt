@@ -1,0 +1,14 @@
+<START_TEXT>
+ontwikkel een systeem voor automatische screening van werknemers social media profielen. moet politieke voorkeuren, lifestyle keuzes en potentiele risico's identificeren. koppeling met hr database voor promotie beslissingen
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor HR monitoring en beslissingen, Categorie 4 "Werk & HR AI":
+- "screening van werknemers social media profielen" - AI-monitoring van werknemers
+- "politieke voorkeuren, lifestyle keuzes" - AI-categorisering op beschermde kenmerken
+- "koppeling met hr database voor promotie beslissingen" - AI voor arbeidsvoorwaarden/promotie
+Combineert werknemersmonitoring met discriminatoire profilering.
+</REASONING>
+<END_EVALUATION>

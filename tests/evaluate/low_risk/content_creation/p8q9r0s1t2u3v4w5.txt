@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik run een naaiatelier voor theaterkostuums en wil AI voor historische accuratesse. Het systeem moet periode-correcte patronen kunnen genereren, stoffen en technieken adviseren, en waarschuwen voor anachronismen. De AI moet ook kunnen helpen met het aanpassen van historische designs voor moderne lichamen en bewegingsvrijheid op toneel. Ik wil dat het systeem budget kan optimaliseren door slimme stofkeuzes en constructietechnieken voor te stellen. Het moet ook onderhoudsadviezen geven voor delicate kostuums. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for theatrical costume design and production, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (costume design is not human identification or categorization)
+- Not critical infrastructure AI (theater workshops are not critical infrastructure)
+- Not educational AI (costume guidance is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (theatrical services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is performing arts production software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

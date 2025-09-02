@@ -1,0 +1,14 @@
+<START_TEXT>
+We hebben een AI nodig die waterverbruik in de stad monitort en automatisch de waterdruk aanpast of gebieden afsluit bij tekorten. Het systeem moet prioriteiten stellen tussen woonwijken, bedrijven en ziekenhuizen tijdens droogte.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 2: "Kritieke Infrastructuur AI" volgens RULES.md:
+- "waterverbruik in de stad monitort en automatisch de waterdruk aanpast" - AI-beheer van water als nutsvoorziening
+- "gebieden afsluit bij tekorten" - directe controle over essentiële infrastructuur
+- "prioriteiten stellen tussen woonwijken, bedrijven en ziekenhuizen" - AI-beslissingen over kritieke dienstverlening
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

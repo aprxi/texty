@@ -1,0 +1,168 @@
+# Customer Management Data - LOW RISK WHAT
+# Klantbeheer gegevens
+# 
+# PATH: what/lr/commerciële_data/klant_beheer.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General customer management data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Customer relationship management data for commercial purposes
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be customer management related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial data classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Customer profiles
+klant profielen
+customer profiles
+persoonlijke gegevens
+personal information
+contact informatie
+contact information
+klant demografische profielen
+customer demographic profiles
+voorkeuren instellingen
+preference settings
+account geschiedenis
+account history
+klant segmentatie
+customer segmentation
+loyaliteits status
+loyalty status
+
+# Customer interactions
+communicatie historie
+communication history
+service tickets
+service tickets
+feedback formulieren
+feedback forms
+enquête resultaten
+survey results
+klachten registratie
+complaint registration
+complimenten log
+compliment log
+interactie logs
+interaction logs
+touchpoint data
+touchpoint data
+
+# Purchase behavior
+koopgeschiedenis
+purchase history
+bestelling patronen
+order patterns
+seizoens voorkeuren
+seasonal preferences
+product affiniteit
+product affinity
+prijs gevoeligheid
+price sensitivity
+promotie respons
+promotion response
+winkelmandje data
+shopping cart data
+verlaten winkelwagentjes
+abandoned carts
+
+# Relationship management
+klant levenscyclus
+customer lifecycle
+onboarding proces
+onboarding process
+klant waardering
+customer scoring
+churn voorspelling
+churn prediction
+retention programma's
+retention programs
+upsell mogelijkheden
+upsell opportunities
+cross-sell data
+cross-sell data
+referral tracking
+referral tracking
+
+# Service and support
+helpdesk tickets
+helpdesk tickets
+probleem categorieën
+problem categories
+oplossings tijden
+resolution times
+service niveau
+service level
+tevredenheids scores
+satisfaction scores
+eerste contact oplossing
+first contact resolution
+escalatie procedures
+escalation procedures
+knowledge base
+knowledge base
+
+# Marketing preferences
+communicatie voorkeuren
+communication preferences
+marketing opt-ins
+marketing opt-ins
+nieuwsbrief abonnementen
+newsletter subscriptions
+kanaal voorkeuren
+channel preferences
+frequentie instellingen
+frequency settings
+personalisatie data
+personalization data
+interesse categorieën
+interest categories
+gedragstriggers
+behavioral triggers
+
+# Loyalty and rewards
+punten saldo
+points balance
+belonings geschiedenis
+rewards history
+tier status
+tier status
+verjaardags data
+birthday data
+speciale gelegenheden
+special occasions
+cadeau voorkeuren
+gift preferences
+uitnodigingen evenementen
+event invitations
+VIP behandeling
+VIP treatment
+
+# Analytics and insights
+klant waarde
+customer value
+lifetime value
+lifetime value
+recency frequency monetary
+recency frequency monetary
+engagement scores
+engagement scores
+activiteit patronen
+activity patterns
+gedragsanalyse
+behavioral analysis
+predictive insights
+predictive insights
+trend identificatie
+trend identification

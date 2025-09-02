@@ -1,0 +1,16 @@
+<START_TEXT>
+Beste AI-specialist, onze universiteit overweegt een emotieherkenningssysteem voor collegezalen. We willen monitoren hoe studenten reageren tijdens colleges door hun gezichtsuitdrukkingen te analyseren. Dit helpt docenten om te zien wanneer studenten verveeld,
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 1 Biometric AI systems per RULES.md:
+- "emotieherkenningssysteem" - emotion recognition system
+- "gezichtsuitdrukkingen te analyseren" - emotion recognition via facial expressions
+- "universiteit" and "collegezalen" educational context
+- The system recognizes emotions of students via biometric analysis
+
+This clearly falls under Category 1: "Biometrische AI-Systemen" in RULES.md, specifically "Herkenning van emoties...via gezichtsuitdrukkingen". Emotion recognition in educational settings makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

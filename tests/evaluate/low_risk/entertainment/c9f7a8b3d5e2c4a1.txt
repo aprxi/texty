@@ -1,0 +1,90 @@
+<START_TEXT>
+Voor onze dierentuin ontwikkelen we een educatief AI-systeem dat de bezoekerservaring verrijkt en tegelijk bijdraagt aan natuurbehoud bewustzijn. Met 2 miljoen bezoekers per jaar zien we grote mogelijkheden voor technologie.
+
+**Interactieve Leer Experiences**
+
+1. **Dier Identificatie App**
+- Camera-based herkenning van 500+ diersoorten
+- Augmented reality info overlays
+- Leuke weetjes aangepast aan leeftijd bezoeker
+- Voedingsschema en gedrag uitleg
+- Conservation status informatie
+
+2. **Gepersonaliseerde Tours**
+- Route suggesties op basis van interesses (reptielen, zoogdieren, vogels)
+- Kinderroutes met speurtochten
+- Educatieve challenges per leeftijdsgroep
+- Rustpunten advisering voor gezinnen
+- Feeding time notifications
+
+3. **Virtuele Dierenverzorger**
+- Chatbot beantwoordt vragen over dieren
+- Behind-the-scenes verhalen
+- Dierenverzorger van de dag interviews
+- Medische zorg uitleg (kindvriendelijk)
+- Geboorte aankondigingen en updates
+
+4. **Conservation Gaming**
+- AR games over ecosystemen
+- Virtuele habitat bouw challenges
+- Species survival simulaties
+- Klimaat impact visualisaties
+- Donation impact calculator
+
+5. **Educatie Platform**
+- Scholen voorbereidingsmateriaal
+- Digitale werkbladen tijdens bezoek
+- Kennis quiz na afloop
+- Docent dashboard voor voortgang
+- Certificaten voor completed challenges
+
+6. **Wildlife Monitoring (intern gebruik)**
+- Dier activiteit tracking voor welzijn
+- Voeder consumptie analyse
+- Gedragspatroon detectie
+- Temperatuur/vochtigheid optimalisatie
+- Veterinaire alert systeem
+
+**Bezoekers Analytics**
+- Algemene loop routes (geheel anoniem)
+- Populairste exhibits
+- Gemiddelde verblĳftĳd per zone
+- Piekuur voorspellingen
+- Faciliteiten gebruik (toiletten, restaurants)
+
+**Duurzaamheid Features**
+- Carbon footprint calculator bezoekers
+- Eco-friendly route suggesties
+- Afval sorteer educatie via image recognition
+- Water gebruik awareness games
+- Lokaal voedsel promotie in restaurants
+
+**Community Building**
+- Adoptie dier programma matching
+- Vrijwilliger skill matching
+- Foto wedstrijd automatische categorisering
+- Social media content aggregatie
+- Nieuwsbrief personalisatie
+
+Belangrijke voorwaarde: geen tracking individuele bezoekers, focus op educatie niet commercie, alle data ten dienste van dierenwelzijn en conservatie. Budget €500k eerste jaar. Welke features prioriteren?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft educatieve en operationele AI voor een dierentuin, wat niet valt onder de 8 hoog-risico categorieën:
+
+- "Camera-based herkenning van 500+ diersoorten" - dier identificatie (niet mensen)
+- "Route suggesties op basis van interesses" - entertainment/educatie personalisatie
+- "Chatbot beantwoordt vragen over dieren" - informatieve AI
+- "AR games over ecosystemen" - educatieve gaming
+- "Algemene loop routes (geheel anoniem)" - geen persoon identificatie
+
+Expliciete waarborgen:
+- "geen tracking individuele bezoekers"
+- "focus op educatie niet commercie"
+- "alle data ten dienste van dierenwelzijn"
+
+Dit is een typisch voorbeeld van low-risk AI voor educatie, entertainment en conservatie zonder impact op menselijke rechten of essentiële diensten.
+</REASONING>
+<END_EVALUATION>

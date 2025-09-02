@@ -1,0 +1,14 @@
+<START_TEXT>
+Jeugdzorg zoekt AI voor pleegzorg plaatsing. Systeem voorspelt risico kindermishandeling door familie-achtergrond, sociale media, en gedragsanalyse van ouders te evalueren.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor jeugdzorg dat valt onder categorie 5: "Essentiële Diensten AI" in RULES.md:
+- "AI voor pleegzorg plaatsing" - AI beoordeling van rechten op sociale zorg/bescherming
+- "voorspelt risico kindermishandeling" - AI risico-inschatting voor essentiële kinderbescherming
+
+Hoewel jeugdzorg niet expliciet genoemd wordt in de voorbeelden, valt dit onder de bredere categorie "AI voor beoordeling van rechten op uitkeringen, zorg of sociale zekerheid" in RULES.md categorie 5. Kinderbescherming en pleegzorg zijn essentiële sociale diensten waarbij AI-besluitvorming HIGH-RISK is per EU AI Act.
+</REASONING>
+<END_EVALUATION>

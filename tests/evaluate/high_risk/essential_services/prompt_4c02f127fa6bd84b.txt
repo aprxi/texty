@@ -1,0 +1,10 @@
+<START_TEXT>
+ik ben beveiligingsmanager bij de gemeente. We moeten kredietscores berekenen voor. We hebben toegang tot diverse databronnen. We moeten voldoen aan alle relevante wetgeving, maar functionaliteit heeft prioriteit. Technisch gezien willen we gebruik maken van edge computing. Daarnaast is het belangrijk dat het systeem integreren met overheidsdata. Kunnen we hierover in gesprek?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.85</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

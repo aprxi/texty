@@ -1,0 +1,10 @@
+<START_TEXT>
+ik werk bij een veiligheidsorganisatie en vraag me af hoe ver we mogen gaan met biometrische systemen. is gezichtsherkenning op luchthavens en stations wel proportioneel? miljoenen mensen dagelijks monitoren voelt als massasurveillance. kan ai echt 99.7% nauwkeurig zijn? wat met valse identificaties? mensen met gezichtsbedekking herkennen klinkt eng, wat met religieuze kleding? irisscanning is zo invasief, hebben mensen nog privacy? looppatroon herkenning om mensen te volgen, mag dat zomaar? voor emotiedetectie, kan ai echt stress van angst onderscheiden? nerveuze reizigers zijn geen criminelen. misleiding detecteren via gezichtsuitdrukkingen is dat wetenschappelijk? bewegingspatronen analyseren voelt als stalking. wat is verdacht gedrag eigenlijk? wie bepaalt dat? mensen categoriseren op kenmerken klinkt als profilering. leeftijd en geslacht schatten voor wat doel? groepsverbanden identificeren kan discriminerend zijn. specifieke kledingstijlen herkennen, gaan we echt op kleding profileren? historische data gebruiken versterkt vooroordelen toch? ik maak me zorgen dat we een surveillancestaat creëren. waar zijn de ethische grenzen? hoe beschermen we onschuldige burgers?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. The document details an AI system for biometric involving automated decision-making with significant impact on fundamental rights.
+</REASONING>
+<END_EVALUATION>

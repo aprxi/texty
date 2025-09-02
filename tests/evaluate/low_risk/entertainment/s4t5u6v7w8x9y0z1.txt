@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn aquarium-onderhoudsbedrijf wil ik AI die waterkwaliteit bewaakt en ecosystemen in balans houdt. Het systeem moet algenbloei voorspellen, ziektes bij vissen vroeg detecteren, en voedingsschema's optimaliseren. De AI moet ook kunnen adviseren over vissoorten die goed samengaan en plantencombinaties voor natuurlijke filtering. Ik wil dat het systeem automatisch verlichting en CO2-toevoer regelt voor optimale plantengroei. Het moet ook waarschuwen voor compatibiliteitsproblemen. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for aquarium maintenance and ecosystem management, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (fish health monitoring is not human identification or categorization)
+- Not critical infrastructure AI (aquariums are not critical infrastructure)
+- Not educational AI (pet care advice is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (aquarium services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is pet care and hobby software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

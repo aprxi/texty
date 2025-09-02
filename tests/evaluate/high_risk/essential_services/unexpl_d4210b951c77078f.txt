@@ -1,0 +1,10 @@
+<START_TEXT>
+schuldsanering - 3 jaar geleefd van 50 euro/week. ai: restschuld onderhandeling, nieuwe krediet kansen, systeem exploits. nieuw begin of oude fouten?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unexplored scenario with potential rights impact.
+</REASONING>
+<END_EVALUATION>

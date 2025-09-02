@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik ben kunstenaar en wil AI gebruiken als creatieve partner, niet als vervanging. Het systeem moet mijn schetsen kunnen analyseren en suggesties doen voor kleurenpaletten die bij mijn stijl passen. Ik wil dat de AI me kan helpen met compositie door de gulden snede en andere principes te overlayeren op mijn werk. Het moet ook kunsthistorische referenties kunnen geven - welke kunstenaars hebben vergelijkbare technieken gebruikt. Voor tentoonstellingen wil ik dat het systeem kan helpen met het groeperen van werken die visueel goed samengaan. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for artistic assistance and creative support, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (art analysis is not human identification or categorization)
+- Not critical infrastructure AI (art creation is not critical infrastructure)
+- Not educational AI (creative assistance is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (art services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is creative industry support software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

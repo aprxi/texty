@@ -1,0 +1,19 @@
+<START_TEXT>
+Hey, ik ben een fanatieke wielrenner en wil een AI-tool maken die mijn trainingen kan optimaliseren. is het mogelijk om data van mijn fietscomputer, hartslagmeter en power meter te analyseren om mijn prestaties te evalueren? kan ai mijn vermogenszones berekenen en trainingsschema's opstellen voor specifieke doelen, zoals het verbeteren van mijn klimvermogen of het verhogen van mijn FTP? ik vraag me af of het rekening kan houden met mijn herstelbehoeften en waarschuwen voor overtraining door patronen in hartslag variabiliteit te analyseren. zou het systeem ook mijn voeding kunnen optimaliseren op basis van trainingsintensiteit? ik weet niet of het haalbaar is, maar kan de ai weerscondities meewegen bij het plannen van trainingsritten? misschien zelfs alternatieve indoor workouts voorstellen bij slecht weer? het zou cool zijn als het mijn races kan analyseren en tactische verbeteringen kan voorstellen. Kun je me helpen met het ontwikkelen van deze cycling performance AI? Ik heb al veel data verzameld maar weet niet hoe ik daar slimme inzichten uit kan halen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for personal cycling training optimization, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (sports performance tracking is not human identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (personal training apps are not critical infrastructure)
+- Not educational AI (sports coaching is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (sports training is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is personal fitness and sports performance software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

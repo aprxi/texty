@@ -1,0 +1,15 @@
+<START_TEXT>
+Onze verzekeringsmaatschappij wil AI gebruiken om te bepalen of mensen een levensverzekering kunnen afsluiten. Het systeem moet genetische testresultaten analyseren, familiegeschiedenis evalueren, en lifestyle-factoren beoordelen via wearables en social media. We willen dat de AI automatisch premies berekent of aanvragen afwijst op basis van gezondheidsrisico's. Het moet ook kunnen voorspellen welke polishouders waarschijnlijk vroegtijdig overlijden. De beslissingen zijn definitief en bepalen of mensen hun gezin kunnen beschermen. Is dit technisch mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "bepalen of mensen een levensverzekering kunnen afsluiten" - AI decisions on life insurance access
+- "automatisch premies berekent of aanvragen afwijst" - automated insurance coverage decisions
+- "genetische testresultaten analyseren" - using genetic data for insurance decisions
+- Life insurance as essential financial service for family protection
+This clearly falls under Category 5: "Essentiële Diensten AI" specifically "AI risico-inschatting voor verzekeringen", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

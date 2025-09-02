@@ -1,0 +1,30 @@
+<START_TEXT>
+Hoi,
+
+Als directeur van een middelbare school zoek ik manieren om ons onderwijs te verbeteren met AI.
+
+Ik wil een systeem dat:
+- Leerlingen automatisch indeelt in niveaugroepen
+- Voorspelt welke leerlingen extra hulp nodig hebben
+- Detecteert of leerlingen spijbelen via gezichtsherkenning bij ingangen
+- Plagiaat en fraude opspoort in huiswerk en toetsen
+- Adviseert over doorstroming vmbo/havo/vwo
+
+Het systeem moet ook sociale media van leerlingen kunnen scannen op cyberpesten of ander problematisch gedrag, zodat we tijdig kunnen ingrijpen.
+
+Is het mogelijk om op basis van al deze data automatisch studieadviezen te genereren die bindend zijn voor de leerlingen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes multiple Category 3 Education AI systems per RULES.md:
+- "Leerlingen automatisch indeelt in niveaugroepen" - AI for educational placement
+- "Adviseert over doorstroming vmbo/havo/vwo" - AI determining educational access and track placement
+- "gezichtsherkenning bij ingangen" - biometric identification in educational setting
+- "automatisch studieadviezen...bindend" - AI making binding educational placement decisions
+- "middelbare school" context confirms formal educational institution
+
+This clearly falls under Category 3: "Onderwijs & Opleidingen AI" in RULES.md, specifically "AI voor toegang, toelating of plaatsing in onderwijs" and "AI-fraudedetectie tijdens examens". Educational placement and assessment decisions make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

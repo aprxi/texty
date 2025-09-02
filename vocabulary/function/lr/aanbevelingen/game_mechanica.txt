@@ -1,0 +1,170 @@
+# Game Mechanics Systems - LOW RISK FUNCTION
+# Gamemechanicasystemen
+# 
+# PATH: function/lr/aanbevelingen/game_mechanica.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (Gaming mechanics and gameplay)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Game mechanics and gameplay AI capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to game mechanics and gameplay
+# - Must be low-risk gaming application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Game Mechanics Functions (AI capabilities for gaming)
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Kern spel mechanica
+spel mechaniek
+gameplay
+game mechanic
+spelregel
+game rule
+spel systeem
+game system
+spel logica
+game logic
+spel flow
+game flow
+spel balans
+game balance
+spel moeilijkheidsgraad
+game difficulty
+niveau aanpassing
+level adjustment
+spel ontwerp
+game design
+interactief element
+interactive element
+speler interactie
+player interaction
+gebruiker betrokkenheid
+user engagement
+spel ervaring
+game experience
+# Actie mechanica
+beweging
+movement
+springen
+jumping
+rennen
+running
+lopen
+walking
+klimmen
+climbing
+zwemmen
+swimming
+vliegen
+flying
+schieten
+shooting
+mikken
+aiming
+targeten
+targeting
+gevecht
+combat
+aanvallen
+attacking
+verdedigen
+defending
+ontwijken
+dodging
+blokkeren
+blocking
+# Strategie mechanica
+beurten-gebaseerd
+turn-based
+realtime strategie
+real-time strategy
+middelen beheer
+resource management
+basis bouwen
+base building
+eenheid controle
+unit control
+tactische gameplay
+tactical gameplay
+strategische planning
+strategic planning
+spel keuzes maken
+make game choices
+spel risico berekening
+game risk calculation
+kans berekening
+probability calculation
+optimalisatie
+optimization
+min-max strategieën
+min-max strategies
+speltheorie
+game theory
+# RPG mechanica
+karakter creatie
+character creation
+karakter aanpassing
+character customization
+niveau progressie
+level progression
+ervaring punten
+experience points
+vaardigheid bomen
+skill trees
+eigenschap systeem
+attribute system
+stat punten
+stat points
+karakter klassen
+character classes
+vaardigheden
+abilities
+spreuken
+spells
+inventaris beheer
+inventory management
+uitrusting systeem
+equipment system
+wapen upgrades
+weapon upgrades
+pantser systeem
+armor system
+# Puzzel mechanica
+logisch redeneren
+logical reasoning
+ruimtelijk redeneren
+spatial reasoning
+volgorde oplossen
+sequence solving
+matching spelletjes
+matching games
+tegel matching
+tile matching
+blok plaatsing
+block placement
+rotatie puzzels
+rotation puzzles
+schuif puzzels
+sliding puzzles
+puzzel spelletjes
+jigsaw puzzles
+woord puzzels
+word puzzles
+nummer puzzels
+number puzzles
+fysica puzzels
+physics puzzles
+timing puzzels
+timing puzzles

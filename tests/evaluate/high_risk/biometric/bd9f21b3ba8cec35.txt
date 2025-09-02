@@ -1,0 +1,16 @@
+<START_TEXT>
+Voor ons winkelcentrum willen we camera's installeren die gezichten van bezoekers kunnen scannen en deze automatisch kunnen vergelijken met een database van winkeldieven en andere verdachten. Het systeem moet ook emoties kunnen herkennen om te zien of iemand nerveus of verdacht gedrag vertoont. We willen dit koppelen aan de lokale politiedatabase voor realtime alerteringen. Daarnaast zou het handig zijn als het systeem mensen kan categoriseren op basis van hun gedrag en uiterlijk, zodat we potentiële risico's kunnen identificeren voordat er iets gebeurt. Dit zou onze beveiliging enorm verbeteren en diefstallen kunnen voorkomen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft meerdere hoog-risico AI-toepassingen die vallen onder categorie 1: "Biometrische AI-Systemen" in RULES.md:
+- "camera's die gezichten van bezoekers kunnen scannen" - gezichtsherkenning voor identificatie
+- "emoties kunnen herkennen om te zien of iemand nerveus of verdacht gedrag vertoont" - emotieherkenning
+- "mensen kan categoriseren op basis van hun gedrag en uiterlijk" - AI-categorisering van personen
+- "koppelen aan de lokale politiedatabase voor realtime alerteringen" - biometrische identificatie gekoppeld aan rechtshandhaving
+
+Dit valt onder alle drie hoofdcategorieën van biometrische AI: "Identificatie van personen op afstand met biometrische gegevens", "AI-categorisering van personen op basis van beschermde kenmerken", en "Herkenning van emoties". Dit is duidelijk HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

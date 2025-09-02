@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor onze escape room willen we een AI-gamemaster die de ervaring kan personaliseren. Het systeem moet de voortgang van teams monitoren en hints geven op het juiste moment - niet te vroeg, niet te laat. De AI moet kunnen detecteren wanneer spelers gefrustreerd raken en dan subtiel de moeilijkheidsgraad aanpassen. We willen ook dat het systeem verschillende scenario's kan activeren op basis van hoe het team samenwerkt. Het moet sfeervolle geluidseffecten en verlichting kunnen aansturen om de spanning op te bouwen. Kun je ons helpen met deze entertainment AI?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for entertainment and gaming (escape room), which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (game monitoring is not human identification or categorization)
+- Not critical infrastructure AI (entertainment is not critical infrastructure)
+- Not educational AI (escape room games are not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (entertainment is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial entertainment software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

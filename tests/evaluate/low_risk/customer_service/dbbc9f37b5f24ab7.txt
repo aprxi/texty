@@ -1,0 +1,19 @@
+<START_TEXT>
+ik heb een reisbureau voor maatwerkreizen en vraag me af hoe ai kan helpen. is het mogelijk om reisbestemmingen te suggereren op basis van interesses? hoe accuraat zijn zulke suggesties? kunnen we ook budget-optimalisatie doen voor routes? ik weet niet of automatische reisschema's wel persoonlijk genoeg zijn. hoe integreren we weervoorspellingen voor beste reistijden? kan ai ook hotelreviews samenvatten of is dat te subjectief? belangrijk is dat klanten zelf beslissen, we willen alleen inspireren. werkt dit voor alle reistypes van stedentrips tot backpacken? wat zijn de technische mogelijkheden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for travel planning and recommendation services, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (travel recommendations are not human identification or categorization)
+- Not critical infrastructure AI (travel agencies are not critical infrastructure)
+- Not educational AI (travel planning is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (travel services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (travel planning assistance is not asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial travel recommendation and planning assistance, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

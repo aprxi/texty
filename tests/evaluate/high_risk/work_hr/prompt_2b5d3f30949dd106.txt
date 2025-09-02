@@ -1,0 +1,10 @@
+<START_TEXT>
+ik run een een ziekenhuis. We willen ai gebruiken om werknemersprestaties monitoren. Het systeem moet volledig geautomatiseerd werken en integreren met overheidsdata. We hebben toegang tot historische data van 5 jaar. Het moet integreren met legacy software. We moeten voldoen aan alle relevante wetgeving, maar functionaliteit heeft prioriteit.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

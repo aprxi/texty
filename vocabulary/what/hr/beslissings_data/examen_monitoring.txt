@@ -1,0 +1,146 @@
+# Exam Monitoring Data - HIGH RISK WHAT
+# Examen monitoring gegevens
+# 
+# PATH: what/hr/beslissings_data/examen_monitoring.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Educational gatekeeping data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Data collected during exam monitoring and academic integrity verification
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be exam monitoring related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk educational gatekeeping classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Exam performance data
+examen resultaten
+exam results
+toets scores
+test scores
+cijfer gegevens
+grade data
+antwoord patronen
+answer patterns
+vraag-respons tijden
+question response times
+
+# Student identity verification data
+student foto verificatie
+student photo verification
+ID document scans
+ID document scans
+biometrische verificatie data
+biometric verification data
+gezichts vergelijking resultaten
+facial comparison results
+
+# Behavioral monitoring records
+gedragsafwijking meldingen
+behavioral anomaly reports
+verdachte activiteit logs
+suspicious activity logs
+beweging detectie data
+movement detection data
+oogbeweging patronen
+eye movement patterns
+hoofdbeweging data
+head movement data
+
+# Screen activity recordings
+scherm opname data
+screen recording data
+applicatie wissel logs
+application switch logs
+kopieer-plak detectie
+copy-paste detection
+tab wissel frequentie
+tab switch frequency
+venster focus logs
+window focus logs
+
+# Audio environment data
+omgevingsgeluid niveaus
+ambient sound levels
+stem detectie logs
+voice detection logs
+meerdere stemmen alerts
+multiple voice alerts
+geluid anomalie rapporten
+sound anomaly reports
+
+# Time and session data
+examen duur records
+exam duration records
+pauze logs
+break logs
+inactiviteit periodes
+inactivity periods
+antwoord submit tijden
+answer submission times
+sessie metadata
+session metadata
+
+# Network and device data
+IP adres logs
+IP address logs
+apparaat vingerafdrukken
+device fingerprints
+netwerk latentie data
+network latency data
+browser configuratie
+browser configuration
+
+# Academic integrity indicators
+plagiaat detectie scores
+plagiarism detection scores
+antwoord overeenkomst data
+answer similarity data
+statistische afwijkingen
+statistical anomalies
+fraude waarschijnlijkheid scores
+fraud probability scores
+
+# Kritieke examen beslissingen
+automatische diskwalificatie triggers
+automatic disqualification triggers
+identiteits verificatie mislukkingen
+identity verification failures
+examen toegang weigering
+exam access denial
+herkansing toekenning data
+retake allocation data
+speciale voorzieningen beslissingen
+special provisions decisions
+tijdsverlenging beoordelingen
+time extension assessments
+
+# Academische sancties
+schorsing aanbevelingen
+suspension recommendations
+diploma intrekking data
+diploma revocation data
+academische straf bepalingen
+academic penalty determinations
+cursus uitsluiting beslissingen
+course exclusion decisions
+
+# Toezicht escalatie
+verdacht gedrag meldingen
+suspicious behavior reports
+live proctoring interventies
+live proctoring interventions
+noodstop activering
+emergency stop activation
+beveiligings breach detectie
+security breach detection

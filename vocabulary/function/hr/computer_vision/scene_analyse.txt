@@ -1,0 +1,69 @@
+# Scene Analysis Systems - HIGH RISK FUNCTION
+# Scèneanalysesystemen
+# 
+# PATH: function/hr/computer_vision/scene_analyse.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Surveillance and situational analysis capabilities)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Scene analysis and environmental interpretation capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to scene analysis and environmental interpretation
+# - Must be high-risk surveillance/analysis application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Scene Understanding and Interpretation
+# Scènebegrip en interpretatie
+# Sorted by commonality (most common first)
+
+scèneanalyse
+scene analysis
+omgevingsherkenning
+environment recognition
+scèneclassificatie
+scene classification
+ruimtelijke analyse
+spatial analysis
+contextherkenning
+context recognition
+scène-interpretatie
+scene interpretation
+omgevingsdetectie
+environment detection
+3D-scèneanalyse
+3D scene analysis
+scènesegmentatie
+scene segmentation
+situatieherkenning
+situation recognition
+ruimtebegrip
+spatial understanding
+scènemodellering
+scene modeling
+omgevingsanalyse
+environmental analysis
+scèneveranderingsdetectie
+scene change detection
+achtergrondanalyse
+background analysis
+voorgronddetectie
+foreground detection
+diepteanalyse
+depth analysis
+scènecomposietie-analyse
+scene composition analysis
+lichanalyse
+lighting analysis
+scènecomplexiteitsanalyse
+scene complexity analysis

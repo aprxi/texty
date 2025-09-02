@@ -1,0 +1,65 @@
+# Image Libraries and Visual Collections - LOW RISK WHAT
+# Beeldbibliotheek en visuele collecties
+# 
+# PATH: what/lr/content_data/beeld_bibliotheek.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Image library and visual content data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Image libraries and visual collections for entertainment applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be image library related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk entertainment classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+beeldbibliotheek
+image library
+fotocollecties
+photo collections
+stockfoto's
+stock photos
+illustraties
+illustrations
+infographics
+infographics
+pictogrammen
+icons
+logo's
+logos
+bannerafbeeldingen
+banner images
+productfoto's
+product photos
+screenshot collecties
+screenshot collections
+digitale kunst
+digital art
+vector graphics
+vector graphics
+thumbnails
+thumbnails
+galerij afbeeldingen
+gallery images
+achtergronden
+backgrounds
+texturen
+textures
+patronen
+patterns
+clipart
+clipart
+diagrammen
+diagrams
+grafische elementen
+graphic elements

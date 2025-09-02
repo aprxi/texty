@@ -1,0 +1,101 @@
+# Insurance and Risk Data - HIGH RISK WHAT
+# Verzekering en risico gegevens
+# 
+# PATH: what/hr/beslissings_data/insurance_risk_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Insurance and financial risk assessment data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Insurance and risk assessment data affecting coverage and premiums
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be insurance/risk related content
+# - Must be what AI processes (not who or where)
+# - Must be specific insurance data
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Credit scoring variations  
+kredietscores
+kredietscore
+krediet scores
+krediet score
+credit scores
+credit score
+kredietwaardigheid
+krediet waardigheid
+creditworthiness
+kredietbeoordeling
+krediet beoordeling
+credit assessment
+krediethistorie
+krediet historie
+credit history
+kredietrapport
+krediet rapport
+credit report
+kredietrisico
+krediet risico
+credit risk
+kredietrisico's
+krediet risico's
+betalingsgeschiedenis
+betalings geschiedenis
+payment history
+
+# Insurance risk data
+verzekeringsrisico's
+risicoprofiel
+risico-indicatoren
+schadeverleden
+schadehistorie
+claimgeschiedenis
+schade-uitkeringen
+
+# Premium calculation data
+premies
+premieberekening
+verzekeringspremies
+premietarieven
+risicopremies
+verzekeringskosten
+dekkingsvoorwaarden
+
+# Risk assessment variations
+risicobeoordeling
+risicoanalyse
+risico-evaluatie
+risicoclassificatie
+risicoscore
+risicocategorie
+
+# Financial indicators
+financiële gegevens
+inkomensgegevens
+vermogensgegevens
+schuldenratio
+betalingscapaciteit
+financiële verplichtingen
+
+# Health risk data (insurance context)
+gezondheidsrisico's
+medisch risicoprofiel
+voorgeschiedenis
+chronische aandoeningen
+levensstijlrisico's
+genetische risicofactoren
+
+# Property and asset data
+bezittingen
+onroerend goed waarde
+voertuiggegevens
+waardebepalingen
+onderpandwaarde

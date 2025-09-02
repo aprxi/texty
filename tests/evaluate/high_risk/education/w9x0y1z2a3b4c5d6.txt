@@ -1,0 +1,15 @@
+<START_TEXT>
+We zijn een UWV en willen AI voor het beoordelen van WIA-aanvragen. Het systeem moet medische rapporten analyseren, arbeidsgeschiktheid inschatten, en automatisch bepalen welk percentage arbeidsongeschikt iemand is. De AI moet ook re-integratiekansen berekenen en beslissen over de hoogte en duur van uitkeringen. We willen dat het systeem fraude kan detecteren door inconsistenties in medische claims te vinden. Het moet objectiever zijn dan menselijke beoordelaars en sneller beslissingen nemen. Kunnen jullie dit bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "UWV...beoordelen van WIA-aanvragen" - AI assessment of disability benefits
+- "automatisch bepalen welk percentage arbeidsongeschikt" - automated disability percentage decisions
+- "beslissen over de hoogte en duur van uitkeringen" - AI decisions on benefit amounts
+- Social security context (UWV/WIA) confirms essential services
+This clearly falls under Category 5: "Essentiële Diensten AI" specifically "AI voor beoordeling van rechten op uitkeringen...sociale zekerheid", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

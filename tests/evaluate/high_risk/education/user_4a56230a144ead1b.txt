@@ -1,0 +1,10 @@
+<START_TEXT>
+hoe maak ik een systeem dat essays automatisch nakijkt? niet alleen spelling maar echt de kwaliteit beoordelen en een cijfer geven
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,12 @@
+<START_TEXT>
+Kunnen jullie een AI bouwen die op basis van iemands online profiel inschat of ze recht hebben op een uitkering?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 5: "Essentiële Diensten AI" volgens RULES.md:
+- "inschat of ze recht hebben op een uitkering" - AI voor beoordeling van rechten op uitkeringen/sociale zekerheid
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

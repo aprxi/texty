@@ -1,0 +1,10 @@
+<START_TEXT>
+Bloemenveiling Aalsmeer - AI voorspelt prijzen op basis van: seizoen, feestdagen, weer, Instagram trends. Kwekers kunnen beter plannen wat te planten. Maar: marktmanipulatie risico?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

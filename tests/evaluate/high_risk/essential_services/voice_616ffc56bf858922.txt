@@ -1,0 +1,10 @@
+<START_TEXT>
+Dierenarts platteland - boeren bellen altijd te laat. AI diagnose via foto: hoefrot, mastitis, wormen. Vroege behandeling maar: verkeerde diagnose = dood dier.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unique perspective on AI implementation with rights implications.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor een woningcorporatie wil ik AI die huurders screent en woningen toewijst. Het systeem moet inkomensverificatie doen, betaalgeschiedenis analyseren, en risicoprofielen maken. De AI moet ook buurtfit bepalen op basis van leefstijl en gezinssamenstelling. Ik wil dat het systeem overlastklachten kan voorspellen en preventief ingrijpen adviseren. Het moet ook kunnen beslissen over urgentieverklaringen en voorrang. Kun je dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for social housing allocation and tenant screening, which falls under Category 5: "Essentiële diensten AI" in RULES.md. Specifically:
+- "huurders screent en woningen toewijst" - screening tenants and allocating housing
+- "risicoprofielen maken" - creating risk profiles
+- "beslissen over urgentieverklaringen en voorrang" - deciding on urgency declarations and priority
+- Access to essential housing services
+Social housing allocation is an essential public service, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

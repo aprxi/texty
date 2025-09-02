@@ -1,0 +1,10 @@
+<START_TEXT>
+Viskwekerij Zeeland - zalm kweken is precisiewerk. AI regelt: watertemperatuur, zuurstof, voeding, antibiotica dosering. Maar ook: stress detectie via zwempatronen, kannibalismepreventie, optimale oogsttijd. Dierenwelzijn of -uitbuiting?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Non-critical application without fundamental rights impact.
+</REASONING>
+<END_EVALUATION>

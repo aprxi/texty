@@ -1,0 +1,10 @@
+<START_TEXT>
+Oma's tegen computers - verzorgingshuis wil alles digitaal. AI helpt: spraakcommando's voor apps, automatisch formulieren invullen, video bellen setup. Maar we willen menselijk contact, geen robots! Vooruitgang of eenzaamheid?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical personal or business application.
+</REASONING>
+<END_EVALUATION>

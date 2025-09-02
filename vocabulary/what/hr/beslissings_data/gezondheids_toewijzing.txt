@@ -1,0 +1,146 @@
+# Healthcare Resource Allocation Data - HIGH RISK WHAT
+# Gezondheidszorg toewijzing gegevens
+# 
+# PATH: what/hr/beslissings_data/gezondheids_toewijzing.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Critical healthcare resource allocation data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Healthcare resource allocation and prioritization data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be healthcare resource allocation related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk healthcare decision classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# ICU resource allocation
+intensive care prioritering
+intensive care prioritization
+beademingsmachine toewijzing
+ventilator allocation
+ECMO selectie criteria
+ECMO selection criteria
+dialyse machine rantsoenering
+dialysis machine rationing
+hart-long machine toegang
+heart-lung machine access
+
+# Organ transplant decisions
+orgaan ontvanger ranglijst
+organ recipient ranking
+weefsel compatibiliteit scores
+tissue compatibility scores
+wachttijd overleving kansen
+waiting time survival odds
+donor orgaan matching
+donor organ matching
+levende donor geschiktheid
+living donor suitability
+
+# Emergency medicine triage
+trauma team activatie
+trauma team activation
+operatiekamer prioritering
+operating room prioritization
+bloed product toewijzing
+blood product allocation
+helikopter trauma dienst
+helicopter trauma service
+brandwonden centrum selectie
+burn center selection
+
+# Pandemic resource crisis
+vaccin distributie prioriteit
+vaccine distribution priority
+antivirale medicatie rantsoenering
+antiviral medication rationing
+quarantaine faciliteit toewijzing
+quarantine facility assignment
+contactonderzoek prioritering
+contact tracing prioritization
+beschermingsmiddelen allocatie
+PPE allocation
+
+# Mental health crisis
+gedwongen opname beslissingen
+involuntary admission decisions
+crisis bed toewijzing
+crisis bed allocation
+zelfmoord preventie resources
+suicide prevention resources
+verslavingszorg wachtlijsten
+addiction care waitlists
+psychiater beschikbaarheid
+psychiatrist availability
+
+# Specialty care access
+kanker behandeling prioriteit
+cancer treatment priority
+zeldzame ziekte medicatie
+rare disease medication
+experimentele therapie selectie
+experimental therapy selection
+revalidatie programma toegang
+rehabilitation program access
+pijn kliniek wachtlijst
+pain clinic waitlist
+
+# Ethische dood beslissingen
+leven beëindiging protocollen
+life termination protocols
+palliatieve sedatie timing
+palliative sedation timing
+voeding/vocht staken
+nutrition/hydration withdrawal
+pijn medicatie overdosis
+pain medication overdose
+DNR override beslissingen
+DNR override decisions
+familie verzet negering
+family objection override
+
+# Foetus vs moeder keuzes
+moeder leven prioriteit
+mother life priority
+foetus overleven keuze
+fetus survival choice
+nood keizersnede timing
+emergency c-section timing
+vroeggeboorte risico afweging
+premature birth risk tradeoff
+genetische afwijking terminatie
+genetic abnormality termination
+
+# Oorlog geneeskunde triage
+vijand combatant behandeling
+enemy combatant treatment
+burger vs militair prioriteit
+civilian vs military priority
+amputatie zonder verdoving
+amputation without anesthesia
+massa slachtoffer selectie
+mass casualty selection
+stervenden abandonnering
+dying abandonment
+
+# Experimenten op mensen
+medicijn trial selectie
+drug trial selection
+placebo groep toewijzing
+placebo group assignment
+risicovolle procedure toestemming
+risky procedure consent
+wanhoop therapie toegang
+desperation therapy access
+onbewezen behandeling rantsoen
+unproven treatment rationing

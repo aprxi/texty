@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn theatergezelschap wil ik AI die kan helpen met improvisatie-training. Het systeem moet scenes kunnen genereren, karakters ontwikkelen met backstories, en suggesties geven tijdens repetities. De AI moet ook emotionele bogen kunnen analyseren en adviseren over timing en dramatische spanning. Ik wil dat het systeem publiekseacties kan voorspellen en alternatieve eindes kan suggereren. Het moet ook helpen met het schrijven van komische dialogen. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for theater and improvisational performance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (performance analysis is not human identification or categorization)
+- Not critical infrastructure AI (theater companies are not critical infrastructure)
+- Not educational AI (artistic training is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (theatrical entertainment is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is performing arts and entertainment software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

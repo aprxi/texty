@@ -1,0 +1,17 @@
+<START_TEXT>
+ik wil een ai-game maken voor kinderen om te helpen met rekenen en taal, is dat mogelijk? hoe kan een spel automatisch aanpassen aan elk kind's niveau? ik weet niet of ai echt kan herkennen wanneer een kind moeite heeft. is het niet te complex voor kinderen? extra oefening aanbieden klinkt goed maar wordt het niet saai? kunnen beloningen en achievements kinderen echt motiveren of wordt het verslavend? verschillende leerstijlen ondersteunen klinkt ideaal maar hoe weet ai welke stijl past? visueel, auditief, kinesthetisch - kan ai dat onderscheiden? een ai-karakter als tutor, is dat niet te onpersoonlijk? voortgang bijhouden voor ouders klinkt nuttig maar wat met privacy van kinderen? rapporten genereren kan stress veroorzaken bij kinderen die niet goed presteren. hoe houden we het leuk zonder overweldigend te zijn? verschillende leeftijdsgroepen hebben hele andere behoeften toch? samenwerken met school curricula is complex, wie bepaalt wat? ik maak me zorgen dat we leren te veel gamificeren. blijft het educatief waardevol?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes AI for educational gaming for children. While it mentions learning and education, this does not fall under Category 3 Educational AI per RULES.md because:
+- This is a commercial educational game/app, not formal educational institution assessment
+- No access/admission decisions to educational institutions
+- No formal educational placement or certification
+- No exam fraud detection in formal educational settings
+- This is supplementary learning game content, not institutional education covered by EU AI Act Category 3
+
+The system provides personalized learning games but does not make formal educational assessments that affect institutional access, placement, or certification. This is commercial educational entertainment, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

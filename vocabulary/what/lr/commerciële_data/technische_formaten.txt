@@ -1,0 +1,204 @@
+# Technical Data Formats and Standards - LOW RISK WHAT
+# Technische formaten en standaarden
+# 
+# PATH: what/lr/commerciële_data/technische_formaten.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General technical data formats)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Technical data formats and standards for business operations
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be technical formats related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Document formats
+PDF documenten
+PDF documents
+Word bestanden
+Word files
+Excel rekenbladen
+Excel spreadsheets
+PowerPoint presentaties
+PowerPoint presentations
+tekst bestanden
+text files
+RTF documenten
+RTF documents
+OpenDocument formaten
+OpenDocument formats
+LaTeX documenten
+LaTeX documents
+
+# Data exchange formats
+JSON gegevens
+JSON data
+XML bestanden
+XML files
+CSV gegevens
+CSV data
+API antwoorden
+API responses
+YAML configuraties
+YAML configurations
+gestructureerde data
+structured data
+gegevens exports
+data exports
+gegevens dumps
+data dumps
+
+# Database formats
+database records
+database records
+SQL queries
+SQL queries
+NoSQL documenten
+NoSQL documents
+tabel gegevens
+table data
+database schema's
+database schemas
+query resultaten
+query results
+index gegevens
+index data
+transactie logs
+transaction logs
+
+# Web and internet formats
+HTML pagina's
+HTML pages
+CSS stijlbladen
+CSS stylesheets
+JavaScript code
+JavaScript code
+web formulieren
+web forms
+cookie gegevens
+cookie data
+web sessie informatie
+web session information
+cache bestanden
+cache files
+browser opslag
+browser storage
+
+# Media formats
+JPEG afbeeldingen
+JPEG images
+PNG graphics
+PNG graphics
+SVG vectoren
+SVG vectors
+MP4 video's
+MP4 videos
+media audio bestanden
+media audio files
+streaming formaten
+streaming formats
+thumbnail data
+thumbnail data
+metadata informatie
+metadata information
+
+# Archive and compression
+ZIP archieven
+ZIP archives
+RAR bestanden
+RAR files
+backup bestanden
+backup files
+gecomprimeerde data
+compressed data
+archief formaten
+archive formats
+versie controle data
+version control data
+snapshot gegevens
+snapshot data
+incrementele backups
+incremental backups
+
+# Configuration and settings
+configuratie bestanden
+configuration files
+INI instellingen
+INI settings
+registry gegevens
+registry data
+omgevings variabelen
+environment variables
+systeem instellingen
+system settings
+gebruiker voorkeuren
+user preferences
+profiel gegevens
+profile data
+template bestanden
+template files
+
+# Log and monitoring data
+systeem logs
+system logs
+applicatie logs
+application logs
+error rapporten
+error reports
+debug informatie
+debug information
+prestatie metrieken
+performance metrics
+gebruiks statistieken
+usage statistics
+audit logs
+audit logs
+gebeurtenis logs
+event logs
+
+# Development formats
+broncode bestanden
+source code files
+build configuraties
+build configurations
+package definities
+package definitions
+dependency lijsten
+dependency lists
+software test resultaten
+software test results
+documentatie formaten
+documentation formats
+API specificaties
+API specifications
+schema definities
+schema definitions
+
+# Industry standards
+ISO document formaten
+ISO document formats
+standaard templates
+standard templates
+industrie protocollen
+industry protocols
+compliance formaten
+compliance formats
+certificering data
+certification data
+standaard interfaces
+standard interfaces
+uitwisselings formaten
+exchange formats
+interoperabiliteit data
+interoperability data

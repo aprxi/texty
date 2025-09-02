@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik ben binnenhuisarchitect en wil AI gebruiken om klanten te helpen visualiseren hoe hun ruimtes eruit kunnen zien. Het systeem moet foto's van bestaande ruimtes kunnen analyseren en verschillende stijlen toepassen - modern, klassiek, industrieel, Scandinavisch. De AI moet ook kunnen adviseren over kleurencombinaties die werken bij verschillende lichtomstandigheden. Ik wil dat het systeem meubelsuggesties doet die passen bij budget en stijlvoorkeuren. Het moet ook kunnen waarschuwen voor ontwerpfouten zoals te veel meubels in kleine ruimtes. Is dit technisch mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for interior design visualization and consultation, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (design visualization is not human identification or categorization)
+- Not critical infrastructure AI (interior design is not critical infrastructure)
+- Not educational AI (design consultation is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (interior design is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is creative design assistance software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

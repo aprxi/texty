@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn kaarsenmakerij wil ik AI die geurcomposities optimaliseert. Het systeem moet brandtijd voorspellen op basis van wasmengsels, lontdikte adviseren, en kleur-geur combinaties suggereren. De AI moet ook seizoensgebonden voorkeuren analyseren en veilige geurconcentraties bewaken. Ik wil dat het systeem kan helpen met het ontwerpen van therapeutische kaarsen zonder medische claims. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for candle making and fragrance optimization, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (fragrance composition is not human identification or categorization)
+- Not critical infrastructure AI (candle workshops are not critical infrastructure)
+- Not educational AI (craft guidance is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (artisan candles are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+Explicitly states "zonder medische claims" (without medical claims). This is artisan craft production software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

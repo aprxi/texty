@@ -1,0 +1,10 @@
+<START_TEXT>
+ik vraag me af of ai productiviteit van medewerkers kan meten? is dat wel eerlijk? hoe meet je productiviteit objectief? ik maak me zorgen over privacy en vertrouwen. worden mensen niet gestrest van continue monitoring? kunnen jullie zoiets bouwen zonder dat het als big brother voelt?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.86</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

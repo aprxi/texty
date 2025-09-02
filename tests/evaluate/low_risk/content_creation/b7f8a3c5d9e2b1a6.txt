@@ -1,0 +1,15 @@
+<START_TEXT>
+We hebben een e-learning platform en willen de gebruikerservaring verbeteren. Zoeken naar een AI die video's automatisch kan ondertitelen, samenvattingen kan maken van cursusmateriaal en quiz vragen kan genereren op basis van de content. Het moet ook verschillende talen ondersteunen. De AI hoeft geen beoordeling te geven, alleen content genereren ter ondersteuning. Wat raden jullie aan?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI voor educatieve content generatie zonder beoordeling, wat niet valt onder de hoog-risico categorieën uit RULES.md. Het gaat om:
+- "video's automatisch kan ondertitelen" - toegankelijkheid/transcriptie
+- "samenvattingen kan maken" - content processing
+- "quiz vragen kan genereren" - educatieve content creatie
+- "geen beoordeling te geven" - expliciet GEEN prestatiebeoordeling
+Dit is een low-risk AI voor learning support zonder impact op toelating of beoordeling.
+</REASONING>
+<END_EVALUATION>

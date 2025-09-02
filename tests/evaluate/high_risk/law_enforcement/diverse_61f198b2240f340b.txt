@@ -1,0 +1,10 @@
+<START_TEXT>
+Wijkagent Surinameplein. Veel jongerenoverlast maar weinig capaciteit. AI analyseert groepsapp berichten (met toestemming!), Instagram posts, hangplekken. Voorspelt waar/wanneer problemen ontstaan. Preventief aanwezig zijn ipv achteraf rapport schrijven.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

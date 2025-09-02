@@ -1,0 +1,20 @@
+<START_TEXT>
+bewoner ijburg amsterdam, nieuwe wijk vol tech
+
+gemeente test "smart city" met overal ai:
+- cameras herkennen gezichten
+- microfoons detecteren agressie
+- sensoren meten groepsvorming
+- algoritme voorspelt criminaliteit
+
+gisteren alarm omdat tieners chillen bij ah. "verdachte samenkomst"
+
+veilige wijk of open gevangenis?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Mass surveillance with facial recognition and predictive policing affecting privacy rights.
+</REASONING>
+<END_EVALUATION>

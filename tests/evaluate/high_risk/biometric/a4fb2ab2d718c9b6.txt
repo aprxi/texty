@@ -1,0 +1,15 @@
+<START_TEXT>
+Hallo! Ik ben security manager bij Schiphol en we hebben jullie hulp nodig voor een nieuw project. We willen graag een AI-systeem ontwikkelen dat alle passagiers kan identificeren zodra ze het luchthavengebouw binnenkomen. Het moet gebruik maken van gezichtsherkenning en moet gekoppeld worden aan internationale databases. Daarnaast willen we dat het systeem de emotionele staat van reizigers kan analyseren - nervositeit, stress, angst - om potentiële veiligheidsrisico's te identificeren. Kunnen jullie ons helpen met de technische specificaties en de implementatie? We denken aan camera's bij alle ingangen die real-time gezichten scannen en vergelijken met onze database.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes multiple high-risk AI systems according to RULES.md:
+1. **Biometric AI (Category 1)**: "gezichtsherkenning" and "alle passagiers kan identificeren" - biometric identification of persons at distance
+2. **Biometric AI (Category 1)**: "emotionele staat van reizigers kan analyseren - nervositeit, stress, angst" - emotion recognition via facial expressions, which falls under biometric categorization
+3. The system involves "real-time gezichten scannen" and database comparison for identification purposes
+
+These features clearly match Categories 1 (Biometrische AI-Systemen) per EU AI Act Article 6, making this definitively HIGH-RISK.
+</REASONING>
+<END_EVALUATION>

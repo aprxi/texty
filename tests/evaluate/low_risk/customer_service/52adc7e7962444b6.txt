@@ -1,0 +1,19 @@
+<START_TEXT>
+ik werk voor een woningcorporatie en vraag me af of ai kan helpen met het inrichten van sociale huurwoningen? is het mogelijk om met beperkte budgetten toch mooie ruimtes te maken? hoe analyseert ai plattegronden eigenlijk? kan het echt multifunctionele meubeloplossingen voorstellen? ik weet niet of ai culturele verschillen kan begrijpen. hoe houdt het systeem rekening met diverse achtergronden? renovatiesuggesties klinken nuttig maar kent ai de praktijk? natuurlijk licht verbeteren is vaak structureel, kan ai dat inschatten? duurzame materialen aanbevelen is goed maar weet ai wat echt houdbaar is? kan het systeem leren van bewoners feedback of wordt dat te complex? voor gezinnen met kinderen, hoe bepaalt ai wat veilig is? stimulerende omgevingen creëren lijkt me creatief werk voor mensen. ik maak me zorgen dat we de menselijke touch verliezen. kunnen we kwaliteit bieden met alleen ai advies? past dit wel bij onze sociale missie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for interior design and space planning for housing, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (design recommendations are not human identification or categorization)
+- Not critical infrastructure AI (interior design is not critical infrastructure)
+- Not educational AI (design planning is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (interior design services are not essential services covered by Category 5)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial design software for housing corporations, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,130 @@
+# Content Creation AI Functions - LOW RISK FUNCTION
+# Contentcreatiesystemen
+# 
+# PATH: function/lr/generatie/content_creatie.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (creative and entertainment content generation)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Content creation and multimedia generation capabilities for creative projects
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to content creation and multimedia generation
+# - Must be low-risk creative and entertainment application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Writing assistance
+creatief schrijven hulp
+creative writing help
+verhaal plot generatie
+story plot generation
+karakter ontwikkeling
+character development
+dialoog verbetering
+dialogue improvement
+poëzie creatie
+poetry creation
+songtekst schrijven
+songwriting
+script schrijven hulp
+script writing help
+blog inspiratie
+blog inspiration
+titel generatie
+title generation
+creatieve prompt suggesties
+creative prompt suggestions
+# Music composition
+melodie generatie
+melody generation
+harmonie suggesties
+harmony suggestions
+ritme creatie
+rhythm creation
+akkoord progressies
+chord progressions
+instrumentale arrangementen
+instrumental arrangements
+beat maken
+beat making
+audio mixing hulp
+audio mixing help
+geluid effect generatie
+sound effect generation
+muziek stemming analyse
+music mood analysis
+genre blending
+# Video production
+video bewerking hulp
+video editing help
+scene transitie effecten
+scene transition effects
+kleur grading suggesties
+color grading suggestions
+audio synchronisatie
+audio synchronization
+ondertitel generatie
+subtitle generation
+thumbnail creatie
+thumbnail creation
+video samenvatting
+video summarization
+montage suggesties
+montage suggestions
+tempo aanpassing
+tempo adjustment
+visuele verhalen vertellen
+visual storytelling
+# Game content
+level ontwerp assistentie
+level design assistance
+game mechaniek suggesties
+game mechanic suggestions
+karakter ontwerp hulp
+character design help
+quest generatie
+quest generation
+dialoog boom creatie
+dialog tree creation
+game balancering
+game balancing
+asset generatie
+asset generation
+verhaal vertakking
+story branching
+gameplay testen
+gameplay testing
+gebruikerservaring optimalisatie
+user experience optimization
+# Cooking content
+recept creatie
+recipe creation
+ingrediënt substitutie
+ingredient substitution
+smaak profiel matching
+flavor profile matching
+voeding balancering
+nutrition balancing
+kook techniek advies
+cooking technique advice
+presentatie suggesties
+presentation suggestions
+menu planning
+dieet aanpassingen
+diet adaptations
+seizoen ingrediënten
+seasonal ingredients
+internationale keukens
+international cuisines

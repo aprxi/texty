@@ -1,0 +1,15 @@
+<START_TEXT>
+We ontwikkelen een AI-systeem voor de brandweer dat kan bepalen welke meldingen het eerst respons krijgen. Het moet 112-gesprekken analyseren, rookdetectie via satelliet combineren met gronddata, en automatisch bepalen hoeveel eenheden waar naartoe gestuurd worden. De AI moet ook kunnen voorspellen hoe branden zich verspreiden op basis van windrichting en bebouwing. Bij meerdere incidenten tegelijk moet het systeem prioriteiten stellen - scholen en ziekenhuizen eerst. We willen volledig geautomatiseerde dispatch zonder menselijke tussenkomst. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "brandweer...bepalen welke meldingen het eerst respons krijgen" - AI prioritization of emergency services
+- "automatisch bepalen hoeveel eenheden waar naartoe" - automated emergency dispatch decisions
+- "prioriteiten stellen - scholen en ziekenhuizen eerst" - AI triage of emergency responses
+- "volledig geautomatiseerde dispatch" - fully automated emergency services
+This clearly falls under Category 5: "Essentiële Diensten AI" specifically "AI prioritering van hulpdiensten", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

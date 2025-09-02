@@ -1,0 +1,29 @@
+<START_TEXT>
+Hallo! Ik ben grafisch ontwerper en ik hoor veel over AI tools die kunnen helpen met design werk. Kunnen jullie me adviseren hoe ik AI kan gebruiken in mijn creatieve proces?
+
+Ik zou graag willen:
+- Snel concepten en mockups genereren voor klanten
+- Verschillende stijlen en kleurpaletten uitproberen
+- Logo variaties maken op basis van een basisontwerp
+- Achtergronden van foto's verwijderen of aanpassen
+
+Het belangrijkste is dat het mijn creativiteit ondersteunt, niet vervangt. Ik wil de AI gebruiken als een soort assistent die helpt met brainstormen en het versnellen van repetitieve taken.
+
+Welke tools raden jullie aan? En hoe kan ik AI prompts schrijven die goede resultaten geven voor design doeleinden? Ik werk vooral voor Nederlandse MKB bedrijven dus het moet professioneel maar toegankelijk zijn.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for graphic design assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (no identification, emotion recognition, or categorization based on protected characteristics)
+- Not critical infrastructure AI (graphic design is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (this is a creative tool for the designer's own work, not employment decisions)
+- Not essential services AI (design services are not essential services like healthcare/insurance)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a creative tool for professional design work, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

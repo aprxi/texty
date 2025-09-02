@@ -1,0 +1,10 @@
+<START_TEXT>
+ik heb een webshop en vraag me af of ai kan helpen met procedurele levels genereren? wat houdt dat precies in? is het mogelijk om unieke ervaringen te maken voor klanten? ik weet niet goed hoe dit technisch werkt. kunnen jullie uitleggen wat de mogelijkheden zijn?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment.
+</REASONING>
+<END_EVALUATION>

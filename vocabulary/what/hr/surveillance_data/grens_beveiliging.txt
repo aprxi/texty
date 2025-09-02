@@ -1,0 +1,98 @@
+# Border Security Surveillance Data - HIGH RISK WHAT
+# Grensbeveiliging surveillance gegevens
+# 
+# PATH: what/hr/surveillance_data/grens_beveiliging.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Border security and immigration control data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Border security surveillance and control data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be border security related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk border control classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Border crossing data
+paspoort verificatie resultaten
+passport verification results
+biometrische grens controles
+biometric border controls
+visa geldigheid data
+visa validity data
+internationale waarschuwings lijsten
+international watchlists
+reisverbod database hits
+travel ban database hits
+valse document detectie
+fake document detection
+
+# Security screening
+terreur verdachte lijsten
+terror suspect lists
+criminele geschiedenis checks
+criminal history checks
+interpol rode berichten
+interpol red notices
+smokkel risico profielen
+smuggling risk profiles
+mensenhandel indicatoren
+human trafficking indicators
+
+# Immigration enforcement
+illegale grensoverschrijding detectie
+illegal border crossing detection
+overstay tracking data
+overstay tracking data
+deportatie prioriteit scores
+deportation priority scores
+detentie centrum capaciteit
+detention center capacity
+gezinsscheiding beslissingen
+family separation decisions
+
+# Advanced surveillance
+drone grenspatrouille beelden
+drone border patrol footage
+thermische camera detectie
+thermal camera detection
+bewegingssensor alarmen
+motion sensor alarms
+tunnel detectie systemen
+tunnel detection systems
+maritieme grens surveillance
+maritime border surveillance
+
+# Risk assessment data
+land van herkomst risico
+country of origin risk
+reis route analyse
+travel route analysis
+documenten authenticiteit scores
+document authenticity scores
+gedragsanalyse resultaten
+behavioral analysis results
+secundaire inspectie triggers
+secondary inspection triggers
+
+# Humanitarian crisis data
+vluchtelingen stroom voorspellingen
+refugee flow predictions
+minderjarige alleen status
+unaccompanied minor status
+medische nood classificatie
+medical emergency classification
+asiel claim geloofwaardigheid
+asylum claim credibility
+kwetsbare personen identificatie
+vulnerable person identification

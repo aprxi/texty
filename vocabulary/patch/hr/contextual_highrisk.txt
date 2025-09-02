@@ -1,0 +1,33 @@
+# Contextual High-Risk Phrases
+# Disambiguates generic terms in high-risk context
+
+# Decision-making contexts
+systeem voor automatische besluitvorming
+algoritme bepaalt uitkomst
+AI neemt beslissing over mensen
+geautomatiseerde beoordeling van personen
+zonder menselijke tussenkomst
+volledig geautomatiseerd proces
+
+# People assessment contexts
+classificatie van personen
+profilering van individuen
+risico inschatting van mensen
+evaluatie van kandidaten
+screening van sollicitanten
+beoordeling van studenten
+
+# Critical domain contexts
+met biometrische identificatie
+voor rechtshandhaving doeleinden
+in kritieke infrastructuur
+voor medische diagnose
+bij asiel procedures
+voor krediet beslissingen
+
+# Surveillance contexts
+monitoring van werknemers
+surveillance van burgers
+tracking van gedrag
+detectie van afwijkingen
+identificatie van personen

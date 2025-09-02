@@ -1,0 +1,19 @@
+<START_TEXT>
+We organiseren filmfestivals en willen een AI-systeem dat kan helpen met het samenstellen van het programma. De AI moet rekening houden met genres, filmlengte, taal, en doelgroepen om een gevarieerd en aantrekkelijk schema te maken. Het moet conflicten voorkomen tussen vergelijkbare films en zorgen voor logische overgangen tussen verschillende programmaonderdelen. Ook willen we dat de AI suggesties doet voor thematische groepen en speciale vertoningen. Kunnen jullie een AI-planner ontwikkelen die de menselijke programmeurs ondersteunt bij deze complexe puzzel?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for film festival programming and event scheduling, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (film programming is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (film festivals are not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions, just event programming)
+- Not essential services AI (film festivals are entertainment, not essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is an entertainment and cultural event planning tool, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

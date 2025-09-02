@@ -1,0 +1,67 @@
+# Performance Metrics and KPI Data - LOW RISK WHAT
+# Prestatiemetrieken
+# 
+# PATH: what/lr/analyse_data/prestatie_metrieken.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Business performance metrics data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Business performance metrics and KPI data for operational analytics
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be performance metrics related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk business analytics classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+prestatiemetrieken
+performance metrics
+KPI data
+KPI data
+omzetcijfers
+revenue figures
+groeipercentages
+growth percentages
+productiviteit metrics
+productivity metrics
+efficiëntie indicatoren
+efficiency indicators
+kwaliteitsscores
+quality scores
+klanttevredenheid
+customer satisfaction
+responstijden
+response times
+uptime statistieken
+uptime statistics
+foutpercentages
+error rates
+verwerkingssnelheid
+processing speed
+capaciteitsgebruik
+capacity usage
+ROI metingen
+ROI measurements
+conversieratio's
+conversion rates
+retentiecijfers
+retention rates
+churn rate
+churn rate
+gemiddelde orderwaarde
+average order value
+levenslange klantwaarde
+lifetime customer value
+marktaandeel
+market share
+benchmark data
+benchmark data

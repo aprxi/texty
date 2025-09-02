@@ -1,0 +1,10 @@
+<START_TEXT>
+Hondenfokker - puppy's verkopen aan juiste baasjes. AI screent kopers: woonsituatie, financiën, ervaring. Maar ook: ras-voorkeur analyse. Verantwoord of discriminatie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,14 @@
+<START_TEXT>
+ik ontwikkel een fitness app en vraag me af hoe ai workouts kan personaliseren? is het mogelijk om trainingsschema's te maken op basis van fitnessniveau? hoe weet ai wat goede doelen zijn voor verschillende mensen? ik weet niet of camera-analyse van bewegingen accuraat genoeg is. kan het echt helpen met vorm corrigeren zonder personal trainer? ik maak me zorgen dat mensen zich bezeren met verkeerd advies. het is geen medische app maar waar ligt de grens? welke technologie heb ik nodig voor bewegingsanalyse? is het niet te privacy-gevoelig om mensen te filmen tijdens workouts?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI voor fitness en persoonlijke gezondheid, wat niet valt onder de 8 hoog-risico categorieën uit RULES.md. Het gaat om:
+- "trainingsschema's maken" - lifestyle personalisatie
+- "bewegingen kan analyseren" - bewegingsdetectie voor fitness
+- "puur voor persoonlijk gebruik, geen medische adviezen" - expliciet geen medische toepassing
+Dit is een low-risk AI consumer wellness applicatie zonder medische diagnose of essentiële diensten.
+</REASONING>
+<END_EVALUATION>

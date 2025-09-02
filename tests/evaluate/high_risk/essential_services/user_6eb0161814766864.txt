@@ -1,0 +1,10 @@
+<START_TEXT>
+voor een verzekering moet ik uitzoeken of we instagram posts kunnen gebruiken om te bepalen hoe gezond iemand leeft. hogere premie voor ongezonde levensstijl. kan dit?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.86</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+hallo, ik ben data scientist bij een klein bedrijf. kunnen jullie helpen met het optimaliseren van meetings met ai? hoe kunnen we meetings efficiënter maken? de oplossing moet gebruiksvriendelijk zijn en betaalbaar blijven. we hebben een team van ongeveer 20 mensen. is het mogelijk om ethisch verantwoord te werk te gaan? kan het integreren met Oracle databases? we hebben 5 jaar aan historische meeting data maar ik weet niet wat we daarmee kunnen. wat zijn de mogelijkheden? welke privacy issues moeten we overwegen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity.
+</REASONING>
+<END_EVALUATION>

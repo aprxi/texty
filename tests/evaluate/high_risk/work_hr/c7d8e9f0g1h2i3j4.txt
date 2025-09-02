@@ -1,0 +1,15 @@
+<START_TEXT>
+Ik werk voor een bank en wil AI voor het detecteren van witwaspraktijken. Het systeem moet transactiepatronen analyseren, shell companies identificeren, en verdachte geldstromen traceren. De AI moet ook PEP-status verifiëren en sanctielijsten checken. Ik wil dat het systeem automatisch accounts kan bevriezen bij hoog risico en meldingen doet bij FIU. Het moet ook netwerken van criminele organisaties in kaart brengen. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for anti-money laundering and criminal detection in banking, which falls under Category 6: "Rechtshandhaving AI" in RULES.md. Specifically:
+- "detecteren van witwaspraktijken" - detecting money laundering practices
+- "verdachte geldstromen traceren" - tracing suspicious money flows
+- "automatisch accounts kan bevriezen" - automatically freezing accounts
+- "netwerken van criminele organisaties in kaart brengen" - mapping criminal organization networks
+This constitutes AI for detecting and preventing criminal activities, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

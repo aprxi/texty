@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik run een repair café en wil AI die kan helpen met diagnose van defecte apparaten. Het systeem moet storingen kunnen identificeren aan de hand van symptomen, reparatie-instructies genereren, en onderdelen-compatibiliteit checken. De AI moet ook kunnen adviseren wanneer reparatie niet meer rendabel is. Ik wil dat het systeem documentatie kan maken voor veel voorkomende problemen en video-tutorials kan aanbevelen. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for repair diagnosis and guidance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (device diagnosis is not human identification or categorization)
+- Not critical infrastructure AI (repair cafés are not critical infrastructure)
+- Not educational AI (repair guidance is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (community repair services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is consumer repair assistance software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,32 @@
+<START_TEXT>
+Hi team,
+
+Ik ben personal trainer en wil een app ontwikkelen voor mijn klanten.
+
+De app moet:
+- Workouts personaliseren op basis van fitnessniveau
+- Oefeningen aanpassen aan beschikbare apparatuur
+- Voortgang bijhouden en motiverende berichten sturen
+- Voedingsuggesties geven (geen medisch advies)
+- Trainingsvideo's aanbevelen
+
+Het gaat puur om fitness en algemene gezondheid, geen medische diagnoses of behandelingen. Gebruikers bepalen zelf welke oefeningen ze doen.
+
+Is het mogelijk om AI te gebruiken voor gepersonaliseerde trainingsschema's? Ik wil mijn klanten beter kunnen begeleiden op afstand.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for fitness and personal training applications, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (fitness tracking is not human identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (fitness apps are not critical infrastructure)
+- Not educational AI (fitness coaching is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (fitness services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is personal fitness and wellness application, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

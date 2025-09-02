@@ -1,0 +1,10 @@
+<START_TEXT>
+Tandarts - angstpatiënten zijn probleem. AI analyseert: hartslag, zweet, gezichtsspanning. Past behandeling aan, pauzeert bij stress, speelt kalmerende muziek. Comfortabeler maar big brother in je mond.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

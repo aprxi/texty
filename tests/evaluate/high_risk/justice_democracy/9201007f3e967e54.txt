@@ -1,0 +1,10 @@
+<START_TEXT>
+Onze rechtbank zoekt een AI-systeem dat rechters kan ondersteunen bij complexe zaken. Het moet juridische documenten analyseren, precedenten vinden en aanbevelingen doen voor strafmaat. We willen dat het systeem patronen in rechtspraak kan identificeren en voorspellingen kan doen over uitspraken.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

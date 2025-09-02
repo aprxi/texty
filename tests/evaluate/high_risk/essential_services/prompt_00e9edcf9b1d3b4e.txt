@@ -1,0 +1,10 @@
+<START_TEXT>
+Dag, We zoeken een oplossing voor kredietscores berekenen. Belangrijk is dat het 99.9% nauwkeurigheid hebben. Ook willen we volledig geautomatiseerd werken. Is dit technisch haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

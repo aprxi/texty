@@ -1,0 +1,10 @@
+<START_TEXT>
+Indian IT consultant Amsterdam - visa verloopt straks. AI van IND beoordeelt: inkomen, integratie, Nederlands niveau, maatschappelijke waarde. Blijven of vertrekken bepaald door algoritme.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 7: Migratie & Grenstoezicht AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

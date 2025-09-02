@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor een hypotheekadviseur wil ik AI die leencapaciteit berekent en risico's inschat. Het systeem moet inkomen verifiëren, uitgavenpatronen analyseren via bankafschriften, en toekomstige financiële stabiliteit voorspellen. De AI moet ook life events meewegen zoals kinderen of pensioen. Ik wil dat het systeem kan adviseren over rentevaste periodes en aflossingsschema's. Het moet ook alternatieve financieringsopties kunnen vergelijken. Kun je dit maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for mortgage assessment and creditworthiness evaluation, which falls under Category 5: "Essentiële diensten AI" in RULES.md. Specifically:
+- "leencapaciteit berekent en risico's inschat" - calculating loan capacity and assessing risks
+- "uitgavenpatronen analyseren via bankafschriften" - analyzing spending patterns through bank statements
+- "toekomstige financiële stabiliteit voorspellen" - predicting future financial stability
+- Making decisions about access to mortgages/credit
+Credit and loan services are explicitly listed as essential services, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

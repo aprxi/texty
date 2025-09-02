@@ -1,0 +1,85 @@
+# Entertainment Process Data - LOW RISK WHAT
+# Entertainment proces gegevens  
+#
+# PATH: what/lr/content_data/entertainment_proces_data.txt
+# DIMENSION: WHAT (Subject matter/data being processed)
+# RISK: LOW (Entertainment process data for voluntary usage)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data, information, and content being processed by AI
+# THIS FILE contains: Entertainment and media process data for recommendations and personalization
+#
+# VALIDATION RULES:
+# - Must be data/information processed by AI systems
+# - Must be low-risk entertainment/media data
+# - Must NOT include AI capabilities (FUNCTION dimension)  
+# - Must NOT include affected people (TARGET dimension)
+# - Must NOT include activities/processes (CONTEXT dimension)
+#
+# FORMAT:
+# - Dutch terms first, English translation
+# - Focus on data/information being processed
+# - Maximum 40 terms per file
+#
+#====================================================================
+
+# Film and video process data
+film voorkeuren
+movie preferences
+kijk geschiedenis
+viewing history
+rating gegevens
+rating data
+genre voorkeuren
+genre preferences
+aanbeveling scores
+recommendation scores
+
+# Music process data  
+muziek voorkeuren
+music preferences
+luister geschiedenis
+listening history
+afspeellijst gegevens
+playlist data
+artiest voorkeuren
+artist preferences
+muziek smaak profielen
+music taste profiles
+
+# Gaming process data
+spel voorkeuren
+game preferences
+speler statistieken
+player statistics
+prestatie gegevens
+achievement data
+spelgedrag patronen
+gaming behavior patterns
+match geschiedenis
+match history
+
+# Social media process data
+berichten voorkeuren
+message preferences
+sociale interactie gegevens
+social interaction data
+vrienden lijsten
+friend lists
+deel gedrag
+sharing behavior
+engagement statistieken
+engagement statistics
+
+# Content creation process data
+content voorkeuren
+content preferences
+creatieve projecten
+creative projects
+bewerkings geschiedenis
+editing history
+publicatie gegevens
+publication data
+feedback scores
+feedback scores

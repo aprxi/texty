@@ -1,0 +1,10 @@
+<START_TEXT>
+Kleinzoon van demente opa. Opa vergeet dat oma overleden is, vraagt steeds naar haar. AI deepfake van oma die met hem praat, kalmeert. Humaan of cruel?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

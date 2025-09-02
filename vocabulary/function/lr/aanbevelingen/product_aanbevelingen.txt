@@ -1,0 +1,69 @@
+# Product Recommendation Systems - LOW RISK FUNCTION
+# Productaanbevelingssystemen
+# 
+# PATH: function/lr/aanbevelingen/product_aanbevelingen.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (Commercial product suggestions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Product recommendation and commercial suggestion capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to product recommendation and commercial suggestions
+# - Must be low-risk commercial application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Product Recommendation Systems
+# Productaanbevelingssystemen
+# Sorted by commonality (most common first)
+
+productaanbevelingen
+product recommendations
+persoonlijke aanbevelingen
+personalized recommendations
+aankoopsuggesties
+purchase suggestions
+gerelateerde producten
+related products
+cross-selling aanbevelingen
+cross-selling recommendations
+upselling suggesties
+upselling suggestions
+klantvoorkeuren analyse
+customer preference analysis
+aanbevelingsalgoritme
+recommendation algorithm
+collaboratieve filtering
+collaborative filtering
+content-based aanbevelingen
+content-based recommendations
+hybride aanbevelingssysteem
+hybrid recommendation system
+real-time aanbevelingen
+real-time recommendations
+gepersonaliseerde suggesties
+personalized suggestions
+productmatch
+product matching
+interessegebaseerde aanbevelingen
+interest-based recommendations
+gedragsgebaseerde suggesties
+behavior-based suggestions
+voorspellende aanbevelingen
+predictive recommendations
+contextbewuste aanbevelingen
+context-aware recommendations
+sociale aanbevelingen
+social recommendations
+trending producten
+trending products

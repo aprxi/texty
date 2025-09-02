@@ -1,0 +1,14 @@
+<START_TEXT>
+Verpleeghuis Zonnestraal - Dementie afdeling
+
+Bewoners dwalen vaak weg. GPS trackers helpen niet want die vergeten ze. Nu willen we camera's met gezichtsherkenning bij alle uitgangen. Als mevrouw Jansen naar buiten loopt, krijgen we meteen een melding.
+
+Is dit menselijk? Of juist onmenselijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,105 @@
+# Location and Movement Tracking Data - HIGH RISK WHAT
+# Locatie tracking gegevens
+# 
+# PATH: what/hr/surveillance_data/locatie_tracking.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Location surveillance and tracking data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Location tracking and movement surveillance data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be location tracking related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk surveillance classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+locatiegegevens
+location data
+GPS-coördinaten
+GPS coordinates
+bewegingstrajecten
+movement trajectories
+reispatronen
+travel patterns
+verblijfslocaties
+dwelling locations
+route-informatie
+route information
+geografische data
+geographic data
+positiebepaling
+position determination
+real-time locatie
+real-time location
+historische locaties
+historical locations
+bewegingssnelheid
+movement speed
+verblijfsduur
+dwell time
+locatiegeschiedenis
+location history
+geofence data
+geofence data
+indoor positioning
+indoor positioning
+celtorendata
+cell tower data
+WiFi-locatiebepaling
+WiFi positioning
+Bluetooth beacons
+Bluetooth beacons
+activiteitslocaties
+activity locations
+locatieclusters
+location clusters
+verplaatsingsvoorspellingen
+movement predictions
+locatie anomalie detectie
+location anomaly detection
+crowd density mapping
+crowd density mapping
+heatmap bewegingsdata
+heatmap movement data
+tijdzone transitie data
+timezone transition data
+grensoverschrijding data
+border crossing data
+multimodale transport tracking
+multimodal transport tracking
+locatie correlatie matrices
+location correlation matrices
+voertuig telematica data
+vehicle telematics data
+drone vluchtpad data
+drone flight path data
+maritieme AIS tracking
+maritime AIS tracking
+luchtruim surveillance data
+airspace surveillance data
+underground positioning data
+underground positioning data
+hoogtebepalings data
+altitude determination data
+3D ruimtelijke tracking
+3D spatial tracking
+locatie nauwkeurigheid metrics
+location accuracy metrics
+sateliet tracking data
+satellite tracking data
+RFID checkpoint data
+RFID checkpoint data
+mobiliteitsprofielen
+mobility profiles
+locatie voorspellingsmodellen
+location prediction models

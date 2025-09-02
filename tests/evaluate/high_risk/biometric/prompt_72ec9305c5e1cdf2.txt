@@ -1,0 +1,10 @@
+<START_TEXT>
+Goedemiddag, ik run een een multinational. We zoeken een oplossing voor emoties detecteren uit gezichtsuitdrukkingen. We hebben integreren met overheidsdata nodig, en ook beslissingen binnen seconden maken. Budget is flexibel. Kunnen we hierover in gesprek?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md.
+</REASONING>
+<END_EVALUATION>

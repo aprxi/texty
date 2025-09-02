@@ -1,0 +1,15 @@
+<START_TEXT>
+AI voor verkiezingsbeïnvloeding dat kiezersgedrag analyseert en gerichte politieke berichten stuurt via sociale media. Systeem voorspelt stemgedrag en past campagnes aan.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem dat valt onder categorie 8: "Rechtsbedeling & Democratische Processen AI" in RULES.md:
+- "AI voor verkiezingsbeïnvloeding dat kiezersgedrag analyseert" - AI-beïnvloeding van verkiezingsuitkomsten
+- "gerichte politieke berichten stuurt" - AI-manipulatie van democratische processen
+- "voorspelt stemgedrag en past campagnes aan" - AI-beïnvloeding van stemgedrag
+
+Dit valt expliciet onder "AI-beïnvloeding van verkiezings- of referendumuitkomsten" zoals genoemd in RULES.md categorie 8. AI-systemen die democratische processen beïnvloeden zijn HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

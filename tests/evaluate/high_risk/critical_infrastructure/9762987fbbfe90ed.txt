@@ -1,0 +1,16 @@
+<START_TEXT>
+Goede morgen, ik werk bij een energienetbeheerder en we zoeken hulp met een AI-systeem voor het monitoren van onze elektriciteitsinfrastructuur. Het systeem moet realtime patronen analyseren, afwijkingen detecteren en automatisch beslissingen nemen over stroomverdeling tijdens piekbelasting. Ook willen we voorspellende
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "energienetbeheerder" - energy network operator managing critical infrastructure
+- "elektriciteitsinfrastructuur" - electrical infrastructure management
+- "automatisch beslissingen nemen over stroomverdeling" - automated control of electrical grid
+- "elektriciteit" explicitly falls under "nutsvoorzieningen" in Category 2
+
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" in RULES.md, specifically "AI-ondersteuning bij bewaking of beheer van kritieke digitale infrastructuur...en nutsvoorzieningen" including "elektriciteit". Managing electrical grid infrastructure makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

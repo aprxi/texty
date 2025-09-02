@@ -1,0 +1,110 @@
+# Community Users - LOW RISK TARGET
+# Gemeenschap gebruikers
+# 
+# PATH: target/lr/persoonlijke_kringen/gemeenschaps_gebruikers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary community participation)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Community users and social group members using AI
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be community or social group members
+# - Must NOT include what AI does to them
+# - Must NOT include where they participate
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+gemeenschap leden
+community members
+buurt bewoners
+neighborhood residents
+lokale inwoners
+local residents
+sociale groep leden
+social group members
+
+# Buurt activiteiten
+buurt activiteit deelnemers
+neighborhood activity participants
+gemeenschapscentrum gebruikers
+community center users
+buurtfeest organisatoren
+block party organizers
+buurt schoonmaak vrijwilligers
+neighborhood cleanup volunteers
+
+# Sociale netwerken
+sociale cirkel leden
+social circle members
+friend groep leden
+friend group members
+netwerk connecties
+network connections
+sociale contacten
+social contacts
+kennissen kring
+acquaintance circle
+
+# Interest groepen
+boek club leden
+book club members
+wandel groep leden
+walking group members
+kook club leden
+cooking club members
+tuin club leden
+gardening club members
+handwerk cirkel leden
+crafting circle members
+
+# Lokale ondersteuning
+peer support leden
+onderlinge hulp groep leden
+mutual aid group members
+buur hulp netwerk leden
+neighbor help network members
+lokale uitwisseling groep leden
+local exchange group members
+
+# Gemeenschapsinitiatieven
+grassroots leden
+gemeenschaps actie groep leden
+community action group members
+lokale advocaten
+local advocates
+bewustzijn campagne leden
+awareness campaign members
+verandering makers
+change makers
+
+# Vrijwillige groepen
+vrijwilliger coordinators
+volunteer coordinators
+event helpers
+cleanup crew leden
+cleanup crew members
+food drive organizers
+donatie organisatoren
+donation organizers
+
+# Culturele groepen
+culturele groep leden
+cultural group members
+traditie groep leden
+tradition group members
+taal groep leden
+language group members
+heritage groep leden
+heritage group members
+

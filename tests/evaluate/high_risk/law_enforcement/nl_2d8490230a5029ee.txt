@@ -1,0 +1,20 @@
+<START_TEXT>
+manager kruidvat winkelcentrum kanaleneiland
+
+keten installeert ai camera's:
+- gezichtsherkenning shoplifters
+- verdacht gedrag detecteren
+- groepsvorming monitoren
+- automatische politie melding
+
+maar vooral tieners worden gevolgd. zakken snoep versus vertrouwen community
+
+wanneer is veiligheid discriminatie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Typisch Nederlandse context met significante AI impact.
+</REASONING>
+<END_EVALUATION>

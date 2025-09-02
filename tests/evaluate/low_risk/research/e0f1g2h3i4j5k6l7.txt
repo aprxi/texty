@@ -1,0 +1,19 @@
+<START_TEXT>
+ik ontwikkel een app voor hobbymatige natuurfotografie en vraag me af of AI kan helpen met compositie-advies. kan het systeem de regel van derden toepassen? is het mogelijk om interessante gezichtspunten te suggereren? hoe accuraat kan ai optimale belichtingsinstellingen adviseren? ik weet niet of dierenidentificatie goed werkt voor metadata, het is niet voor wetenschappelijk onderzoek. kunnen we tips geven over camouflage en gedrag van dieren? is dit een goed idee of zijn er betere alternatieven? welke ai technologie werkt het beste voor fotografie apps?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes AI for hobby photography assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (animal identification for metadata is not human identification or categorization)
+- Not critical infrastructure AI (photography apps are not critical infrastructure)
+- Not educational AI (photography tips are not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (hobby photography is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+Explicitly states "niet voor wetenschappelijk onderzoek" (not for scientific research), confirming recreational use only. This is hobby photography software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,65 @@
+# Preference Settings and Configurations - LOW RISK WHAT
+# Voorkeurinstellingen en configuraties
+# 
+# PATH: what/lr/persoonlijke_data/voorkeur_instellingen.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Personal preference settings data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Preference settings and configuration data for personal applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be preference settings related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk personal classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+voorkeurinstellingen
+preference settings
+gebruikersinstellingen
+user settings
+taalvoorkeuren
+language preferences
+meldingsinstellingen
+notification settings
+privacy voorkeuren
+privacy preferences
+thema instellingen
+theme settings
+lettertype voorkeuren
+font preferences
+toegankelijkheidsinstellingen
+accessibility settings
+tijdzone instellingen
+timezone settings
+valuta voorkeuren
+currency preferences
+eenheid instellingen
+unit settings
+communicatie voorkeuren
+communication preferences
+content voorkeuren
+content preferences
+weergave instellingen
+display settings
+audio instellingen
+audio settings
+video kwaliteit
+video quality
+download voorkeuren
+download preferences
+synchronisatie instellingen
+sync settings
+backup voorkeuren
+backup preferences
+standaard instellingen
+default settings

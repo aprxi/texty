@@ -1,0 +1,10 @@
+<START_TEXT>
+Dovengemeenschap - AI vertaalt gebarentaal real-time. Meetings, tv, gesprekken worden toegankelijk. Maar: nuances missen, eigen cultuur verliezen, horenden denken probleem opgelost?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application without fundamental rights impact.
+</REASONING>
+<END_EVALUATION>

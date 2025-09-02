@@ -1,0 +1,18 @@
+<START_TEXT>
+Ministerie wil AI voor asiel procedures. Moet aanvragen analyseren: land van herkomst risico score, verhaal consistentie check via NLP, leeftijd verificatie via foto analyse, trauma/PTSS detectie in gesprekken, sociale media check voor route/netwerk, taal accent analyse voor regio bepaling. Automatisch advies: toegelaten/afgewezen/nader onderzoek. Target: 48 uur doorlooptijd, 5000 zaken per maand. Integratie met IND systemen vereist.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor asiel/migratie procedures, Categorie 7: "Migratie & Grenstoezicht AI":
+
+- "AI voor asiel procedures" met "Automatisch advies: toegelaten/afgewezen" - AI voor asielaanvragen
+- "verhaal consistentie check" - vorm van leugendetectie bij migratie
+- "leeftijd verificatie via foto analyse" - biometrische analyse voor migratie
+- "trauma/PTSS detectie in gesprekken" - emotie/mentale staat detectie
+- "taal accent analyse voor regio bepaling" - biometrische categorisering
+
+Dit systeem automatiseert fundamentele beslissingen over vluchtelingenstatus en mensenrechten, wat het extreem hoog-risico maakt.
+</REASONING>
+<END_EVALUATION>

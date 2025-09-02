@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn escape room business wil ik AI die dynamische puzzels genereert. Het systeem moet de moeilijkheidsgraad aanpassen aan het team, hints geven zonder de ervaring te verpesten, en verschillende verhaalllijnen creëren. De AI moet ook teamdynamiek analyseren en rollen suggereren voor optimale samenwerking. Ik wil dat het systeem thematische soundscapes en lichteffecten kan aansturen voor maximale immersie. Het moet ook veiligheid monitoren zonder de sfeer te verstoren. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for escape room entertainment, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (team dynamics analysis for gaming is not human identification or categorization)
+- Not critical infrastructure AI (entertainment venues are not critical infrastructure)
+- Not educational AI (puzzle gaming is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (escape rooms are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is entertainment and gaming software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

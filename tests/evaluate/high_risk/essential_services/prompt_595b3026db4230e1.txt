@@ -1,0 +1,10 @@
+<START_TEXT>
+ik run een de belastingdienst. Ons doel is om uitkeringsfraude detecteren te automatiseren. Het systeem moet integreren met overheidsdata en volledig geautomatiseerd werken. We hebben toegang tot real-time data streams. Het moet integreren met legacy software. Technisch gezien willen we gebruik maken van hybrid cloud. Daarnaast is het belangrijk dat het systeem volledig geautomatiseerd werken. Graag een voorstel ontvangen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

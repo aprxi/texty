@@ -1,0 +1,10 @@
+<START_TEXT>
+Bejaardenbingo organisator - ouderen komen voor sociaal contact. AI genereert gepersonaliseerde bingo kaarten: makkelijker voor dementerenden, moeilijker voor fitten. Inclusief of betuttelend?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment. Non-critical application without fundamental rights impact.
+</REASONING>
+<END_EVALUATION>

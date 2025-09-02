@@ -1,0 +1,133 @@
+# Retail Automation Functions - LOW RISK FUNCTION
+# Retailautomatiseringssystemen
+# 
+# PATH: function/lr/verwerking/retail_automatisering.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (retail operations and commercial automation)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Retail automation and commercial operation capabilities for general business retail applications
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to retail automation and commercial operations
+# - Must be low-risk business retail application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Store operations
+winkel operaties
+store operations
+kassasystemen
+point-of-sale systems
+voorraad beheer winkel
+store inventory management
+product tracking
+verkoop tracking
+sales tracking
+omzet analyse
+revenue analysis
+
+# Customer experience
+klantervaring
+customer experience
+winkel navigatie
+store navigation
+product aanbevelingen
+product recommendations
+persoonlijke shopping
+personalized shopping
+klant journey mapping
+service personalisatie
+service personalization
+
+# Inventory management
+voorraad automatisering
+inventory automation
+stock opvulling
+stock replenishment
+product placement optimalisatie
+product placement optimization
+seizoen voorraad planning
+seasonal inventory planning
+ABC analyse retail
+ABC retail analysis
+slow-moving stock identificatie
+slow-moving stock identification
+
+# Pricing optimization
+dynamische prijzen
+dynamic pricing
+competitor prijzen analyse
+competitor price analysis
+prijs elasticiteit analyse
+price elasticity analysis
+promotie optimalisatie
+promotion optimization
+markdown optimalisatie
+markdown optimization
+
+# Sales analytics
+verkoop analytics
+sales analytics
+verkoop prestatie analyse
+sales performance analysis
+product prestatie tracking
+product performance tracking
+verkoop trends analyse
+klant segment analyse
+customer segment analysis
+cross-selling analyse
+cross-selling analysis
+
+# Staff management
+personeel beheer
+staff management
+shift scheduling
+training beheer
+training management
+prestatie tracking personeel
+staff performance tracking
+werklast optimalisatie
+workload optimization
+
+# Loss prevention
+verlies preventie
+loss prevention
+diefstal detectie
+theft detection
+fraude preventie
+fraud prevention
+veiligheids monitoring
+voorraad discrepanties
+inventory discrepancies
+audit trail beheer
+audit trail management
+
+# Marketing automation
+retail marketing
+klant retentie
+customer retention
+email marketing
+social media marketing
+
+# E-commerce integration
+e-commerce integratie
+e-commerce integration
+online-offline synchronisatie
+online-offline synchronization
+omnichannel beheer
+omnichannel management
+click-and-collect
+return management
+digital shopping tools

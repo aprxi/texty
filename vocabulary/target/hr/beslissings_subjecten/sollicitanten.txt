@@ -1,0 +1,105 @@
+# Job Applicants and Candidates - HIGH RISK TARGET
+# Sollicitanten en kandidaten
+# 
+# PATH: target/hr/beslissings_subjecten/sollicitanten.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to recruitment AI decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Job applicants and candidates subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be applying for jobs or positions
+# - Must NOT include what AI does to them
+# - Must NOT include where they apply
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+sollicitanten
+job applicants
+kandidaten
+candidates
+werkzoekenden
+job seekers
+baanzoekenden
+job hunters
+
+# Status groepen
+werklozen
+unemployed
+herintreders
+re-entrants
+carrière switchers
+career switchers
+afgestudeerden
+graduates
+
+# Leeftijds groepen
+jonge sollicitanten
+young applicants
+senior sollicitanten
+senior applicants
+middelbare leeftijd werkzoekenden
+middle-aged job seekers
+starters arbeidsmarkt
+labor market starters
+
+# Achtergrond groepen
+migranten sollicitanten
+migrant applicants
+allochtone werkzoekenden
+ethnic minority job seekers
+vluchtelingen werkzoekenden
+refugee job seekers
+nieuwkomers arbeidsmarkt
+labor market newcomers
+
+# Onderwijs niveau
+hoogopgeleide sollicitanten
+highly educated applicants
+laagopgeleide werkzoekenden
+low-educated job seekers
+middelbaar opgeleide kandidaten
+medium-educated candidates
+ongeschoolde werkzoekenden
+unskilled job seekers
+
+# Bijzondere situaties
+gehandicapte sollicitanten
+disabled applicants
+chronisch zieke werkzoekenden
+chronically ill job seekers
+ex-gedetineerden
+ex-prisoners
+statushouders
+status holders
+
+# Arbeidsmarktsituatie
+langdurig werklozen
+long-term unemployed
+WW uitkering ontvangers
+unemployment benefit recipients
+bijstands ontvangers
+welfare recipients
+arbeidsongeschikten
+disabled workers
+
+# Specifieke sectoren
+overstappers tussen sectoren
+sector switchers
+functie wisselaars
+role changers
+promotie sollicitanten
+promotion applicants
+interne kandidaten
+internal candidates

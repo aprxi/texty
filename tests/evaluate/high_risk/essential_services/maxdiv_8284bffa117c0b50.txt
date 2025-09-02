@@ -1,0 +1,10 @@
+<START_TEXT>
+Gaslek Groningen - huizen verzakken, mensen boos. AI bepaalt: schade vergoeding, versterkingsurgentie, psychische hulp nodig? NAM vertrouwen we niet, maar algoritme?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

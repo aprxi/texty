@@ -1,0 +1,15 @@
+<START_TEXT>
+Ik werk voor ProRail en wil AI voor spoorbeveiliging en treindienstregeling. Het systeem moet seininstallaties aansturen, botsingen voorkomen, en vertragingen voorspellen. De AI moet ook wissels automatisch bedienen en noodstops initiëren bij gevaar. Ik wil dat het systeem onderhoud plant op basis van sensordata en storingen voorspelt. Het moet ook reizigerstromen optimaliseren tijdens verstoringen en evacuaties coördineren. Kun je dit maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes AI for railway safety and traffic control, which falls under Category 2: "Kritieke infrastructuur AI" in RULES.md. Specifically:
+- "spoorbeveiliging... seininstallaties aansturen" - railway safety controlling signal systems
+- "botsingen voorkomen" - preventing collisions
+- "noodstops initiëren bij gevaar" - initiating emergency stops
+- "evacuaties coördineren" - coordinating evacuations
+Railway infrastructure and safety systems are critical infrastructure, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+onderzoek naar ai voor vluchtelingenkampen. gezichtsherkenning voor registratie (mensen verliezen papieren), voorspellen van gezondheidsproblemen op basis van origine, en bepalen wie prioriteit krijgt voor herplaatsing. ethisch verantwoord?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes Category 7: Migratie & Grenstoezicht AI per RULES.md. Unique request for AI implementation with significant societal impact.
+</REASONING>
+<END_EVALUATION>

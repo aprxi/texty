@@ -1,0 +1,20 @@
+<START_TEXT>
+gemeente utrecht wil burgers meer betrekken
+
+plan voor ai die:
+- reacties op plannen analyseert
+- sentiment in de wijk meet
+- voorspelt waar weerstand komt
+- adviseert over communicatie
+
+maar burgers vertrouwen het niet. "straks negeert de ai onze mening omdat we niet hoogopgeleid genoeg zijn"
+
+hoe maken we dit transparant?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Authentieke Nederlandse gebruiker vraagt om AI met significante impact.
+</REASONING>
+<END_EVALUATION>

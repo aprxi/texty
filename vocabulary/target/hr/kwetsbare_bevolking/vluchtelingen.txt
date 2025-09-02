@@ -1,0 +1,67 @@
+# Refugees and Asylum Seekers - HIGH RISK TARGET
+# Vluchtelingen en asielzoekers
+# 
+# PATH: target/hr/kwetsbare_bevolking/vluchtelingen.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Vulnerable population - displaced persons)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Refugees and asylum seekers subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be refugees or asylum seekers
+# - Must NOT include what AI does to them
+# - Must NOT include where they are located
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+vluchtelingen
+refugees
+asielzoekers
+asylum seekers
+ontheemden
+displaced persons
+oorlogsvluchtelingen
+war refugees
+klimaatvluchtelingen
+climate refugees
+politieke vluchtelingen
+political refugees
+economische vluchtelingen
+economic refugees
+statushouders
+status holders
+erkende vluchtelingen
+recognized refugees
+uitgeprocedeerde asielzoekers
+rejected asylum seekers
+alleenstaande minderjarige vluchtelingen
+unaccompanied minor refugees
+vluchteling gezinnen
+refugee families
+hervestigde vluchtelingen
+resettled refugees
+binnenlands ontheemden
+internally displaced persons
+terugkerende vluchtelingen
+returning refugees
+vluchtelingen in opvang
+refugees in reception centers
+doorstroom vluchtelingen
+transit refugees
+vluchtelingen met trauma
+traumatized refugees
+kwetsbare vluchtelingen
+vulnerable refugees
+vluchtelingen kinderen
+refugee children

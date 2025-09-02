@@ -1,0 +1,14 @@
+<START_TEXT>
+Kunnen jullie helpen met een AI voor ons callcenter van de zorgverzekeraar? Het moet kunnen bepalen welke zorgaanvragen direct goedgekeurd kunnen worden en welke extra beoordeling nodig hebben. Op basis van diagnose, behandelplan en historie moet het systeem de vergoeding berekenen. Ook willen we fraudedetectie inbouwen door afwijkende declaratiepatronen te herkennen. Het moet werken volgens de laatste zorgverzekeringswet.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor zorgverzekeringen, wat valt onder Categorie 5: "Essentiële Diensten AI" volgens RULES.md. Specifiek:
+- "bepalen welke zorgaanvragen direct goedgekeurd kunnen worden" - AI voor beoordeling van rechten op zorg
+- "systeem de vergoeding berekenen" - AI voor sociale zekerheid/zorgbeslissingen
+- "fraudedetectie inbouwen" - AI risico-inschatting voor verzekeringen
+Dit is een hoog-risico AI-systeem volgens EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

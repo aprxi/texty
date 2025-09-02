@@ -1,0 +1,102 @@
+# Guests and Visitors - LOW RISK TARGET
+# Gasten en bezoekers
+# 
+# PATH: target/lr/professionele_gebruikers/gasten.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Hospitality and leisure visitors)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Guests and visitors using AI in hospitality settings
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be guests or visitors in leisure context
+# - Must NOT include what AI does to them
+# - Must NOT include where they visit
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+gasten
+guests
+bezoekers
+visitors
+toeristen
+tourists
+reizigers
+travelers
+vakantiegangers
+vacationers
+
+# Hotel gasten
+hotelgasten
+hotel guests
+overnachtingsgasten
+overnight guests
+zakelijke reizigers
+business travelers
+vakantie gasten
+holiday guests
+weekend gasten
+weekend guests
+
+# Restaurant bezoekers
+restaurant bezoekers
+restaurant visitors
+diners
+terras gasten
+terrace guests
+lunch gasten
+lunch guests
+diner gasten
+dinner guests
+
+# Attractie bezoekers
+pretpark bezoekers
+theme park visitors
+dierentuin bezoekers
+zoo visitors
+attractie gasten
+attraction guests
+
+# Evenement deelnemers
+conferentie gasten
+conference guests
+festival bezoekers
+festival goers
+
+# Reis types
+dagjes mensen
+day trippers
+groepsreizigers
+group travelers
+individuele reizigers
+individual travelers
+familie vakantiegangers
+family vacationers
+
+# Accommodatie gasten
+camping gasten
+camping guests
+vakantiepark bezoekers
+holiday park visitors
+bed & breakfast gasten
+bed & breakfast guests
+hostel gasten
+hostel guests
+
+# Internationale gasten
+buitenlandse toeristen
+foreign tourists
+internationale bezoekers
+international visitors
+binnenlandse toeristen
+domestic tourists

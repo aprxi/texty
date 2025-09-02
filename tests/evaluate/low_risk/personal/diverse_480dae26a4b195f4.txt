@@ -1,0 +1,10 @@
+<START_TEXT>
+Surinaams-Hindoestaanse gemeenschap Amsterdam - AI voor partner matching. Niet zomaar daten maar: kaste, sterrenbeeld, familie achtergrond, religieuze compatibiliteit. Traditie meets technologie. Ouders blij, jongeren twijfelen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

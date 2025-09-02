@@ -1,0 +1,10 @@
+<START_TEXT>
+is het mogelijk om een systeem te bouwen voor een overheidsinstantie dat recidive kan voorspellen? we willen criminele geschiedenis, sociale omstandigheden en psychologische profielen analyseren. kan ai helpen met risico-inschatting voor vrijlating? en hoe betrouwbaar zijn zulke voorspellingen? ik maak me zorgen over vooroordelen in de data. hoe zorgen we dat het systeem eerlijk adviseert over toezichtniveau? welke algoritmes werken het beste voor dit soort gevoelige beslissingen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

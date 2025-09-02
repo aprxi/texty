@@ -1,0 +1,176 @@
+# Voice Recognition Data - HIGH RISK WHAT
+# Stemherkenning gegevens
+# 
+# PATH: what/hr/surveillance_data/stem_herkenning.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Voice biometric identification data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Voice data for biometric identification and authentication
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be voice recognition related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk biometric identification classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis stem data
+stemgegevens
+voice data
+spraakgegevens
+speech data
+vocale data
+vocal data
+stemopnames
+voice recordings
+
+# Biometrische sjablonen
+voiceprint
+voiceprint
+stemprint
+voice print
+biometrische stem sjabloon
+biometric voice template
+vocale sjabloon
+vocal template
+
+# Audio bestanden
+audio bestanden
+audio files
+geluid bestanden
+sound files
+spraak bestanden
+speech files
+stem bestanden
+voice files
+
+# Gesprek data
+gesprek opnames
+conversation recordings
+dialoog opnames
+dialogue recordings
+interview opnames
+interview recordings
+telefoongesprekken
+phone conversations
+
+# Stem kenmerken data
+stempatronen
+voice patterns
+spraakpatronen
+speech patterns
+vocale patronen
+vocal patterns
+stemkenmerken
+voice characteristics
+
+# Frequentie data
+audio frequenties
+audio frequencies
+stem frequenties
+voice frequencies
+spraak spectrum
+speech spectrum
+vocale frequenties
+vocal frequencies
+
+# Toon en pitch data
+stem pitch
+voice pitch
+toonhoogte
+pitch level
+intonatie data
+intonation data
+stemtoon
+voice tone
+
+# Accent en dialect data
+accent gegevens
+accent data
+dialect data
+dialect data
+regionale spraak
+regional speech
+taalvariatie data
+language variation data
+
+# Emotionele data
+emotionele spraak
+emotional speech
+stemming data
+mood data
+sentiment spraak
+speech sentiment
+vocale emoties
+vocal emotions
+
+# Kwaliteits data
+stemkwaliteit
+voice quality
+spraakkwaliteit
+speech quality
+audio kwaliteit
+audio quality
+opname kwaliteit
+recording quality
+
+# Achtergrondgeluid
+ruis data
+noise data
+achtergrondgeluid
+background sound
+omgevingsgeluid
+ambient sound
+audio storing
+audio interference
+
+# Meerdere sprekers data
+multi-speaker data
+multi-speaker data
+groepsgesprek data
+group conversation data
+sprekers database
+speakers database
+stem profiles
+voice profiles
+
+# Taal data
+taal gegevens
+language data
+meertalige spraak
+multilingual speech
+taal identificatie data
+language identification data
+linguïstische gegevens
+linguistic data
+
+# Metadata
+stem metadata
+voice metadata
+opname datum
+recording date
+sprekers-ID
+speaker ID
+sessie informatie
+session information
+tijdstempel
+timestamp
+
+# Synthetische data
+nep-stem data
+fake voice data
+artificiële spraak
+artificial speech
+gesynthetiseerde spraak
+synthesized speech
+stem-imitatie data
+voice imitation data

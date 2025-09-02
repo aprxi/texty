@@ -1,0 +1,10 @@
+<START_TEXT>
+Fitnessketen wil membres beter kennen. Plan: gezichtscan bij binnenkomst registreert niet alleen aanwezigheid maar ook energieniveau. Te moe? Dan krijg je lichtere workout voorgesteld. Gestrest? Eerst yoga. AI als personal trainer zeg maar.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

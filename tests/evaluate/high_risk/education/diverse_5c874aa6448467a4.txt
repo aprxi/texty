@@ -1,0 +1,10 @@
+<START_TEXT>
+Basisschool - gepersonaliseerd leren met AI. Elk kind eigen tempo, niveau, leerstijl. Hoogbegaafden uitdaging, zwakke leerlingen extra hulp. Maatwerk of algoritme opvoeding?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,120 @@
+# Electoral Data - HIGH RISK WHAT
+# Verkiezingsgegevens
+# 
+# PATH: what/hr/surveillance_data/verkiezings_gegevens.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Electoral and voting surveillance data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Electoral and voting data for democratic process monitoring
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be electoral/voting related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk democratic process classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis verkiezings data
+verkiezingsgegevens
+electoral data
+stem data
+voting data
+kiezers registratie
+voter registration
+verkiezingsuitslagen
+election results
+stembureau data
+polling station data
+
+# Kiezers informatie
+kiezerslijsten
+voter lists
+stemgerechtigden
+eligible voters
+kiezer registraties
+voter registrations
+identificatie gegevens
+identification data
+adres gegevens
+address data
+
+# Stem gedrag
+stem patronen
+voting patterns
+voorkeur data
+preference data
+partij keuze
+party choice
+kandidaat voorkeuren
+candidate preferences
+stem geschiedenis
+voting history
+
+# Campagne data
+campagne financiering
+campaign financing
+donatie gegevens
+donation data
+uitgaven tracking
+spending tracking
+advertentie data
+advertising data
+campagne materialen
+campaign materials
+
+# Verkiezings proces data
+stem tellingen
+vote counts
+uitslag data
+result data
+opkomst cijfers
+turnout figures
+verkiezings planning
+election planning
+stembureau toewijzingen
+polling station assignments
+
+# Politieke partij data
+partij programma's
+party programs
+kandidaat lijsten
+candidate lists
+coalitie gegevens
+coalition data
+politieke standpunten
+political positions
+verkiezings beloftes
+election promises
+
+# Demografie en trends
+demografische data
+demographic data
+kiezers segmentatie
+voter segmentation
+stemgedrag analyses
+voting behavior analysis
+politieke voorkeuren
+political preferences
+opinie peilingen
+opinion polls
+
+# Verkiezings veiligheid
+stem verificatie
+vote verification
+verkiezings integriteit
+election integrity
+fraud detectie data
+fraud detection data
+security audit logs
+security audit logs
+verkiezings monitoring
+election monitoring

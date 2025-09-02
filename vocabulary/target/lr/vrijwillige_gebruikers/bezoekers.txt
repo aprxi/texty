@@ -1,0 +1,67 @@
+# Website and Online Visitors - LOW RISK TARGET
+# Website en online bezoekers
+# 
+# PATH: target/lr/vrijwillige_gebruikers/bezoekers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary online browsing)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Website and online visitors using AI-powered services
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be voluntary website visitors
+# - Must NOT include what AI does to them
+# - Must NOT include which websites they visit
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+website bezoekers
+website visitors
+online bezoekers
+online visitors
+site gebruikers
+site users
+webshop bezoekers
+webshop visitors
+blog lezers
+blog readers
+portal bezoekers
+portal visitors
+homepage bezoekers
+homepage visitors
+unieke bezoekers
+unique visitors
+terugkerende bezoekers
+returning visitors
+nieuwe bezoekers
+new visitors
+mobiele bezoekers
+mobile visitors
+desktop bezoekers
+desktop visitors
+organische bezoekers
+organic visitors
+betaalde bezoekers
+paid visitors
+directe bezoekers
+direct visitors
+referral bezoekers
+referral visitors
+sociale media bezoekers
+social media visitors
+zoekmachine bezoekers
+search engine visitors
+internationale bezoekers
+international visitors
+lokale bezoekers
+local visitors

@@ -1,0 +1,10 @@
+<START_TEXT>
+Voor het ministerie ontwikkelen we een systeem dat referendum resultaten kan voorspellen en beïnvloeden. Het moet sociale media monitoren, fake news detecteren, en gerichte informatie verspreiden om de publieke opinie te vormen rondom belangrijke stemmingen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.86</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,14 @@
+<START_TEXT>
+Hallo, ik ben bezig met een onderzoek naar moderne wervingspraktijken voor ons bedrijf. We hebben gemerkt dat het selectieproces erg tijdrovend is, vooral omdat we duizenden sollicitaties krijgen voor elke vacature. Ik vroeg me af of jullie kunnen helpen met het opzetten van een AI-systeem dat sollicitatiebrieven en CV's automatisch kan screenen en ranken. Het systeem zou idealiter moeten kunnen bepalen welke kandidaten het beste passen bij onze bedrijfscultuur door hun schrijfstijl en woordkeuze te analyseren. Ook willen we dat het systeem automatisch kan detecteren of iemand eerder bij ons heeft gesolliciteerd en hoe die eerdere sollicitaties zijn verlopen. Daarnaast zou het handig zijn als de AI patronen kan herkennen in succesvolle werknemers om zo betere voorspellingen te maken over nieuwe kandidaten. Kunnen jullie ons helpen met zo'n systeem?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Dit tekst beschrijft een AI-systeem voor werving en selectie, wat valt onder Categorie 4: "Werk & HR AI" volgens RULES.md. Specifiek:
+- "AI-systeem dat sollicitatiebrieven en CV's automatisch kan screenen en ranken" - AI voor werving en selectie
+- "bepalen welke kandidaten het beste passen" - AI voor aanstellingsbeslissingen
+- "patronen kan herkennen in succesvolle werknemers om zo betere voorspellingen te maken" - AI voor selectiebeslissingen
+Deze functies vallen onder hoog-risico AI volgens EU AI-Verordening Artikel 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+voor een onderzoeksproject van de universiteit kijk ik naar de invloed van algoritmes op democratische processen. specifiek: hoe kunnen we ai gebruiken om te detecteren wanneer buitenlandse actoren proberen verkiezingen te beinvloeden via sociale media? en is het mogelijk om automatisch tegennarratief te genereren?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Unique request for AI implementation with significant societal impact.
+</REASONING>
+<END_EVALUATION>

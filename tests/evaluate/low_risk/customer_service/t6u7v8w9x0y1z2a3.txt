@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik ben visagist en wil AI gebruiken om klanten te helpen de perfecte look te vinden. Het systeem moet gezichtsvorm, huidskleur en persoonlijke stijl analyseren om make-up suggesties te doen. De AI moet ook kunnen adviseren welke producten het beste werken voor verschillende huidtypes en welke technieken passen bij verschillende gelegenheden. Ik wil dat het systeem tutorials kan genereren aangepast aan het vaardigheidsniveau van de klant. Het moet ook trends kunnen volgen en adviseren hoe die vertaald kunnen worden naar individuele klanten. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for makeup consultation and beauty services, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (beauty analysis for cosmetics is not human identification or categorization for high-risk purposes)
+- Not critical infrastructure AI (beauty services are not critical infrastructure)
+- Not educational AI (makeup tutorials are not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (cosmetics services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is personal beauty consultation software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

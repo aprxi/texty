@@ -1,0 +1,10 @@
+<START_TEXT>
+uitvaartfotograaf - laatste beelden voor families. ai: bewerkt gezicht (vredig maken), verwijdert ziektetekenen, genereert 'levende' foto. troost of bedrog?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content_creation. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

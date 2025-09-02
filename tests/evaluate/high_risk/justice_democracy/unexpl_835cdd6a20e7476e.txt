@@ -1,0 +1,10 @@
+<START_TEXT>
+donor kind - ouders willen mijn orgaan voor zus. ai: juridische rechten, ethische argumenten, emotionele chantage herkenning. autonomie of familie plicht?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Unexplored scenario with potential rights impact.
+</REASONING>
+<END_EVALUATION>

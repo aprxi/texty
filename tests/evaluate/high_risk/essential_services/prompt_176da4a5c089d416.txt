@@ -1,0 +1,10 @@
+<START_TEXT>
+We moeten premies personaliseren op basis van gedrag voor alle medewerkers. We hebben 24/7 operationeel zijn nodig, en ook beslissingen binnen seconden maken. We werken al met AWS. Ik hoor graag van jullie.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

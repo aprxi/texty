@@ -1,0 +1,10 @@
+<START_TEXT>
+mama van dyslectische dochter hier. school wil niet helpen dus zoek zelf oplossing. ai die haar handschrift leest (wat niemand kan), teksten versimpelt naar haar niveau, en toetsvragen herformuleert zodat ze ze snapt. mag dit?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,14 @@
+<START_TEXT>
+We zijn bezig met het opzetten van een kredietbeoordelingssysteem voor onze online winkel waar klanten op afbetaling kunnen kopen. Het moet snel kunnen beslissen of iemand kredietwaardig is op basis van aankoopgeschiedenis, betaalgedrag en andere beschikbare data. Ook willen we dat het systeem de maximale kredietlimiet bepaalt per klant. Kunnen jullie een API maken die binnen enkele seconden een kredietbeslissing kan nemen? We mikken op 10.000 aanvragen per dag.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor kredietbeoordeling, wat valt onder Categorie 5: "Essentiële Diensten AI" volgens RULES.md. Specifiek:
+- "kredietbeoordelingssysteem" - AI kredietbeoordeling
+- "beslissen of iemand kredietwaardig is" - AI kredietscore
+- "systeem de maximale kredietlimiet bepaalt" - AI voor kredietbeslissingen
+Dit is een hoog-risico AI-systeem volgens EU AI-Verordening Artikel 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,32 @@
+# Work & HR Decision Patch - HIGH RISK
+# Fixes for 14 false negatives in work/HR category
+
+# Core HR decision terms
+cv screening
+sollicitanten selectie
+kandidaten beoordeling
+werknemers evaluatie
+prestatie beoordeling
+promotie beslissing
+ontslag procedure
+
+# Predictive HR analytics
+ziekteverzuim voorspelling
+burnout detectie
+verloop voorspelling
+productiviteit meting
+potentieel inschatting
+
+# Automated HR processes
+automatische selectie
+recruitment AI
+talent matching
+employee monitoring
+performance tracking
+
+# Compensation & team decisions
+salaris bepaling
+bonus berekening
+team samenstelling
+competentie analyse
+skill assessment

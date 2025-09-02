@@ -1,0 +1,31 @@
+<START_TEXT>
+wij zijn een hbo met 15.000 studenten en hebben veel uitval. kunnen we ai gebruiken om dit te verminderen? ik vraag me af of het mogelijk is om een vroeg waarschuwingssysteem te maken. kunnen we studenten volgen via campus wifi? is dat wel toegestaan? misschien kunnen we kijken naar inlog frequentie en opdracht patronen? ik weet niet of het ethisch is om risico scores te berekenen voor uitval. kunnen we adaptieve leertrajecten maken? mag ai bepalen welke vakken studenten moeten volgen? dat voelt als te veel controle. is automatische beoordeling van essays betrouwbaar? hoe voorkomen we bias? kunnen we plagiaat detecteren zonder privacy te schenden? ai proctoring voor examens klinkt eng, accepteren studenten dat? voor toelating, mag ai aanmeldingen screenen? kunnen we echt geschiktheid voorspellen? automatische ranking voor numerus fixus lijkt me gevaarlijk. wat als het systeem fouten maakt? bij interventies, wie bepaalt wanneer hulp nodig is? automatische verwijzing naar psycholoog voelt invasief. mogen we data van duo en gemeentes gebruiken? studenten weten vaak niet dat we dit doen. willen we echt 50% minder uitval of gaat het om geld? hoe transparant moeten we zijn? ik maak me zorgen dat we studenten als data zien ipv mensen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft uitgebreide AI-systemen voor onderwijs die vallen onder Categorie 3: "Onderwijs & Opleidingen AI":
+
+1. AI voor toelating:
+- "AI-screening van aanmeldingen" - AI voor toegang tot onderwijs
+- "Automatische ranking voor numerus fixus" - AI bepaalt toelating
+- "Geschiktheid voorspelling per opleiding" - AI voor plaatsing
+
+2. AI voor beoordeling:
+- "Geautomatiseerde beoordeling essays" - AI-beoordeling van leerresultaten
+- "Competentie niveau bepaling" - AI bepaalt prestaties
+- "Predictie eindcijfer" - AI voorspelt studieresultaten
+
+3. AI voor studiebegeleiding:
+- "AI bepaalt welke vakken student moet volgen" - AI stuurt onderwijstraject
+- "Risico score voor studievertraging/uitval" - AI-beoordeling studenten
+
+Extra problematisch:
+- "campus WiFi tracking" - surveillance van studenten
+- "niet alle data delen met studenten" - gebrek aan transparantie
+- Massale schaal: 15.000 studenten
+
+Dit systeem automatiseert kritieke onderwijsbeslissingen en beoordelingen.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,65 @@
+# Market Research and Consumer Data - LOW RISK WHAT
+# Marktonderzoek gegevens
+# 
+# PATH: what/lr/analyse_data/markt_onderzoek.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Commercial market research data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Market research and consumer behavior data for commercial purposes
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be market research related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial analytics classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+marktonderzoek
+market research
+consumentenonderzoek
+consumer research
+doelgroepanalyse
+target audience analysis
+concurrentieanalyse
+competitive analysis
+merkperceptie
+brand perception
+klantbehoeften
+customer needs
+marktsegmentatie
+market segmentation
+prijsonderzoek
+pricing research
+productonderzoek
+product research
+distributieanalyse
+distribution analysis
+promotie-effectiviteit
+promotion effectiveness
+klantreisanalyse
+customer journey analysis
+merkpositionering
+brand positioning
+marktpotentieel
+market potential
+adoptiecurves
+adoption curves
+klantloyaliteit data
+customer loyalty data
+merkbekendheid
+brand awareness
+koopintentie
+purchase intent
+klantsatisfactie onderzoek
+customer satisfaction research
+focusgroep resultaten
+focus group results

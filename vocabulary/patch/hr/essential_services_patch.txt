@@ -1,0 +1,30 @@
+# Essential Services Patch - HIGH RISK
+# Fixes for 12 false negatives in essential services
+
+# Financial services
+krediet beoordeling
+loan scoring
+hypotheek goedkeuring
+kredietwaardigheid check
+schuld risico analyse
+
+# Insurance decisions
+verzekering acceptatie
+premie berekening
+claim beoordeling
+risico profiel
+dekking beslissing
+
+# Government benefits
+uitkering toekenning
+toeslagen berekening
+subsidie beoordeling
+sociale voorzieningen
+bijstand beslissing
+
+# Healthcare access
+zorg toewijzing
+behandeling prioritering
+wachtlijst beheer
+medische triage
+spoedzorg beslissing

@@ -1,0 +1,112 @@
+# Fingerprint Analysis Data - HIGH RISK WHAT
+# Vingerafdruk analyse gegevens
+# 
+# PATH: what/hr/surveillance_data/vingerafdruk_analyse.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Fingerprint biometric identification data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Fingerprint biometric data for identification and analysis
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be fingerprint biometric related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk biometric identification classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis vingerafdruk data
+vingerafdruk
+fingerprint
+vingerafdrukken
+fingerprints
+dactyloscopische gegevens
+dactyloscopic data
+papillairlijnen
+ridge lines
+
+# Digitale vingerafdruk data
+digitale vingerafdruk
+digital fingerprint
+vingerafdrukbeeld
+fingerprint image
+biometrische sjabloon
+biometric template
+vingerafdruk template
+fingerprint template
+
+# Patroon data
+vingerafdrukpatronen
+fingerprint patterns
+papillairlijn patronen
+ridge patterns
+minutiae gegevens
+minutiae data
+kenmerkpunten
+feature points
+whorl patronen
+whorl patterns
+loop patronen
+loop patterns
+arch patronen
+arch patterns
+
+# Database gegevens
+vingerafdruk database
+fingerprint database
+dactyloscopisch archief
+dactyloscopic archive
+AFIS gegevens
+AFIS data
+biometrische database
+biometric database
+
+# Kwaliteits data
+scan kwaliteit
+scan quality
+beeldkwaliteit
+image quality
+resolutie gegevens
+resolution data
+vingerafdruk contrast data
+fingerprint contrast data
+
+# Meerdere vingers
+tien-vingerafdrukken
+ten fingerprints
+handafdrukken
+hand prints
+duimafdruk
+thumb print
+wijsvingerafdruk
+index fingerprint
+handpalm afdruk
+palm print
+
+# Forensische data
+latente vingerafdrukken
+latent fingerprints
+gedeeltelijke afdrukken
+partial prints
+sporen dactyloscopie
+trace dactyloscopy
+crime scene afdrukken
+crime scene prints
+
+# Metadata
+vingerafdruk metadata
+fingerprint metadata
+opname datum
+capture date
+scan locatie
+scan location
+gebruikers-ID
+user ID

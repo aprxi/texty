@@ -1,0 +1,140 @@
+# Personnel Decision Data - HIGH RISK WHAT
+# Personeels beslissingsgegevens
+# 
+# PATH: what/hr/beslissings_data/personeels_beslissingen.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Employment decision-making data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Personnel data used in HR and employment decisions
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be personnel/HR decision related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk employment decision classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Werknemer beoordeling data
+werknemers beoordelingen
+employee evaluations
+functie geschiktheid scores
+job suitability scores
+personeels selectie criteria
+personnel selection criteria
+sollicitant rankings
+applicant rankings
+assessments resultaten
+assessment results
+referentie verificaties
+reference verifications
+achtergrond controle data
+background check data
+werktevredenheid scores
+job satisfaction scores
+functioneringsgesprekken
+kritieke prestatie evaluaties
+jaarbeoordeling
+tussentijdse evaluatie
+potentieel beoordeling
+talentmanagement data
+werknemer scores
+HR analytics
+personeelsdata
+medewerker dossiers
+screening resultaten
+arbeidsverleden
+diploma verificatie
+
+# Persoonlijke profiel data
+gedrags profielen
+behavior profiles
+persoonlijkheids assessments
+personality assessments
+psychometrische data
+psychometric data
+competentie evaluaties
+competency evaluations
+vaardigheids tests
+skill tests
+prestatie indicatoren
+performance indicators
+werkervaring data
+work experience data
+opleiding gegevens
+education data
+MBTI resultaten
+DISC profiel
+Big Five scores
+intelligentie tests
+cognitieve vaardigheden
+soft skills beoordeling
+hard skills evaluatie
+technische competenties
+taalvaardigheid scores
+certificeringen
+vakbekwaamheid
+ervaring niveau
+senioriteit data
+
+# HR selectie data
+cv screening resultaten
+CV screening results
+interview scores
+interview scores
+vaardigheids tests data
+skills test data
+culturele fit assessments
+cultural fit assessments
+team compatibiliteit
+team compatibility
+leiderschaps potentieel
+leadership potential
+trainingsbehoeften
+training needs
+carriere ambities
+career ambitions
+
+# Prestatie monitoring data
+werknemers productiviteit
+employee productivity
+project bijdragen
+project contributions
+deadline naleving
+deadline compliance
+kwaliteit van werk
+quality of work
+klant feedback
+customer feedback
+peer evaluaties
+peer evaluations
+360-graden feedback
+360-degree feedback
+doelbereik data
+goal achievement data
+
+# Promotie en compensatie data
+salaris benchmarking
+salary benchmarking
+markt waarde data
+market value data
+promotie gereedheid
+promotion readiness
+compensatie gegevens
+compensation data
+bonus criteria
+bonus criteria
+incentive data
+incentive data
+equity participatie
+equity participation
+benefit selecties
+benefit selections

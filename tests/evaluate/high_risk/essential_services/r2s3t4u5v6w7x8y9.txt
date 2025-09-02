@@ -1,0 +1,15 @@
+<START_TEXT>
+Ik ontwikkel AI voor ambulancediensten om response-tijden te optimaliseren. Het systeem moet urgentieniveaus inschatten uit meldingen, optimale routes berekenen, en beschikbare units toewijzen. De AI moet ook kunnen voorspellen waar ongevallen waarschijnlijk gebeuren en preventief ambulances positioneren. Ik wil dat het systeem triage-adviezen geeft aan centralisten en ziekenhuiscapaciteit monitort. Het moet ook kunnen beslissen over helikopterinzet. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes AI for emergency medical services dispatch, which falls under Category 5: "Essentiële diensten AI" in RULES.md. Specifically:
+- "ambulancediensten... urgentieniveaus inschatten" - emergency services assessing urgency levels
+- "triage-adviezen geeft" - providing triage advice
+- "beslissen over helikopterinzet" - deciding on helicopter deployment
+- Critical life-or-death decisions in emergency response
+Emergency dispatch services are essential services where AI directly impacts access to critical healthcare, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

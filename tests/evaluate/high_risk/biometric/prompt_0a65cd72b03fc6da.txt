@@ -1,0 +1,10 @@
+<START_TEXT>
+Hallo, ik werk voor een beveiligingsbedrijf als CEO. We willen ai gebruiken om mensen categoriseren op basis van uiterlijke kenmerken. Ik hoor graag van jullie.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.86</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md.
+</REASONING>
+<END_EVALUATION>

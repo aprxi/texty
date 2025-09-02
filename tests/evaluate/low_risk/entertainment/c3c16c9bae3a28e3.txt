@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik ontwikkel een mobiele puzzelgame en wil AI gebruiken om de game-economie te balanceren. De AI moet analyseren hoe spelers door levels vorderen, waar ze vastlopen, en wanneer ze opgeven. Op basis daarvan moet het systeem suggesties doen voor aanpassingen in moeilijkheidsgraad, beloningen, en power-ups. Het moet ook A/B testing kunnen uitvoeren om te zien welke aanpassingen het beste werken. De focus ligt op het creëren van een leuke ervaring, niet op het maximaliseren van inkomsten. Hebben jullie tips voor het implementeren van zo'n balanceringssysteem?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for mobile game balancing and optimization, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (game analytics is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (mobile games are not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (gaming is entertainment, not essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is an entertainment application for game development optimization, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

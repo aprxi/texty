@@ -1,0 +1,69 @@
+# Personalization Systems - LOW RISK FUNCTION
+# Personalisatiesystemen
+# 
+# PATH: function/lr/aanbevelingen/personalisatie.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (Content personalization and customization)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Content personalization and customization capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to content personalization and customization
+# - Must be low-risk personalization application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Personalization Algorithms
+# Personalisatie-algoritmen
+# Sorted by commonality (most common first)
+
+personalisatie
+personalization
+gebruikerspersonalisatie
+user personalization
+inhoudspersonalisatie
+content personalization
+interface-aanpassing
+interface customization
+gepersonaliseerde ervaring
+personalized experience
+voorkeurenoptimalisatie
+preference optimization
+individuele aanpassing
+individual adaptation
+dynamische personalisatie
+dynamic personalization
+profielgebaseerde aanpassing
+profile-based customization
+gedragsaanpassing
+behavioral adaptation
+contextgevoelige personalisatie
+context-sensitive personalization
+leerpersonalisatie
+learning personalization
+adaptieve interfaces
+adaptive interfaces
+gebruikersmodelering
+user modeling
+personalisatiemotor
+personalization engine
+individualisering
+individualization
+maatwerk algoritme
+customization algorithm
+ervaring op maat
+tailored experience
+gebruikersgerichte optimalisatie
+user-centric optimization
+intelligente aanpassing
+intelligent adaptation

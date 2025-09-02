@@ -1,0 +1,16 @@
+<START_TEXT>
+Goedemiddag, wij zijn een beveiligingsbedrijf dat werkt voor verschillende Nederlandse gemeenten. We zoeken hulp bij het bouwen van een AI-tool die mensen automatisch kan categoriseren op basis van hun uiterlijke kenmerken en gedrag. Het systeem moet bijvoorbeeld kunnen herkennen of iemand tot een bepaalde etnische groep behoort, wat hun waarschijnlijke religieuze achtergrond is, en of ze mogelijk dakloos zijn of psychische problemen hebben. Dit helpt onze beveiligers om sneller te bepalen wie extra aandacht nodig heeft. Is dit technisch haalbaar met moderne AI? We denken aan een combinatie van gezichtsanalyse en gedragsherkenning.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text explicitly describes Category 1 Biometric AI systems per RULES.md:
+- "mensen automatisch kan categoriseren op basis van hun uiterlijke kenmerken" - AI categorization of persons based on protected characteristics
+- "herkennen of iemand tot een bepaalde etnische groep behoort" - categorization based on ethnicity/race
+- "wat hun waarschijnlijke religieuze achtergrond is" - categorization based on religion
+- "gezichtsanalyse" - biometric facial analysis
+
+This clearly violates EU AI Act Article 6 prohibition on AI categorization based on protected characteristics (race, ethnicity, religion, health status), making this definitively HIGH-RISK.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+ik ben benieuwd of ai kan helpen met verhaallijnen personaliseren? hoe werkt dat precies? is het mogelijk om echt unieke verhalen te maken? ik weet niet of het makkelijk aan te passen blijft. wat bedoel je met privacy respecteren in dit geval?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment.
+</REASONING>
+<END_EVALUATION>

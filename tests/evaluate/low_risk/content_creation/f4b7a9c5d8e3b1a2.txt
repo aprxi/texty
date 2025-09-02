@@ -1,0 +1,14 @@
+<START_TEXT>
+We runnen een online platform voor tweedehands spullen en willen het verkoopproces verbeteren. Zoeken een AI die automatisch productcategorieën kan bepalen, titels kan verbeteren en zelfs prijssuggesties kan geven op basis van vergelijkbare items. Ook moet het ongepaste content kunnen detecteren in advertenties. Wat voor machine learning modellen zijn hiervoor geschikt?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI voor e-commerce platform optimalisatie, wat niet valt onder de 8 hoog-risico categorieën uit RULES.md. Het betreft:
+- "productcategorieën kan bepalen" - content classificatie
+- "prijssuggesties kan geven" - marktanalyse (geen kredietbeslissing)
+- "ongepaste content kunnen detecteren" - content moderatie
+Dit is een low-risk AI voor platform functionaliteit zonder impact op essentiële rechten of diensten.
+</REASONING>
+<END_EVALUATION>

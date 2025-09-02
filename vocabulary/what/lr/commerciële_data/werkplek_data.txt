@@ -1,0 +1,204 @@
+# Professional and Workplace Data Types - LOW RISK WHAT
+# Werkplek gegevens
+# 
+# PATH: what/lr/commerciële_data/werkplek_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General workplace data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Professional and workplace data for business operations
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be workplace related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Office documents and files
+kantoor documenten
+office documents
+presentatie bestanden
+presentation files
+spreadsheet gegevens
+spreadsheet data
+rapport documenten
+report documents
+vergader notities
+meeting notes
+memo gegevens
+memo data
+beleids documenten
+policy documents
+procedure handleidingen
+procedure manuals
+
+# Communication data
+zakelijke emails
+business emails
+interne berichten
+internal messages
+team communicatie
+team communication
+project updates
+project updates
+werkgroep discussies
+workgroup discussions
+bedrijfs nieuwsbrieven
+company newsletters
+aankondigingen
+announcements
+feedback formulieren
+feedback forms
+
+# Project management data
+project plannen
+project plans
+tijdlijn gegevens
+timeline data
+mijlpaal tracking
+milestone tracking
+resource planning
+resource planning
+taak toewijzingen
+task assignments
+deliverable overzichten
+deliverable overviews
+risico registers
+risk registers
+status rapporten
+status reports
+
+# Financial records
+factuur gegevens
+invoice data
+uitgaven rapporten
+expense reports
+budget overzichten
+budget overviews
+kosten analyses
+cost analyses
+financiële prognoses
+financial forecasts
+kwartaal cijfers
+quarterly figures
+jaarverslagen
+annual reports
+audit documenten
+audit documents
+
+# HR and personnel data
+personeels handboeken
+employee handbooks
+functie beschrijvingen
+job descriptions
+organogram gegevens
+organizational chart data
+verlof registraties
+leave registrations
+werkroosters
+work schedules
+training certificaten
+training certificates
+algemene prestatie evaluaties
+general performance evaluations
+ontwikkel plannen
+development plans
+
+# Client and customer data
+klant contacten
+client contacts
+account informatie
+account information
+service overeenkomsten
+service agreements
+contract documenten
+contract documents
+offertes
+quotations
+order formulieren
+order forms
+klacht registraties
+complaint registrations
+tevredenheids onderzoeken
+satisfaction surveys
+
+# Knowledge management
+kennisbank artikelen
+knowledge base articles
+best practices documenten
+best practices documents
+werk instructies
+work instructions
+standaard procedures
+standard procedures
+referentie materialen
+reference materials
+training materialen
+training materials
+onboarding gidsen
+onboarding guides
+FAQ documenten
+FAQ documents
+
+# Quality and compliance
+kwaliteits metrieken
+quality metrics
+werkplek compliance rapporten
+workplace compliance reports
+certificaat documenten
+certificate documents
+werkplek audit sporen
+workplace audit trails
+inspectie rapporten
+inspection reports
+veiligheids protocollen
+safety protocols
+werkplek incident rapporten
+workplace incident reports
+verbeter voorstellen
+improvement proposals
+
+# Innovation and development
+innovatie voorstellen
+innovation proposals
+onderzoek documenten
+research documents
+prototype specificaties
+prototype specifications
+prototype test resultaten
+prototype test results
+technische documentatie
+technical documentation
+patent aanvragen
+patent applications
+intellectueel eigendom
+intellectual property
+markt analyses
+market analyses
+
+# Supply chain data
+leverancier informatie
+supplier information
+inkoop orders
+purchase orders
+voorraad gegevens
+inventory data
+logistiek planning
+logistics planning
+transport documenten
+transport documents
+douane papieren
+customs papers
+kwaliteits certificaten
+quality certificates
+leverings schema's
+delivery schedules

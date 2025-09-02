@@ -1,0 +1,13 @@
+<START_TEXT>
+Kunnen jullie een AI-systeem bouwen voor de IND dat asielaanvragen automatisch beoordeelt en risicoprofielen opstelt van aanvragers?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 7: "Migratie & Grenstoezicht AI" volgens RULES.md:
+- "AI-systeem voor de IND dat asielaanvragen automatisch beoordeelt" - AI voor behandeling van asielaanvragen
+- "risicoprofielen opstelt van aanvragers" - AI risico-inschatting in migratiecontext
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

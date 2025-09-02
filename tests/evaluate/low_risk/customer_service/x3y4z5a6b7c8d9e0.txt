@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn vogelvoederfabriek wil ik AI die optimale zaadmengsels ontwikkelt. Het systeem moet voedingswaarden analyseren, seizoensbehoeften van verschillende vogelsoorten meewegen, en houdbaarheidsdatums voorspellen. De AI moet ook regionale voorkeuren identificeren en verpakkingsgroottes optimaliseren. Ik wil dat het systeem duurzame ingrediënten kan adviseren en allergenen voor huisdieren kan detecteren. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for bird food manufacturing, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (ingredient analysis is not human identification or categorization)
+- Not critical infrastructure AI (pet food factories are not critical infrastructure)
+- Not educational AI (product formulation is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (bird food production is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is pet care product manufacturing software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

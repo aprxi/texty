@@ -1,0 +1,10 @@
+<START_TEXT>
+We bouwen een AI voor onderwijsniveau-bepaling. Het moet kinderen testen, leerproblemen identificeren, en adviseren over schooltype. Het systeem bepaalt automatisch of leerlingen doorstromen naar een volgend niveau.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

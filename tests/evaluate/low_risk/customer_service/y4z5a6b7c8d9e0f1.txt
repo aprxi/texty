@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik heb een imkerij en wil AI voor bijengezondheid en honingproductie. Het systeem moet varroamijt detecteren via camera's, zwermgedrag voorspellen, en optimale kastenlocaties adviseren. De AI moet ook bloeiperiodes van planten in de omgeving tracken en nectar-flows voorspellen. Ik wil dat het systeem koninginnengedrag monitort en waarschuwt voor ziektes. Het moet ook honingkwaliteit kunnen inschatten op basis van pollenanalyse. Kun je dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for beekeeping and honey production, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (bee behavior monitoring is not human identification or categorization)
+- Not critical infrastructure AI (apiaries are not critical infrastructure)
+- Not educational AI (beekeeping guidance is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (honey production is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is agricultural hobby and production software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

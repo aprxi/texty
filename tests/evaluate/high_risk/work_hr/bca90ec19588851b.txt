@@ -1,0 +1,17 @@
+<START_TEXT>
+ik werk bij een groot verzekeringsbedrijf en we krijgen duizenden sollicitaties per jaar. is het mogelijk om cvs automatisch te scannen? hoe bepaalt ai wie de beste kandidaten zijn? kunnen we scores geven zonder discriminatie? ik vraag me af of ai kan voorspellen wie goed in ons team past. hoe weet een systeem of iemand lang blijft werken? voor video-interviews, mag ai gezichtsuitdrukkingen analyseren? is stemanalyse voor eerlijkheid wel betrouwbaar? dat voelt als privacy schending. na aanname willen we prestaties monitoren maar is email activiteit volgen toegestaan? hoe verzamelen we data zonder big brother te worden? kan ai echt bepalen wie promotie verdient? automatisch salarisverhoging beslissen lijkt me gevaarlijk. wat als het systeem bias heeft? hoe objectief zijn zulke beslissingen echt? mogen we werknemers waarschuwingen geven op basis van ai? wat zijn de juridische risicos?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 4 Work & HR AI per RULES.md:
+- "automatisch de beste kandidaten kan selecteren" - AI for recruitment and selection
+- "automatisch kan bepalen welke werknemers in aanmerking komen voor een salarisverhoging" - AI for salary decisions
+- "werknemersprestaties te monitoren" - AI monitoring and evaluation of employee performance
+- "aanbevelingen doen voor promoties" - AI for promotion decisions
+- "verzekeringsbedrijf" and "HR afdeling" context confirms employment decisions
+
+This clearly falls under Category 4: "Werk & HR AI" in RULES.md, specifically "AI voor werving, selectie en aanstellingsbeslissingen", "AI voor arbeidsvoorwaarden, promotie", and "AI-monitoring en evaluatie van werknemersprestaties". Automated HR decisions and employee monitoring make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

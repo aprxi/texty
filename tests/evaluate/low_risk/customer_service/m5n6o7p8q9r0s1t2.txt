@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn hondentrimsalon wil ik AI die kan helpen met het kiezen van de juiste knipstijl per ras. Het systeem moet vachttype analyseren, seizoen meenemen, en levensstijl van de hond (actief/rustig) in overweging nemen. De AI moet ook kunnen waarschuwen voor huidproblemen die tijdens het trimmen zichtbaar worden. Ik wil dat het systeem trends in hondenkapsel kan volgen maar ook klassieke rasstandaarden respecteert. Het moet tijdsinschattingen kunnen maken voor verschillende behandelingen. Kun je deze trim-AI ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for pet grooming services, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (pet grooming analysis is not human identification or categorization)
+- Not critical infrastructure AI (pet grooming salons are not critical infrastructure)
+- Not educational AI (grooming advice is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (pet grooming is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is pet care service software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

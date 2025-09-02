@@ -1,0 +1,152 @@
+# Iris Scanning Data - HIGH RISK WHAT
+# Iris scan gegevens
+# 
+# PATH: what/hr/surveillance_data/iris_scannen.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Biometric iris identification data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Iris biometric data for identification and authentication
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be iris biometric related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk biometric identification classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis iris data
+iris data
+iris data
+iris patronen
+iris patterns
+iris kenmerken
+iris features
+iris textuur
+iris texture
+iris structuur
+iris structure
+
+# Oog data
+ooggegevens
+eye data
+oog karakteristieken
+eye characteristics
+oog beelden
+eye images
+oog foto's
+eye photos
+
+# Biometrische templates
+iris template
+iris template
+iris code
+iris code
+biometrische sjabloon
+biometric template
+iris signatuur
+iris signature
+
+# Netvlies data
+netvlies data
+retinal data
+netvlies patronen
+retinal patterns
+netvlies beelden
+retinal images
+retina structuur
+retina structure
+
+# Pupil data
+pupil data
+pupil data
+pupil grootte
+pupil size
+pupil vorm
+pupil shape
+pupil beweging
+pupil movement
+
+# Oogwit data
+oogwit gegevens
+sclera data
+sclera patronen
+sclera patterns
+conjunctiva data
+conjunctival data
+
+# Periocular data
+periocular gegevens
+periocular data
+oog gebied data
+eye region data
+oog omgeving
+eye surroundings
+
+# Iris beelden
+iris beelden
+iris images
+iris foto's
+iris photos
+iris scans
+iris scans
+iris opnames
+iris captures
+
+# Database gegevens
+iris database
+iris database
+oog database
+eye database
+biometrische archief
+biometric archive
+iris archief
+iris archive
+
+# Kwaliteits data
+iris kwaliteit
+iris quality
+beeld kwaliteit
+image quality
+scan kwaliteit
+scan quality
+resolutie gegevens
+resolution data
+
+# Metadata
+iris metadata
+iris metadata
+opname datum
+capture date
+scan locatie
+scan location
+gebruikers-ID
+user ID
+tijdstempel
+timestamp
+
+# Multi-spectrale data
+multi-spectrale iris
+multi-spectral iris
+nabij-infrarood data
+near-infrared data
+infrarood beelden
+infrared images
+
+# Geometrische data
+iris geometrie
+iris geometry
+iris afmetingen
+iris dimensions
+iris coördinaten
+iris coordinates
+iris grenzen
+iris boundaries

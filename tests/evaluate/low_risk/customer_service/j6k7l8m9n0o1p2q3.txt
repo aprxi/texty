@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn modeltreinen hobby wil ik een AI die kan helpen met het ontwerpen van realistische spoorweglayouts. Het systeem moet rekening houden met schaal, beschikbare ruimte, en historische accuratesse voor verschillende tijdperken. De AI moet kunnen waarschuwen voor ontwerpfouten zoals te scherpe bochten of onrealistische hellingen. Ik wil dat het systeem ook kan adviseren over scenery en gebouwen die passen bij de gekozen periode en regio. Het moet kostenramingen kunnen maken voor verschillende ontwerpen. Kun je deze modelspoor-AI ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for model train hobby design assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (layout design is not human identification or categorization)
+- Not critical infrastructure AI (hobby trains are not critical infrastructure)
+- Not educational AI (hobby assistance is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (hobby activities are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is hobby and recreational software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

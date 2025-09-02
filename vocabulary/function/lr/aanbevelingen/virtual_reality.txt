@@ -1,0 +1,147 @@
+# Virtual Reality Systems - LOW RISK FUNCTION
+# Virtual Reality-systemen
+# 
+# PATH: function/lr/aanbevelingen/virtual_reality.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (VR/AR entertainment experiences)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Virtual and augmented reality experience capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to VR/AR experiences and interactions
+# - Must be low-risk entertainment/immersive application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Virtual Reality Functions (AI capabilities for VR/AR experiences)
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# VR basis functies
+virtuele realiteit renderen
+virtual reality rendering
+3D omgeving creeren
+create 3D environments
+immersieve ervaring genereren
+generate immersive experiences
+VR interactie detecteren
+detect VR interactions
+ruimtelijke tracking
+spatial tracking
+beweging detectie
+movement detection
+hand gebaar herkenning
+hand gesture recognition
+hoofd beweging tracking
+head movement tracking
+# AR functies
+augmented reality overlay
+virtuele objecten plaatsen
+place virtual objects
+real-world mapping
+object anchoring
+markerloze AR
+markerless AR
+GPS-gebaseerde AR
+GPS-based AR
+afstand meting AR
+distance measurement AR
+virtuele try-on
+virtual try-on
+# VR gaming functies
+collision detectie
+collision detection
+interactieve objecten
+interactive objects
+VR puzzels genereren
+generate VR puzzles
+virtuele wereld exploratie
+virtual world exploration
+multi-speler VR
+multiplayer VR
+VR sport simulatie
+VR sports simulation
+VR avontuur spellen
+VR adventure games
+# Social VR functies
+virtuele vergaderingen
+virtual meetings
+avatar systemen
+avatar systems
+virtuele evenementen
+virtual events
+social VR spaces
+virtuele presentaties
+virtual presentations
+VR collaboration tools
+virtuele klaslokalen
+virtual classrooms
+VR team building
+# VR entertainment
+360-graden video afspelen
+360-degree video playback
+virtuele concerten
+virtual concerts
+VR theater ervaringen
+VR theater experiences
+virtuele musea
+virtual museums
+VR film ervaringen
+VR movie experiences
+interactieve verhalen
+interactive stories
+VR escape rooms
+virtuele pretparken
+virtual theme parks
+# AR entertainment
+AR filters
+gezicht effecten
+face effects
+virtuele makeup
+virtual makeup
+AR photo booth
+locatie-gebaseerde AR spellen
+location-based AR games
+AR treasure hunts
+interactieve AR kunst
+interactive AR art
+AR muziek visualisatie
+AR music visualization
+# VR training simulatie
+veilige omgeving training
+safe environment training
+vaardigheden oefening
+skills practice
+procedure training
+virtuele machines bedienen
+operate virtual machines
+VR flight simulatie
+VR flight simulation
+medische procedure simulatie
+medical procedure simulation
+virtuele laboratorium
+virtual laboratory
+VR language immersion
+# Accessibility VR/AR
+gesproken navigatie
+spoken navigation
+tactiele feedback
+tactile feedback
+audio beschrijvingen
+audio descriptions
+beweging compensatie
+movement compensation
+voice commando's
+voice commands
+adaptive interfaces
+VR voor beperkte mobiliteit
+VR for limited mobility

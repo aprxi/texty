@@ -1,0 +1,10 @@
+<START_TEXT>
+voor ons bedrijf een app developer. We willen experimenteren met team samenwerking verbeteren. Wat zijn de mogelijkheden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity.
+</REASONING>
+<END_EVALUATION>

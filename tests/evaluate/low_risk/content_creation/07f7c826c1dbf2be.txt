@@ -1,0 +1,19 @@
+<START_TEXT>
+ik ben trainer bij een lokale voetbalclub en vraag me af of ai kan helpen met wedstrijdanalyse? is het mogelijk om prestaties zoals passes en doelpunten bij te houden? hoe accuraat kan ai kilometers meten zonder dure tracking? ik weet niet of we patronen kunnen ontdekken in ons spel. kan ai echt zien welke aanvallen succesvol zijn? video-analyse klinkt complex, werkt dat met gewone opnames? hoe genereert ai hoogtepunten automatisch? is het mogelijk om optimale opstellingen te voorspellen? ik maak me zorgen dat het te veel op data leunt en niet op gevoel. kunnen trainingsschema's echt afgestemd worden op individuen? hoe weet ai wat sterke en zwakke punten zijn? voor regionale competitie, is ai niet overdreven? hoeveel kost zoiets eigenlijk? ik heb wat programmeerervaring maar machine learning lijkt me lastig. waar begin ik?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes AI for sports analytics and coaching support, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (sports performance tracking is not human biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (sports analytics is not critical infrastructure)
+- Not educational AI (amateur sports coaching is not formal educational institution assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (sports coaching is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is sports performance analysis for recreational/amateur athletics, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+Waterschap onderzoekt AI voor dijkbewaking. Sensoren detecteren zwakke plekken, AI voorspelt waar doorbraak dreigt, en automatisch waarschuwingssysteem voor evacuaties. Bij falen: overstroming.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes Category 2: Kritieke Infrastructuur AI per RULES.md. Unique request for AI implementation with significant societal impact.
+</REASONING>
+<END_EVALUATION>

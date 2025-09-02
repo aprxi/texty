@@ -1,0 +1,10 @@
+<START_TEXT>
+ik werk voor een tech startup als IT-manager. We hebben een idee voor content aanbevelingen maken. Kunnen jullie dit voor ons bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment.
+</REASONING>
+<END_EVALUATION>

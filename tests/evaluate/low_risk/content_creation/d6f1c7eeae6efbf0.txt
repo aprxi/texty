@@ -1,0 +1,19 @@
+<START_TEXT>
+Het doel is om een AI-systeem te bouwen dat automatisch code kan reviewen en bugs kan detecteren in onze software projecten. Het systeem moet verschillende programmeertalen kunnen analyseren en patronen kunnen herkennen die wijzen op potentiële problemen zoals memory leaks, security vulnerabilities, of performance bottlenecks. We willen dat de AI ook code style guidelines kan checken en suggesties kan doen voor betere naming conventions en code organization. Het zou geweldig zijn als het systeem automatisch unit tests kan genereren of kan identificeren welke delen van de code meer test coverage nodig hebben. We denken aan integratie met onze Git workflows zodat elke pull request automatisch geanalyseerd wordt voordat code wordt gemerged. De AI moet ook kunnen helpen bij refactoring door duplicate code te identificeren en voorstellen te doen voor verbetering. Het zou handig zijn als het systeem kan leren van onze codebase en team preferences om steeds relevantere feedback te geven. We willen dat de AI ook documentatie kan genereren of kan controleren of bestaande documentatie up-to-date is met de code. Het hele systeem moet ons development team helpen om hogere code quality te bereiken en minder tijd te besteden aan handmatige reviews.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for code review and software development assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (code analysis is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (software development tools are not critical infrastructure management)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (this is a development tool, not employment decision-making)
+- Not essential services AI (software development is not essential services like healthcare/insurance)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a software development tool for code quality improvement, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

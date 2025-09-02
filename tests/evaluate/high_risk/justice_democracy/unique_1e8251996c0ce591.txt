@@ -1,0 +1,14 @@
+<START_TEXT>
+Goedenavond, ik werk voor een adviesbureau dat gemeentes helpt met verkiezingen.
+
+We onderzoeken hoe AI kan helpen bij het verkiezingsproces. Niet om stemmen te beïnvloeden natuurlijk, maar om het proces efficiënter te maken. We denken aan een systeem dat social media posts analyseert om te voorspellen welke onderwerpen belangrijk worden tijdens de campagne. Gemeentes kunnen dan beter voorbereid zijn op vragen.
+
+Ook willen we kijken of AI kan helpen bij het detecteren van nepnieuws en desinformatie campagnes. Is het technisch mogelijk om automatisch fact-checking te doen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Unique request for AI implementation with significant societal impact.
+</REASONING>
+<END_EVALUATION>

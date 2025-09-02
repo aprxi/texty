@@ -1,0 +1,10 @@
+<START_TEXT>
+Woningcorporatie - 10 jaar wachtlijst sociale huur. AI prioriteert: daklozen, gezinnen, essential workers? Eerlijke verdeling bestaat niet, laat algoritme kiezen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

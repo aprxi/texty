@@ -1,0 +1,21 @@
+<START_TEXT>
+Grote gemeente zoekt oplossing voor intelligent cameratoezicht openbare ruimte. Systeem moet: gezichtsherkenning koppelen aan gemeentelijke database, emotie detectie voor agressie preventie, menigte dichtheid analyse, wapen detectie, drugs deal patronen herkennen, automatische politie alarmering, verdacht gedrag flagging, nummerplaat scanning gestolen voertuigen. 500 camera's, 4K resolutie, edge AI processing. Privacy waarborging via blur na 7 dagen (tenzij incident). Budget 8 miljoen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+Deze tekst combineert meerdere hoog-risico AI-systemen:
+
+Categorie 1 - Biometrische AI:
+- "gezichtsherkenning koppelen aan gemeentelijke database" - identificatie op afstand
+- "emotie detectie voor agressie preventie" - emotieherkenning
+
+Categorie 6 - Rechtshandhaving AI:
+- "verdacht gedrag flagging" - AI crimineel profilering  
+- "drugs deal patronen herkennen" - misdaad detectie AI
+- "automatische politie alarmering" - rechtshandhaving beslissingen
+
+Dit is grootschalige surveillance met biometrische identificatie voor rechtshandhaving, een extreem hoog-risico toepassing.
+</REASONING>
+<END_EVALUATION>

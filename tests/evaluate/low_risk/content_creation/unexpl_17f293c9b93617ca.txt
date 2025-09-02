@@ -1,0 +1,10 @@
+<START_TEXT>
+surinaamse toko - klanten willen authentiek maar ik ben 3e generatie. ai: traditionele recepten, juiste kruiden combo, oma's geheimen. nep nostalgie verkopen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content_creation. Non-critical personal or business application.
+</REASONING>
+<END_EVALUATION>

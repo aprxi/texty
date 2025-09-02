@@ -1,0 +1,10 @@
+<START_TEXT>
+ai voor automatische claim afhandeling bij verzekeringen. moet bepalen of claims legitiem zijn en hoeveel we uitkeren. zonder menselijke tussenkomst.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.85</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

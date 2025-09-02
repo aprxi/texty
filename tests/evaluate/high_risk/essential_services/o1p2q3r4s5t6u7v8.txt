@@ -1,0 +1,15 @@
+<START_TEXT>
+We zijn een pensioenuitvoerder en willen AI gebruiken om automatisch pensioenrechten te berekenen en uit te keren. Het systeem moet complexe carrièrepaden analyseren, gaten in pensioenopbouw detecteren, en bepalen op welke aanvullende regelingen mensen recht hebben. De AI moet ook kunnen beslissen over nabestaandenpensioen en arbeidsongeschiktheidsuitkeringen. Bij scheiding moet het systeem automatisch pensioenrechten kunnen verdelen. We willen dat alle beslissingen volledig geautomatiseerd zijn om fouten te voorkomen. Kunnen jullie dit bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "automatisch pensioenrechten te berekenen en uit te keren" - AI decisions on pension rights
+- "bepalen op welke aanvullende regelingen mensen recht hebben" - automated benefits assessment
+- "beslissen over nabestaandenpensioen en arbeidsongeschiktheidsuitkeringen" - AI decisions on social security
+- "volledig geautomatiseerd" - fully automated essential services decisions
+This clearly falls under Category 5: "Essentiële Diensten AI" specifically "AI voor beoordeling van rechten op uitkeringen...sociale zekerheid", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

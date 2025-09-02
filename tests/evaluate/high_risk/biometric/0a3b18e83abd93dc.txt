@@ -1,0 +1,16 @@
+<START_TEXT>
+Goedemiddag, onze zorginstelling wil een systeem dat patiënten kan categoriseren op basis van genetische markers en uiterlijke kenmerken die kunnen wijzen op bepaalde etnische achtergronden of erfelijke aandoeningen. Dit moet helpen bij het voorspellen van gezondheidsrisico's en het personaliseren van
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes Category 1 Biometric AI systems per RULES.md:
+- "patiënten kan categoriseren op basis van...uiterlijke kenmerken die kunnen wijzen op bepaalde etnische achtergronden" - explicit AI categorization based on ethnicity
+- "genetische markers" - categorization based on health status/genetic information
+- "zorginstelling" context confirms healthcare setting with protected characteristic categorization
+- The system explicitly categorizes people based on protected characteristics (ethnicity, health)
+
+This clearly violates Category 1: "Biometrische AI-Systemen" in RULES.md, specifically "AI-categorisering van personen op basis van beschermde kenmerken (ras, etniciteit...gezondheid)". Ethnic and health-based categorization makes this definitively HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

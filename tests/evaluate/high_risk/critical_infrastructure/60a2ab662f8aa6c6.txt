@@ -1,0 +1,16 @@
+<START_TEXT>
+Hoi, ik ben verkeersmanager bij Rijkswaterstaat. We zoeken een partij die ons kan helpen met een AI-oplossing voor verkeersbeheer op de Nederlandse snelwegen. Het systeem moet real-time verkeersstromen kunnen analyseren, voorspellingen doen over files, en automatisch verkeersregelinstallaties kunnen aansturen. Ook moet het kunnen beslissen wanneer rijstroken afgesloten moeten worden of de maximumsnelheid aangepast moet worden. Bij calamiteiten moet het systeem hulpdiensten de snelste route kunnen geven. Hebben jullie ervaring met dit soort kritieke infrastructuur AI? We praten over een systeem dat impact heeft op miljoenen weggebruikers dagelijks.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "AI-oplossing voor verkeersbeheer" - AI for traffic management
+- "automatisch verkeersregelinstallaties kunnen aansturen" - automatic control of traffic systems
+- "wegverkeer" - road traffic infrastructure
+- "kritieke infrastructuur AI" - explicitly mentions critical infrastructure
+
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" in RULES.md, specifically "AI-ondersteuning bij bewaking of beheer van...wegverkeer". Managing road traffic infrastructure makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+We zoeken een AI-oplossing voor personeelsmonitoring. Het moet computeractiviteit volgen, pauzes registreren, en efficiëntie meten. Het systeem bepaalt automatisch bonussen en identificeert werknemers voor ontslag.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

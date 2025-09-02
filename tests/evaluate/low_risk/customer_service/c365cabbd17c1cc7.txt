@@ -1,0 +1,19 @@
+<START_TEXT>
+Hallo, wij zijn een middelgroot e-commerce bedrijf en ontvangen dagelijks honderden klantreviews en feedback emails. Ik zou graag een AI-systeem willen ontwikkelen dat deze feedback automatisch kan analyseren en categoriseren. Het moet sentiment analyse kunnen uitvoeren om te bepalen of feedback positief, negatief of neutraal is, maar ook specifieke thema's kunnen identificeren zoals verzending, productkwaliteit, klantenservice of website gebruiksvriendelijkheid. De AI moet patronen kunnen herkennen in klachten zodat we structurele problemen snel kunnen aanpakken. Het zou ook handig zijn als het systeem prioriteiten kan stellen en de meest urgente issues kan highlighten die directe aandacht nodig hebben. Ik wil graag dat de AI constructieve suggesties kan extraheren uit de feedback en deze kan omzetten in concrete actieplannen voor verschillende afdelingen. Het systeem moet ook kunnen detecteren welke producten het meest worden geprezen of bekritiseerd. Rapportages en visualisaties van trends over tijd zouden heel waardevol zijn voor managementbeslissingen. Kun je me helpen met het opzetten van zo'n customer feedback analyse tool? We hebben al veel historische data maar gebruiken die nu nog niet optimaal.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for customer feedback analysis and e-commerce optimization, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (sentiment analysis of customer feedback is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (e-commerce feedback analysis is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions, just business analytics)
+- Not essential services AI (e-commerce is not essential services like healthcare/insurance)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a business analytics tool for customer service improvement, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

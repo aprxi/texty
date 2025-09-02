@@ -1,0 +1,110 @@
+# Infrastructure Cascade Failure Data - HIGH RISK WHAT
+# Infrastructuur cascade storing gegevens
+# 
+# PATH: what/hr/infrastructuur_data/cascade_storingen.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Critical infrastructure cascade failure data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Infrastructure interdependency and cascade failure data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be infrastructure cascade failure related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk critical infrastructure classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Elektriciteitsnет cascade
+transformator overbelasting ketens
+transformer overload chains
+onderstation faal sequenties
+substation failure sequences
+hoogspanning lijn domino
+high voltage line domino
+frequentie instabiliteit golven
+frequency instability waves
+spanning collapse patronen
+voltage collapse patterns
+blackout propagatie snelheid
+blackout propagation speed
+
+# Water systeem cascade
+pomp station faal ketens
+pump station failure chains
+waterzuivering bypass noodgedwongen
+water treatment bypass forced
+riool terugstroom crisis
+sewer backflow crisis
+drinkwater besmetting verspreiding
+drinking water contamination spread
+waterdruk verlies cascade
+water pressure loss cascade
+
+# Transport netwerk collapse
+verkeers gridlock propagatie
+traffic gridlock propagation
+spoorweg seinстoring domino
+railway signal failure domino
+luchthaven grondstop ketens
+airport ground stop chains
+haven congestie cascade
+port congestion cascade
+brug afsluiting ripple effecten
+bridge closure ripple effects
+
+# Telecom backbone falen
+datacenter koeling verlies
+datacenter cooling loss
+fiber optisch kabel breuk
+fiber optic cable break
+satelliet uplink storing
+satellite uplink failure
+mobiel netwerk overbelasting
+mobile network overload
+internet backbone fragmentatie
+internet backbone fragmentation
+
+# Financieel systeem cascade
+bank run besmetting
+bank run contagion
+betalingssysteem freeze
+payment system freeze
+beurs handel stop triggers
+stock trading halt triggers
+ATM netwerk uitval
+ATM network outage
+credit card systeem collapse
+credit card system collapse
+
+# Voedselketen verstoring
+koelketen onderbreking
+cold chain interruption
+distributiecentrum uitval
+distribution center failure
+supermarkt voorraad uitputting
+supermarket stock depletion
+brandstof tekort cascade
+fuel shortage cascade
+voedsel rantsoenering triggers
+food rationing triggers
+
+# Gezondheidszorg systeem overbelasting
+ziekenhuis generator falen
+hospital generator failure
+medicijn voorraad uitputting
+medicine supply depletion
+ambulance dispatch overload
+ambulance dispatch overload
+operatiekamer systeem crash
+operating room system crash
+bloed bank koeling verlies
+blood bank refrigeration loss

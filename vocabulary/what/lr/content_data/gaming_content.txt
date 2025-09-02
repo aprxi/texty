@@ -1,0 +1,150 @@
+# Gaming Content Data Types - LOW RISK WHAT
+# Gaming content gegevens
+# 
+# PATH: what/lr/content_data/gaming_content.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Entertainment gaming content data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Gaming content data for entertainment applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be gaming content related
+# - Must be what AI processes (not who or where)
+# - Must be low-risk entertainment classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Spel data
+spel statistieken
+game statistics
+speler voortgang
+player progress
+achievement data
+achievement data
+leaderboard gegevens
+leaderboard data
+score tracking
+score tracking
+level completion data
+level completion data
+gameplay sessies
+gameplay sessions
+spel tijd
+playtime
+
+# Speler profiel data
+speler profielen
+player profiles
+gaming voorkeuren
+gaming preferences
+genre voorkeuren
+genre preferences
+moeilijkheidsgraad settings
+difficulty settings
+control instellingen
+control settings
+avatar data
+avatar data
+customization choices
+customization choices
+spel configuraties
+game configurations
+
+# Sociale gaming data
+guild informatie
+guild information
+team samenstellingen
+team compositions
+multiplayer sessies
+multiplayer sessions
+vrienden lijsten
+friends lists
+game chat berichten
+game chat messages
+sociale interacties
+social interactions
+party formaties
+party formations
+in-game berichten
+in-game messages
+
+# Game economy data
+in-game valuta
+in-game currency
+item verzamelingen
+item collections
+handel transacties
+trade transactions
+marketplace data
+marketplace data
+resource management
+resource management
+crafting materials
+crafting materials
+equipment data
+equipment data
+virtual goods
+virtual goods
+
+# Performance analytics
+frame rate data
+frame rate data
+loading tijden
+loading times
+game netwerk vertraging
+game network latency
+system performance
+system performance
+graphics settings
+graphics settings
+audio configuraties
+audio configurations
+input responsiveness
+input responsiveness
+crash reports
+crash reports
+
+# Content creatie data
+level editor data
+level editor data
+mod informatie
+mod information
+custom content
+custom content
+user generated content
+user generated content
+game streaming gegevens
+game streaming data
+gameplay video opnames
+gameplay video recordings
+screenshot data
+screenshot data
+gameplay highlights
+gameplay highlights
+
+# Toernooi en esports data
+toernooi deelname
+tournament participation
+ranking systemen
+ranking systems
+match resultaten
+match results
+team prestaties
+team performance
+sponsor gegevens
+sponsorship data
+prize pool data
+prize pool data
+competitie schema's
+competition schedules
+broadcast data
+broadcast data

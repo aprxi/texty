@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+legacy/*
+
+# Data
+artifacts/*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local settings
+.local/
+*.local
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.envrc
+
+# Rust
+src/webrs/target/
+src/webrs/build/
+src/webrs/pkg/
+
+# Claude
+.claude

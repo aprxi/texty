@@ -1,0 +1,67 @@
+# Data Synchronization Systems - LOW RISK FUNCTION
+# Datasynchronisatiesystemen
+# 
+# PATH: function/lr/verwerking/synchronisatie.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (data synchronization and file management)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Data synchronization and file management capabilities for general purpose data consistency and backup
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to data synchronization and file management
+# - Must be low-risk data management application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+datasynchronisatie
+data synchronization
+real-time sync
+real-time synchronization
+bestandssynchronisatie
+file synchronization
+database synchronisatie
+database synchronization
+cloud synchronisatie
+cloud synchronization
+bidirectionele sync
+bidirectional sync
+incrementele synchronisatie
+incremental synchronization
+conflictoplossing
+conflict resolution
+versiesynchronisatie
+version synchronization
+cross-platform sync
+cross-platform synchronization
+offline synchronisatie
+offline synchronization
+automatische backup sync
+automatic backup sync
+gegevensconsistentie
+data consistency
+synchronisatiemonitoring
+synchronization monitoring
+delta synchronisatie
+delta synchronization
+merge synchronisatie
+merge synchronization
+synchronisatieplanning
+synchronization scheduling
+foutafhandeling sync
+sync error handling
+synchronisatieoptimalisatie
+synchronization optimization
+multi-device sync
+multi-device synchronization

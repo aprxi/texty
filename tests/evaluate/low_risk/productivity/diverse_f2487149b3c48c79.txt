@@ -1,0 +1,10 @@
+<START_TEXT>
+Coffeeshop eigenaar (ja die soort) - AI voor voorraad beheer is lastig want officieel mag ik geen administratie hebben. Maar wil wel weten: wat verkoopt, wanneer tekort, optimale inkoop. Gedoog-AI?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

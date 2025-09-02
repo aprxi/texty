@@ -1,0 +1,10 @@
+<START_TEXT>
+De verzekeringsmaatschappij wil AI voor risicobeoordeling. Het systeem moet premies berekenen, claims voorspellen, en automatisch bepalen wie verzekerd wordt. We analyseren medische geschiedenis, leefstijl, en sociale media voor risicoprofielen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.86</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

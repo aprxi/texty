@@ -1,0 +1,10 @@
+<START_TEXT>
+hofjesbewoner centrum amsterdam. toeristen overal, rust weg. ai telt: hoeveel bezoekers, geluidsniveau, airbnb illegaal. bewijs voor gemeente of nimby gedrag?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

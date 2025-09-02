@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor het waterschap wil ik AI die dijksterkte kan monitoren en overstromingsrisico's voorspelt. Het systeem moet sensordata analyseren, verzakkingen detecteren en zwakke plekken identificeren. De AI moet ook kunnen adviseren over evacuaties bij extreme weersomstandigheden en prioriteiten stellen voor noodreparaties. Ik wil dat het systeem waterpeilen automatisch reguleert via sluizen en pompen, en waarschuwingen stuurt naar hulpdiensten. Het moet ook klimaatscenario's doorrekenen. Kun je dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes AI for water management and flood protection, which falls under Category 2: "Kritieke infrastructuur AI" in RULES.md. Specifically:
+- "waterschap... dijksterkte kan monitoren" - water authority monitoring dike strength
+- "adviseren over evacuaties" - advising on evacuations
+- "waterpeilen automatisch reguleert via sluizen en pompen" - automatically regulating water levels through locks and pumps
+- Critical flood protection infrastructure
+Water management is critical infrastructure for flood protection in the Netherlands, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

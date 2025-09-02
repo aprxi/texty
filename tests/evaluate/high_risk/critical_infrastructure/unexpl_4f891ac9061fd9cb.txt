@@ -1,0 +1,18 @@
+<START_TEXT>
+hallo, ik ben ingenieur bij tennet (stroomnet nederland) en we zoeken ai oplossing
+
+na blackouts willen we systeem dat:
+- voorspelt stroomuitval voordat het gebeurt
+- automatisch besluit welke wijken stroom krijgen bij tekort
+- windmolen/zonnepaneel opbrengst optimaliseert
+- industrie automatisch afschakelt bij crisis
+
+kun je machine learning model maken dat deze kritieke beslissingen neemt? hebben real-time data van heel europa
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 2: Kritieke Infrastructuur AI per RULES.md. User requesting AI for critical power grid decisions affecting public safety.
+</REASONING>
+<END_EVALUATION>

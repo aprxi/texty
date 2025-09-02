@@ -1,0 +1,14 @@
+<START_TEXT>
+Voor een fitnessketen wil ik AI die gezondheidsrisico's screent tijdens intake. Het systeem moet hartritme analyseren, bewegingspatronen evalueren voor blessurerisico, en medische contra-indicaties detecteren. De AI moet ook emotionele welzijn monitoren en waarschuwen bij overtraining. Ik wil dat het systeem automatisch trainingsintensiteit aanpast en doorverwijst naar medische professionals bij afwijkingen. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes AI for health screening and medical risk assessment, which falls under Category 5: "Essentiële diensten AI" in RULES.md when it involves:
+- "medische contra-indicaties detecteren" - detecting medical contraindications
+- "doorverwijst naar medische professionals bij afwijkingen" - referring to medical professionals for abnormalities
+- Health risk assessment that influences access to fitness services
+While fitness is generally low-risk, this system makes medical assessments and referrals, crossing into essential health services territory, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

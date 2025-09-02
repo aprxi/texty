@@ -1,0 +1,112 @@
+# Gait Recognition Systems - HIGH RISK FUNCTION
+# Looppatroonherkenningssystemen
+# 
+# PATH: function/hr/biometrisch/looppatroon_herkenning.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Biometric identification affecting fundamental rights)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Gait recognition and walking pattern identification capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to gait recognition and movement analysis
+# - Must be high-risk biometric application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gait Recognition Functions
+# Sorted by commonality (most common first)
+
+looppatroon herkenning
+gait recognition
+gangherkenning
+gait analysis
+loopanalyse
+walking analysis
+bewegingspatroon herkenning
+movement pattern recognition
+# Detectie functies
+gangdetectie
+gait detection
+loopdetectie
+walking detection
+bewegingsdetectie
+stap detectie
+step detection
+# Identificatie processen
+gang identificatie
+gait identification
+loop identificatie
+walking identification
+persoon identificatie
+person identification
+biometrische identificatie
+biometric identification
+# Video analyse
+video ganganalyse
+video gait analysis
+visuele gangherkenning
+visual gait recognition
+camera-gebaseerde herkenning
+camera-based recognition
+surveillance herkenning
+surveillance recognition
+# Kenmerk extractie
+kenmerk extractie
+feature extraction
+loop karakteristieken
+walking characteristics
+bewegingskenmerken herkennen
+recognize movement features
+gang signatuur extractie
+gait signature extraction
+# Classificatie
+gang classificatie
+gait classification
+loop classificatie
+walking classification
+beweging classificatie
+movement classification
+stijl herkenning
+style recognition
+# Real-time analyse
+realtime ganganalyse
+real-time gait analysis
+live herkenning
+live recognition
+directe identificatie
+immediate identification
+instant herkenning
+instant recognition
+# Biometrische processen
+biometrische gangherkenning
+biometric gait recognition
+loop biometrie
+walking biometrics
+beweging authenticatie
+movement authentication
+gang verificatie
+gait verification
+# Afstand herkenning
+afstands herkenning
+distance recognition
+remote herkenning
+remote recognition
+lange afstand analyse
+long-distance analysis
+# Multi-view analyse
+multi-view analyse
+multi-view analysis
+meerdere hoek herkenning
+multiple angle recognition
+hoek-onafhankelijke herkenning
+angle-independent recognition

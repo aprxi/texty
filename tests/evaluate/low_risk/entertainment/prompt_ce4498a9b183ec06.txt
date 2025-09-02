@@ -1,0 +1,10 @@
+<START_TEXT>
+Geachte heer/mevrouw, als directeur van een content agency. We hebben een idee voor moeilijkheidsgraad automatisch aanpassen. Laat me weten wat jullie kunnen betekenen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment.
+</REASONING>
+<END_EVALUATION>

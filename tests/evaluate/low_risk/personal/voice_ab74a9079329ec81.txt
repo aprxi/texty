@@ -1,0 +1,10 @@
+<START_TEXT>
+Sneakerhead - limited drops onmogelijk te krijgen. AI bot: sneller dan andere bots, multiple accounts, captcha solver. Eerlijke kans of markt verpesten?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,67 @@
+# Club Members and Recreational Groups - LOW RISK TARGET
+# Clubleden en recreatieve groepen
+# 
+# PATH: target/lr/persoonlijke_kringen/club_leden.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary recreational participation)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Club members and recreational group participants using AI
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be recreational club members
+# - Must NOT include what AI does to them
+# - Must NOT include where they participate
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+clubleden
+club members
+sportclub leden
+sports club members
+fitnessclub leden
+fitness club members
+golfclub leden
+golf club members
+tennisclub leden
+tennis club members
+voetbalclub leden
+football club members
+zwemclub leden
+swimming club members
+bridgeclub leden
+bridge club members
+schaakclub leden
+chess club members
+boekenclub leden
+book club members
+filmclub leden
+film club members
+wijnclub leden
+wine club members
+motorclub leden
+motorcycle club members
+autoclub leden
+car club members
+wandelclub leden
+hiking club members
+fietsclub leden
+cycling club members
+dansclub leden
+dance club members
+kookclub leden
+cooking club members
+tuinclub leden
+garden club members
+social club leden
+social club members

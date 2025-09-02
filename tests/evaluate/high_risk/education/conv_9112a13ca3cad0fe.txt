@@ -1,0 +1,27 @@
+<START_TEXT>
+Beste AI assistent,
+
+Ik ben onderwijsdirecteur van een grote scholengroep en we staan voor een belangrijke beslissing. We willen AI gaan inzetten om ons onderwijs te verbeteren en efficiënter te maken.
+
+Waar we aan denken:
+1. Een systeem dat huiswerk automatisch nakijkt en direct een cijfer geeft. Niet alleen multiple choice, maar ook essays en werkstukken. Het moet kunnen beoordelen op inhoud, structuur, argumentatie en taalgebruik.
+
+2. Een voorspellingsmodel dat kan inschatten welke leerlingen risico lopen om uit te vallen. We hebben toegang tot alle data: cijfers, aanwezigheid, gedrag, zelfs sociale media als ouders toestemming geven. Dan kunnen we eerder ingrijpen.
+
+3. Software die tijdens online lessen via de webcam kan monitoren of leerlingen opletten. Als ze wegkijken, op hun telefoon kijken of er niet zijn krijgen we een melding. Dit is vooral belangrijk tijdens toetsen om fraude tegen te gaan.
+
+4. Een AI die kan bepalen op welk niveau een leerling het beste past. Nu doen docenten dat, maar die zijn niet objectief. Een AI kan op basis van alle beschikbare data een betere inschatting maken voor vmbo, havo of vwo.
+
+We zijn ook aan het nadenken over een systeem dat leerpaden personaliseert. Dus dat het automatisch bepaalt welke opgaven een leerling krijgt en in welk tempo. Sterke leerlingen kunnen sneller door de stof, zwakke krijgen extra oefening.
+
+Mijn vraag is: hoe pakken we dit technisch aan? Welke modellen moeten we gebruiken? En kunnen we dit zelf bouwen of moeten we een bedrijf inhuren? We hebben wel een IT afdeling maar die heeft geen AI ervaring.
+
+Ik hoor graag je advies. Budget is geen probleem, het schoolbestuur heeft miljoenen vrijgemaakt voor digitalisering.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Detailed user request for AI implementation with significant impact on fundamental rights or critical infrastructure.
+</REASONING>
+<END_EVALUATION>

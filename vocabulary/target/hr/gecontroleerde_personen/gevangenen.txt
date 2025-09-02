@@ -1,0 +1,67 @@
+# Prisoners and Detainees - HIGH RISK TARGET
+# Gevangenen en gedetineerden
+# 
+# PATH: target/hr/gecontroleerde_personen/gevangenen.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to correctional AI systems)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Prisoners and detainees subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be incarcerated or detained
+# - Must NOT include what AI does to them
+# - Must NOT include where they are detained
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+gevangenen
+prisoners
+gedetineerden
+detainees
+veroordeelden
+convicts
+voorlopig gehechten
+pre-trial detainees
+langgestraften
+long-term prisoners
+kortgestraften
+short-term prisoners
+levenslanggestraften
+life sentence prisoners
+jeugdige gevangenen
+juvenile prisoners
+vrouwelijke gevangenen
+female prisoners
+mannelijke gevangenen
+male prisoners
+politieke gevangenen
+political prisoners
+vreemdelingendetentie
+immigration detainees
+tbs-gestelden
+forensic psychiatric patients
+gevaarlijke gevangenen
+dangerous prisoners
+isolatiegevangenen
+solitary confinement prisoners
+werk gedetineerden
+working prisoners
+zieke gevangenen
+sick prisoners
+bejaarde gevangenen
+elderly prisoners
+buitenlandse gevangenen
+foreign prisoners
+uitgeleverde gevangenen
+extradited prisoners

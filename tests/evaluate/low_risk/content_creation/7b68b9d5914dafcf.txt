@@ -1,0 +1,19 @@
+<START_TEXT>
+Dag, ik ben een amateur astronoom en zou een AI-assistent willen bouwen voor mijn sterrenkijk hobby. Het systeem moet me kunnen helpen met het plannen van observatiesessies door rekening te houden met maanfases, lichtvervuiling op mijn locatie, en weersvoorspellingen. Ik wil dat de AI kan voorspellen welke hemellichamen het beste zichtbaar zijn op een bepaalde datum en tijd, en me kan adviseren over de optimale telescoop instellingen voor verschillende objecten. Het zou fantastisch zijn als het systeem astrofoto's kan analyseren die ik maak en suggesties kan geven voor betere belichting en nabewerking. De AI moet ook kunnen helpen met het identificeren van objecten die ik zie maar niet herken, door patroonherkenning op basis van sterrenkaarten. Ik zou graag een log willen bijhouden van al mijn observaties en de AI moet interessante patronen kunnen ontdekken, zoals wanneer bepaalde meteoren het meest actief zijn. Ook wil ik notificaties krijgen voor zeldzame astronomische gebeurtenissen zoals kometen of eclipsen die vanaf mijn locatie zichtbaar zijn. Kun je me helpen om zo'n astronomie AI-tool te ontwikkelen? Ik heb redelijk wat programmeerervaring maar machine learning is nieuw voor me.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for amateur astronomy and hobby stargazing, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (astronomical object identification is not biometric identification of persons or categorization based on protected characteristics)
+- Not critical infrastructure AI (hobby astronomy is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content in formal institutions)
+- Not work/HR AI (no employment decisions, just personal hobby tools)
+- Not essential services AI (astronomy is recreational, not essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a personal hobby application for recreational astronomy, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,20 @@
+<START_TEXT>
+werk bij woningcorporatie amsterdam
+
+ai bepaalt nu wie sociale huurwoning krijgt:
+- urgentie score berekenen
+- fraude risico inschatten
+- overlast voorspellen
+- buurt match maken
+
+alleenstaande moeder 3 kinderen afgewezen. ai zegt "te hoog risico"
+
+dakloosheid omdat computer nee zegt. waar is menselijkheid?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. AI determining access to essential housing services with significant life impact.
+</REASONING>
+<END_EVALUATION>

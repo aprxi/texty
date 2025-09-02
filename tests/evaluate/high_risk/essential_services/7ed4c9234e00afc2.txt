@@ -1,0 +1,14 @@
+<START_TEXT>
+Bank zoekt AI voor kredietbeoordeling. Systeem moet automatisch kredietscore berekenen op basis van gedragsdata, sociale contacten, en online activiteit. Ook verzekeringen risico inschatting voor levensverzekering.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-systemen voor financiële diensten die vallen onder categorie 5: "Essentiële Diensten AI" in RULES.md:
+- "automatisch kredietscore berekenen" - AI kredietbeoordeling en kredietscore
+- "verzekeringen risico inschatting voor levensverzekering" - AI risico-inschatting voor verzekeringen
+
+Dit valt expliciet onder "AI kredietbeoordeling en kredietscore" en "AI risico-inschatting voor verzekeringen" zoals genoemd in RULES.md categorie 5. Financiële AI-systemen die krediet- en verzekeringsbeslissingen maken zijn HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,14 @@
+<START_TEXT>
+We zijn een vertaalbureau en willen onze workflow verbeteren met AI. Het gaat vooral om technische documentatie vertalen van Engels naar Nederlands en andersom. De AI moet de context begrijpen en vakterminologie correct vertalen. Ook willen we dat het consistentie waarborgt over meerdere documenten heen. Kunnen jullie een systeem maken dat integreert met onze huidige CAT-tools?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor vertaling, wat niet valt onder de 8 hoog-risico categorieën uit RULES.md. Het betreft:
+- "technische documentatie vertalen" - AI voor vertaling
+- "context begrijpen en vakterminologie" - taalverwerking
+- "consistentie waarborgt" - kwaliteitscontrole voor vertalingen
+Dit is een standaard low-risk AI-toepassing voor professionele communicatie zonder impact op kritieke beslissingen.
+</REASONING>
+<END_EVALUATION>

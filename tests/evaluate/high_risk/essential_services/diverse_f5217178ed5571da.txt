@@ -1,0 +1,12 @@
+<START_TEXT>
+Apotheek in achterstandswijk. Veel klanten begrijpen bijsluiters niet, maken fouten met medicatie.
+
+AI app idea: scan medicijn, krijg uitleg in simpele taal of eigen taal. Waarschuwingen voor interacties met andere medicijnen. Reminder voor innemen. Gratis voor minima. Zorgverzekeraar wil niet betalen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,20 @@
+<START_TEXT>
+wegenwacht monteur anwb regio noord
+
+ai bepaalt nu:
+- welke pechgeval eerst
+- geschatte reparatietijd
+- onderdelen voorraad
+- route planning
+
+maar oma alleen langs a1 in regen krijgt lage prioriteit. zakelijke klant met tesla gaat voor
+
+menselijkheid versus efficiency?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Nederlandse context zonder kritieke impact op fundamentele rechten.
+</REASONING>
+<END_EVALUATION>

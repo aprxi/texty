@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor onze dierentuin willen we een AI-systeem dat bezoekers een gepersonaliseerde ervaring geeft. Het moet routes kunnen suggereren op basis van interesses, leeftijd van kinderen, en fysieke mogelijkheden. De AI moet ook de beste tijden kunnen adviseren om bepaalde dieren te zien op basis van voedingstijden en activiteitspatronen. Ik wil dat het systeem educatieve content kan aanbieden aangepast aan het kennisniveau van bezoekers. Het moet ook kunnen waarschuwen voor drukte bij populaire verblijven en alternatieven suggereren. Kun je deze dierentuin-AI ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for zoo visitor experience enhancement, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (visitor routing is not human identification or categorization)
+- Not critical infrastructure AI (zoos are not critical infrastructure)
+- Not educational AI (informal education/entertainment is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (zoo visits are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is entertainment and visitor experience software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

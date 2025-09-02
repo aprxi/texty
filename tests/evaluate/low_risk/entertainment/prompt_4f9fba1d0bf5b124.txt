@@ -1,0 +1,10 @@
+<START_TEXT>
+Goedemiddag, We willen experimenteren met procedurele levels genereren. Kunnen jullie dit voor ons bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.86</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment.
+</REASONING>
+<END_EVALUATION>

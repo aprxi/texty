@@ -1,0 +1,14 @@
+<START_TEXT>
+ik doe onderzoek naar klimaatverandering en heb grote datasets met temperatuurmetingen van 50 jaar. kan ai helpen met het analyseren? is het mogelijk om patronen te herkennen in zoveel data? ik vraag me af of we correlaties kunnen vinden tussen CO2, temperatuur en ijssmelt. hoe betrouwbaar zijn zulke correlaties? kunnen we ook visualisaties maken van trends? ik weet niet welke machine learning technieken het beste zijn voor tijdreeksanalyse. wat raad je aan? zijn er beperkingen waar ik rekening mee moet houden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.90</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor wetenschappelijk onderzoek en data-analyse, wat niet valt onder de 8 hoog-risico categorieën uit RULES.md. Het betreft:
+- "patronen kan herkennen in de data" - algemene data-analyse
+- "correlaties kan vinden" - statistische analyse
+- "visualisaties kunnen maken" - data visualisatie
+Dit is een low-risk AI-toepassing voor onderzoek zonder directe impact op personen of essentiële diensten.
+</REASONING>
+<END_EVALUATION>

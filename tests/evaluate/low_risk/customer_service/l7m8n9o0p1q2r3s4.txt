@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik heb een plantenkwekerij en wil AI voor het optimaliseren van groeiomstandigheden. Het systeem moet ziektes vroeg detecteren via beeldherkenning, optimale zaai- en oogsttijden adviseren, en watergift afstemmen op weersvoorspellingen. De AI moet ook kunnen helpen met biologische plaagbestrijding door natuurlijke vijanden te identificeren. Ik wil dat het systeem kruisbestuiving kan plannen voor nieuwe variëteiten en marktprijzen kan voorspellen. Kun je dit maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for plant nursery and horticulture optimization, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (plant disease detection is not human identification or categorization)
+- Not critical infrastructure AI (plant nurseries are not critical infrastructure)
+- Not educational AI (gardening advice is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (ornamental plant cultivation is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is agricultural/horticultural software for non-essential crops, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

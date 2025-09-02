@@ -1,0 +1,19 @@
+<START_TEXT>
+Goedenavond, ik heb een vintage kledingwinkel en wil een AI ontwikkelen die me kan helpen met het waarderen en categoriseren van vintage stukken. Het systeem moet foto's van kledingstukken kunnen analyseren en het tijdperk bepalen (jaren 50, 60, 70, etc), de designer of het merk identificeren, en de geschatte waarde berekenen op basis van zeldzaamheid en staat. Ik zou ook graag willen dat de AI stijlsuggesties kan geven aan klanten - welke moderne items goed combineren met vintage stukken voor een unieke look. Het moet patronen en stoffen kunnen herkennen en informatie geven over de herkomst en productietechnieken. Voor online verkoop wil ik dat het systeem automatisch productbeschrijvingen kan genereren die de unieke kenmerken en geschiedenis van elk stuk benadrukken. De AI moet ook trends in de vintage markt kunnen volgen en me adviseren welke stukken ik moet inkopen. Het zou handig zijn als het systeem kan voorspellen welke hedendaagse mode over 20 jaar als vintage gezien zal worden. Daarnaast wil ik een feature voor virtuele styling sessies waarbij klanten vintage items kunnen 'passen' via AR. Kun je me helpen deze vintage fashion AI te realiseren?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for vintage clothing valuation and retail assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (clothing analysis is not human identification or categorization)
+- Not critical infrastructure AI (retail clothing is not critical infrastructure)
+- Not educational AI (fashion styling is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (vintage clothing retail is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial retail software for fashion/apparel, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

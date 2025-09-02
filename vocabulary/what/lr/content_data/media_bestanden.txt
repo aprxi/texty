@@ -1,0 +1,90 @@
+# Media File Data Types - LOW RISK WHAT
+# Media bestand gegevens
+# 
+# PATH: what/lr/content_data/media_bestanden.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General media file data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Media file data for entertainment applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be media file related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk entertainment classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Afspeel data
+afspeel data
+playback data
+media data
+media data
+audio data
+audio data
+video data
+video data
+media streaming data
+media streaming data
+afspeel geschiedenis
+playback history
+afspeel statistieken
+playback statistics
+afspeel metrieken
+playback metrics
+
+# Media bestand data
+media bestand
+media file
+audio bestand
+audio file
+video bestand
+video file
+muziek bestand
+music file
+film bestand
+movie file
+podcast bestand
+podcast file
+audioboek data
+audiobook data
+radio stream data
+radio stream data
+
+# Kwaliteit data
+video kwaliteit data
+video quality data
+audio kwaliteit data
+audio quality data
+bitrate data
+bitrate data
+compressie data
+compression data
+encoding data
+encoding data
+video resolutie data
+video resolution data
+frame rate data
+frame rate data
+kleurdiepte data
+color depth data
+dynamisch bereik data
+dynamic range data
+high definition data
+high definition data
+4K data
+4K data
+8K data
+8K data
+HDR data
+HDR data
+Dolby Vision data
+Dolby Vision data

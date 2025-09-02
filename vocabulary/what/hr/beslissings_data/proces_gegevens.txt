@@ -1,0 +1,131 @@
+# Process and Application Data - HIGH RISK WHAT
+# Proces en aanvraag gegevens
+#
+# PATH: what/hr/beslissings_data/proces_gegevens.txt
+# DIMENSION: WHAT (Subject matter/data being processed)
+# RISK: HIGH (Process data used in critical AI decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data, information, and content being processed by AI
+# THIS FILE contains: Process and application data for critical AI decisions
+#
+# VALIDATION RULES:
+# - Must be data/information processed by AI systems
+# - Must be high-risk decision-making data
+# - Must NOT include AI capabilities (FUNCTION dimension)
+# - Must NOT include affected people (TARGET dimension)
+# - Must NOT include activities/processes (CONTEXT dimension)
+#
+# FORMAT:
+# - Dutch terms first, English translation
+# - Focus on data/information being processed
+# - Maximum 40 terms per file
+#
+#====================================================================
+
+# Employment process data
+sollicitatie gegevens
+job application data
+cv informatie
+resume information
+prestatie gegevens
+performance data
+werkervaring informatie
+work experience information
+referentie gegevens
+reference data
+
+# Educational process data
+student dossier
+student record
+leerresultaat gegevens
+learning outcome data
+examen resultaten
+exam results
+competentie gegevens
+competency data
+toelating informatie
+admission information
+
+# Financial process data  
+kredietaanvraag gegevens
+credit application data
+financiële geschiedenis
+financial history
+inkomen informatie
+income information
+uitgaven patronen
+spending patterns
+verzekering gegevens
+insurance data
+
+# Healthcare process data
+medische dossier
+medical record
+diagnose gegevens
+diagnostic data
+behandeling informatie
+treatment information
+medicatie geschiedenis
+medication history
+symptoom gegevens
+symptom data
+
+# Legal process data
+juridische dossier
+legal case file
+bewijs materiaal
+evidence material
+rechtbank gegevens
+court data
+vonnis informatie
+verdict information
+straf gegevens
+sentence data
+
+# Social services process data
+uitkering aanvraag
+benefit application
+sociale gegevens
+social data
+ondersteuning informatie
+support information
+fraudeonderzoek gegevens
+fraud investigation data
+
+# Immigration process data
+visum aanvraag informatie
+visa application information
+verblijfsvergunning data
+residence permit data
+asiel procedure gegevens
+asylum procedure data
+naturalisatie documenten
+naturalization documents
+integratie test resultaten
+integration test results
+
+# Government service data
+burger service nummer registratie
+citizen service number registration
+identiteits verificatie data
+identity verification data
+overheids diensten aanvragen
+government service applications
+subsidie aanvraag gegevens
+subsidy application data
+vergunning procedure informatie
+permit procedure information
+
+# Security clearance data
+veiligheidsonderzoek resultaten
+security clearance results
+achtergrond screening data
+background screening data
+betrouwbaarheids verificatie
+reliability verification
+toegang autorisatie niveau
+access authorization level
+geheimhoudings classificatie
+confidentiality classification

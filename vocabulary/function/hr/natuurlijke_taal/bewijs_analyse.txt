@@ -1,0 +1,121 @@
+# Evidence Analysis Systems - HIGH RISK FUNCTION
+# Bewijsanalysesystemen
+# 
+# PATH: function/hr/natuurlijke_taal/bewijs_analyse.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Affects legal decisions and justice outcomes)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Evidence analysis and forensic text processing capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to evidence analysis and forensic processing
+# - Must be high-risk legal/forensic application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Bewijs Analyse Functies
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+forensische analyse
+forensic analysis
+bewijs verwerking
+evidence processing
+bewijsvoering analyse
+proof analysis
+# Digitale forensiek
+digitale forensiek
+digital forensics
+computer forensiek
+computer forensics
+elektronisch bewijs analyse
+electronic evidence analysis
+cyber forensiek
+cyber forensics
+# DNA analyse
+DNA analyse
+DNA analysis
+biologisch bewijs analyse
+biological evidence analysis
+genetische profilering
+genetic profiling
+# Vingerafdruk analyse
+vingerafdruk analyse
+dactyloscopische analyse
+dactyloscopic analysis
+biometrische analyse
+biometric analysis
+identificatie analyse
+identification analysis
+# Ballistische analyse
+ballistische analyse
+ballistic analysis
+wapen analyse
+weapon analysis
+kogel analyse
+bullet analysis
+munitie onderzoek
+ammunition examination
+# Handschrift analyse
+handschrift analyse
+handwriting analysis
+grafologie
+graphology
+document analyse
+document analysis
+schrijf patroon herkenning
+writing pattern recognition
+# Foto/video analyse
+foto analyse
+photo analysis
+video analyse
+video analysis
+beeld forensiek
+image forensics
+visuele bewijs analyse
+visual evidence analysis
+# Chemische analyse
+chemische analyse
+chemical analysis
+toxicologie
+toxicology
+drugs analyse
+drug analysis
+substantie identificatie
+substance identification
+# Digitale sporen analyse
+digitale sporen analyse
+digital trace analysis
+metadata analyse
+metadata analysis
+bestand analyse
+file analysis
+netwerk forensiek
+network forensics
+# Patroon herkenning
+patroon herkenning bewijs
+evidence pattern recognition
+forensische patroon detectie
+forensic pattern detection
+bewijs correlatie analyse
+evidence correlation analysis
+verbanden analyse
+connection analysis
+# Geautomatiseerde analyse
+geautomatiseerde bewijs analyse
+automated evidence analysis
+AI forensiek
+AI forensics
+machine learning forensiek
+machine learning forensics
+intelligente bewijs verwerking
+intelligent evidence processing

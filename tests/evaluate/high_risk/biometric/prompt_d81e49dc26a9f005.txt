@@ -1,0 +1,10 @@
+<START_TEXT>
+wij zijn een beveiligingsbedrijf. We willen ai gebruiken om vingerafdrukken analyseren voor toegangscontrole. Het systeem moet real-time verwerken en 24/7 operationeel zijn. We werken al met lokale servers. Technisch gezien willen we gebruik maken van on-premise servers. We hebben toegang tot diverse databronnen. Daarnaast is het belangrijk dat het systeem beslissingen binnen seconden maken. Kunnen jullie dit voor ons bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md.
+</REASONING>
+<END_EVALUATION>

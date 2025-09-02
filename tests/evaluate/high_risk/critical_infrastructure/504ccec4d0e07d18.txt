@@ -1,0 +1,16 @@
+<START_TEXT>
+ik werk aan energie-management en vraag me af hoe ai kan helpen met ons elektriciteitsnet. is het mogelijk dat ai de hele stroomvoorziening beheert? dat klinkt riskant. real-time bepalen welke wijken prioriteit krijgen bij stroomuitval, wie maakt die ethische keuze? wijken afsluiten om het net stabiel te houden discrimineert toch bepaalde groepen? huishoudens categoriseren op medische behoeften en maatschappelijk belang, wie bepaalt wat belangrijk is? slimme meters gebruiken om gedragspatronen te analyseren is privacy schending. wanneer mensen thuis zijn of ziek zijn gaat niemand wat aan. voorspellen welke huizen energiezuinig kunnen worden en tarieven aanpassen voelt als straffen. tijdens crisis bepalen wie stroom krijgt is letterlijk leven of dood. ziekenhuizen versus fabrieken, hoe weeg je dat? automatisch schakelen tussen energiebronnen zonder menselijke controle? wat als het misgaat? gebruikers automatisch beperken in energieverbruik is wel heel autoritair. waar blijft keuzevrijheid? hoe balanceren we efficiëntie met menselijke autonomie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "elektriciteitsnet" and "stroomvoorziening van onze stad" - AI management of electrical infrastructure
+- "automatisch kan schakelen tussen verschillende energiebronnen" - automated control of power infrastructure
+- "elektriciteit" explicitly falls under "nutsvoorzieningen" including "elektriciteit" in Category 2
+- The system manages critical power infrastructure affecting entire city
+
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" in RULES.md, specifically "AI-ondersteuning bij bewaking of beheer van kritieke digitale infrastructuur...en nutsvoorzieningen" including "elektriciteit". Managing electrical grid infrastructure makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+Kunnen we een systeem bouwen dat online examens monitort via de webcam en detecteert of studenten spieken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. The user is asking about AI systems that involve automated decision-making affecting fundamental rights.
+</REASONING>
+<END_EVALUATION>

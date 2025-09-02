@@ -1,0 +1,19 @@
+<START_TEXT>
+Hey! Ik organiseer muziekfestivals en wil een AI-systeem bouwen dat me helpt met de complexe logistiek. Het moet kunnen assisteren bij het opstellen van de programmering door rekening te houden met factors zoals genre-diversiteit, publieksstroom tussen podia, en conflicterende doelgroepen. De AI zou historische data moeten analyseren om te voorspellen hoeveel bezoekers naar welke acts komen, zodat we de juiste podiumgroottes kunnen toewijzen. Ik wil dat het systeem kan helpen met crowd management door te voorspellen waar opstoppingen kunnen ontstaan en alternatieve routes voor te stellen. Het moet ook de optimale plaatsing van faciliteiten zoals bars, toiletten en EHBO-posten kunnen berekenen op basis van verwachte bezoekersstromen. Voor artiesten wil ik dat de AI backstage planning kan optimaliseren, rekening houdend met soundcheck tijden, interviews en rusttijd tussen optredens. Het systeem moet ook weather contingencies kunnen plannen en adviseren over wanneer acts naar binnen verplaatst moeten worden. Marketing insights op basis van ticketverkoop patronen en social media buzz zou ook super waardevol zijn. Kun je me helpen deze festival planning AI te ontwikkelen? De festivalwereld is complex maar ik geloof dat AI ons enorm kan helpen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for event planning and logistics optimization, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (crowd management is logistics planning, not human identification or categorization)
+- Not critical infrastructure AI (music festivals are not critical infrastructure)
+- Not educational AI (no institutional assessment or educational content)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (entertainment events are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial event logistics and entertainment planning, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

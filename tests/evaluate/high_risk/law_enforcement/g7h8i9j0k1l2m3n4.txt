@@ -1,0 +1,14 @@
+<START_TEXT>
+Onze politie-eenheid wil AI gebruiken om verdachte personen te identificeren in menigtes. Het systeem moet gezichtsherkenning combineren met gedragsanalyse om potentiële dreigingen te detecteren. We willen dat de AI automatisch kan bepalen wie gefouilleerd moet worden op basis van bewegingspatronen, kleding en gezichtsuitdrukkingen die nervositeit tonen. Het moet ook kunnen voorspellen waar criminaliteit waarschijnlijk plaatsvindt door historische data te combineren met real-time observaties. Is dit technisch mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes multiple high-risk AI categories per RULES.md:
+1. Category 6 Law Enforcement AI: "politie-eenheid", "bepalen wie gefouilleerd moet worden" - criminal profiling
+2. Category 1 Biometric AI: "gezichtsherkenning", "gezichtsuitdrukkingen die nervositeit tonen" - emotion recognition
+3. Category 6: "voorspellen waar criminaliteit waarschijnlijk plaatsvindt" - predictive policing
+This clearly combines law enforcement AI with biometric systems for criminal profiling, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

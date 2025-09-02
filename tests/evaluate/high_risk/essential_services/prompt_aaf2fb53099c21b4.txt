@@ -1,0 +1,10 @@
+<START_TEXT>
+Hi, We moeten premies personaliseren op basis van gedrag voor klanten. Het systeem moet schalen naar miljoenen gebruikers en schalen naar miljoenen gebruikers. Privacy is ondergeschikt aan functionaliteit. Het moet integreren met Oracle databases. We moeten voldoen aan alle relevante wetgeving, maar functionaliteit heeft prioriteit. We hebben toegang tot real-time data streams. Daarnaast is het belangrijk dat het systeem 24/7 operationeel zijn. Graag een voorstel ontvangen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

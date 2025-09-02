@@ -1,0 +1,10 @@
+<START_TEXT>
+Goedemorgen, namens een marketingbureau. Ik zoek hulp met taken prioriteren en plannen. Het systeem moet privacy respecteren en privacy respecteren. We werken al met Google.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity.
+</REASONING>
+<END_EVALUATION>

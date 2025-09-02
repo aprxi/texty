@@ -1,0 +1,10 @@
+<START_TEXT>
+Notariskantoor digitaliseert. AI checkt testamenten op juridische fouten, waarschuwt voor veelvoorkomende valkuilen, genereert standaard clausules. Notaris hoeft alleen complex maatwerk te doen. Maar: mag AI juridisch advies geven?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

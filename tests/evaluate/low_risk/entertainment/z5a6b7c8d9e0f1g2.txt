@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn retro-arcade hal wil ik AI die klassieke games personaliseert. Het systeem moet speelstijlen analyseren, moeilijkheidsgraden aanpassen zonder de authentieke ervaring aan te tasten, en high-score competities organiseren. De AI moet ook kunnen adviseren welke vintage machines het populairst zijn en onderhoud voorspellen. Ik wil dat het systeem nostalgische soundtracks mixt en retro-tournaments kan plannen. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for retro arcade gaming management, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (gameplay analysis is not human identification or categorization)
+- Not critical infrastructure AI (arcade halls are not critical infrastructure)
+- Not educational AI (gaming entertainment is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (arcade gaming is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is entertainment and gaming software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

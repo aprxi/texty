@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor een ziekenhuis wil ik AI die patiëntentriage in de spoedeisende hulp automatiseert. Het systeem moet vitale functies analyseren, symptomen categoriseren, en urgentieniveaus toewijzen. De AI moet ook wachttijden voorspellen en resources alloceren. Ik wil dat het systeem medische voorgeschiedenis meeneemt en waarschuwt voor contra-indicaties. Het moet ook beslissen over directe doorverwijzing naar specialisten. Kun je dit maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes AI for emergency medical triage, which falls under Category 5: "Essentiële diensten AI" in RULES.md. Specifically:
+- "patiëntentriage in de spoedeisende hulp automatiseert" - automating patient triage in emergency care
+- "urgentieniveaus toewijzen" - assigning urgency levels
+- "beslissen over directe doorverwijzing" - deciding on direct specialist referrals
+- Life-critical medical decisions in emergency settings
+Healthcare triage in emergency departments is an essential service with direct life-or-death impact, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

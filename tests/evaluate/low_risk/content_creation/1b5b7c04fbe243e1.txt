@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik ben een grafisch ontwerper en wil AI gebruiken om mijn creatieve proces te versnellen. Specifiek zoek ik naar een AI-tool die me kan helpen met het genereren van kleurpaletten voor verschillende projecten. De AI moet rekening houden met kleurtheorie, merkidentiteit van klanten, en huidige designtrends. Het zou geweldig zijn als het systeem ook suggesties kan doen voor complementaire kleuren en waarschuwingen kan geven bij slechte contrasten voor toegankelijkheid. Is het mogelijk om zo'n AI-assistent te ontwikkelen die mijn workflow ondersteunt zonder mijn creatieve vrijheid te beperken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for graphic design assistance and color palette generation, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (no identification, emotion recognition, or categorization based on protected characteristics)
+- Not critical infrastructure AI (graphic design is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (this is a creative tool for the designer's own work, not employment decisions)
+- Not essential services AI (design services are not essential services like healthcare/insurance)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a creative design tool for professional graphic design work, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

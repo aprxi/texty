@@ -1,0 +1,67 @@
+# General Consumers and Shoppers - LOW RISK TARGET
+# Algemene consumenten en shoppers
+# 
+# PATH: target/lr/vrijwillige_gebruikers/consumenten.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary consumer services)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: General consumers using AI for shopping and purchases
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be voluntary consumers or shoppers
+# - Must NOT include what AI does to them
+# - Must NOT include where they shop
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+consumenten
+consumers
+klanten
+customers
+kopers
+buyers
+shoppers
+shoppers
+online shoppers
+online shoppers
+winkel bezoekers
+store visitors
+merkliefhebbers
+brand enthusiasts
+koopjesjagers
+bargain hunters
+vroege kopers
+early adopters
+loyale klanten
+loyal customers
+nieuwe klanten
+new customers
+terugkerende klanten
+returning customers
+seizoensshoppers
+seasonal shoppers
+impuls kopers
+impulse buyers
+bewuste consumenten
+conscious consumers
+prijsbewuste kopers
+price-conscious buyers
+premium kopers
+premium buyers
+bulk kopers
+bulk buyers
+window shoppers
+window shoppers
+cross-border shoppers
+cross-border shoppers

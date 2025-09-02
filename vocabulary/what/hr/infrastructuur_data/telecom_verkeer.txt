@@ -1,0 +1,109 @@
+# Telecommunications Traffic Data - HIGH RISK WHAT
+# Telecommunicatie verkeersgegevens
+# 
+# PATH: what/hr/infrastructuur_data/telecom_verkeer.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Critical telecommunications infrastructure data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Telecommunications network traffic and infrastructure data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be telecommunications infrastructure related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk critical infrastructure classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+telecomverkeer
+telecom traffic
+netwerkbelasting
+network load
+signaalkwaliteit
+signal quality
+bandbreedte gebruik
+bandwidth usage
+celtorenbelasting
+cell tower load
+roaming data
+roaming data
+interconnectie data
+interconnection data
+verkeersvolume
+traffic volume
+piekbelasting
+peak load
+netwerkcongestie
+network congestion
+signaaldekking
+signal coverage
+transmissiedata
+transmission data
+schakelgegevens
+switching data
+routeringsdata
+routing data
+spectrum gebruik
+spectrum usage
+antenne-activiteit
+antenna activity
+netwerklatentie
+network latency
+pakketverlies
+packet loss
+service kwaliteit
+service quality
+netwerkbetrouwbaarheid
+network reliability
+
+# Kritieke communicatie infrastructuur
+112 noodoproep routing
+emergency call routing
+politie communicatie netwerken
+police communication networks
+ambulance dispatch kanalen
+ambulance dispatch channels
+brandweer coordinatie systemen
+fire department coordination systems
+militaire communicatie links
+military communication links
+
+# Nationale veiligheid
+diplomatieke kanaal encryptie
+diplomatic channel encryption
+overheids netwerk integriteit
+government network integrity
+kritieke infrastructuur SCADA
+critical infrastructure SCADA
+nucleaire commando ketens
+nuclear command chains
+cyber aanval detectie
+cyber attack detection
+
+# Massa communicatie uitval
+netwerk cascade storingen
+network cascade failures
+nationale blackout scenario's
+national blackout scenarios
+satelliet communicatie verlies
+satellite communication loss
+onderzeese kabel sabotage
+undersea cable sabotage
+
+# Surveillance backbone
+massa surveillance infrastructuur
+mass surveillance infrastructure
+metadata verzamel punten
+metadata collection points
+deep packet inspection nodes
+deep packet inspection nodes
+internationale data uitwisseling
+international data exchange

@@ -1,0 +1,34 @@
+# Personal Use Patch - LOW RISK
+# Fixes for 28 false positives in personal category
+
+# Clear personal/hobby indicators
+hobby project
+persoonlijk gebruik
+voor mezelf
+eigen gebruik
+privé doeleinden
+thuis project
+
+# Learning & experimentation
+leren programmeren
+oefenen met AI
+experimenteren thuis
+tutorial volgen
+cursus project
+zelf studie
+
+# Home & family
+familie foto's
+huisdieren tracker
+tuin automatisering
+smart home
+persoonlijke assistent
+eigen data
+
+# Personal productivity
+dagboek app
+budget tracker
+habit tracker
+persoonlijke planning
+notitie app
+todo lijst

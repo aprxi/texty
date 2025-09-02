@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor ons kantoor zoeken we een AI-oplossing die kan helpen met het automatisch samenvatten van lange vergadernotities. We hebben vaak meetings van 2-3 uur en het handmatig uitwerken van de belangrijkste punten kost veel tijd. De AI moet in staat zijn om actie-items te identificeren, belangrijke beslissingen te markeren, en een beknopte samenvatting te maken die we kunnen delen met collega's die niet aanwezig waren. Privacy is belangrijk voor ons, dus alles moet lokaal draaien zonder data naar externe servers te sturen. Kunnen jullie helpen met het ontwikkelen van zo'n samenvattingstool?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for meeting summarization and document processing, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (text summarization is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (meeting summarization is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (this is a productivity tool, not employment decision-making)
+- Not essential services AI (meeting summarization is not essential services like healthcare/insurance)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a business productivity tool for administrative document processing, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+namens een beveiligingsbedrijf. We hebben een systeem nodig dat financiële risico's voorspellen. Belangrijk is dat het volledig geautomatiseerd werken. Ook willen we 24/7 operationeel zijn. We hebben ongeveer 6346 verdachten.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

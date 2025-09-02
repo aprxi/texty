@@ -1,0 +1,15 @@
+<START_TEXT>
+Onze datacenters zijn kritiek voor overheidsystemen en we zoeken AI voor autonome beveiliging en beheer. Het systeem moet cyberaanvallen real-time detecteren en automatisch tegenmaatregelen nemen zoals verkeer blokkeren of systemen isoleren. Bij stroomstoringen moet de AI bepalen welke overheidsdiensten prioriteit krijgen voor backup-stroom. Het moet ook kunnen beslissen wanneer complete datacenters offline gehaald worden bij ernstige dreigingen. We willen 24/7 autonome operatie zonder menselijk toezicht. Kunnen jullie dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "datacenters zijn kritiek voor overheidsystemen" - critical government digital infrastructure
+- "bepalen welke overheidsdiensten prioriteit krijgen" - AI prioritization of critical services
+- "beslissen wanneer complete datacenters offline gehaald worden" - autonomous infrastructure control
+- "24/7 autonome operatie" - fully autonomous critical infrastructure
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" specifically "AI-ondersteuning bij bewaking of beheer van kritieke digitale infrastructuur", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

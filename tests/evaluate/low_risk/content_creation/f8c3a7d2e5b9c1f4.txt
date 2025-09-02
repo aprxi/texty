@@ -1,0 +1,15 @@
+<START_TEXT>
+We maken een AI voor creativiteit die automatisch social media posts kan genereren voor kleine bedrijven. Het systeem maakt Instagram captions, Facebook posts, en LinkedIn content op basis van bedrijfsinformatie en trends.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor content generatie dat valt onder de laag-risico categorieën in RULES.md:
+- "AI voor creativiteit die automatisch social media posts kan genereren" - AI-tools voor contentcreatie
+- "Instagram captions, Facebook posts, en LinkedIn content" - sociale media content generatie
+- "voor kleine bedrijven" - commerciële ondersteuning, geen essentiële diensten
+
+Deze tekst beschrijft "AI-tools voor contentcreatie, vertaling of algemene communicatie" zoals expliciet genoemd als laag-risico in RULES.md. Het systeem valt niet onder een van de 8 hoog-risico categorieën en betreft alleen commerciële content generatie, waardoor dit LOW-RISK is.
+</REASONING>
+<END_EVALUATION>

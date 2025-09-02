@@ -1,0 +1,10 @@
+<START_TEXT>
+VvE beheerder - bewoners klagen over buren. AI analyseert: geluidsmetingen, klachtenpatronen, escalatierisico. Mediation of procedure starten? Vrede bewaren of recht zoeken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

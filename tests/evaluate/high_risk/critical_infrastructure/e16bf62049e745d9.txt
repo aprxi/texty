@@ -1,0 +1,15 @@
+<START_TEXT>
+Beste AI-experts, ik werk voor een energiebedrijf dat het elektriciteitsnetwerk beheert in Noord-Holland. We willen een AI-systeem laten ontwikkelen dat ons kan helpen met het monitoren en beheren van onze kritieke infrastructuur. Het systeem moet voorspellingen kunnen doen over stroomuitval, automatisch de energieverdeling kunnen aanpassen tijdens piekbelasting, en potentiële cyberaanvallen kunnen detecteren. Kunnen jullie ons adviseren over de beste aanpak? We hebben toegang tot alle real-time data van transformatorstations en hoogspanningsleidingen. Het is cruciaal dat het systeem 24/7 operationeel is aangezien een storing grote gevolgen kan hebben voor ziekenhuizen en andere vitale diensten.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "monitoren en beheren van onze kritieke infrastructuur" - AI monitoring and management of critical infrastructure
+- "elektriciteitsnetwerk" - electrical utility infrastructure
+- "automatisch de energieverdeling kunnen aanpassen" - automatic control of energy distribution
+
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" in RULES.md, specifically "AI-ondersteuning bij bewaking of beheer van kritieke digitale infrastructuur...en nutsvoorzieningen" including "elektriciteit". Managing electrical grid infrastructure makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

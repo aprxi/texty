@@ -1,0 +1,10 @@
+<START_TEXT>
+ik werk bij een rechtbank en we willen kijken of ai kan helpen met team performance analyseren. is dit mogelijk zonder privacy problemen? ik vraag me af wat voor data we nodig hebben en of medewerkers dit wel accepteren. mag dit volgens de cao? welke methoden werken het beste voor dit soort analyses?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

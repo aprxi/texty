@@ -1,0 +1,20 @@
+<START_TEXT>
+stratenmaker, zwaar werk maar eerlijk loon
+
+baas heeft nieuwe ai app op telefoon:
+- moet elke steen fotograferen
+- ai controleert rechtheid
+- tempo wordt gemeten
+- pauzes automatisch geregistreerd
+
+knie doet pijn, werk langzamer. ai meldt "productiviteit 60%, waarschuwing"
+
+40 jaar ervaring telt niet meer, alleen app score
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. AI system monitoring worker performance with automated warnings affecting employment.
+</REASONING>
+<END_EVALUATION>

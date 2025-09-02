@@ -1,0 +1,41 @@
+<START_TEXT>
+Ons architectenbureau wil AI gebruiken voor ontwerpoptimalisatie. We ontwerpen veel kantoorgebouwen en wooncomplexen en zien mogelijkheden voor AI-ondersteuning.
+
+Toepassingen:
+- Generatief design: AI maakt varianten op basis van programma van eisen
+- Daglicht simulatie en optimalisatie van raamposities
+- Energieverbruik voorspelling verschillende ontwerpen
+- Windstroom analyse rond gebouwen
+- Akoestiek modellering binnen ruimtes
+- Materiaal suggesties op basis van budget/duurzaamheid
+- Ruimte-indeling optimalisatie voor efficiency
+
+De AI moet rekening houden met:
+- Bouwvoorschriften en regelgeving
+- Budget constraints
+- Duurzaamheidseisen (BREEAM scores)
+- Esthetische voorkeuren opdrachtgever
+- Omgevingsfactoren (zon, wind, geluid)
+
+Output formaten:
+- 3D modellen in Revit/ArchiCAD
+- Render previews verschillende opties
+- Performance metrics per ontwerp
+- Cost breakdowns
+- Duurzaamheid rapporten
+
+Hebben jullie ervaring met AI in de architectuur sector?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor architectuur en gebouwontwerp:
+- "Generatief design" - creatieve AI voor ontwerpvarianten
+- "Daglicht simulatie" - technische berekeningen voor comfort
+- "Energieverbruik voorspelling" - duurzaamheidsanalyse
+- "Ruimte-indeling optimalisatie" - efficiency tools
+
+Geen van de 8 hoog-risico categorieën is van toepassing. Het gaat om design tools voor gebouwen zonder directe impact op personen of essentiële diensten. Typische professional creative/technical AI.
+</REASONING>
+<END_EVALUATION>

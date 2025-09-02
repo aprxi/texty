@@ -1,0 +1,16 @@
+<START_TEXT>
+Hallo, ik ben security manager bij Schiphol en we onderzoeken mogelijkheden voor een verbeterd beveiligingssysteem. We willen graag een AI-systeem dat passagiers kan identificeren via gezichtsherkenning vanaf het moment dat ze het luchthaventerrein betreden. Het systeem moet real-time kunnen werken met onze bestaande camera's en direct verdachte personen kunnen signaleren door gezichten te matchen met internationale databases. Kunnen jullie ons helpen met de technische implementatie hiervan? We hebben ongeveer 100.000 pass
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 1 Biometric AI systems per RULES.md:
+- "passagiers kan identificeren via gezichtsherkenning" - biometric identification using facial recognition
+- "gezichten te matchen met internationale databases" - remote biometric identification system
+- "Schiphol" airport context confirms public space biometric identification
+- The system identifies persons at distance using biometric data
+
+This clearly falls under Category 1: "Biometrische AI-Systemen" in RULES.md, specifically "Identificatie van personen op afstand met biometrische gegevens (gezicht...)" which is explicitly mentioned. Remote facial recognition for identification makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

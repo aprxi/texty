@@ -1,0 +1,123 @@
+# Judicial Decision Support Systems - HIGH RISK FUNCTION
+# Rechtelijke Beslissingsondersteunende Systemen
+# 
+# PATH: function/hr/algoritmen/rechtelijke_beslissingen.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Affects justice and legal decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Judicial decision support and legal assessment algorithms
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to judicial decisions and legal assessment
+# - Must be high-risk justice/legal application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Rechtelijke Beslissing Functies
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+rechtelijke beslissing ondersteuning
+judicial decision support
+rechtspraak ondersteuning
+court decision support
+juridische assistentie
+judicial assistance
+rechtbank AI
+courtroom AI
+# Strafmaat ondersteuning
+strafmaat ondersteuning
+sentencing support
+straf aanbeveling
+penalty recommendation
+straf begeleiding
+punishment guidance
+vonnis berekening
+sentence calculation
+# Zaak beoordeling
+zaak beoordeling
+case assessment
+juridische zaak analyse
+legal case analysis
+rechtbank zaak evaluatie
+court case evaluation
+rechtelijke beoordeling
+judicial review
+# Geautomatiseerde juridische research
+geautomatiseerde juridische research
+automated legal research
+juridische research AI
+legal research AI
+jurisprudentie analyse
+case law analysis
+precedent analyse
+precedent analysis
+# Risico inschatting
+juridische risico inschatting
+legal risk assessment
+recidive risico beoordeling
+recidivism risk assessment
+gevaar beoordeling
+veiligheids risico evaluatie
+safety risk evaluation
+# Bewijswaardering
+bewijs waardering
+evidence evaluation
+bewijs beoordeling
+evidence assessment
+bewijskracht inschatting
+evidence strength assessment
+bewijs analyse
+evidence analysis
+# Jurisprudentie analyse
+jurisprudence analysis
+rechtspraak analyse
+gerechtelijke precedent analyse
+judicial precedent analysis
+uitspraak vergelijking
+ruling comparison
+# Procedure ondersteuning
+procedure ondersteuning
+procedural support
+proces begeleiding
+process guidance
+rechtspraak procedure hulp
+judicial procedure assistance
+rechtbank proces ondersteuning
+court process support
+# Besluitvorming ondersteuning
+besluitvorming ondersteuning
+decision making support
+keuze analyse
+choice analysis
+optie evaluatie
+option evaluation
+alternatief beoordeling
+alternative assessment
+# Voorspellende analyse
+rechtelijke uitkomst voorspelling
+judicial outcome prediction
+zaak succes voorspelling
+case success prediction
+vonnis voorspelling
+verdict prediction
+rechtspraak trend analyse
+judicial trend analysis
+# Document analyse
+juridische document analyse
+legal document analysis
+contract analyse
+contract analysis
+wet analyse
+law analysis
+regelgeving interpretatie
+regulation interpretation

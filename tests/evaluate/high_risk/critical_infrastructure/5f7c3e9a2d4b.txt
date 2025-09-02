@@ -1,0 +1,13 @@
+<START_TEXT>
+Help ons een AI ontwikkelen voor verkeersmanagement die realtime beslissingen neemt over verkeerslichten en wegafsluitingen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 2: "Kritieke Infrastructuur AI" volgens RULES.md:
+- "AI ontwikkelen voor verkeersmanagement" - AI voor beheer van wegverkeer
+- "realtime beslissingen neemt over verkeerslichten en wegafsluitingen" - directe controle over kritieke verkeersinfrastructuur
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

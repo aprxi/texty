@@ -1,0 +1,148 @@
+# AI Users and Interaction Roles - LOW RISK TARGET
+# AI gebruikers en interactie rollen
+# 
+# PATH: target/lr/vrijwillige_gebruikers/ai_gebruikers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary AI interaction)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Voluntary AI users and people interacting with AI
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be voluntary AI users
+# - Must NOT include what AI does to them
+# - Must NOT include where they use AI
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+ai gebruikers
+AI users
+prompt schrijvers
+prompt writers
+ai assistenten gebruikers
+AI assistant users
+chatbot gebruikers
+chatbot users
+
+# Generative AI gebruikers
+tekst generatie gebruikers
+text generation users
+beeld generatie gebruikers
+image generation users
+code generatie gebruikers
+code generation users
+muziek ai gebruikers
+music AI users
+video generatie gebruikers
+video generation users
+
+# Prompt engineering
+prompt engineers
+prompt optimaliseerders
+prompt optimizers
+prompt testers
+prompt template makers
+prompt bibliotheek beheerders
+prompt library managers
+
+# AI tool gebruikers
+ai schrijfassistent gebruikers
+AI writing assistant users
+ai vertaal gebruikers
+AI translation users
+ai samenvatting gebruikers
+AI summarization users
+ai transcriptie gebruikers
+AI transcription users
+ai analyse gebruikers
+AI analysis users
+
+# Conversationele AI
+chatgpt gebruikers
+ChatGPT users
+ai conversatie partners
+AI conversation partners
+virtuele assistent gebruikers
+virtual assistant users
+ai mentor gebruikers
+AI mentor users
+ai tutor gebruikers
+AI tutor users
+
+# Creatieve AI gebruikers
+ai kunst makers
+AI art creators
+ai muziek componisten
+AI music composers
+ai verhaal schrijvers
+AI story writers
+ai content creators
+AI content creators
+ai remix makers
+AI remix makers
+
+# Professionele AI gebruikers
+ai onderzoek assistenten
+AI research assistants
+ai data analysten
+AI data analysts
+ai rapport schrijvers
+AI report writers
+ai presentatie makers
+AI presentation makers
+ai brainstorm partners
+AI brainstorm partners
+
+# AI feedback gevers
+ai output beoordelaars
+AI output evaluators
+ai kwaliteit testers
+AI quality testers
+ai bias reporters
+AI bias reporters
+ai verbetering suggereerders
+AI improvement suggesters
+ai training feedback gevers
+AI training feedback providers
+
+# Educatieve AI gebruikers
+ai leer assistenten
+AI learning assistants
+ai huiswerk helpers
+AI homework helpers
+ai uitleg vragers
+AI explanation seekers
+ai concept verkenners
+AI concept explorers
+ai oefening gebruikers
+AI practice users
+
+# Persoonlijke AI gebruikers
+ai dagboek gebruikers
+AI journal users
+ai planning assistenten
+AI planning assistants
+ai gezondheid trackers
+AI health trackers
+ai fitness coaches
+AI fitness coaches
+ai meditatie begeleiders
+AI meditation guides
+
+# AI integratie gebruikers
+api gebruikers
+API users
+plugin gebruikers
+plugin users
+ai workflow bouwers
+AI workflow builders

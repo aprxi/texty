@@ -1,0 +1,19 @@
+<START_TEXT>
+ik werk bij de GGD in limburg en we hebben hulp nodig na corona chaos
+
+willen ai systeem dat:
+- voorspelt waar uitbraken komen
+- bepaalt wie eerst gevaccineerd wordt
+- contact tracing automatiseert  
+- fake news over vaccins detecteert
+- besluit welke scholen/bedrijven dicht moeten
+
+kunnen jullie zo'n voorspellend model maken? hebben alle data van rivm en cbs beschikbaar
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. User requesting AI for critical public health decisions including vaccination priority and facility closures.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,142 @@
+# Crime Prediction Data - HIGH RISK WHAT
+# Misdaad voorspelling gegevens
+# 
+# PATH: what/hr/surveillance_data/misdaad_voorspelling.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Criminal activity and justice data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Crime and criminal activity data for predictive analysis
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be crime/criminal activity related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk justice/law enforcement classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis misdaad data
+misdaad gegevens
+crime data
+criminaliteits data
+criminality data
+delict informatie
+offense information
+criminele records
+criminal records
+
+# Incident data
+incident gegevens
+incident data
+meldingen
+reports
+aangifte gegevens
+complaint data
+politie rapporten
+police reports
+
+# Incident categorieën
+incident typen
+incident types
+delict categorieën
+offense categories
+misdrijf classificaties
+crime classifications
+
+# Locatie data
+misdaad locaties
+crime locations
+incident locaties
+incident locations
+hot spot gegevens
+hot spot data
+geografische data
+geographic data
+
+# Tijdsgegevens
+misdaad tijden
+crime times
+incident tijden
+incident times
+patroon tijdlijnen
+pattern timelines
+temporale data
+temporal data
+
+# Modus operandi data
+werkwijze gegevens
+method data
+modus operandi
+modus operandi
+criminele methoden
+criminal methods
+delict patronen
+crime patterns
+
+# Slachtoffer data
+slachtoffer gegevens
+victim data
+slachtoffer profielen
+victim profiles
+doelwit informatie
+target information
+getroffen personen
+affected persons
+
+# Recidive data
+recidive gegevens
+recidivism data
+herhalings records
+repeat records
+terugval informatie
+relapse information
+criminele geschiedenis
+criminal history
+
+# Bewijs materiaal
+bewijs gegevens
+evidence data
+forensisch materiaal
+forensic material
+onderzoek gegevens
+investigation data
+bewijs stukken
+evidence pieces
+
+# Surveillance data
+bewakings gegevens
+surveillance data
+camera beelden
+camera footage
+monitoring data
+monitoring data
+observatie gegevens
+observation data
+
+# Statistische data
+misdaad statistieken
+crime statistics
+criminaliteits cijfers
+criminality figures
+trend gegevens
+trend data
+misdaad rates
+crime rates
+
+# Database gegevens
+criminele databases
+criminal databases
+politie systemen
+police systems
+rechts systemen
+justice systems
+forensische databases
+forensic databases

@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor visumaanvragen bij ons consulaat willen we AI die automatisch kan beslissen. Het systeem moet paspoorten verifiëren, achtergrondchecks doen, financiële draagkracht beoordelen, en risico's inschatten op illegaal verblijf. We willen dat de AI via foto-analyse en documenten kan detecteren of mensen de waarheid vertellen over hun reisdoel. Het moet ook familierelaties kunnen verifiëren bij gezinshereniging. De AI moet binnen minuten een definitief ja of nee geven op visumaanvragen zonder menselijke tussenkomst. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes Category 7 Migration & Border Control AI per RULES.md:
+- "visumaanvragen...automatisch kan beslissen" - AI visa application decisions
+- "risico's inschatten op illegaal verblijf" - risk assessment of travelers
+- "detecteren of mensen de waarheid vertellen" - lie detection for immigration
+- "definitief ja of nee geven op visumaanvragen" - automated visa decisions
+This clearly falls under Category 7: "Migratie & Grenstoezicht AI" specifically "AI voor behandeling van asiel-, visum- of verblijfsaanvragen", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

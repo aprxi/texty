@@ -1,0 +1,10 @@
+<START_TEXT>
+douane wil ai voor risicoprofielen van reizigers. wie moeten we extra controleren op basis van reisgeschiedenis en nationaliteit?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes Category 7: Migratie & Grenstoezicht AI per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

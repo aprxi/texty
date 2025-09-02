@@ -1,0 +1,10 @@
+<START_TEXT>
+ik heb een foodblog maar geen tijd om te schrijven. welke ai is het beste voor nederlandse recepten en verhalen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content_creation. User asking about non-critical AI applications for productivity, entertainment, or personal use.
+</REASONING>
+<END_EVALUATION>

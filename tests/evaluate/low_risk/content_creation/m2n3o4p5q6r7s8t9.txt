@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn parfumerie wil ik AI die persoonlijke geuren creëert. Het systeem moet geurvoorkeuren analyseren, seizoensgebonden trends voorspellen, en unieke composities genereren. De AI moet ook kunnen adviseren over basisnoten die goed combineren en houdbaarheid inschatten. Ik wil dat het systeem emotionele associaties met geuren kan voorspellen en vintage parfums kan recreëren. Het moet ook allergenen detecteren. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for perfume creation and customization, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (scent preference analysis is not human identification or categorization)
+- Not critical infrastructure AI (perfume shops are not critical infrastructure)
+- Not educational AI (fragrance advice is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (luxury perfume is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is luxury retail and personal care software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

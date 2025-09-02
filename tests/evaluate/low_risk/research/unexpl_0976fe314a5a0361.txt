@@ -1,0 +1,10 @@
+<START_TEXT>
+anti-5g activist - straling macht ziek. ai: metingen, gezondheidsdata, bewijs verzamelen. wetenschap of complot?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for research. Non-critical personal or business application.
+</REASONING>
+<END_EVALUATION>

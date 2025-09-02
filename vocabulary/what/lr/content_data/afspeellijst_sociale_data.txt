@@ -1,0 +1,92 @@
+# Playlist and Social Media Data Types - LOW RISK WHAT
+# Afspeellijst en sociale media gegevens
+# 
+# PATH: what/lr/content_data/afspeellijst_sociale_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Playlist and social media content data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Playlist and social media data for entertainment applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be playlist and social media related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk entertainment classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Afspeel lijsten data
+afspeellijst data
+playlist data
+wachtrij data
+queue data
+recent afgespeeld
+recently played
+favorieten
+favorites
+gelikte nummers
+liked songs
+bladwijzers
+bookmarks
+aangepaste afspeellijsten
+custom playlists
+slimme afspeellijsten
+smart playlists
+collaboratieve afspeellijsten
+collaborative playlists
+gedeelde afspeellijsten
+shared playlists
+
+# Sociale data
+sociaal deel data
+social sharing data
+vriend activiteit data
+friend activity data
+samen luister data
+listening together data
+kijk feestje data
+watch party data
+groep luister data
+group listening data
+commentaar data
+comment data
+beoordelings data
+rating data
+like data
+like data
+sociale aanbevelingen data
+social recommendations data
+trending inhoud data
+trending content data
+virale inhoud data
+viral content data
+
+# Personalisatie data
+gepersonaliseerde data
+personalized data
+gebruiker voorkeuren
+user preferences
+luister geschiedenis
+listening history
+kijk geschiedenis
+viewing history
+aanbevelings data
+recommendations data
+muziek stemming data
+music mood data
+media activiteit data
+media activity data
+genre voorkeuren
+genre preferences
+artiest voorkeuren
+artist preferences
+inhoud filter data
+content filtering data

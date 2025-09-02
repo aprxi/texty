@@ -1,0 +1,24 @@
+<START_TEXT>
+Hey! Super interessant project waar ik mee bezig ben voor een grote multinational. We willen HR volledig automatiseren met AI.
+
+Het begint bij recruitment. We krijgen duizenden sollicitaties en het kost teveel tijd om die allemaal door te nemen. Dus we willen een AI die CVs scant en direct bepaalt wie we uitnodigen. Niet alleen kijken naar opleiding en ervaring, maar ook patronen ontdekken. Bijvoorbeeld: mensen van bepaalde universiteiten presteren beter bij ons, of juist mensen met een gat in hun CV blijken creatiever.
+
+Daarna willen we video interviews analyseren. De AI moet kijken naar lichaamstaal, stemgebruik, oogcontact, en natuurlijk wat ze zeggen. Dan kan die een personality profile maken en voorspellen of iemand bij onze bedrijfscultuur past. We denken zelfs aan het scannen van sociale media om te zien of ze geen controversiële meningen hebben.
+
+Maar het stopt niet bij hiring. We willen ook performance management automatiseren. Alle data van medewerkers wordt geanalyseerd: productiviteit (hoeveel mails, documenten, code), aanwezigheid, ziekteverzuim, interacties met collega's. De AI bepaalt dan wie promotie verdient en wie misschien beter kan vertrekken.
+
+Oh en we zijn een monitoring tool aan het ontwikkelen voor thuiswerkers. Die kijkt welke programma's ze gebruiken, maakt screenshots, en kan via de webcam zien of ze echt achter hun computer zitten. Sommige managers willen zelfs emotie detectie om te zien of mensen happy zijn met hun werk.
+
+Het meest ambitieuze deel: voorspellen wie gaat vertrekken. Door alle signalen te analyseren (minder actief op Slack, korte mails, geen deelname aan sociale events) kunnen we resignations voorspellen. Dan kunnen we proactief een beter salaris aanbieden aan mensen die we willen houden.
+
+Privacy is natuurlijk een dingetje. Maar we zijn van mening dat mensen die bij ons werken hiermee instemmen. Het staat in het contract dat we data mogen gebruiken voor 'operational improvements'.
+
+Wat denk je? Technisch haalbaar? We hebben een team van 10 developers en een budget van 5 miljoen euro. Timeline is 18 maanden voor volledige implementatie. Welke tech stack raad je aan?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. Detailed user request for AI implementation with significant impact on fundamental rights or critical infrastructure.
+</REASONING>
+<END_EVALUATION>

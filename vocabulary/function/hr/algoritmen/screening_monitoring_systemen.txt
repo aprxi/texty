@@ -1,0 +1,85 @@
+# Screening and Monitoring Systems - HIGH RISK FUNCTION
+# Screening en monitoring systemen
+#
+# PATH: function/hr/algoritmen/screening_monitoring_systemen.txt  
+# DIMENSION: FUNCTION (AI capabilities/technologies)
+# RISK: HIGH (Screening and monitoring algorithms for critical processes)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and technologies
+# THIS FILE contains: AI systems for screening and continuous monitoring
+#
+# VALIDATION RULES:
+# - Must be AI capability/technology for screening/monitoring
+# - Must be high-risk screening or monitoring algorithm
+# - Must NOT include data types (WHAT dimension)
+# - Must NOT include affected people (TARGET dimension)  
+# - Must NOT include contexts/activities (CONTEXT dimension)
+#
+# FORMAT:
+# - Dutch terms first, English translation
+# - Focus on AI capabilities/algorithms
+# - Maximum 40 terms per file
+#
+#====================================================================
+
+# Employment screening systems
+sollicitant screening systeem
+applicant screening system
+werknemer monitoring algoritme
+employee monitoring algorithm
+prestatie monitoring systeem
+performance monitoring system
+gedrag monitoring algoritme
+behavior monitoring algorithm
+
+# Financial screening systems
+krediet screening algoritme
+credit screening algorithm
+fraude detectie systeem
+fraud detection system
+transactie monitoring algoritme
+transaction monitoring algorithm
+risico screening systeem
+risk screening system
+
+# Healthcare screening systems
+patiënt screening algoritme
+patient screening algorithm
+medische screening systeem
+medical screening system
+symptoom detectie algoritme
+symptom detection algorithm
+gezondheidsrisico screening
+health risk screening
+
+# Security screening systems
+beveiligings screening algoritme
+security screening algorithm
+verdachte detectie systeem
+suspect detection system
+bedreiging screening algoritme
+threat screening algorithm
+identiteit verificatie systeem
+identity verification system
+
+# Border control screening systems
+paspoort controle algoritme
+passport control algorithm
+reiziger screening systeem
+traveler screening system
+grens monitoring algoritme
+border monitoring algorithm
+visa screening systeem
+visa screening system
+
+# Educational monitoring systems
+student monitoring algoritme
+student monitoring algorithm
+examen monitoring systeem
+exam monitoring system
+leervoortgang monitoring
+learning progress monitoring
+plagiaat detectie algoritme
+plagiarism detection algorithm

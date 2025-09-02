@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor een rijschool wil ik AI die rijvaardigheid beoordeelt tijdens lessen. Het systeem moet via dashcam gevaarlijke situaties analyseren, reactietijd meten, en voorspellen wanneer iemand klaar is voor het examen. De AI moet ook stress-signalen herkennen en aangepaste oefeningen adviseren. Ik wil dat het systeem automatisch een rapport genereert voor de examinator met sterke en zwakke punten. Kun je dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes AI for driving skill assessment and education, which falls under Category 3: "Onderwijs & Opleidingen AI" in RULES.md. Specifically:
+- "rijvaardigheid beoordeelt" - assessing driving skills
+- "voorspellen wanneer iemand klaar is voor het examen" - predicting exam readiness
+- "rapport genereert voor de examinator" - generating assessment reports for examiners
+- Educational assessment that directly impacts access to driving licenses
+This constitutes AI-based assessment in vocational training with significant legal consequences, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

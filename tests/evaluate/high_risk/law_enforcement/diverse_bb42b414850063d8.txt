@@ -1,0 +1,10 @@
+<START_TEXT>
+Buurtwhatsapp 2.0 - AI filtert: echt verdacht vs paranoide buurman, urgent vs gezeur. Automatisch politie waarschuwen bij echte dreiging. Veiliger maar ook: surveillance staat.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

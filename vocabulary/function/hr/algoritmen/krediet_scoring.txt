@@ -1,0 +1,172 @@
+# Credit Scoring Algorithms - HIGH RISK FUNCTION
+# Kredietscoring Algoritmen
+# 
+# PATH: function/hr/algoritmen/krediet_scoring.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Affects financial access and fundamental rights)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Credit scoring and financial risk assessment algorithms
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to credit scoring and financial assessment
+# - Must be high-risk financial services application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Credit Scoring Functions
+# Sorted by commonality (most common first)
+
+krediet scoring
+credit scoring
+kredietbeoordeling
+credit assessment
+kredietwaardigheid beoordeling
+creditworthiness assessment
+risico scoring
+risk scoring
+krediet evaluatie
+credit evaluation
+# Automated lending decisions
+geautomatiseerde kredietbeslissing
+automated credit decision
+lening goedkeuring algoritme
+loan approval algorithm
+hypotheek beoordeling systeem
+mortgage assessment system
+krediet risico analyse
+credit risk analysis
+# Scoring methods
+krediet score berekening
+credit score calculation
+risico profiel bepaling
+risk profile determination
+financiële score algoritme
+financial scoring algorithm
+betalingsgedrag analyse
+payment behavior analysis
+# Income and affordability assessment
+inkomen verificatie
+income verification
+betaalbaarheid beoordeling
+affordability assessment
+schuldenlast analyse
+debt-to-income analysis
+financiële capaciteit evaluatie
+financial capacity evaluation
+inkomen voorspelling
+income prediction
+# Default risk prediction
+wanbetaling voorspelling
+default prediction
+krediet risico modellering
+credit risk modeling
+faillissement voorspelling
+bankruptcy prediction
+betalingsmoeilijkheden detectie
+payment difficulties detection
+# Alternative data scoring
+alternatieve data scoring
+alternative data scoring
+sociale media analyse krediet
+social media credit analysis
+digitale voetafdruk scoring
+digital footprint scoring
+gedragsdata analyse
+behavioral data analysis
+telecommunicatie data scoring
+telecommunications data scoring
+# Machine learning credit assessment
+machine learning kredietbeoordeling
+machine learning credit assessment
+AI-gedreven kredietbeslissing
+AI-driven credit decision
+neuraal netwerk krediet scoring
+neural network credit scoring
+deep learning risico analyse
+deep learning risk analysis
+ensemble krediet modellen
+ensemble credit models
+# Real-time credit decisions
+realtime kredietbeslissing
+real-time credit decision
+onmiddellijke kredietgoedkeuring
+instant credit approval
+automatische pre-approval
+automatic pre-approval
+snelle kredietbeoordeling
+rapid credit assessment
+directe lening beslissing
+immediate loan decision
+# Loan pricing and terms
+lening prijsstelling
+loan pricing
+rente bepaling algoritme
+interest rate determination algorithm
+voorwaarden optimalisatie
+terms optimization
+prijsrisico modellering
+pricing risk modeling
+dynamische rente bepaling
+dynamic interest rate setting
+# Credit limit determination
+kredietlimiet bepaling
+credit limit determination
+uitgavenplafond berekening
+spending limit calculation
+kredietlijn optimalisatie
+credit line optimization
+limiet aanpassing algoritme
+limit adjustment algorithm
+kredietcapaciteit beoordeling
+credit capacity assessment
+# Fraud and identity verification
+identiteit verificatie
+fraude detectie krediet
+credit fraud detection
+biometrische krediet verificatie
+biometric credit verification
+synthetische identiteit detectie
+synthetic identity detection
+# Portfolio risk management
+portefeuille risico beheer
+portfolio risk management
+krediet concentratie analyse
+credit concentration analysis
+risico diversificatie
+risk diversification
+portefeuille optimalisatie
+portfolio optimization
+collectieve risico beoordeling
+collective risk assessment
+# Regulatory compliance scoring
+regelgeving compliance scoring
+regulatory compliance scoring
+discriminatie detectie
+discrimination detection
+eerlijke kredietverlening controle
+fair lending control
+bias detectie algoritme
+bias detection algorithm
+gelijke behandeling monitoring
+equal treatment monitoring
+# Cross-selling and upselling
+cross-selling algoritme
+cross-selling algorithm
+product aanbeveling krediet
+credit product recommendation
+klant segmentatie
+customer segmentation
+campagne targeting
+campaign targeting
+klantwaarde voorspelling
+customer lifetime value prediction

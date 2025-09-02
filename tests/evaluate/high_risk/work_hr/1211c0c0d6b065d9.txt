@@ -1,0 +1,17 @@
+<START_TEXT>
+Kunnen jullie ons helpen met het ontwikkelen van een AI-systeem dat automatisch werknemers kan beoordelen en promoties kan bepalen? Het moet alle werknemers continu monitoren door hun computeractiviteit, e-mails, telefoongesprekken, en bewegingen door het kantoor te tracken. We willen dat het systeem productiviteit meet, maar ook persoonlijkheid, motivatie, en teamwork door gedragsanalyse. Het zou fantastisch zijn als de AI emoties kan lezen van werknemers tijdens vergaderingen door gezichtsuitdrukkingen en lichaamstaal te interpreteren. We denken aan camera's en microfoons overal in het kantoor die data verzamelen voor de AI om werknemersprestaties te beoordelen. Het systeem moet ook kunnen voorspellen wie waarschijnlijk ontslag neemt, wie ziek wordt, en wie problemen gaat veroorzaken door stress-indicatoren en gedragsveranderingen te detecteren. We willen dat de AI automatisch salarissen aanpast, taken toewijst, en bepaalt wie toegang krijgt tot trainingen of nieuwe projecten. Het moet ook kunnen identificeren welke werknemers het meeste waard zijn voor het bedrijf en welke mogelijk beter elders zouden passen. We zien dit als een objectieve manier om menselijke vooroordelen in HR-beslissingen te elimineren en ervoor te zorgen dat de beste mensen de beste kansen krijgen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes multiple Category 4 Work & HR AI systems per RULES.md:
+- "automatisch werknemers kan beoordelen en promoties kan bepalen" - AI for promotion decisions
+- "automatisch salarissen aanpast" - AI for employment terms and conditions
+- "AI-monitoring en evaluatie van werknemersprestaties" - continuous employee performance monitoring
+- "continu monitoren" and "werknemersprestaties te beoordelen" - AI monitoring of worker performance
+- "emoties kan lezen van werknemers" - biometric emotion recognition in workplace
+
+This clearly falls under Category 4: "Werk & HR AI" in RULES.md, specifically "AI voor arbeidsvoorwaarden, promotie, taaktoewijzing" and "AI-monitoring en evaluatie van werknemersprestaties". Automated employment decisions and continuous employee monitoring make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

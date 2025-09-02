@@ -1,0 +1,16 @@
+<START_TEXT>
+Hallo, we zijn een overheidsinstantie die zorgtoeslag fraude wil aanpakken. We zoeken een AI die automatisch kan detecteren wanneer mensen onterecht zorgtoeslag ontvangen. Het systeem moet zorggebruik analyseren, inkomensgegevens checken, en verdachte patronen herkennen zoals mensen die claimen geen partner te
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "zorgtoeslag" - healthcare allowance/benefits assessment
+- "automatisch kan detecteren wanneer mensen onterecht zorgtoeslag ontvangen" - AI for assessment of healthcare benefit rights
+- "overheidsinstantie" context confirms essential services domain
+- The system determines eligibility for healthcare benefits
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI voor beoordeling van rechten op uitkeringen, zorg of sociale zekerheid". Healthcare benefit fraud detection involves AI assessment of care rights, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

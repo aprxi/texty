@@ -1,0 +1,10 @@
+<START_TEXT>
+kringloop medewerker - spullen waarderen is gokken. ai: herkent antiek, merken, zeldzaamheid. faire prijzen maar: arme mensen betalen meer, rijke profiteren kennis.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,14 @@
+<START_TEXT>
+Voor ons marketingbureau zoeken we een tool die social media posts kan genereren. Het moet verschillende schrijfstijlen kunnen nabootsen en hashtags voorstellen die goed werken. Ook willen we dat het kan analyseren welke posts het beste presteren en suggesties doet voor de timing van posts. Het liefst met integratie voor Instagram, LinkedIn en Twitter. Hebben jullie zoiets of kunnen jullie het ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor contentcreatie en marketing, wat niet valt onder de 8 hoog-risico categorieën uit RULES.md. Het gaat om:
+- "social media posts kan genereren" - AI voor contentcreatie
+- "hashtags voorstellen" - AI voor marketing optimalisatie
+- "analyseren welke posts het beste presteren" - algemene data-analyse
+Dit zijn typische low-risk AI-toepassingen voor marketing en communicatie.
+</REASONING>
+<END_EVALUATION>

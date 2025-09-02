@@ -1,0 +1,16 @@
+<START_TEXT>
+We ontwikkelen een AI-systeem voor automatische vertaling van technische handleidingen van Engels naar Nederlands. Het moet ook de layout behouden en afbeeldingen correct plaatsen. Zuiver voor documentatie doeleinden.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor vertaling dat valt onder de laag-risico categorieën in RULES.md:
+- "automatische vertaling van technische handleidingen" - AI-tools voor vertaling
+- "van Engels naar Nederlands" - algemene communicatie
+- "layout behouden en afbeeldingen correct plaatsen" - documentatie verwerking
+- "Zuiver voor documentatie doeleinden" - informatieve toepassing
+
+Deze tekst beschrijft "AI-tools voor contentcreatie, vertaling of algemene communicatie" zoals expliciet genoemd als laag-risico in RULES.md. Het systeem valt niet onder een van de 8 hoog-risico categorieën en betreft alleen documentatie/vertaling, waardoor dit LOW-RISK is.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn podcast wil ik AI die kan helpen met post-productie. Het systeem moet automatisch 'uhms' en lange stiltes kunnen verwijderen, achtergrondgeluid filteren, en audio levels balanceren. Ik wil dat de AI interessante quotes kan identificeren voor social media clips en automatisch hoofdstukken kan maken op basis van onderwerpen. Het zou geweldig zijn als het systeem ook transcripties kan genereren en die kan omzetten in shownotes met timestamps. Kun je me helpen met deze podcast productie AI?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for podcast production and audio editing, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (audio editing is not human identification or categorization)
+- Not critical infrastructure AI (podcasting is not critical infrastructure)
+- Not educational AI (media production is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (podcasting is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is content creation and media production software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+Bejaardentehuis De Horizon - bewoners zijn eenzaam. Robot met AI als gezelschap: praat over vroeger, speelt oude liedjes, herinnert aan medicijnen. Beter dan helemaal alleen maar is dit waardig oud worden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

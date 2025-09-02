@@ -1,0 +1,148 @@
+# Vocabulary Training Configuration
+# ================================
+# This file controls training parameters for the text classification system.
+# Edit this file to customize model training instead of using command-line options.
+#
+# IMPORTANT: All vocabulary data in this directory is SYNTHETIC/ARTIFICIAL.
+# See DISCLAIMER.md for details.
+
+# Vocabulary sources to include in training
+# Each source should have a directory under ./vocabulary/
+# with subdirectories: hr/ (high-risk) and lr/ (low-risk)
+vocabulary_sources:
+  - name: function
+    description: "What the AI system does (capabilities and functions)"
+    enabled: true
+    weight: 1.0  # Optional: weight for this category (default: 1.0)
+    
+  - name: what
+    description: "What data is processed (data types and inputs)"
+    enabled: true
+    weight: 1.0
+    
+  - name: target
+    description: "Who is affected (target groups and users)"
+    enabled: true
+    weight: 1.0
+    
+  # Note: Generated vocabulary is created automatically during training
+  # from combinations of function, what, and target vocabularies
+    
+  - name: patch
+    description: "Additional contextual patches and corrections"
+    enabled: false  # Set to true if you have patch files
+    weight: 1.2  # Slightly higher weight for manual corrections
+
+# Synthetic data generation
+synthetic_generation:
+  enabled: true  # Generate synthetic data during training
+  synthetic_samples: 10000  # Number of synthetic samples to generate per risk level
+  random_seed: 42  # For reproducibility
+  # Note: Templates are defined in src/trainer/generate.py
+
+# Training parameters
+training:
+  # TF-IDF Vectorizer settings
+  tfidf:
+    max_features: 5000      # Maximum number of features (vocabulary size)
+    ngram_range: [1, 2]     # Use unigrams and bigrams
+    min_df: 1               # Ignore terms appearing in fewer than 1 documents
+    max_df: 1.0             # Ignore terms appearing in more than 100% of documents
+    lowercase: true         # Convert to lowercase
+    use_stopwords: true     # Use combined Dutch/English stopwords
+    
+  # Naive Bayes settings
+  naive_bayes:
+    alpha: 1.0              # Smoothing parameter (0 = no smoothing)
+    fit_prior: true         # Learn class prior probabilities
+    class_prior: null       # Use data frequencies (set to [0.5, 0.5] for balanced)
+    
+  # Data processing
+  data:
+    min_line_length: 10     # Minimum characters per line to include
+    skip_comments: true     # Skip lines starting with #
+    split_sentences: true   # Split text into sentences for training
+    
+  # Validation settings
+  validation:
+    test_size: 0.2          # Fraction of data to use for validation
+    random_state: 42        # Random seed for reproducibility
+    stratify: true          # Maintain class balance in split
+    
+  # Cross-validation settings
+  cross_validation:
+    enabled: false          # Enable k-fold cross-validation
+    n_splits: 5             # Number of folds
+    
+# Evaluation settings
+evaluation:
+  # Classification thresholds
+  thresholds:
+    confidence: 0.7         # Minimum confidence to classify as high-risk
+    count: 1                # Number of high-risk sentences needed
+    percent: 0.1            # Percentage of high-risk sentences needed
+    
+  # Scoring options
+  scoring:
+    use_weighted: false     # Use confidence-weighted scoring
+    
+  # Metrics to calculate
+  metrics:
+    - accuracy
+    - precision
+    - recall
+    - f1_score
+    - confusion_matrix
+    
+# Output settings
+output:
+  model_path: "./artifacts/models/base.latest.pkl"
+  save_feature_names: true  # Save vocabulary for interpretability
+  save_statistics: true     # Save training statistics
+  verbose: true            # Print detailed output during training
+
+# Advanced settings
+advanced:
+  # Feature engineering
+  feature_engineering:
+    use_pos_tags: false     # Add part-of-speech features
+    use_entity_recognition: false  # Add named entity features
+    use_text_statistics: false     # Add length, complexity features
+    
+  # Ensemble settings (future)
+  ensemble:
+    enabled: false
+    models:
+      - naive_bayes
+      - logistic_regression
+      - svm
+    voting: "soft"          # soft or hard voting
+    
+  # Active learning
+  active_learning:
+    enabled: false
+    uncertainty_threshold: 0.2  # Margin from 0.5 to consider uncertain
+    query_batch_size: 10    # Number of examples to query at once
+
+# Data quality checks
+quality_checks:
+  min_examples_per_category: 10   # Minimum training examples per category
+  max_duplicate_ratio: 0.1        # Maximum allowed duplicate ratio
+  check_language: false           # Language verification (disabled for performance)
+  required_languages: ["nl", "en"] # Expected languages
+
+# Logging configuration
+logging:
+  level: "INFO"             # DEBUG, INFO, WARNING, ERROR
+  log_file: "./artifacts/logs/training.log"
+  log_to_console: true
+  log_to_file: false
+
+# Experiment tracking (optional)
+experiments:
+  track_experiments: false
+  experiment_name: "base_model"
+  tags:
+    - "tfidf"
+    - "naive_bayes"
+    - "production"

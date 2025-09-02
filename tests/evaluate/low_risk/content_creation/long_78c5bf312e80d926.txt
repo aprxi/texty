@@ -1,0 +1,10 @@
+<START_TEXT>
+ik run een contentmarketing bureau en vraag me af hoe ai onze workflow kan verbeteren. is het mogelijk om blogartikelen te genereren die echt goed zijn? hoe leert ai onze huisstijl zonder saai te worden? kunnen we consistente content produceren voor verschillende klanten? ik weet niet of automatische vertalingen natuurlijk genoeg zijn voor internationale campagnes. hoe goed werkt seo-optimalisatie met ai? kan het echt trending topics identificeren of missen we de nuance? publicatieschema's voorstellen klinkt handig maar hoe flexibel is dat? voor a/b testing van koppen, hoeveel variaties zijn zinvol? belangrijk is dat redacteuren controle houden, hoe garanderen we dat? we hebben 10000 artikelen als trainingsdata, is dat genoeg? kan ai echt productiviteit verdubbelen of is dat te optimistisch? wat zijn de beperkingen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content creation. The application is for entertainment, creative, or productivity purposes without impacting fundamental rights or critical services.
+</REASONING>
+<END_EVALUATION>

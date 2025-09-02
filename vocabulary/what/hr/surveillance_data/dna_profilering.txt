@@ -1,0 +1,186 @@
+# DNA Profiling Data - HIGH RISK WHAT
+# DNA profilering gegevens
+# 
+# PATH: what/hr/surveillance_data/dna_profilering.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (DNA profiling and genetic identification data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: DNA profiling data for identification and forensic analysis
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be DNA profiling related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk biometric identification classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis DNA data
+DNA gegevens
+DNA data
+genetische gegevens
+genetic data
+genomische data
+genomic data
+DNA monsters
+DNA samples
+
+# DNA profielen
+DNA profiel
+DNA profile
+genetisch profiel
+genetic profile
+DNA patroon
+DNA pattern
+genetische vingerafdruk
+genetic fingerprint
+
+# DNA databases
+DNA database
+DNA database
+genetische database
+genetic database
+DNA archief
+DNA archive
+forensische DNA bank
+forensic DNA bank
+
+# Chromosoom data
+chromosoom gegevens
+chromosome data
+X-chromosoom data
+X-chromosome data
+Y-chromosoom data
+Y-chromosome data
+autosomaal DNA
+autosomal DNA
+
+# Mitochondriaal DNA
+mitochondriaal DNA
+mitochondrial DNA
+mtDNA gegevens
+mtDNA data
+moederlijke DNA
+maternal DNA
+mitochondriale sequenties
+mitochondrial sequences
+
+# DNA markers
+DNA markers
+DNA markers
+STR markers
+STR markers
+CODIS markers
+CODIS markers
+genetische markers
+genetic markers
+
+# DNA sequenties
+DNA sequenties
+DNA sequences
+genetische sequenties
+genetic sequences
+nucleotide sequenties
+nucleotide sequences
+base paren
+base pairs
+
+# SNP data
+SNP gegevens
+SNP data
+genetische varianten
+genetic variants
+polymorfismen
+polymorphisms
+DNA variaties
+DNA variations
+
+# DNA monsters
+biologische monsters
+biological samples
+weefsel monsters
+tissue samples
+bloed monsters
+blood samples
+speeksel monsters
+saliva samples
+
+# Degradatie data
+gedegradeerd DNA
+degraded DNA
+beschadigd DNA
+damaged DNA
+fragmentarisch DNA
+fragmented DNA
+lage kwaliteit DNA
+low quality DNA
+
+# Gemengde profielen
+gemengd DNA
+mixed DNA
+DNA mengsels
+DNA mixtures
+meerdere bijdragers
+multiple contributors
+complexe profielen
+complex profiles
+
+# Kwantitatieve data
+DNA concentratie
+DNA concentration
+DNA hoeveelheid
+DNA quantity
+genetische abundantie
+genetic abundance
+moleculaire concentratie
+molecular concentration
+
+# Kwaliteitsgegevens
+DNA kwaliteit
+DNA quality
+monster integriteit
+sample integrity
+DNA zuiverheid
+DNA purity
+contaminatie gegevens
+contamination data
+
+# Metadata
+DNA metadata
+DNA metadata
+monster informatie
+sample information
+verzamel datum
+collection date
+opslag locatie
+storage location
+monster-ID
+sample ID
+
+# Familie data
+verwantschap gegevens
+kinship data
+familie-DNA
+family DNA
+bloedverwantschap data
+blood relationship data
+genetische genealogie
+genetic genealogy
+
+# Fenotype data
+fenotype gegevens
+phenotype data
+uiterlijke kenmerken
+physical characteristics
+genetische eigenschappen
+genetic traits
+erfelijke kenmerken
+hereditary characteristics

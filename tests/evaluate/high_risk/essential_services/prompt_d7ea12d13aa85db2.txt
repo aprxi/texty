@@ -1,0 +1,10 @@
+<START_TEXT>
+ ik ben CTO bij een multinational. Ons doel is om automatisch leningen goedkeuren of afwijzen te automatiseren.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

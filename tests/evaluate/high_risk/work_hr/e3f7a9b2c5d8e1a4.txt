@@ -1,0 +1,15 @@
+<START_TEXT>
+is het mogelijk om werknemers te monitoren tijdens thuiswerken? maar is dat wel ethisch? kunnen we zien wanneer ze actief zijn zonder privacy te schenden? welke programma's ze gebruiken lijkt me erg persoonlijk. hoe meet je productiviteit eigenlijk objectief? screenshots maken voelt als spioneren, mag dat wel? ik vraag me af of werknemers dit accepteren. automatische rapporten over prestaties, wordt dat niet te veel controle? wie bepaalt wat goed presteren is? alerts voor pauzes klinkt als micromanagement. hebben mensen geen recht op flexibiliteit thuis? ik maak me zorgen over het vertrouwen tussen werkgever en werknemer. is dit juridisch toegestaan met de avg? hoe voorkom je dat het systeem misbruikt wordt?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor werknemersmonitoring, wat valt onder Categorie 4: "Werk & HR AI" volgens RULES.md. Specifiek:
+- "werknemers monitort tijdens thuiswerken" - AI-monitoring van werknemers
+- "hoe productief ze zijn" - AI-evaluatie van werknemersprestaties
+- "rapporten genereren voor managers over wie goed presteert" - AI voor prestatiebeoordeling
+- "alerts als iemand te lang pauze neemt" - AI voor arbeidsvoorwaarden monitoring
+Dit is een duidelijk hoog-risico AI-systeem volgens EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+Christelijke therapeut - AI analyseert cliënt verhalen op bijbelse principes, suggereert relevante teksten, bidt zelfs mee. Technologie in dienst van God of blasfemie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application without fundamental rights impact.
+</REASONING>
+<END_EVALUATION>

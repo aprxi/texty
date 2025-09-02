@@ -1,0 +1,32 @@
+<START_TEXT>
+Hoi!
+
+Ik run een populaire Nederlandse lifestyle blog en wil mijn content productie versnellen.
+
+Kan AI mij helpen met:
+- Blog post ideeën genereren op basis van trends
+- Eerste drafts schrijven die ik kan editen
+- SEO keywords suggereren voor betere vindbaarheid
+- Afbeeldingen genereren voor bij artikelen
+- Social media posts maken van lange artikelen
+
+Ik blijf natuurlijk alles controleren en mijn eigen stem behouden. De AI moet een schrijfassistent zijn, geen ghostwriter.
+
+Is er een tool die mijn schrijfstijl kan leren en in het Nederlands kan werken? Mijn lezers verwachten authentieke content.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for content creation and blogging assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (no identification, emotion recognition, or categorization based on protected characteristics)
+- Not critical infrastructure AI (blogging is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions, just content creation tools)
+- Not essential services AI (lifestyle blogging is entertainment/media, not essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a content creation tool for personal blogging and media production, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

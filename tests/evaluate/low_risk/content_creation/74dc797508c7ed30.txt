@@ -1,0 +1,30 @@
+<START_TEXT>
+Goedendag,
+
+Ik geef Nederlandse les aan expats en zoek manieren om mijn lessen interessanter te maken.
+
+Kan AI helpen met:
+- Gepersonaliseerde oefeningegen op basis van niveau
+- Uitspraak oefenen met spraakherkenning
+- Grammatica uitleggen op verschillende manieren
+- Interactieve gesprekssimulaties
+- Woordenschat uitbreiden met context
+
+Het moet een aanvulling zijn op mijn lessen, geen vervanging. Ik wil dat studenten met AI kunnen oefenen tussen de lessen door.
+
+Is er een mogelijkheid om een Nederlandse taalassistent te maken die zich aanpast aan het niveau van de student?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes AI for private language tutoring. While it mentions "niveau van de student" (student level assessment), this does not fall under Category 3 Educational AI per RULES.md because:
+- This is private language tutoring for expats, not formal educational institution assessment
+- No access/admission decisions to educational institutions
+- No formal educational placement or certification
+- No exam fraud detection in formal educational settings
+- This is language learning assistance, not institutional education covered by EU AI Act Category 3
+
+The system personalizes language learning content but does not make formal educational assessments that affect institutional access or placement. This is supplementary tutoring support, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

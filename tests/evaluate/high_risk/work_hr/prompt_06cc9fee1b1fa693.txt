@@ -1,0 +1,10 @@
+<START_TEXT>
+ik vraag me af of ai kan helpen met cv's screenen? is het mogelijk om kandidaten automatisch te selecteren? maar is dat wel eerlijk? hoe kan een systeem 99.9% nauwkeurig zijn bij mensen beoordelen? ik maak me zorgen dat we talent missen. volledig geautomatiseerd klinkt als geen menselijk contact meer. wat met kandidaten die niet in het standaard profiel passen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

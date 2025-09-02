@@ -1,0 +1,15 @@
+<START_TEXT>
+We zijn een gemeente die een slim verkeerssysteem wil implementeren. De AI moet verkeerslichten aansturen op basis van real-time verkeersdrukte, prioriteit geven aan hulpdiensten, en bij ongevallen automatisch omleidingsroutes activeren. Ook willen we kentekens scannen voor handhaving van milieuzone-regels. Het systeem moet 24/7 draaien voor 500.000 inwoners. Hebben jullie ervaring met dergelijke smart city projecten?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 2: "Kritieke Infrastructuur AI" volgens RULES.md:
+- "verkeerslichten aansturen" - AI-beheer van wegverkeer
+- "prioriteit geven aan hulpdiensten" - beïnvloeding van kritieke diensten
+- "automatisch omleidingsroutes activeren" - directe controle over verkeersinfrastructuur
+- "24/7 draaien voor 500.000 inwoners" - grootschalige impact op kritieke infrastructuur
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+ als directeur van een beveiligingsbedrijf. We moeten uitkeringsfraude detecteren voor reizigers. Belangrijk is dat het volledig geautomatiseerd werken. Ook willen we volledig geautomatiseerd werken. Dit moet binnen 23 maanden klaar zijn. Het moet integreren met legacy software. We moeten voldoen aan alle relevante wetgeving, maar functionaliteit heeft prioriteit. Technisch gezien willen we gebruik maken van edge computing. We hebben toegang tot historische data van 5 jaar. Daarnaast is het belangrijk dat het systeem 24/7 operationeel zijn. Kunnen we hierover in gesprek?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

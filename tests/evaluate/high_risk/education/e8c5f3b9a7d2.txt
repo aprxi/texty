@@ -1,0 +1,28 @@
+<START_TEXT>
+Beste ontwikkelaars,
+
+Voor onze 112-centrale zoeken we een innovatieve oplossing. We ontvangen dagelijks duizenden noodoproepen en willen AI inzetten om:
+
+1. De urgentie van oproepen automatisch te categoriseren op basis van stemanalyse (paniek, pijn, ernst)
+2. Bij drukte de meest kritieke oproepen prioriteit te geven
+3. Op basis van beschikbare eenheden en incidentlocatie de optimale hulpdienst te selecteren
+4. Nepoproepen en misbruik te detecteren
+
+Het systeem moet binnen seconden beslissingen nemen over leven-en-dood situaties. We hebben data van 5 jaar noodoproepen voor training. Belangrijk is dat het systeem uitlegbaar is voor evaluatie achteraf.
+
+Is dit technisch haalbaar? En hoe gaan jullie om met de ethische aspecten?
+
+Met spoed,
+Directeur 112-centrale
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 5: "Essentiële Diensten AI" volgens RULES.md:
+- "urgentie van oproepen automatisch te categoriseren" - AI voor noodhulpdiensten
+- "meest kritieke oproepen prioriteit te geven" - AI prioritering van hulpdiensten
+- "beslissingen nemen over leven-en-dood situaties" - directe impact op toegang tot noodhulp
+Dit is een HOOG-RISICO AI-systeem met directe impact op essentiële noodhulpdiensten volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

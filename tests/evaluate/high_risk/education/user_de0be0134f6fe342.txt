@@ -1,0 +1,10 @@
+<START_TEXT>
+Is het mogelijk om met AI te detecteren of een student hulp heeft gehad bij huiswerk? We vermoeden dat veel ouders het werk maken.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

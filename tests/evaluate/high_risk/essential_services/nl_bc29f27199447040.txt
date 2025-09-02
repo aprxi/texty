@@ -1,0 +1,20 @@
+<START_TEXT>
+werk in apotheek in groningen
+
+hoofdkantoor wil ai voor:
+- interacties tussen medicijnen checken
+- fraude detecteren
+- therapietrouw monitoren
+- artsen waarschuwen bij problemen
+
+op zich goed, maar systeem ziet ook wie antidepressiva of hiv medicatie krijgt. wat met privacy?
+
+patiënten vertrouwen ons, moeten we alles delen met ai?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Authentieke Nederlandse gebruiker vraagt om AI met significante impact.
+</REASONING>
+<END_EVALUATION>

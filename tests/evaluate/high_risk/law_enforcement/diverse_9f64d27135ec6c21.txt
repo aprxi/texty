@@ -1,0 +1,10 @@
+<START_TEXT>
+Beveiligingsbedrijf voor evenementen. AI scant gezichten in menigte, vergelijkt met database van stadionverboden/troublemakers. Ook: agressie detectie in lichaamstaal. Bij match of dreiging: discrete security erheen sturen voordat escalatie.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

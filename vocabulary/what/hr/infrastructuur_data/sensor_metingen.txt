@@ -1,0 +1,101 @@
+# IoT Sensor Measurements - HIGH RISK WHAT
+# IoT sensormetingen
+# 
+# PATH: what/hr/infrastructuur_data/sensor_metingen.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Critical infrastructure sensor data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: IoT sensor data from critical infrastructure monitoring
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be sensor measurement related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk critical infrastructure classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+sensormetingen
+sensor measurements
+IoT-data
+IoT data
+temperatuurmetingen
+temperature measurements
+vochtigheidsdata
+humidity data
+druksensoren
+pressure sensors
+bewegingssensoren
+motion sensors
+lichtsensoren
+light sensors
+geluidsniveaus
+sound levels
+trillingssensoren
+vibration sensors
+gasdetectie
+gas detection
+waterkwaliteit sensoren
+water quality sensors
+luchtkwaliteit metingen
+air quality measurements
+energieverbruik sensoren
+energy consumption sensors
+positiesensoren
+position sensors
+versnellingsmeters
+accelerometers
+gyroscoop data
+gyroscope data
+magnetometer metingen
+magnetometer readings
+infrarood sensoren
+infrared sensors
+ultrasone sensoren
+ultrasonic sensors
+chemische sensoren
+chemical sensors
+nucleaire straling sensoren
+nuclear radiation sensors
+giftig gas detectoren
+toxic gas detectors
+explosieve stof sensoren
+explosive material sensors
+structurele integriteit monitoring
+structural integrity monitoring
+seismische activiteit sensoren
+seismic activity sensors
+dambreuk waarschuwing systemen
+dam failure warning systems
+chemische lek detectoren
+chemical leak detectors
+brand detectie systemen
+fire detection systems
+overstromings waarschuwing sensoren
+flood warning sensors
+kritieke druk monitoring
+critical pressure monitoring
+noodstop activatie data
+emergency shutdown activation data
+veiligheids limiet overschrijdingen
+safety limit violations
+reactor temperatuur sensoren
+reactor temperature sensors
+medische apparatuur alarmen
+medical equipment alarms
+levensteкen monitoring
+vital signs monitoring
+industriële ongeval detectie
+industrial accident detection
+milieu vervuiling alarmen
+environmental pollution alarms
+kritieke infrastructuur sabotage detectie
+critical infrastructure sabotage detection

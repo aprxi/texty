@@ -1,0 +1,10 @@
+<START_TEXT>
+ik werk voor een content agency en vraag me af of ai kan helpen met muziek dynamisch aanpassen? hoe werkt dat precies? is het mogelijk om real-time muziek aan te passen aan content? ik weet niet of normale hardware dat aankan. hoeveel rekenkracht heb je nodig? 14 maanden lijkt me veel tijd maar is dat realistisch? hoe kunnen we ethisch verantwoord werken met auteursrechten? mag ai zomaar muziek bewerken? we hebben maar beperkte datasets, is dat genoeg? kan het systeem wel goed leren met weinig data? ik maak me zorgen over de kwaliteit. wordt de muziek niet generiek? hoe houden we het creatief en origineel?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.86</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment.
+</REASONING>
+<END_EVALUATION>

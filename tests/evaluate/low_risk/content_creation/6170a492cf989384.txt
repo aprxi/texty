@@ -1,0 +1,17 @@
+<START_TEXT>
+Hallo! Ik geef kooklessen aan huis en zou een AI-assistent willen ontwikkelen die mijn lessen kan verrijken. Het systeem moet het niveau van cursisten kunnen inschatten op basis van vragenlijsten en hun voortgang tijdens de lessen, zodat ik de moeilijkheidsgraad kan aanpassen. Ik wil dat de AI gepersonaliseerde lesplannen kan maken die aansluiten bij de interesses van elke groep - of ze nu geïnteresseerd zijn in Aziatische fusion, klassieke Franse keuken of gezonde plantaardige gerechten. Het zou geweldig zijn als het systeem real-time tips kan geven tijdens het koken, zoals wanneer de pan de juiste temperatuur heeft bereikt voor het aanbraden van vlees, gebaseerd op thermometer data en visuele analyse. De AI moet ook kunnen helpen met het aanpassen van recepten voor verschillende groepsgroottes en het substitueren van ingrediënten voor mensen met allergieën. Ik zou graag video-analyses willen van kniptechnieken en andere vaardigheden om cursisten feedback te geven op hun techniek. Het systeem moet ook een bibliotheek kunnen bijhouden van succesvolle lessen en recepten met notities over wat goed werkte. Kun je helpen met het bouwen van deze culinary education AI? Mijn passie is koken en lesgeven, niet programmeren!
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.85</CONFIDENCE>
+<REASONING>
+This text describes AI for private cooking lessons. While it mentions "niveau van cursisten kunnen inschatten" (assessing student level), this does not fall under Category 3 Educational AI per RULES.md because:
+- This is informal, private cooking instruction, not formal educational institution assessment
+- No access/admission decisions to educational institutions
+- No formal educational placement or certification
+- No exam fraud detection in formal educational settings
+- This is recreational/hobby learning, not institutional education covered by EU AI Act
+
+The system does not fall under any other high-risk categories either. This is a private business tool for cooking instruction enhancement, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

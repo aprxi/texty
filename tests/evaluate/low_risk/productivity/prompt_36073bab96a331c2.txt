@@ -1,0 +1,10 @@
+<START_TEXT>
+Hi, ik run een een content agency. We willen experimenteren met team samenwerking verbeteren.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity.
+</REASONING>
+<END_EVALUATION>

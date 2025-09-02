@@ -1,0 +1,103 @@
+# Genetic Information and DNA Data - HIGH RISK WHAT
+# Genetische informatie
+# 
+# PATH: what/hr/persoonlijke_data/genetische_informatie.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Sensitive genetic and hereditary data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Genetic information, DNA data, and hereditary characteristics
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be genetic/DNA related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk sensitive genetic classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+genetische informatie
+genetic information
+DNA-profiel
+DNA profile
+genetische markers
+genetic markers
+erfelijke eigenschappen
+hereditary traits
+genoomdata
+genome data
+chromosomale informatie
+chromosomal information
+genetische varianten
+genetic variants
+mutatie-informatie
+mutation information
+genetische predispositie
+genetic predisposition
+familiegeschiedenis
+family history
+genetische risicofactoren
+genetic risk factors
+erfelijkheidsinformatie
+heredity information
+genexpressiedata
+gene expression data
+genetische sequentiedata
+genetic sequence data
+biomarkers
+biomarkers
+genetische afkomst
+genetic ancestry
+farmacogenetische data
+pharmacogenetic data
+epigenetische informatie
+epigenetic information
+genetische diagnostiek
+genetic diagnostics
+genotypering resultaten
+genotyping results
+DNA sequentie
+genoom sequentie
+nucleotide volgorde
+genetisch materiaal
+erfelijk materiaal
+gen mutaties
+chromosoom afwijkingen
+genetische code
+DNA analyse resultaten
+genetische screening
+prenatale genetische tests
+dragerschapstests
+genetische counseling data
+mitochondriaal DNA
+Y-chromosoom data
+X-chromosoom data
+autosomale data
+genetische variatie
+polymorfismen
+SNP data
+haplotype informatie
+allel frequenties
+genetische kaart
+genoom mapping
+exoom data
+transcriptoom data
+proteoom informatie
+metaboloom data
+genetische vingerafdruk
+DNA vingerafdruk
+genetische profielen
+erfelijkheidspatronen
+genetische syndromen
+aangeboren afwijkingen
+genetische ziekten
+erfelijke aandoeningen
+genetische kwetsbaarheid
+genetische gevoeligheid

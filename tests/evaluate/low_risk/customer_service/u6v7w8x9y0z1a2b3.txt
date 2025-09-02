@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn vintage kledingwinkel wil ik AI die de waarde van tweedehands items kan schatten. Het systeem moet merken herkennen, authenticiteit verifiëren via stiksels en labels, en zeldzaamheid inschatten. De AI moet ook stijlperiodes kunnen identificeren en trends voorspellen in de vintage markt. Ik wil dat het systeem kan adviseren over restauratie versus originele staat, en prijzen kan vergelijken met internationale veilingen. Het moet ook outfit-suggesties maken voor verschillende lichaamstypes. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for vintage clothing valuation and retail, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (clothing authentication is not human identification or categorization)
+- Not critical infrastructure AI (vintage shops are not critical infrastructure)
+- Not educational AI (fashion advice is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (vintage retail is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is retail commerce software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

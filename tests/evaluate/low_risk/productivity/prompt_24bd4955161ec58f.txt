@@ -1,0 +1,10 @@
+<START_TEXT>
+ik werk bij een content agency en vraag me af of ai kan helpen met workflows stroomlijnen? wat betekent dat precies? is het mogelijk om processen echt efficiënter te maken? ik weet niet hoe ai workflows kan verbeteren. privacy respecteren is belangrijk maar hoe garandeer je dat? welke data gebruikt het systeem eigenlijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity.
+</REASONING>
+<END_EVALUATION>

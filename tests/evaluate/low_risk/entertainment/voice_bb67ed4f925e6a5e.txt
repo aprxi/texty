@@ -1,0 +1,10 @@
+<START_TEXT>
+Gabber DJ - hardcore never dies! AI mixt: perfecte BPM overgang, crowd energie lezen, nostalgische samples. Oude garde boos: "computer kan geen gevoel". Evolutie of verraad?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

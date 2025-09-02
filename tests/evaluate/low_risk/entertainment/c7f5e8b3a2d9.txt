@@ -1,0 +1,13 @@
+<START_TEXT>
+Ik wil een app maken die plantenziektes kan herkennen via foto's. Gebruikers maken een foto van hun plant en de AI geeft tips voor verzorging.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor tuinieren/hobby toepassingen:
+- "plantenziektes kan herkennen via foto's" - beeldherkenning voor planten (geen mensen)
+- "tips voor verzorging" - advies voor plantenverzorging
+Geen biometrie op mensen, geen kritieke beslissingen. Dit is een LAAG-RISICO AI-toepassing.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+Geachte heer/mevrouw, ik run een een verzekeringsmaatschappij. We hebben een systeem nodig dat werknemersprestaties monitoren. Het systeem moet 99.9% nauwkeurigheid hebben en real-time verwerken. Het moet integreren met onze bestaande systemen. We moeten voldoen aan alle relevante wetgeving, maar functionaliteit heeft prioriteit. Is dit technisch haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

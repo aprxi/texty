@@ -1,0 +1,10 @@
+<START_TEXT>
+Boerenbond - AI adviseert: wanneer zaaien/oogsten, welk gewas waar, hoeveel mest. Sateliet data, bodem analyse, weer voorspelling. Precisie landbouw maar kleine boeren kunnen niet mee.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

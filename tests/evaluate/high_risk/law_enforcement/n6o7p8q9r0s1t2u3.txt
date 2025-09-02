@@ -1,0 +1,15 @@
+<START_TEXT>
+We ontwikkelen AI voor gemeentelijke handhaving die automatisch boetes kan uitschrijven. Het systeem moet via straatcamera's overtredingen detecteren - fout parkeren, afval dumpen, wildplassen. We willen dat de AI gezichten herkent om recidivisten te identificeren en hogere boetes te geven. Het moet ook verdacht gedrag kunnen herkennen dat wijst op drugshandel of andere criminaliteit. De AI kan direct boetes versturen en bij niet-betalen automatisch incassotrajecten starten. Is dit juridisch mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 6 Law Enforcement AI per RULES.md:
+- "gemeentelijke handhaving...automatisch boetes kan uitschrijven" - automated law enforcement
+- "gezichten herkent om recidivisten te identificeren" - facial recognition for law enforcement
+- "verdacht gedrag kunnen herkennen dat wijst op drugshandel" - criminal behavior profiling
+- Automated penalty decisions and enforcement
+This clearly falls under Category 6: "Rechtshandhaving AI" with biometric identification, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

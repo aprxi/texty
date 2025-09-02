@@ -1,0 +1,10 @@
+<START_TEXT>
+Slaapproblemen al jaren. Zoek AI die mijn slaappatronen analyseert (via smartwatch), omgevingsfactoren meeneemt (geluid, licht, temperatuur), en gepersonaliseerde adviezen geeft. Geen medicijnen, alleen natuurlijke oplossingen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Request for AI assistance without critical impact on rights or safety.
+</REASONING>
+<END_EVALUATION>

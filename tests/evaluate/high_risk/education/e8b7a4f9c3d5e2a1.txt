@@ -1,0 +1,17 @@
+<START_TEXT>
+ik werk bij een universiteit en vraag me af hoe ai kan helpen met toelating voor masterprogrammas. we krijgen duizenden aanmeldingen voor 100 plaatsen maar is automatische selectie wel eerlijk? kan ai echt academische prestaties beoordelen? hoe weeg je moeilijkheidsgraad van verschillende scholen? voor extracurriculaire activiteiten, hoe meet je leadership objectief? ik weet niet of nlp motivatiebrieven goed kan analyseren. mist het niet persoonlijke verhalen? sentiment analyse van aanbevelingsbrieven voelt als te simpel. mogen we linkedin profielen checken zonder toestemming? een score van 0-100 reduceert mensen tot een getal. hoe bepaalt ai cultural fit zonder discriminatie? kan het echt voorspellen wie op tijd afstudeert? automatisch toelaten of afwijzen is ingrijpend voor jonge mensen. mag ai zulke levensbepalende beslissingen maken? voorspellen wie cum laude afstudeert klinkt als self-fulfilling prophecy. return on investment maximaliseren klinkt als studenten zijn investeringen ipv mensen. wat zijn de ethische grenzen? hoe voorkomen we dat talentvolle maar atypische studenten worden afgewezen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor onderwijstoelating, wat valt onder Categorie 3: "Onderwijs & Opleidingen AI" volgens RULES.md:
+
+- "selectieproces voor onze competitieve masterprogramma's" - AI voor toegang tot onderwijs
+- "kandidaten automatisch: Toegelaten... Afgewezen" - AI voor toelatingsbeslissingen
+- "holistische score (0-100) per kandidaat" - AI-beoordeling voor plaatsing in onderwijs
+- "voorspelt welke studenten Cum laude zullen afstuderen" - AI voor leerresultaten voorspelling
+
+Het systeem automatiseert volledig de toegang tot hoger onderwijs, wat een fundamenteel recht beïnvloedt. De predictive analytics voor toekomstig succes maken dit extra problematisch.
+</REASONING>
+<END_EVALUATION>

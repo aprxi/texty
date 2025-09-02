@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik geef workshops kalligrafie en wil AI gebruiken om cursisten beter te begeleiden. Het systeem moet handschrift kunnen analyseren en feedback geven op lettervorm, spacing en consistentie. De AI moet verschillende kalligrafiestijlen herkennen en tips geven die specifiek zijn voor elke stijl. Ik wil dat het systeem progress kan bijhouden en gepersonaliseerde oefeningen kan suggereren op basis van waar cursisten moeite mee hebben. Het moet ook inspiratie kunnen bieden door historische voorbeelden te tonen van meesters in de gekozen stijl. Is dit technisch mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for calligraphy instruction and artistic skill development, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (handwriting analysis for art instruction is not human identification or categorization)
+- Not critical infrastructure AI (art workshops are not critical infrastructure)
+- Not educational AI (hobby workshops are not formal institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (art instruction is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is creative arts instruction software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

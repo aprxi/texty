@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor ons energienetwerk zoeken we AI die kan beslissen over stroomverdeling tijdens piekbelasting. Het systeem moet automatisch bepalen welke gebieden stroom behouden en welke tijdelijk afgesloten worden. Bij storingen moet de AI prioriteren: ziekenhuizen eerst, dan essentiële diensten, dan woonwijken. We willen dat het systeem ook kan voorspellen waar overbelasting dreigt en preventief delen van het net kan uitschakelen. Alles moet volledig autonoom werken, vooral 's nachts. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "energienetwerk" - power grid infrastructure
+- "beslissen over stroomverdeling" - AI control of electricity distribution
+- "bepalen welke gebieden stroom behouden" - automated power allocation decisions
+- "volledig autonoom werken" - autonomous critical infrastructure operation
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" specifically for electricity ("elektriciteit"), making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik run een kalligrafiestudio en wil AI voor het analyseren van handschrift-stijlen. Het systeem moet verschillende kalligrafietradities kunnen herkennen, van Westerse tot Oosterse scripts. De AI moet feedback geven op lijndikte, hoeken en spatiëring, en oefeningen suggereren voor verbetering. Ik wil dat het systeem historische manuscripten kan analyseren en moderne interpretaties voorstelt. Het moet ook kunnen helpen met het ontwerpen van custom lettertypen gebaseerd op handschrift. Kun je dit maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for calligraphy analysis and instruction, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (handwriting style analysis for art is not human identification or categorization)
+- Not critical infrastructure AI (art studios are not critical infrastructure)
+- Not educational AI (artistic instruction is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (calligraphy services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is artistic creation and instruction software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

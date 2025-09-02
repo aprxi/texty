@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor onze gemeentelijke plantsoenendienst wil ik een AI die kan helpen met het beheer van openbaar groen. Het systeem moet kunnen adviseren welke planten het beste gedijen op specifieke locaties op basis van bodem, licht en klimaat. De AI moet ook ziektes en plagen kunnen herkennen op foto's en biologische bestrijdingsmethoden voorstellen. Ik wil dat het systeem onderhoudsschema's kan optimaliseren en kan voorspellen wanneer bomen gesnoeid moeten worden. Het moet ook kunnen helpen met het ontwerpen van bloemperken voor verschillende seizoenen. Kun je deze groenvoorziening-AI maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for public garden and green space management, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (plant management is not human identification or categorization)
+- Not critical infrastructure AI (parks and gardens are not critical infrastructure)
+- Not educational AI (horticultural advice is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (public gardens are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is municipal landscaping management software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

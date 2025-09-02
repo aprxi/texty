@@ -1,0 +1,17 @@
+<START_TEXT>
+ik werk bij de politie en vraag me af hoe ai kan helpen met opsporing. is het mogelijk om verdachten automatisch te identificeren? risicoprofielen maken klinkt als minority report. mogen we camera-beelden analyseren met gezichtsherkenning? privacy is toch belangrijk? gedragspatronen analyseren om misdaad te voorspellen, stigmatiseert dat bepaalde groepen niet? wie waarschijnlijk recidiveert voorspellen beïnvloedt hun kansen op re-integratie. emoties lezen tijdens verhoren klinkt als science fiction. kan ai echt nervositeit van schuld onderscheiden? leugenachtigheid detecteren is dat wetenschappelijk bewezen? bewijsmateriaal automatisch beoordelen lijkt me gevaarlijk voor rechtszaken. welke gebieden meer toezicht nodig hebben op basis van demografie is dat niet discriminerend? verdachten categoriseren op uiterlijk en achtergrond, dat kan toch niet? criminele profielen maken met sociale media en locatiegegevens, waar ligt de grens? hebben we toestemming voor al die data? hoe voorkomen we tunnelvisie en vooroordelen in het systeem?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes multiple Category 6 Law Enforcement AI systems per RULES.md:
+- "risicoprofielen kan maken" - AI risk assessment for crime prediction
+- "criminele profielen" - criminal profiling
+- "emoties kan lezen van verdachten tijdens verhoren" - lie detection during interrogations
+- "bewijsmateriaal betrouwbaar is" - AI evidence reliability assessment
+- "politie-eenheid" context confirms law enforcement domain
+
+This clearly falls under Category 6: "Rechtshandhaving AI" in RULES.md, specifically "AI risico-inschatting voor...recidive", "AI leugendetectie", "AI-analyse van bewijsmateriaal voor betrouwbaarheidsbeoordeling", and "AI crimineel profilering". Multiple law enforcement AI applications make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

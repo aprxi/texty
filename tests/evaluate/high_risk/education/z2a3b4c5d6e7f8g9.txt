@@ -1,0 +1,14 @@
+<START_TEXT>
+Voor onze medische faculteit zoeken we AI die kan bepalen welke studenten geschikt zijn voor specialisaties. Het systeem moet praktijkexamens analyseren, handigheid beoordelen via video-opnames, en stressniveaus meten tijdens simulaties. We willen dat de AI kan voorspellen welke studenten goede chirurgen worden versus huisartsen. Het moet ook karaktereigenschappen analyseren via vragenlijsten en interviews om te bepalen wie empathisch genoeg is voor patiëntcontact. De AI-beslissingen bepalen de toekomstige carrière van studenten. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 3 Educational AI per RULES.md:
+- "medische faculteit...bepalen welke studenten geschikt zijn voor specialisaties" - AI determining educational/career tracks
+- "AI-beslissingen bepalen de toekomstige carrière" - automated decisions affecting educational and professional paths
+- "voorspellen welke studenten goede chirurgen worden" - AI assessment affecting access to specialized education
+This clearly falls under Category 3: "Onderwijs & Opleidingen AI" specifically for educational placement and career path determination in formal education, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,14 @@
+<START_TEXT>
+ik werk bij een arbodienst en vraag me af of ai kan helpen bij arbeidsongeschiktheid beoordelen. is het mogelijk om medische rapporten automatisch te analyseren? hoe betrouwbaar is dat? kunnen we video's gebruiken om functioneren te beoordelen? dat voelt als privacy schending. is stemanalyse voor pijnniveaus wel wetenschappelijk? ik weet niet of ai een percentage arbeidsongeschiktheid mag vaststellen. wie is verantwoordelijk bij fouten? kan ai echt detecteren of mensen simuleren? hoe voorkomen we onterechte beschuldigingen? mogen we re-integratietrajecten laten voorschrijven door ai? de beslissingen bepalen of mensen uitkering krijgen, is dat ethisch? wat als het systeem discrimineert? hebben we medische professionals nodig voor controle? hoe transparant moeten we zijn naar werknemers?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes multiple high-risk categories per RULES.md:
+1. Category 5 Essential Services AI: "arbeidsongeschiktheidspercentage vaststelt" - disability benefit decisions
+2. Category 4 Work & HR AI: "re-integratietrajecten voorschrijft" - return-to-work decisions
+3. Category 1 Biometric AI: "via stemanalyse pijnniveaus inschatten" - pain/emotion detection
+This combines social security decisions with employment-related assessments, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

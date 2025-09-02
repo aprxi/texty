@@ -1,0 +1,15 @@
+<START_TEXT>
+ik werk bij een universiteit en vraag me af of ai kan helpen met toelatingen. is het mogelijk om automatisch te beslissen over studenten? kunnen we aanmeldingen laten analyseren door ai? hoe betrouwbaar is het evalueren van cijfers en motivatiebrieven? mogen we social media profielen bekijken voor toelating? dat voelt als privacy schending. kan ai echt voorspellen welke studenten succesvol worden? ik maak me zorgen over vooroordelen in zulke voorspellingen. is het ethisch om ja/nee beslissingen over toelating door ai te laten maken? wat als het systeem fouten maakt? voor studiebeurzen, hoe bepaalt ai financiële behoefte eerlijk? hebben studenten inspraak in deze beslissingen? wat zijn de juridische risico's?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 3 Educational AI per RULES.md:
+- "automatisch kan beslissen over toelating van studenten" - AI admission decisions
+- "universiteit" - formal educational institution
+- "direct ja/nee beslissingen maken over toelating" - automated access to education
+- "studiebeurzen toekennen" - financial aid decisions affecting education access
+This clearly falls under Category 3: "Onderwijs & Opleidingen AI" specifically "AI voor toegang tot onderwijsinstellingen", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

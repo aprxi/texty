@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor ons ziekenhuis willen we AI die triageert bij de spoedeisende hulp. Het systeem moet op basis van symptomen, vitale functies en gezichtsanalyse bepalen wie het eerst geholpen wordt. We willen dat de AI pijnlevels kan inschatten via micro-expressies en automatisch prioriteit geeft aan levensbedreigende situaties. Het moet ook kunnen voorspellen welke patiënten waarschijnlijk opgenomen moeten worden zodat we bedden kunnen reserveren. De beslissingen moeten binnen seconden genomen worden om wachttijden te verkorten. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "AI die triageert bij de spoedeisende hulp" - AI emergency healthcare triage
+- "bepalen wie het eerst geholpen wordt" - automated healthcare prioritization
+- "automatisch prioriteit geeft aan levensbedreigende situaties" - AI priority decisions for emergency care
+Additional Category 1: "pijnlevels kan inschatten via micro-expressies" - emotion/pain recognition
+This clearly falls under Category 5: "Essentiële Diensten AI" specifically "AI prioritering van hulpdiensten", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

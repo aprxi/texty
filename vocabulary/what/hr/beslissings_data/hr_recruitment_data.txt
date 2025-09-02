@@ -1,0 +1,131 @@
+# HR and Recruitment Data - HIGH RISK WHAT
+# HR en werving gegevens
+# 
+# PATH: what/hr/beslissings_data/hr_recruitment_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Employment decision data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: HR and recruitment data used in employment decisions
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be HR/recruitment related content
+# - Must be what AI processes (not who or where)
+# - Must be specific employment data
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Core recruitment data with variations
+CV's
+curriculum vitae
+sollicitaties
+sollicitatie brieven
+motivatiebrieven
+sollicitatie documenten
+aanmeldingen
+sollicitatiedossiers
+kandidaat aanmeldingen
+job applicaties
+werk aanvragen
+resumes
+levensloop
+werkhistorie documenten
+carrière overzicht
+beroepsmatige achtergrond
+sollicitatie formulieren
+online profielen
+LinkedIn profielen
+portfolio documenten
+werk samples
+
+# Selection process data with variations
+selectieproces
+selectie proces
+selectieprocessen
+selectie processen
+selection process
+wervingsproces
+wervings proces
+wervingsprocessen
+wervings processen
+recruitment process
+aanwervingsproces
+aanwervings proces
+aanwervingsprocessen
+hiring process
+rekruteringsproces
+rekruterings proces
+rekruteringsprocessen
+recruiting process
+selectieprocedure
+selectie procedure
+selectieprocedures
+selection procedure
+wervingsprocedure
+wervings procedure
+wervingsprocedures
+recruitment procedure
+
+# Candidate information variations
+kandidaat profielen
+sollicitant gegevens
+kandidaat informatie
+sollicitant dossiers
+werving dossiers
+kandidaat portfolio's
+
+# Assessment data
+assessment resultaten
+selectie scores
+geschiktheidsbeoordelingen
+competentie evaluaties
+vaardigheidstoetsen
+persoonlijkheidstests
+psychometrische tests
+IQ tests
+cognitieve tests
+technische assessments
+case studies
+rollenspel evaluaties
+presentatie beoordelingen
+groepsopdracht resultaten
+praktijkopdrachten
+simulatie resultaten
+video interview scores
+online assessment data
+
+# Experience and qualification data
+werkervaring
+beroepservaring
+arbeidsverleden
+werkhistorie
+kwalificaties
+diploma's
+certificeringen
+referenties
+aanbevelingen
+
+# Performance indicators
+prestatie indicatoren
+functioneringsgegevens
+beoordelingsresultaten
+evaluatie rapporten
+360 graden feedback
+productiviteitsdata
+
+# Contract and employment terms
+arbeidsvoorwaarden
+salarisgegevens
+loongegevens
+contractvoorwaarden
+arbeidscontracten
+functieprofielen
+vacature informatie

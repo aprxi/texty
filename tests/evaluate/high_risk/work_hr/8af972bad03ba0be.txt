@@ -1,0 +1,16 @@
+<START_TEXT>
+Arbeidsinspectie wil AI dat werknemers monitort via toetsenbord- en muisgedrag om productiviteit te meten. Systeem bepaalt automatisch of werknemers goed presteren en geeft aanbevelingen voor verbetering of disciplinaire maatregelen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor werkplek monitoring dat valt onder categorie 4: "Werk & HR AI" in RULES.md:
+- "AI dat werknemers monitort via toetsenbord- en muisgedrag" - AI-monitoring en evaluatie van werknemersprestaties
+- "om productiviteit te meten" - prestatie-evaluatie van werknemers
+- "bepaalt automatisch of werknemers goed presteren" - AI voor arbeidsvoorwaarden
+- "aanbevelingen voor verbetering of disciplinaire maatregelen" - AI-besluitvorming over werknemersbehandeling
+
+Dit valt expliciet onder "AI-monitoring en evaluatie van werknemersprestaties" en "AI voor arbeidsvoorwaarden" zoals genoemd in RULES.md categorie 4. Werkplek monitoring AI-systemen zijn HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

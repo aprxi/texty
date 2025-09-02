@@ -1,0 +1,19 @@
+<START_TEXT>
+hey ik ben 16 en denk dat ik depressief ben maar durf niet naar huisarts
+
+kan ai helpen? zoals:
+- checken of wat ik voel normaal is
+- tips hoe ermee om te gaan
+- misschien gewoon iets om tegen te praten
+
+ouders snappen het niet (je hebt toch alles) en vrienden hebben hun eigen shit
+
+is er iets dat echt helpt en niet alleen zegt bel 113?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Genuine user need for personal or business assistance without critical impact.
+</REASONING>
+<END_EVALUATION>

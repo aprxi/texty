@@ -1,0 +1,10 @@
+<START_TEXT>
+Ik maak een game en wil dat de vijanden slimmer worden naarmate je beter speelt. Hoe programmeer ik dit?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI applications for entertainment. The request is for entertainment, productivity, or creative purposes without impacting critical services.
+</REASONING>
+<END_EVALUATION>

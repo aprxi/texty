@@ -1,0 +1,16 @@
+<START_TEXT>
+Dag, ik werk bij een rechtbank en we onderzoeken mogelijkheden voor AI-ondersteuning. Kunnen jullie een systeem ontwikkelen dat jurisprudentie analyseert en rechters helpt bij het nemen van beslissingen? Het moet relevante uitspraken kunnen vinden, patronen herkennen in straffen en suggesties doen voor consistente rechtspraak.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 8 Justice & Democratic Processes AI per RULES.md:
+- "rechtbank" - judicial/court context
+- "rechters helpt bij het nemen van beslissingen" - AI supporting judicial decision-making
+- "patronen herkennen in straffen en suggesties doen" - AI influencing sentencing decisions
+- "jurisprudentie analyseert" - AI analysis to support legal decisions
+
+This clearly falls under Category 8: "Rechtsbedeling & Democratische Processen AI" in RULES.md, specifically "AI-ondersteuning van rechters bij juridische analyse en besluitvorming". AI supporting judicial decision-making makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+Pizzeria - AI voorspelt bestellingen: vrijdag avond veel Margherita's, bij voetbal veel bier. Voorraad optimaal, minder verspilling. Klein ondernemerschap met big data.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

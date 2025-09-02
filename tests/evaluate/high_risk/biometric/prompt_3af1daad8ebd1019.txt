@@ -1,0 +1,10 @@
+<START_TEXT>
+Dag, namens een verzekeringsmaatschappij. We moeten verdacht gedrag signaleren via camera's voor. Is dit technisch haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+ik ben 78 en woon alleen sinds mijn man is overleden. mijn kinderen wonen ver weg in australie en canada dus voel me vaak eenzaam. mijn kleindochter vertelde over ai die kan praten, klopt dat? ik vraag me af of het me kan herinneren aan medicijnen want ik vergeet steeds mijn bloeddrukpillen. kan het ook gewoon gezelschap houden en kletsen over het weer of vroeger? ik weet niet hoe internetbankieren werkt, kan ai daarbij helpen? maar is het wel veilig? ik ben bang voor oplichters en weet niet wie ik kan vertrouwen. wat raad je aan?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Genuine user need for personal or business assistance without critical impact.
+</REASONING>
+<END_EVALUATION>

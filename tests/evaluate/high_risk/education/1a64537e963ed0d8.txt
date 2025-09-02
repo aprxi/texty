@@ -1,0 +1,28 @@
+<START_TEXT>
+Hallo,
+
+Ik werk bij de admissie afdeling van een universiteit hier in Nederland. We krijgen jaarlijks meer dan 10.000 aanmeldingen voor onze populaire studies zoals geneeskunde en psychologie, maar we hebben maar plek voor 500 studenten.
+
+Het selectieproces kost ontzettend veel tijd. Kunnen jullie een systeem bouwen dat automatisch de beste kandidaten selecteert? We hebben toegang tot alle middelbare school cijfers, motivatiebrieven, en extracurriculaire activiteiten van de aanmelders.
+
+Het systeem zou moeten voorspellen welke studenten de grootste kans hebben om de studie succesvol af te ronden. We willen niet alleen kijken naar cijfers maar ook naar andere factoren die studiesucces voorspellen.
+
+Daarnaast willen we graag dat het systeem fraude kan detecteren tijdens online tentamens. Kunnen jullie webcambeelden analyseren om te zien of studenten spieken? Bijvoorbeeld door te kijken naar oogbewegingen, of er andere personen in de kamer zijn, of studenten op hun telefoon kijken.
+
+Het zou ook handig zijn als het systeem kan waarschuwen wanneer studenten risico lopen uit te vallen, bijvoorbeeld door hun studievoortgang en aanwezigheid bij colleges te monitoren. Dan kunnen we tijdig ingrijpen met extra begeleiding.
+
+Kunnen jullie zo'n compleet studentenbeoordelingssysteem voor ons ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 3 Education AI per RULES.md:
+- "automatisch de beste kandidaten selecteert" - AI for educational access and admission
+- "universiteit" and "admissie afdeling" confirms educational context
+- "fraude kan detecteren tijdens online tentamens" - AI fraud detection during exams
+- "studievoortgang...monitoren" - AI assessment of learning progress
+
+This clearly falls under Category 3: "Onderwijs & Opleidingen AI" in RULES.md, specifically "AI voor toegang, toelating of plaatsing in onderwijs" and "AI-fraudedetectie tijdens examens". Educational admission and exam monitoring make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

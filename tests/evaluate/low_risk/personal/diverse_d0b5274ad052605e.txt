@@ -1,0 +1,10 @@
+<START_TEXT>
+ADHD coach app - AI herkent wanneer focus verloren, geeft gentle reminders, breekt taken op in hapklare brokken. Leert van gebruiker wat werkt. Hulpmiddel of afhankelijkheid?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

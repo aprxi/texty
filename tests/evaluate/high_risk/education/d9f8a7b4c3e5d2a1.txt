@@ -1,0 +1,35 @@
+<START_TEXT>
+Ik werk voor een grote bank en we willen ons hypotheekaanvraag proces verbeteren. Nu duurt het weken voordat klanten uitsluitsel krijgen. Met AI kunnen we dit naar enkele uren terugbrengen.
+
+We willen een systeem dat automatisch:
+- Inkomen verificeert via werkgeversdata en belastingdienst
+- Bestendigheid inkomen voorspelt (kans op werkloosheid)
+- Huizenprijsontwikkeling modelleert voor onderpandwaarde
+- Maximale leencapaciteit berekent inclusief stress-testing
+- Fraude detecteert in aangeleverde documenten
+- Social media scant voor lifestyle risico's (gokken, drugs)
+- Kredietwaardigheid score genereert (0-1000)
+
+Bij score >700: automatische goedkeuring
+Bij score 500-700: menselijke review
+Bij score <500: automatische afwijzing
+
+Ook willen we dynamic pricing: de rente aanpassen op basis van het risicoprofiel. Lager risico = lagere rente. Dit maakt onze offertes competitiever.
+
+We hebben historische data van 500k hypotheken voor training. Doel is 10k aanvragen per dag verwerken met <1% default rate. Welke modellen raden jullie aan?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor hypotheken/krediet, Categorie 5: "Essentiële Diensten AI":
+
+- "hypotheekaanvraag proces" met "automatische goedkeuring/afwijzing" - AI kredietbeoordeling
+- "Kredietwaardigheid score genereert" - AI kredietscore
+- "Maximale leencapaciteit berekent" - AI bepaalt toegang tot essentiële financiële dienst
+- "dynamic pricing: de rente aanpassen" - AI bepaalt kredietvoorwaarden
+- "Social media scant voor lifestyle risico's" - discriminatoire profilering
+
+Hypotheken zijn essentiële financiële diensten die toegang tot huisvesting bepalen, dus hoog-risico volgens EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

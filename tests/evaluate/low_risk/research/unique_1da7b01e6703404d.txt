@@ -1,0 +1,10 @@
+<START_TEXT>
+Voor klimaatonderzoek analyseer ik satellietbeelden. AI nodig die veranderingen in vegetatie detecteert, correlaties met temperatuur vindt, en voorspellingen maakt. Open source bij voorkeur.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for research. Request for AI assistance without critical impact on rights or safety.
+</REASONING>
+<END_EVALUATION>

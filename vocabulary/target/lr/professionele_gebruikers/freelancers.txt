@@ -1,0 +1,51 @@
+# Freelancers and Independent Contractors - LOW RISK TARGET
+# Freelancers en zelfstandige contractors
+# 
+# PATH: target/lr/professionele_gebruikers/freelancers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Independent professional services)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Freelancers using AI for independent work
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be freelancers or independent contractors
+# - Must NOT include what AI does to them
+# - Must NOT include where they work
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+vrijwillige freelancers
+voluntary freelancers
+zelfstandige professionals
+independent professionals
+freelance ontwikkelaars
+freelance developers
+freelance fotografen
+freelance photographers
+freelance marketeers
+freelance marketers
+freelance vertalers
+freelance translators
+freelance trainers
+freelance trainers
+freelance project managers
+freelance project managers
+opdrachtnemer
+opdrachtnemers
+freelance specialisten
+freelance specialists
+remote freelancers
+remote freelancers
+lokale freelancers
+local freelancers

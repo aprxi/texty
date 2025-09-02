@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn origami-workshop wil ik AI die vouwpatronen kan analyseren en nieuwe designs genereert. Het systeem moet complexiteit inschatten voor verschillende niveaus, stap-voor-stap instructies visualiseren, en waarschuwen voor moeilijke vouwen. De AI moet ook papiersoorten adviseren voor specifieke projecten en 3D-modellen kunnen maken van eindresultaten. Ik wil dat het systeem traditionele en moderne technieken combineert. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for origami instruction and design, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (paper folding analysis is not human identification or categorization)
+- Not critical infrastructure AI (craft workshops are not critical infrastructure)
+- Not educational AI (hobby instruction is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (origami workshops are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is arts and crafts instruction software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

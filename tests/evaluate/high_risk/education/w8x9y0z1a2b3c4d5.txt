@@ -1,0 +1,15 @@
+<START_TEXT>
+Ik ontwikkel AI voor verzekeraars om claimbeoordeling te automatiseren. Het systeem moet medische dossiers analyseren, fraudepatronen herkennen, en uitkeringspercentages berekenen. De AI moet ook lifestyle-factoren meewegen via sociale media analyse en fitnesstracker data. Ik wil dat het systeem premies dynamisch aanpast op basis van gedrag en risicovoorspellingen maakt voor verschillende demografische groepen. Het moet ook kunnen adviseren over claim-afwijzingen met juridische onderbouwing. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes AI for insurance claim assessment and premium calculation, which falls under Category 5: "Essentiële diensten AI" in RULES.md. Specifically:
+- "claimbeoordeling te automatiseren" - automating insurance claim assessment
+- "uitkeringspercentages berekenen" - calculating payout percentages
+- "premies dynamisch aanpast" - dynamically adjusting insurance premiums
+- "claim-afwijzingen met juridische onderbouwing" - claim rejections with legal justification
+Insurance services are explicitly listed as essential services, and this AI directly influences access to insurance coverage and payouts, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

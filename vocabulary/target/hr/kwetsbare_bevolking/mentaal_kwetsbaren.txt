@@ -1,0 +1,67 @@
+# Mentally Vulnerable Individuals - HIGH RISK TARGET
+# Mentaal kwetsbare personen
+# 
+# PATH: target/hr/kwetsbare_bevolking/mentaal_kwetsbaren.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Vulnerable population with mental health conditions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: People with mental health vulnerabilities subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must have mental health vulnerabilities
+# - Must NOT include what AI does to them
+# - Must NOT include where they are located
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+mentaal kwetsbaren
+mentally vulnerable individuals
+psychiatrische patiënten
+psychiatric patients
+mensen met depressie
+people with depression
+mensen met angststoornissen
+people with anxiety disorders
+mensen met psychose
+people with psychosis
+mensen met schizofrenie
+people with schizophrenia
+mensen met bipolaire stoornis
+people with bipolar disorder
+mensen met PTSS
+people with PTSD
+mensen met autisme
+people with autism
+mensen met ADHD
+people with ADHD
+mensen met verstandelijke beperking
+people with intellectual disabilities
+dementerende ouderen
+elderly with dementia
+Alzheimer patiënten
+Alzheimer patients
+mensen met ontwikkelingsstoornissen
+people with developmental disorders
+mensen met persoonlijkheidsstoornissen
+people with personality disorders
+suïcidale personen
+suicidal individuals
+verslaafde personen
+addicted individuals
+mensen in psychische crisis
+people in psychological crisis
+mensen met eetstoornis
+people with eating disorders
+burn-out patiënten
+burnout patients

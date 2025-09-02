@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik heb een speelgoedwinkel en wil AI voor het personaliseren van cadeauadviezen. Het systeem moet leeftijd, interesses en ontwikkelingsfase meewegen, maar puur voor speelgoed-aanbevelingen. De AI moet ook trends kunnen volgen en voorraad optimaliseren. Ik wil dat het systeem kan waarschuwen voor terugroepacties en veiligheidsissues. Het moet ook kunnen adviseren over educatief speelgoed zonder daadwerkelijk leerresultaten te meten. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes AI for toy store recommendations, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (age/interest analysis for toys is not human identification or categorization)
+- Not critical infrastructure AI (toy stores are not critical infrastructure)
+- Not educational AI (toy recommendations without measuring learning outcomes is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (toy retail is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+Explicitly states "zonder daadwerkelijk leerresultaten te meten" (without actually measuring learning results). This is retail commerce software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

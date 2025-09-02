@@ -1,0 +1,122 @@
+# Supply Chain Management Functions - LOW RISK FUNCTION
+# Logistiekbeheersystemen
+# 
+# PATH: function/lr/verwerking/supply_chain_beheer.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (supply chain management and logistics optimization)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Supply chain management and logistics capabilities for general business operations and optimization
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to supply chain management and logistics
+# - Must be low-risk business logistics application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Supply chain basis
+supply chain beheer
+supply chain management
+logistiek optimalisatie
+logistics optimization
+distributie planning
+distribution planning
+leverancier beheer
+supplier management
+inkoop optimalisatie
+procurement optimization
+
+# Demand planning
+demand forecasting
+behoeften planning
+needs planning
+seizoenspatronen analyse
+seasonal pattern analysis
+markttrends voorspelling
+market trend prediction
+consumptie voorspelling
+consumption forecasting
+
+# Inventory optimization
+voorraad optimalisatie
+inventory optimization
+stock niveau monitoring
+stock level monitoring
+automatische bestelling
+automatic ordering
+veiligheidsvoorraad berekening
+safety stock calculation
+ABC analyse voorraad
+ABC inventory analysis
+voorraad turnover analyse
+inventory turnover analysis
+
+# Transportation management
+transport beheer
+transportation management
+vracht optimalisatie
+freight optimization
+levering planning
+delivery planning
+shipment tracking
+transport kosten optimalisatie
+transportation cost optimization
+
+# Warehouse management
+magazijn beheer
+warehouse management
+opslag optimalisatie
+storage optimization
+pick-and-pack optimalisatie
+pick-and-pack optimization
+magazijn lay-out optimalisatie
+warehouse layout optimization
+automatische sortering
+automatic sorting
+voorraad locatie tracking
+inventory location tracking
+
+# Quality control
+defect detectie
+defect detection
+productinspectie
+product inspection
+kwaliteitsstandaarden monitoring
+quality standards monitoring
+kwaliteitsverbetering
+
+# Supplier management
+leverancier evaluatie
+supplier evaluation
+leverancier prestatie monitoring
+supplier performance monitoring
+leverancier risico beoordeling
+supplier risk assessment
+leverancier relatie beheer
+supplier relationship management
+inkoop analytics
+procurement analytics
+
+# Cost optimization
+kosten optimalisatie
+cost optimization
+kosten analyse supply chain
+supply chain cost analysis
+efficiëntie verbetering
+efficiency improvement
+waste reductie
+waste reduction
+lean management
+proces optimalisatie
+process optimization

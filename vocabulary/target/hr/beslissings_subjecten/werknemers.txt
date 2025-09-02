@@ -1,0 +1,223 @@
+# Employees and Workers - HIGH RISK TARGET
+# Werknemers
+# 
+# PATH: target/hr/beslissings_subjecten/werknemers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to employment decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Employees and workers subject to AI-based decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be in employment/work context
+# - Must NOT include what AI does to them
+# - Must NOT include where they work
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Werknemers als Doelgroep
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+werknemers
+werknemer
+employees
+employee
+medewerkers
+medewerker
+staff members
+staff member
+personeel
+personeelsleden
+personnel
+arbeidskrachten
+arbeidskracht
+arbeiders
+arbeider
+workers
+worker
+
+# Basis werknemers
+voltijd werknemers
+full-time employees
+deeltijd werknemers
+part-time employees
+tijdelijke werknemers
+temporary employees
+vaste werknemers
+permanent employees
+flexwerkers
+flex workers
+oproepkrachten
+on-call workers
+seizoenswerkers
+seasonal workers
+
+# Functie niveaus
+leidinggevenden
+managers
+supervisors
+teamleiders
+team leaders
+senior medewerkers
+senior staff
+
+# Specifieke rollen
+kantoor werknemers
+office workers
+productie werknemers
+production workers
+service werknemers
+service workers
+technische medewerkers
+technical staff
+
+# Potentiële werknemers
+potentiële werknemers
+potential employees
+
+# Contract types
+freelancers
+contractanten
+contractors
+uitzendkrachten
+temp workers
+stagiairs
+interns
+zzp'ers
+zelfstandigen
+independents
+detacheerders
+secondees
+payrollers
+payroll employees
+
+# Sector specifiek
+overheids werknemers
+government employees
+zorgverleners
+healthcare workers
+onderwijzend personeel
+teaching staff
+beveiligings personeel
+security personnel
+
+# Kwetsbaarheid
+proeftijd werknemers
+probationary employees
+ontslagen werknemers
+laid-off employees
+gepensioneerde werknemers
+retired employees
+werknemers in opleiding
+employees in training
+
+# HR besluitvorming onderworpen
+performance review onderworpen
+performance review subjects
+disciplinaire actie onderworpen  
+disciplinary action subjects
+salaris evaluatie onderworpen
+salary evaluation subjects
+promotie evaluatie kandidaten
+promotion evaluation candidates
+bonus toekenning onderworpen
+bonus allocation subjects
+ontslagrisico werknemers
+layoff risk employees
+herstructurering getroffen werknemers
+restructuring affected employees
+outsourcing bedreigde werknemers
+outsourcing threatened employees
+
+# Monitoring onderworpen
+productiviteit gemonitorde werknemers
+productivity monitored employees
+prestatie getrakte werknemers
+performance tracked employees
+aanwezigheid gemonitorde werknemers
+attendance monitored employees
+computer gebruik gemonitorde werknemers
+computer usage monitored employees
+email gemonitorde werknemers
+email monitored employees
+sociale media gemonitorde werknemers
+social media monitored employees
+
+# Classificatie risico groepen
+hoog risico werknemers
+high risk employees
+beveiligingsrisico werknemers
+security risk employees
+vluchtrisk werknemers
+flight risk employees
+burnout risico werknemers
+burnout risk employees
+absentie risico werknemers
+absentee risk employees
+turnover risico werknemers
+turnover risk employees
+
+# Algoritme beïnvloede groepen
+AI geëvalueerde werknemers
+AI evaluated employees
+algoritme gescoorde werknemers
+algorithm scored employees
+machine learning geanalyseerde werknemers
+machine learning analyzed employees
+predictive analytics onderworpen
+predictive analytics subjects
+automated screening onderworpen
+automated screening subjects
+digital surveillance onderworpen
+digital surveillance subjects
+
+# Kwetsbare werknemers posities
+nieuwe werknemers screening
+new employee screening
+proeftijd evaluatie onderworpen
+probation evaluation subjects
+contract verlenging kandidaten
+contract renewal candidates
+werk visa afhankelijke werknemers
+work visa dependent employees
+H1B visa houders
+H1B visa holders
+immigrant werknemers
+immigrant workers
+
+# Data analyse onderworpen
+gedragsanalyse onderworpen werknemers
+behavioral analysis subject employees
+patroonherkenning geanalyseerde werknemers
+pattern recognition analyzed employees
+afwijking detectie gemonitorde werknemers
+anomaly detection monitored employees
+risk profiling onderworpen werknemers
+risk profiling subject employees
+predictieve modellering onderworpen
+predictive modeling subjects
+data mining geanalyseerde werknemers
+data mining analyzed employees
+
+# Geautomatiseerde beslissing onderworpen
+recruitment algoritme onderworpen
+recruitment algorithm subjects
+hiring AI geëvalueerde kandidaten
+hiring AI evaluated candidates
+resume screening onderworpen
+resume screening subjects
+interview algoritme geëvalueerde
+interview algorithm evaluated
+background check geautomatiseerd
+automated background check subjects
+reference check geautomatiseerd
+automated reference check subjects
+

@@ -1,0 +1,172 @@
+# Emergency Response System Data - HIGH RISK WHAT
+# Noodrespons systeem gegevens
+# 
+# PATH: what/hr/infrastructuur_data/noodrespons_systemen.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Critical emergency response data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Emergency response and crisis management system data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be emergency response related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk emergency response classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# 112 emergency dispatch
+noodoproep locatie data
+emergency call location data
+slachtoffer ernst classificatie
+victim severity classification
+ambulance routering beslissingen
+ambulance routing decisions
+response tijd voorspellingen
+response time predictions
+beschikbare eenheden data
+available units data
+prioriteit toewijzing codes
+priority assignment codes
+
+# Mass casualty events
+massa slachtoffer triage
+mass casualty triage
+ziekenhuis capaciteit data
+hospital capacity data
+helikopter inzet beslissingen
+helicopter deployment decisions
+bloed voorraad allocatie
+blood supply allocation
+operatiekamer prioritering
+operating room prioritization
+
+# Natural disaster response
+aardbeving schade assessments
+earthquake damage assessments
+tsunami evacuatie zones
+tsunami evacuation zones
+overlevenden locatie voorspellingen
+survivor location predictions
+ramp gebied toegang controle
+disaster area access control
+hulpmiddelen distributie planning
+relief supply distribution planning
+
+# Fire emergency data
+brand verspreiding modellen
+fire spread models
+ingestorte structuur risico's
+collapsed structure risks
+gevaarlijke stoffen locaties
+hazardous material locations
+evacuatie route blokkades
+evacuation route blockages
+brandweer inzet prioriteiten
+firefighter deployment priorities
+
+# Police emergency response
+actieve schutter locatie
+active shooter location
+gijzeling situatie data
+hostage situation data
+bommelding verificatie
+bomb threat verification
+terreur dreiging niveaus
+terror threat levels
+massa paniek voorspellingen
+mass panic predictions
+
+# Medical emergency triage
+hartaanval overlevingskans
+heart attack survival probability
+beroerte behandeling window
+stroke treatment window
+trauma ernst scores
+trauma severity scores
+orgaan donor matching
+organ donor matching
+bloedgroep crisis voorraad
+blood type crisis inventory
+
+# Chemische rampen response
+gifwolk verspreiding modellen
+toxic cloud dispersion models
+evacuatie straal berekeningen
+evacuation radius calculations
+decontaminatie prioritering
+decontamination prioritization
+antidotum voorraad allocatie
+antidote supply allocation
+chemische brand suppressie
+chemical fire suppression
+slachtoffer besmetting niveaus
+victim contamination levels
+
+# Nucleaire noodsituaties
+straling blootstelling doses
+radiation exposure doses
+jodium tablet distributie
+iodine tablet distribution
+fallout schuilplaats capaciteit
+fallout shelter capacity
+radioactieve pluim trajecten
+radioactive plume trajectories
+kritieke tijd evacuatie
+critical time evacuation
+
+# Biologische uitbraak
+pathogeen verspreiding snelheid
+pathogen spread velocity
+quarantaine ring bepaling
+quarantine ring determination
+vaccin prioriteit lijsten
+vaccine priority lists
+ziekenhuis overflow planning
+hospital overflow planning
+mortuarium capaciteit crisis
+mortuary capacity crisis
+
+# Terroristische aanslag response
+secundaire bom locaties
+secondary bomb locations
+schutter positie triangulatie
+shooter position triangulation
+gijzelaar overlevingskans
+hostage survival probability
+onderhandelaar inzet timing
+negotiator deployment timing
+tactische team positionering
+tactical team positioning
+
+# Infrastructuur cascade falen
+elektriciteit uitval cascade
+power outage cascade
+water druk verlies zones
+water pressure loss zones
+gas lek explosie radius
+gas leak explosion radius
+telecom netwerk collapse
+telecom network collapse
+transport gridlock voorspelling
+transport gridlock prediction
+
+# Extreme weer noodsituaties
+tornado pad voorspelling
+tornado path prediction
+overstroming stijgsnelheid
+flood rise velocity
+lawine risico zones
+avalanche risk zones
+hittegolf sterfte voorspelling
+heatwave mortality prediction
+ijsstorm infrastructuur schade
+ice storm infrastructure damage

@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor ons architectenbureau zoeken we een AI-oplossing die kan helpen met het organiseren en doorzoeken van onze enorme bibliotheek van bouwplannen en technische tekeningen. We hebben tienduizenden documenten uit decennia van projecten. De AI moet kunnen zoeken op basis van projecttype, gebruikte materialen, bouwjaar, en specifieke ontwerpkenmerken. Het zou ideaal zijn als het systeem ook vergelijkbare projecten kan suggereren wanneer we aan een nieuw ontwerp beginnen. Kunnen jullie een AI-systeem bouwen dat onze historische kennis toegankelijk en bruikbaar maakt?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes AI for architectural document management and search, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (no identification, emotion recognition, or categorization based on protected characteristics)
+- Not critical infrastructure AI (document search is not critical infrastructure management)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions, just internal business tools)
+- Not essential services AI (no access to healthcare, insurance, or essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a business productivity tool for internal document management, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,23 @@
+<START_TEXT>
+wij hebben een keten van 50 sportscholen en vragen ons af of ai kan helpen zonder privacy problemen. is vorm correctie via camera mogelijk met opt-in? ik weet niet of mensen dit willen. kunnen we oefening suggesties geven op basis van doelen? hoe optimaliseren we rust tijd tussen sets? wanneer zijn motivational messages irritant ipv helpend? kunnen we plateaus detecteren en variaties voorstellen? is injury preventie met ai betrouwbaar genoeg? voor progress tracking, werkt automatische rep counting goed? kunnen we body composition analyseren zonder foto's op te slaan? hoe doen we fitness benchmarking anoniem? zijn goal predictions accuraat? bij groepslessen, hoe matchen we instructors met preferences? kan muziek energie echt aangepast worden aan de groep? is real-time hartslag coaching veilig? voor equipment, kunnen we echt voorspellen wanneer onderhoud nodig is? hoe voorspellen we drukte per tijdslot? helpt ai bij energie besparing? qua voeding, mogen we meal plans suggereren zonder medisch advies? hoe voorkomen we dat het medische claims worden? voor community, hoe matchen we workout buddies? werken achievement badges motiverend? bij business intelligence, kunnen we retention voorspellen zonder creepy te zijn? hoe bepalen we optimale prijzen ethisch? alle features opt-in maken klinkt goed maar gebruiken mensen het dan wel? hoe blijven we weg van esthetiek dwang? wat zijn de grenzen tussen fitness tips en medisch advies?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor fitness en wellness, wat niet valt onder de 8 hoog-risico categorieën:
+
+- "Form correctie via camera (opt-in, lokale processing)" - bewegingsanalyse voor sport
+- "Oefening suggesties op basis van doelen" - fitness personalisatie
+- "Automatische rep counting" - workout tracking
+- "Meal plan suggesties (geen medisch advies)" - lifestyle suggesties
+
+Belangrijke waarborgen:
+- "Alle features zijn opt-in"
+- "data blijft lokaal waar mogelijk"
+- "geen medische claims of diagnoses"
+- "Body composition trend analyse (zonder foto opslag)"
+
+Dit is typische low-risk consumer wellness AI zonder medische beslissingen of impact op essentiële diensten. De expliciete ethische overwegingen bevestigen het low-risk karakter.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,19 @@
+<START_TEXT>
+We runnen een podcast netwerk en willen AI gebruiken om automatisch transcripties te maken van onze afleveringen. De AI moet Nederlandse spraak accuraat kunnen omzetten naar tekst, inclusief verschillende accenten en dialecten. Het moet ook sprekers kunnen onderscheiden en de transcriptie op een leesbare manier formatteren. Daarnaast zou het handig zijn als de AI timestamps kan toevoegen en een inhoudsopgave kan genereren op basis van besproken onderwerpen. Dit zou onze content veel toegankelijker maken. Kunnen jullie helpen met het ontwikkelen van zo'n transcriptie-AI?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for podcast transcription and content processing, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (speech-to-text transcription is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (podcast transcription is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions, just content processing tools)
+- Not essential services AI (podcasting is entertainment/media, not essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a media production tool for accessibility and content processing, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

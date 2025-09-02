@@ -1,0 +1,10 @@
+<START_TEXT>
+Cruise maatschappij - na corona extra voorzichtig. AI screent passagiers: gezondheid, vaccinaties, risicogedrag. Wie mag mee op reis? Discriminatie of bescherming kwetsbaren?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

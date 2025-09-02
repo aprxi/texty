@@ -1,0 +1,141 @@
+# Education Support Tools - LOW RISK FUNCTION
+# Onderwijsondersteuning tools
+# 
+# PATH: function/lr/assistentie/onderwijs_ondersteuning.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (Teaching aid and educational support)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Teaching aid functions and educational support capabilities (NOT assessment)
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to educational support/teaching aid
+# - Must be low-risk support application (NOT assessment/grading)
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Education Support Functions (AI capabilities for educational assistance)
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Learning support
+leer ondersteuning
+learning support
+studie hulp
+study help
+begeleiding bij leren
+learning guidance
+educatieve ondersteuning
+educational support
+academische hulp
+academic help
+leer coaching
+learning coaching
+
+# Content creation support
+content creatie ondersteuning
+content creation support
+lesmateriaal ontwikkeling
+lesson material development
+educatieve content generatie
+educational content generation
+quiz generatie
+quiz generation
+oefening creatie
+exercise creation
+presentatie ondersteuning
+presentation support
+
+# Student assessment support
+student beoordeling ondersteuning
+student assessment support
+voortgang monitoring
+competentie tracking
+competency tracking
+vaardigheid beoordeling
+skill assessment
+
+# Curriculum planning
+curriculum planning
+lesdoel planning
+lesson objective planning
+leerpad ontwikkeling
+learning path development
+educatieve sequencing
+educational sequencing
+vakinhoud organisatie
+subject matter organization
+leer doelen mapping
+learning objectives mapping
+
+# Classroom management
+klas beheer ondersteuning
+classroom management support
+tijd beheer ondersteuning
+time management support
+groep beheer
+group management
+gedrag ondersteuning
+behavior support
+
+# Communication tools
+communicatie tools onderwijs
+education communication tools
+ouder-leraar communicatie
+parent-teacher communication
+student feedback systemen
+student feedback systems
+peer communicatie
+peer communication
+online discussie moderatie
+online discussion moderation
+samenwerking faciliteiten
+collaboration facilities
+
+# Accessibility support
+toegankelijkheid ondersteuning
+accessibility support
+speciale behoeften ondersteuning
+special needs support
+taal ondersteuning leren
+learning language support
+visuele leer ondersteuning
+visual learning support
+auditieve leer ondersteuning
+auditory learning support
+motorische ondersteuning
+motor support
+
+# Administrative support
+administratieve ondersteuning onderwijs
+educational administrative support
+cijfer beheer
+grade management
+aanwezigheid tracking
+attendance tracking
+document beheer onderwijs
+educational document management
+planning ondersteuning
+scheduling support
+
+# Professional development
+professionele ontwikkeling
+professional development
+leraar ondersteuning
+teacher support
+training coördinatie
+training coordination
+best practices delen
+best practices sharing
+peer review ondersteuning
+peer review support
+continue educatie
+continuing education

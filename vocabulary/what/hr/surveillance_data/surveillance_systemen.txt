@@ -1,0 +1,148 @@
+# Law Enforcement Surveillance Data - HIGH RISK WHAT
+# Surveillance systeem gegevens
+# 
+# PATH: what/hr/surveillance_data/surveillance_systemen.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Law enforcement surveillance data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Data collected by law enforcement surveillance systems
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be law enforcement surveillance related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk surveillance classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Video surveillance recordings
+video opnames
+video recordings
+CCTV beelden
+CCTV footage
+bewakingscamera beelden
+surveillance camera footage
+gezichtsopnames
+facial recordings
+nummerplaat opnames
+license plate recordings
+
+# Audio surveillance data
+geluid opnames
+sound recordings
+gespreks registraties
+conversation recordings
+omgevingsgeluiden
+ambient sounds
+stem opnames
+voice recordings
+
+# Location tracking data
+GPS locatie geschiedenis
+GPS location history
+bewegings trajecten
+movement trajectories
+verblijfsplaats logs
+whereabouts logs
+route patronen
+route patterns
+locatie tijdlijnen
+location timelines
+
+# Biometric surveillance data
+gezichtsherkennings data
+facial recognition data
+looppatroon analyse
+gait pattern analysis
+lichaamshouding data
+body posture data
+unieke identificatie kenmerken
+unique identification features
+
+# Communication metadata
+communicatie metadata
+communication metadata
+verbindings gegevens
+connection data
+netwerk activiteit
+network activity
+apparaat identificatie
+device identification
+
+# Behavioral pattern data
+gedragspatroon analyses
+behavior pattern analyses
+verdachte activiteit meldingen
+suspicious activity reports
+anomalie detectie logs
+anomaly detection logs
+routine afwijkingen
+routine deviations
+
+# Time-stamped event logs
+tijdstempel logs
+timestamp logs
+incident registraties
+incident registrations
+toegangstijd records
+access time records
+activiteit chronologie
+activity chronology
+
+# Surveillance metadata
+observatie duur
+observation duration
+camera hoek data
+camera angle data
+zoom niveau logs
+zoom level logs
+beeld kwaliteit parameters
+image quality parameters
+
+# Law enforcement identification
+verdachte identificatie logs
+suspect identification logs
+crimineel database matches
+criminal database matches
+gezochte personen alerts
+wanted persons alerts
+identiteits verificatie resultaten
+identity verification results
+vingerafdruk database hits
+fingerprint database hits
+DNA match resultaten
+DNA match results
+biometrische waarschuwingen
+biometric alerts
+
+# Predictive surveillance data
+voorspellende gedragsmodellen
+predictive behavior models
+risico score berekeningen
+risk score calculations
+dreiging waarschijnlijkheid
+threat probability
+patroon extrapolatie data
+pattern extrapolation data
+toekomstige locatie voorspellingen
+future location predictions
+
+# Integrated surveillance systems
+gekoppelde database queries
+linked database queries
+cross-referentie resultaten
+cross-reference results
+multi-bron correlaties
+multi-source correlations
+real-time waarschuwingen
+real-time alerts
+geautomatiseerde verdachte lijsten
+automated suspect lists

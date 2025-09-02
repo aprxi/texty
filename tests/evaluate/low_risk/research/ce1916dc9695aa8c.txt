@@ -1,0 +1,10 @@
+<START_TEXT>
+We doen onderzoek naar ethische AI en hebben een testomgeving nodig. Het systeem moet verschillende AI-modellen kunnen analyseren op bias, transparantie kunnen meten, en fairness evalueren. Dit is voor wetenschappelijke publicaties.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI applications for research. The system does not fall under any of the 8 high-risk categories defined in RULES.md.
+</REASONING>
+<END_EVALUATION>

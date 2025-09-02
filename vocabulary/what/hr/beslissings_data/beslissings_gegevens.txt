@@ -1,0 +1,114 @@
+# Decision-Making Data - HIGH RISK WHAT
+# Beslissings gegevens
+# 
+# PATH: what/hr/beslissings_data/beslissings_gegevens.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Automated decision-making data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: General data used in automated decision-making processes
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be decision-making related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk automated decision classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis besluitvorming data
+beslissings criteria
+decision criteria
+scoring algoritmes
+scoring algorithms
+weging factoren
+weighting factors
+drempel waarden
+threshold values
+prioriteits rankings
+priority rankings
+risk assessments
+risk assessments
+beslissings matrices
+decision matrices
+evaluatie criteria
+evaluation criteria
+
+# Geautomatiseerde beoordeling data
+beoordeling scores
+assessment scores
+eligibility data
+eligibility data
+geschiktheid metrieken
+suitability metrics
+kwalificatie data
+qualification data
+rangschikking data
+ranking data
+selectie criteria
+selection criteria
+goedkeuring status
+approval status
+afwijzing redenen
+rejection reasons
+
+# Proces monitoring data
+beslissings audit trails
+decision audit trails
+tijdstempel gegevens
+timestamp data
+input parameters
+input parameters
+uitkomst tracking
+outcome tracking
+herziening logs
+review logs
+escalatie triggers
+escalation triggers
+handmatige override data
+manual override data
+systeem confidence scores
+system confidence scores
+
+# Voorspellende model data
+voorspelling resultaten
+prediction results
+waarschijnlijkheid scores
+probability scores
+confidence intervallen
+confidence intervals
+model accuracy data
+model accuracy data
+validatie metrieken
+validation metrics
+feature belangrijkheid
+feature importance
+model versie data
+model version data
+training dataset info
+training dataset info
+
+# Feedback en verbetering data
+beslissings feedback
+decision feedback
+uitkomst verificatie
+outcome verification
+model prestatie data
+model performance data
+bias detectie resultaten
+bias detection results
+fairness metrieken
+fairness metrics
+correctie data
+correction data
+hertraining indicatoren
+retraining indicators
+kalibratie gegevens
+calibration data

@@ -1,0 +1,10 @@
+<START_TEXT>
+Watersportwinkel - klanten weten niet welke boot ze aankunnen. AI checkt: vaarervaring (logboek), fysieke conditie (leeftijd/gezondheid), budget, vaarwater. Veilig advies of betutteling?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application without fundamental rights impact.
+</REASONING>
+<END_EVALUATION>

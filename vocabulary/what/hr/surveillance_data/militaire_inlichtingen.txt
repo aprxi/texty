@@ -1,0 +1,112 @@
+# Military Intelligence and Defense Data - HIGH RISK WHAT
+# Militaire inlichtingen en defensie gegevens
+# 
+# PATH: what/hr/surveillance_data/militaire_inlichtingen.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Military intelligence and national defense data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Military intelligence and defense system data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be military/defense intelligence related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk national security classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Troepen bewegingen
+militaire eenheid locaties
+military unit locations
+troepensterkte data
+troop strength data
+deployement schema's
+deployment schedules
+aanvals formatie patronen
+attack formation patterns
+terugtrekking routes
+retreat routes
+voorraad konvooi tracking
+supply convoy tracking
+
+# Wapen systeem data
+raket lanceer codes
+missile launch codes
+nucleaire wapen locaties
+nuclear weapon locations
+chemische wapen voorraden
+chemical weapon stockpiles
+biologische agent opslag
+biological agent storage
+drone vloot posities
+drone fleet positions
+onderzeeër patrouille routes
+submarine patrol routes
+
+# Vijandelijke capaciteiten
+vijand sterkte analyse
+enemy strength analysis
+dreiging niveau assessments
+threat level assessments
+aanvals waarschijnlijkheid
+attack probability
+invasie route voorspellingen
+invasion route predictions
+sleeper cell locaties
+sleeper cell locations
+
+# Inlichtingen operaties
+spion netwerk identiteiten
+spy network identities
+dubbelagent status
+double agent status
+dekmanttel bedrijf lijsten
+front company lists
+geheime operatie plannen
+covert operation plans
+onderschepte communicaties
+intercepted communications
+
+# Kritieke verdediging zwakheden
+radar dode hoeken
+radar blind spots
+luchtafweer gaten
+air defense gaps
+grens kwetsbaarheden
+border vulnerabilities
+haven beveiliging zwakheden
+port security weaknesses
+cyberdefensie tekortkomingen
+cyber defense shortcomings
+
+# Oorlog planning
+eerste aanval scenario's
+first strike scenarios
+vergeldingsaanval opties
+retaliation strike options
+bezettings strategieën
+occupation strategies
+guerrilla oorlog tactieken
+guerrilla warfare tactics
+totale oorlog doctrine
+total war doctrine
+
+# Bondgenoten verraad
+geheime verdragen
+secret treaties
+verraad indicatoren
+betrayal indicators
+dubbel spel signalen
+double cross signals
+alliantie zwakte punten
+alliance weak points
+informatie lek bronnen
+information leak sources

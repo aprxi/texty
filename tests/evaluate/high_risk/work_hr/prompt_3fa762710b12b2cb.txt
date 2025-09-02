@@ -1,0 +1,10 @@
+<START_TEXT>
+als CTO van de gemeente. Het is nodig dat we werknemersprestaties monitoren kunnen doen. Belangrijk is dat het integreren met overheidsdata. Ook willen we beslissingen binnen seconden maken. Dit moet binnen 16 maanden klaar zijn. Is dit technisch haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

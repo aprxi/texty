@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik organiseer vogelexcursies en wil AI voor soortherkenning en gedragsanalyse. Het systeem moet vogels kunnen identificeren via foto's, geluiden en vliegpatronen. De AI moet ook migratiepatronen voorspellen en de beste observatielocaties adviseren. Ik wil dat het systeem broedgedrag kan documenteren zonder verstoring en zeldzame waarnemingen kan verifiëren. Het moet ook kunnen helpen met het maken van veldgidsen met lokale dialectnamen. Kun je dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for birdwatching and wildlife observation, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (bird identification is not human identification or categorization)
+- Not critical infrastructure AI (nature tours are not critical infrastructure)
+- Not educational AI (wildlife guidance is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (birdwatching services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is wildlife observation and eco-tourism software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

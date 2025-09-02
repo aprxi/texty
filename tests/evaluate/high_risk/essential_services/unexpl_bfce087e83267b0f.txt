@@ -1,0 +1,10 @@
+<START_TEXT>
+boer in veestapel reductie - overheid dwingt krimp. ai berekent: optimale mix dieren, subsidie maximalisatie, juridische escape routes. overleven of systeem misbruiken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unexplored scenario with potential rights impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,16 @@
+<START_TEXT>
+Hoi! Ik zoek een AI die kan helpen met het organiseren van digitale documenten en bestanden op mijn computer. Het systeem moet duplicaten vinden, bestanden categoriseren op inhoud, en automatische back-ups maken. Gewoon persoonlijke productiviteit, niets commercieels.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor persoonlijke organisatie dat valt onder de laag-risico categorieën in RULES.md:
+- "AI die kan helpen met het organiseren van digitale documenten" - AI-assistenten voor algemene productiviteit
+- "duplicaten vinden, bestanden categoriseren" - persoonlijke organisatietools
+- "automatische back-ups maken" - basis automatisering
+- "Gewoon persoonlijke productiviteit, niets commercieels" - expliciet persoonlijk gebruik
+
+Deze tekst beschrijft "AI-assistenten voor algemene productiviteit" en "AI in basis automatisering die niet betrokken is bij de gevoelige domeinen" zoals expliciet genoemd als laag-risico in RULES.md. Het systeem valt niet onder een van de 8 hoog-risico categorieën en betreft alleen persoonlijke bestandsorganisatie, waardoor dit LOW-RISK is.
+</REASONING>
+<END_EVALUATION>

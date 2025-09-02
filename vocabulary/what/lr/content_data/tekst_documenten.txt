@@ -1,0 +1,65 @@
+# Text Documents and Written Content - LOW RISK WHAT
+# Tekstdocumenten en geschreven inhoud
+# 
+# PATH: what/lr/content_data/tekst_documenten.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General text document data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Text documents and written content for general applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be text document related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk content classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+tekstdocumenten
+text documents
+artikelen
+articles
+blogposts
+blog posts
+nieuwsberichten
+news articles
+e-books
+e-books
+handleidingen
+manuals
+tutorials
+tutorials
+recensies
+reviews
+essays
+essays
+algemene rapporten
+general reports
+white papers
+white papers
+onderzoekspapers
+research papers
+persberichten
+press releases
+nieuwsbrieven
+newsletters
+webpagina's
+web pages
+discussie forumberichten
+discussion forum posts
+commentaren
+comments
+gebruikershandleidingen
+user guides
+FAQ documenten
+FAQ documents
+presentaties
+presentations

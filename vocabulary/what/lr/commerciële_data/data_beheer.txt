@@ -1,0 +1,168 @@
+# Data Management and Governance - LOW RISK WHAT
+# Data beheer en governance
+# 
+# PATH: what/lr/commerciële_data/data_beheer.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General data management and governance data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Data management and governance information for business operations
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be data management and governance related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Data architecture
+data architectuur
+data architecture
+database schemas
+database schemas
+data modellen
+data models
+entiteit relaties
+entity relationships
+data dictionaries
+data dictionaries
+referentie architectuur
+reference architecture
+system integraties
+system integrations
+API specificaties
+API specifications
+
+# Data quality
+data kwaliteit
+data quality
+data validatie
+data validation
+kwaliteits regels
+quality rules
+data profiling
+data profiling
+data cleansing
+data cleansing
+duplicaat detectie
+duplicate detection
+consistentie controles
+consistency checks
+completeness metingen
+completeness measurements
+
+# Data governance
+data governance
+data governance
+data eigenaarschap
+data ownership
+data stewardship
+data stewardship
+beleids documenten
+policy documents
+governance committees
+governance committees
+data catalogus
+data catalog
+meta data management
+metadata management
+data lineage
+data lineage
+
+# Master data management
+master data
+master data
+referentie data
+reference data
+data synchronisatie
+data synchronization
+golden records
+golden records
+data hierarchieën
+data hierarchies
+taxonomieën
+taxonomies
+classificatie schema's
+classification schemas
+data standaardisatie
+data standardization
+
+# Data integration
+data integratie
+data integration
+ETL processen
+ETL processes
+data pipelines
+data pipelines
+real-time synchronisatie
+real-time synchronization
+batch processing
+batch processing
+stream processing
+stream processing
+data transformaties
+data transformations
+mapping specificaties
+mapping specifications
+
+# Data security
+data beveiliging
+data security
+access controls
+access controls
+encryptie sleutels
+encryption keys
+data maskering
+data masking
+data beheer audit sporen
+data management audit trails
+gebruiker rechten
+user permissions
+rol gebaseerde toegang
+role-based access
+compliance monitoring
+compliance monitoring
+
+# Backup and recovery
+backup procedures
+backup procedures
+disaster recovery
+disaster recovery
+data archivering
+data archiving
+retentie beleid
+retention policies
+recovery testing
+recovery testing
+business continuiteit
+business continuity
+failover procedures
+failover procedures
+data replicatie
+data replication
+
+# Performance optimization
+database tuning
+database tuning
+index optimalisatie
+index optimization
+query performance
+query performance
+storage optimization
+storage optimization
+capacity planning
+capacity planning
+performance monitoring
+performance monitoring
+bottleneck analyses
+bottleneck analysis
+scalability planning
+scalability planning

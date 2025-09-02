@@ -1,0 +1,67 @@
+# Neighbors and Local Community - LOW RISK TARGET
+# Buren en lokale gemeenschap
+# 
+# PATH: target/lr/persoonlijke_kringen/buren.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Personal social interactions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Neighbors and local community members using AI
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be neighbors or local community
+# - Must NOT include what AI does to them
+# - Must NOT include where they are located
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+buren
+neighbors
+directe buren
+direct neighbors
+bovenburen
+upstairs neighbors
+onderburen
+downstairs neighbors
+overburen
+neighbors across
+straatgenoten
+street residents
+wijkbewoners
+neighborhood residents
+flatgenoten
+apartment neighbors
+huisgenoten
+housemates
+portiekgenoten
+stairwell neighbors
+buurtbewoners
+local residents
+nieuwe buren
+new neighbors
+oude buren
+old neighbors
+goede buren
+good neighbors
+buurtcontacten
+neighborhood contacts
+VvE leden
+homeowners association members
+straatcomité
+street committee
+wijkraad leden
+neighborhood council members
+buurtvereniging
+neighborhood association
+lokale gemeenschap
+local community

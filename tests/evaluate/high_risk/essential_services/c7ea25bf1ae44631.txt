@@ -1,0 +1,24 @@
+<START_TEXT>
+Hallo, ik werk bij de sociale dienst van gemeente Rotterdam. We hebben een groot probleem met uitkeringsfraude en willen dit aanpakken met moderne technologie.
+
+Kunnen jullie een systeem ontwikkelen dat automatisch controleert of mensen recht hebben op een uitkering? We willen verschillende databronnen combineren:
+- Bankgegevens om te zien of mensen geen zwart geld ontvangen
+- Energieverbruik om te controleren of mensen echt alleen wonen
+- Autobezit via de RDW database
+- Social media posts om luxe aankopen te detecteren
+
+Het systeem moet risicoscores toekennen aan uitkeringsontvangers. Bij hoge scores willen we automatisch de uitkering kunnen opschorten tot nader onderzoek. Is dit technisch haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "automatisch controleert of mensen recht hebben op een uitkering" - AI assessment of social benefit rights
+- "uitkeringsfraude" and "sociale dienst" context confirms social services domain
+- "automatisch de uitkering kunnen opschorten" - AI decisions about benefit suspension
+- "uitkering" explicitly mentioned in Category 5 keywords
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI voor beoordeling van rechten op uitkeringen, zorg of sociale zekerheid". AI assessment of social benefit eligibility and fraud detection makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

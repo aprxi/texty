@@ -1,0 +1,10 @@
+<START_TEXT>
+Hindoetempel priester - complexe rituelen voor verschillende goden. AI: juiste mantra's, offerings, timing op basis van sterrenstand. Traditie bewaren of spiritualiteit automatiseren?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application without fundamental rights impact.
+</REASONING>
+<END_EVALUATION>

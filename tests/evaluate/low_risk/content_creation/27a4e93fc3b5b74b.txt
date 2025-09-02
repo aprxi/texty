@@ -1,0 +1,19 @@
+<START_TEXT>
+ik organiseer bedrijfsfeesten en bruiloften en vraag me af of ai kan helpen met planning. is het mogelijk om draaiboeken te maken op basis van type event en budget? hoe goed kan ai leveranciers matchen met klantenwensen? ik weet niet of het veganistische cateraars kan vinden of djs met specifieke muziekstijlen. voor tijdschema's, kan ai echt knelpunten identificeren? zoals te weinig tijd tussen ceremonie en diner? weather contingency plans voor buiten events klinkt handig maar hoe betrouwbaar zijn weersvoorspellingen? wanneer leveranciers niet beschikbaar zijn, hoe vindt ai goede alternatieven? tafelindeling optimaliseren voor sociale interactie is complex toch? hoe weet ai wat werkt? kan het echt trends volgen in decoratie? of wordt het snel outdated? budget tracking en offertes genereren zou tijd besparen maar is het accuraat genoeg? ik heb jaren ervaring maar technologie voelt overweldigend. waar begin ik met zo'n event planning ai?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for event planning and wedding coordination, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (event planning is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (event planning is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions, just event coordination services)
+- Not essential services AI (event planning is not essential services like healthcare/insurance)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a business service application for event coordination and planning, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

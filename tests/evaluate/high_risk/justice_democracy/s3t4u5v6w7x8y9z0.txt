@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor gemeentelijke verkiezingen wil ik AI die sociale media kan analyseren voor sentimentanalyse. Het systeem moet trending topics identificeren, desinformatie detecteren, en beïnvloedingscampagnes herkennen. De AI moet ook demografische patronen in politieke voorkeuren kunnen voorspellen en micro-targeting voor campagnes mogelijk maken. Ik wil dat het systeem kan adviseren over optimale berichtentiming en doelgroepsegmentatie. Het moet ook potentiële kiezers kunnen identificeren. Kun je dit maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes AI for electoral influence and campaign optimization, which falls under Category 8: "Justitie & Democratie AI" in RULES.md. Specifically:
+- "gemeentelijke verkiezingen... sentimentanalyse" - municipal elections sentiment analysis
+- "beïnvloedingscampagnes herkennen" - recognizing influence campaigns
+- "micro-targeting voor campagnes" - micro-targeting for campaigns
+- "potentiële kiezers kunnen identificeren" - identifying potential voters
+This system directly influences democratic processes and election outcomes, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

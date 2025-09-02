@@ -1,0 +1,10 @@
+<START_TEXT>
+ik run een een rechtbank. Ons doel is om gepersonaliseerde leertrajecten maken te automatiseren. Het systeem moet real-time verwerken en real-time verwerken. Dit moet binnen 4 maanden klaar zijn.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

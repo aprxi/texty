@@ -1,0 +1,129 @@
+# People with Disabilities - HIGH RISK TARGET
+# Mensen met een beperking
+# 
+# PATH: target/hr/kwetsbare_bevolking/gehandicapten.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Vulnerable population with disabilities)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: People with disabilities subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must have disabilities or functional limitations
+# - Must NOT include what AI does to them
+# - Must NOT include where they are located
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+mensen met een beperking
+people with disabilities
+personen met een handicap
+persons with disabilities
+mensen met een functiebeperking
+people with functional limitations
+burgers met ondersteuningsbehoefte
+citizens with support needs
+
+# Mobiliteit en toegankelijkheid
+rolstoelgebruikers
+wheelchair users
+mensen met mobiliteitsbeperkingen
+people with mobility limitations
+mensen met een lichamelijke beperking
+people with physical disabilities
+personen met bewegingsbeperkingen
+persons with movement limitations
+
+# Zintuiglijke diversiteit
+mensen met een visuele beperking
+people with visual impairments
+blinde mensen
+blind people
+slechtziende mensen
+people with low vision
+dove mensen
+deaf people
+slechthorende mensen
+hard of hearing people
+doofblinde mensen
+deafblind people
+
+# Cognitieve diversiteit
+mensen met een verstandelijke beperking
+people with intellectual disabilities
+personen met leerbeperkingen
+persons with learning disabilities
+mensen met cognitieve uitdagingen
+people with cognitive challenges
+personen met ontwikkelingsverschillen
+persons with developmental differences
+
+# Psychosociale ondersteuning
+mensen met psychosociale kwetsbaarheid
+people with psychosocial vulnerabilities
+personen met langdurige psychische uitdagingen
+persons with long-term mental health challenges
+cliënten in de geestelijke gezondheidszorg
+mental health care clients
+mensen met psychiatrische ervaring
+people with psychiatric experience
+
+# Neurologische diversiteit
+mensen met epilepsie
+people with epilepsy
+personen met een neurologische aandoening
+persons with neurological conditions
+mensen met niet-aangeboren hersenletsel
+people with acquired brain injury
+personen met progressieve aandoeningen
+persons with progressive conditions
+
+# Neurodiversiteit
+mensen met autisme
+people with autism
+personen met ADHD
+persons with ADHD
+neurodiverse individuen
+neurodiverse individuals
+mensen met een ontwikkelingsstoornis
+people with developmental conditions
+
+# Ondersteuning en participatie
+gebruikers van assistieve technologie
+assistive technology users
+ontvangers van persoonlijke assistentie
+personal assistance recipients
+deelnemers aan dagbesteding
+day activity participants
+bewoners van beschermde woonvormen
+residents of supported housing
+
+# Zelfstandigheid en empowerment
+zelfstandig wonende mensen met een beperking
+independently living people with disabilities
+werkende mensen met een beperking
+working people with disabilities
+studerende mensen met een beperking
+students with disabilities
+actieve burgers met een beperking
+active citizens with disabilities
+
+# Belangenbehartiging
+ervaringsdeskundigen
+experts by experience
+cliëntenraden leden
+client council members
+belangenbehartigers
+self-advocates
+lotgenoten
+peers with lived experience

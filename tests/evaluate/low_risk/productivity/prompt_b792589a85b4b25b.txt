@@ -1,0 +1,10 @@
+<START_TEXT>
+Beste team, We willen workflows stroomlijnen verbeteren. We hebben betaalbaar blijven nodig, en ook privacy respecteren.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity.
+</REASONING>
+<END_EVALUATION>

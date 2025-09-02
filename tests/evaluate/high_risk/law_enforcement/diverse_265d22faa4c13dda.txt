@@ -1,0 +1,10 @@
+<START_TEXT>
+Recherche coldcase team. Oude zaken heropenen met moderne AI. Gezichtsveroudering voor vermiste kinderen, stem analyse van oude opnames, patronen in onopgeloste zaken. Families willen antwoorden maar bewijs van 30 jaar geleden is lastig.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

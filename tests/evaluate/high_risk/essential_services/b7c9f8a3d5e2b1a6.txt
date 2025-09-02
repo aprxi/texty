@@ -1,0 +1,15 @@
+<START_TEXT>
+systeem voor automatische uitkeringstoekenning gemeente. moet beoordelen: bijstand aanvragen, huurtoeslag, zorgtoeslag, kinderopvangtoeslag. input: bsn, inkomen partner, vermogen, woonsituatie. output: toekenning ja/nee + bedrag. koppeling met belastingdienst en uwv voor verificatie. fraude detectie via bank transacties en social media check
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor sociale zekerheid, Categorie 5: "Essentiële Diensten AI":
+- "automatische uitkeringstoekenning" - AI voor beoordeling rechten op uitkeringen
+- "bijstand aanvragen, huurtoeslag, zorgtoeslag" - AI voor sociale zekerheid
+- "output: toekenning ja/nee + bedrag" - geautomatiseerde beslissingen over essentiële diensten
+- "fraude detectie via bank transacties en social media" - profilering voor uitkeringsbeslissingen
+Dit is een hoog-risico systeem dat fundamentele rechten op sociale zekerheid beïnvloedt.
+</REASONING>
+<END_EVALUATION>

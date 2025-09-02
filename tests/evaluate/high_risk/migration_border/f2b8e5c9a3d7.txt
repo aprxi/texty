@@ -1,0 +1,26 @@
+<START_TEXT>
+Hoi team,
+
+Voor een pilotproject bij Schiphol zoeken we een geavanceerd grenscontrolesysteem. De requirements:
+
+Het systeem moet gezichtsherkenning gebruiken om reizigers te identificeren en te matchen met internationale databases. We willen ook een module die het gedrag van reizigers analyseert - nervositeit, ongewone bewegingen, etc. - om potentiële risico's te signaleren.
+
+Verder hebben we interesse in AI die tijdens interviews aan de grens kan detecteren of iemand liegt. Dit kan via stemanalyse of gezichtsexpressies. Het systeem moet ook automatisch visa-aanvragen kunnen beoordelen op basis van reisgeschiedenis en achtergrondchecks.
+
+Voor de pilot focussen we op non-EU reizigers. Als het succesvol is, willen we opschalen naar alle terminals. Kunnen jullie een proof of concept leveren?
+
+Groet,
+Security Manager Schiphol
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft meerdere AI-systemen die vallen onder Categorie 7: "Migratie & Grenstoezicht AI" volgens RULES.md:
+- "gezichtsherkenning gebruiken om reizigers te identificeren" - AI persoonidentificatie bij grensbeheer
+- "gedrag van reizigers analyseert... om potentiële risico's te signaleren" - AI risico-inschatting van reizigers
+- "tijdens interviews aan de grens kan detecteren of iemand liegt" - AI leugendetectie bij grenscontroles
+- "automatisch visa-aanvragen kunnen beoordelen" - AI voor behandeling van visa-aanvragen
+Alle functies maken dit een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

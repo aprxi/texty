@@ -1,0 +1,29 @@
+<START_TEXT>
+Beste mensen,
+
+Voor een beveiligingsproject op Schiphol willen we de nieuwste AI-technologie inzetten.
+
+We denken aan:
+- Irisscans voor snelle paspoortcontrole
+- Gedragsanalyse om verdachte passagiers te identificeren
+- Emotieherkenning om zenuwachtige reizigers te spotten
+- Automatische categorisering van risicoprofielen
+- Koppeling met internationale terrorismedatabases
+
+Het systeem moet real-time beslissen wie extra controles krijgt en wie door mag lopen. Bij verdacht gedrag moet security automatisch gewaarschuwd worden.
+
+We willen dat de AI leert van elke interactie en steeds beter wordt in het herkennen van potentiële dreigingen. Kunnen jullie dit voor ons ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes multiple high-risk AI systems per RULES.md:
+1. **Category 1 Biometric AI**: "Irisscans" - biometric identification using iris scans
+2. **Category 1 Biometric AI**: "Emotieherkenning" - emotion recognition
+3. **Category 7 Migration & Border Control AI**: "paspoortcontrole" and "reizigers" - border control and traveler risk assessment at airport
+4. **Category 1 Biometric AI**: "Automatische categorisering van risicoprofielen" - categorization of persons based on risk profiles
+
+This clearly violates multiple high-risk categories, particularly Category 7: "Migratie & Grenstoezicht AI" for "AI risico-inschatting van reizigers" and Category 1 for biometric identification and categorization, making this definitively HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

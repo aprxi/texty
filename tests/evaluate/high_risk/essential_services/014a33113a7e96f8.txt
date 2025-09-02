@@ -1,0 +1,16 @@
+<START_TEXT>
+hallo, ik werk voor de sociale dienst van een grote gemeente en vraag me af of AI kan helpen met het detecteren van uitkeringsfraude. is het mogelijk om verschillende databronnen te analyseren? kunnen we sociale media profielen screenen zonder privacy te schenden? hoe betrouwbaar is het analyseren van bankgegevens? ik weet niet of we verdachte patronen kunnen identificeren zonder mensen onterecht te beschuldigen. wat zijn de risico's van vals positieven? hoe zorgen we dat het systeem geen vooroordelen heeft tegen bepaalde groepen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "uitkeringsfraude kan detecteren" - AI fraud detection for social benefits
+- "sociale dienst" context confirms social services/benefits domain
+- The system assesses eligibility and fraud in social security benefits
+- "uitkering" explicitly mentioned in Category 5 keywords
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI voor beoordeling van rechten op uitkeringen, zorg of sociale zekerheid". Social benefits fraud detection involves AI assessment of benefit rights, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

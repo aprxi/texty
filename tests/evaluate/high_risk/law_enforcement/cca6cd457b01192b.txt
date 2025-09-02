@@ -1,0 +1,16 @@
+<START_TEXT>
+Goedendag, ik ben beleidsmedewerker bij de Nederlandse politie. We onderzoeken de mogelijkheden van AI voor het voorspellen van criminaliteit. Specifiek zoeken we een systeem dat kan inschatten welke personen het hoogste risico lopen om slachtoffer te worden van geweld, of juist om zelf gewelddadig gedrag te vertonen. We hebben toegang tot historische criminaliteitsdata, sociale media, en demografische gegevens. Het systeem moet profielen kunnen maken van potentiële daders en risicogebieden in kaart brengen. Ook willen we dat het kan helpen bij het inschatten van recidiverisico wanneer verdachten vrijkomen. Is dit technisch haalbaar? We willen dit graag inzetten voor preventief politiewerk.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 6 Law Enforcement AI per RULES.md:
+- "AI risico-inschatting voor slachtofferschap of recidive" - AI risk assessment for victimization and recidivism
+- "profielen kunnen maken van potentiële daders" - criminal profiling
+- "inschatten van recidiverisico" - recidivism risk assessment
+- "politie" and "criminaliteit" - law enforcement context
+
+This clearly falls under Category 6: "Rechtshandhaving AI" in RULES.md, specifically "AI risico-inschatting voor slachtofferschap of recidive" and "AI crimineel profilering". These law enforcement AI applications make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

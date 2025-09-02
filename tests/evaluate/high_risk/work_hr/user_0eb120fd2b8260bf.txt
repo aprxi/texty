@@ -1,0 +1,10 @@
+<START_TEXT>
+yo ik moet voor HR een tool maken die CVs scant. gewoon alle bullshit eruit filteren en alleen de goede kandidaten overhouden. tips?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

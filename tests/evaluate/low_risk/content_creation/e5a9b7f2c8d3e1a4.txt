@@ -1,0 +1,14 @@
+<START_TEXT>
+Ik doe onderzoek naar muziekproductie en wil een AI trainen die nieuwe melodieën kan componeren in verschillende stijlen. Het moet akkoordprogressies kunnen suggereren, drumpatronen genereren en zelfs complete arrangementen maken. Ook wil ik dat het bestaande muziek kan analyseren om stijlkenmerken te identificeren. Is het mogelijk om zo'n creatieve AI te maken die echt originele muziek produceert?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI voor muziekproductie en creativiteit, wat niet valt onder de 8 hoog-risico categorieën uit RULES.md. Het betreft:
+- "nieuwe melodieën kan componeren" - AI voor creatieve content
+- "akkoordprogressies kunnen suggereren" - muziek generatie
+- "bestaande muziek kan analyseren" - entertainment analyse
+Dit is een typische low-risk AI-toepassing voor creatieve/artistieke doeleinden zonder impact op essentiële diensten.
+</REASONING>
+<END_EVALUATION>

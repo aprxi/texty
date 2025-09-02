@@ -1,0 +1,14 @@
+<START_TEXT>
+Politie wil AI dat criminele profielen maakt van verdachten op basis van gedragspatronen en voorspelt welke jongeren waarschijnlijk criminaliteit zullen plegen. Systeem analyseert sociale media, school prestaties, en buurtgegevens.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-systemen voor rechtshandhaving die vallen onder categorie 6: "Rechtshandhaving AI" in RULES.md:
+- "criminele profielen maakt van verdachten" - AI crimineel profilering
+- "voorspelt welke jongeren waarschijnlijk criminaliteit zullen plegen" - AI risico-inschatting voor recidive/crimineel gedrag
+
+Dit valt expliciet onder "AI risico-inschatting voor slachtofferschap of recidive" en "AI crimineel profilering" zoals genoemd in RULES.md categorie 6. Predictieve AI-systemen voor rechtshandhaving zijn HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

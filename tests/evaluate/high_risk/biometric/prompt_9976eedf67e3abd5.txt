@@ -1,0 +1,10 @@
+<START_TEXT>
+Goedemorgen, als IT-manager van de politie. We willen ai gebruiken om emoties detecteren uit gezichtsuitdrukkingen. Het systeem moet integreren met overheidsdata en volledig geautomatiseerd werken. Graag een voorstel ontvangen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md.
+</REASONING>
+<END_EVALUATION>

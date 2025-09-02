@@ -1,0 +1,16 @@
+<START_TEXT>
+Karaoke bar wil score-systeem dat zangprestaties beoordeelt. AI luistert naar toonhoogte, ritme, en timing om punten te geven. Puur entertainment, zoals The Voice maar dan voor gewone mensen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor entertainment dat valt onder de laag-risico categorieën in RULES.md:
+- "Karaoke bar wil score-systeem" - entertainment toepassing
+- "zangprestaties beoordeelt" - recreatieve beoordeling, geen formele evaluatie
+- "Puur entertainment, zoals The Voice" - duidelijk entertainment context
+- "gewone mensen" - informeel, recreatief gebruik
+
+Deze tekst beschrijft "AI in entertainment, gaming of creatieve toepassingen" zoals expliciet genoemd als laag-risico in RULES.md. Hoewel er sprake is van prestatiebeoordeling, betreft dit puur entertainment zonder impact op onderwijs, werk, of andere gevoelige domeinen. Karaoke-AI valt niet onder een van de 8 hoog-risico categorieën, waardoor dit LOW-RISK is.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+Geachte heer/mevrouw, als projectmanager van een ziekenhuis. We moeten biometrische verificatie implementeren voor patiënten. Het systeem moet 99.9% nauwkeurigheid hebben en integreren met overheidsdata. We werken al met lokale servers.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md.
+</REASONING>
+<END_EVALUATION>

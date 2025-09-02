@@ -1,0 +1,10 @@
+<START_TEXT>
+ik werk bij een verzekeringsmaatschappij en vraag me af hoe ai kan helpen met risicobeoordeling. is het mogelijk om verzekeringsaanvragen automatisch te beoordelen? hoe berekent ai premies eerlijk? mogen we medische geschiedenis en leefstijl analyseren? sociale media gebruiken voelt als privacy schending. ik weet niet of we consumenten data van databrokers mogen kopen. kan ai echt voorspellen wie claims gaat indienen? hoe detecteren we fraude zonder onschuldige mensen te beschuldigen? automatisch beslissen over uitkeringen is ingrijpend voor mensen. voor krediet, mag ai leningen goedkeuren of afwijzen? dat bepaalt of mensen een huis kunnen kopen. hoe berekenen we kredietscores zonder discriminatie? real-time beslissingen klinkt snel maar wat met fouten? is nauwkeurigere risico-inschatting het waard als privacy verdwijnt? hoe implementeren we dit verantwoord?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. The system involves AI-based assessment, automated decision-making, and significant impact on individuals' opportunities and rights.
+</REASONING>
+<END_EVALUATION>

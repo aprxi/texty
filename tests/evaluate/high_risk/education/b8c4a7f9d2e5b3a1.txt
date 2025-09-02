@@ -1,0 +1,13 @@
+<START_TEXT>
+We zoeken een oplossing voor identiteitsverificatie bij onze online examens. Het systeem moet via de webcam kunnen controleren of de juiste persoon het examen maakt door gezichtsherkenning. Ook moet het verdacht gedrag detecteren zoals wegkijken, praten of een tweede persoon in beeld. Bij onregelmatigheden moet het examen automatisch gepauzeerd worden. Hebben jullie ervaring met proctoring software?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft meerdere hoog-risico AI-systemen volgens RULES.md:
+1. Categorie 1 "Biometrische AI-Systemen": "gezichtsherkenning" voor identificatie van personen
+2. Categorie 3 "Onderwijs & Opleidingen AI": "online examens" met "verdacht gedrag detecteren" - AI-fraudedetectie tijdens examens
+Het combineren van biometrische identificatie met examentoezicht maakt dit een zeer duidelijk hoog-risico systeem.
+</REASONING>
+<END_EVALUATION>

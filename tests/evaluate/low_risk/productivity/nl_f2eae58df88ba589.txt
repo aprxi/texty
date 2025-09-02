@@ -1,0 +1,20 @@
+<START_TEXT>
+sta al 30 jaar op de markt in den bosch
+
+gemeente wil "slimme markt":
+- ai voorspelt drukte
+- bepaalt standplaatsen
+- controleert vergunningen
+- monitort hygiene
+
+maar markt draait om menselijk contact! klanten komen voor praatje, niet voor efficiency
+
+traditioneel is niet achterlijk!
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Persoonlijk of zakelijk gebruik zonder kritieke impact op rechten.
+</REASONING>
+<END_EVALUATION>

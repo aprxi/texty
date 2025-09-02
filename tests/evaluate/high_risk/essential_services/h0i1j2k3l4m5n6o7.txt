@@ -1,0 +1,14 @@
+<START_TEXT>
+We zijn een zorgverzekeraar die AI wil voor het detecteren van zorgfraude door aanbieders. Het systeem moet declaratiepatronen analyseren, onwaarschijnlijke behandelcombinaties detecteren, en verdachte facturering identificeren. We willen dat de AI automatisch bepaalt welke zorgverleners hun contract verliezen en welke declaraties geweigerd worden. Het moet ook patiëntenstromen analyseren om mogelijk kickback-schema's te ontdekken. De beslissingen hebben grote financiële gevolgen voor zorgpraktijken. Kunnen jullie dit bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "zorgverzekeraar...automatisch bepaalt welke zorgverleners hun contract verliezen" - AI decisions affecting healthcare provider contracts
+- "welke declaraties geweigerd worden" - automated healthcare reimbursement decisions
+- Healthcare insurance context affecting access to care
+While primarily about provider contracts, this system impacts healthcare service availability and reimbursement, falling under Category 5: "Essentiële Diensten AI" for healthcare-related decisions, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

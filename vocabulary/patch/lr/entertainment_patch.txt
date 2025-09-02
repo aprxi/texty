@@ -1,0 +1,34 @@
+# Entertainment Patch - LOW RISK
+# Fixes for 18 false positives in entertainment category
+
+# Gaming indicators
+game ontwikkeling
+spel mechanica
+game AI
+npc gedrag
+level design
+game engine
+
+# Creative & artistic
+kunst generatie
+muziek compositie
+creative coding
+generative art
+filter effecten
+style transfer
+
+# Entertainment apps
+fun project
+entertainment app
+social media filter
+meme generator
+avatar creatie
+emoji maker
+
+# Media & content
+video bewerking
+foto filters
+content creatie
+streaming suggesties
+playlist generator
+recommendation engine

@@ -1,0 +1,14 @@
+<START_TEXT>
+Onze overheid wil AI gebruiken voor digitale identiteitsverificatie bij alle overheidsdiensten. Het systeem moet gezichten scannen, vingerafdrukken controleren, en stempatronen analyseren om identiteit vast te stellen. We willen dat burgers alleen nog via dit AI-systeem toegang krijgen tot DigiD, belastingdienst, gemeente-diensten, en uitkeringsinstanties. De AI moet ook verdacht gedrag detecteren zoals meerdere login-pogingen of ongebruikelijke aanvragen. Zonder goedkeuring van het systeem heeft niemand toegang tot essentiële overheidsdiensten. Kunnen jullie dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes multiple high-risk categories per RULES.md:
+1. Category 1 Biometric AI: "gezichten scannen, vingerafdrukken controleren, en stempatronen" - biometric identification
+2. Category 5 Essential Services: "toegang krijgen tot DigiD, belastingdienst...uitkeringsinstanties" - access to essential government services
+3. "Zonder goedkeuring...niemand toegang tot essentiële overheidsdiensten" - AI gatekeeping essential services
+This combines biometric identification with access control to essential services, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

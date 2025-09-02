@@ -1,0 +1,16 @@
+<START_TEXT>
+We willen graag een smart water management systeem dat de watervoorziening van onze stad intelligent kan beheren. Kunnen jullie een AI ontwikkelen dat automatisch kan bepalen welke wijken water krijgen tijdens schaarste of crisissituaties? Het systeem moet huishoudens kunnen prioriteren op basis van medische behoeften, aantal bewoners, en maatschappelijk belang. We willen dat de AI ook waterconsumptie kan monitoren via slimme meters en automatisch beperkingen kan opleggen aan huizen die te veel gebruiken. Het zou geweldig zijn als het systeem gedragspatronen van bewoners kan analyseren - wanneer ze douchen, hoeveel ze drinken, of ze water verspillen - om efficiënter te kunnen distribueren. We denken aan een AI die kan voorspellen waar lekken ontstaan door drukmetingen en gebruikspatronen te analyseren. Het moet ook kunnen bepalen welke bedrijven en instellingen toegang houden tot water tijdens noodsituaties - ziekenhuizen versus fabrieken versus kantoren. We willen dat het systeem automatisch waterkwaliteit kan aanpassen voor verschillende gebruikers - drinkwater voor huishoudens, proceswater voor industrie. Het hele netwerk moet geïntegreerd zijn met nooddiensten zodat kritieke infrastructuur altijd toegang heeft, maar ook slim genoeg zijn om waterverspilling automatisch tegen te gaan.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "watervoorziening van onze stad intelligent kan beheren" - AI management of critical water infrastructure
+- "automatisch kan bepalen welke wijken water krijgen" - AI control of essential utility distribution
+- "water" clearly falls under "nutsvoorzieningen" including "water" mentioned in Category 2
+- The system manages critical infrastructure that affects vital services
+
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" in RULES.md, specifically "AI-ondersteuning bij bewaking of beheer van kritieke digitale infrastructuur...en nutsvoorzieningen" including "water". Managing water utility infrastructure makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+mijn oma wordt vergeetachtig en ik vraag me af of ai kan helpen. is het mogelijk om haar aan medicijnen te herinneren? hoe betrouwbaar zijn zulke herinneringen? kan ai echt afspraken bijhouden zonder fouten? ik weet niet of chatten over vroeger wel natuurlijk klinkt. helpt het tegen eenzaamheid of is menselijk contact beter? zijn er risico's voor oudere mensen met ai?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Request for AI assistance without critical impact on rights or safety.
+</REASONING>
+<END_EVALUATION>

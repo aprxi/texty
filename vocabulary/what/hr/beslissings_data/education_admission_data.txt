@@ -1,0 +1,115 @@
+# Education and Admission Data - HIGH RISK WHAT
+# Onderwijs en toelating gegevens
+# 
+# PATH: what/hr/beslissings_data/education_admission_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Educational access and assessment data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Education admission and student assessment data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be education/admission related content
+# - Must be what AI processes (not who or where)
+# - Must be specific educational data
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Admission process variations
+toelatingsproces
+toelatingsprocedure
+aanmeldingsprocedure
+inschrijvingsproces
+selectieproces onderwijs
+toegang onderwijs
+toelatingscriteria
+selectiecriteria
+aanmeldingsgegevens
+inschrijfformulieren
+toelatingsaanvragen
+selectie data
+toegangseisen
+numerus clausus data
+lotinggegevens
+decentrale selectie
+
+# Student records and profiles
+studentendossiers
+leerlingdossiers
+onderwijsdossiers
+studieresultaten
+cijferlijsten
+academische prestaties
+studieloopbaan
+leerlingvolgsysteem
+studentregistratie
+onderwijshistorie
+schoolcarrière
+studiepunten
+gemiddelde cijfers
+GPA scores
+academisch profiel
+studietraject
+vakkenpakket keuze
+profielkeuze
+
+# Assessment and evaluation data
+toetsresultaten
+examenresultaten
+eindexamencijfers
+schoolprestaties
+evaluatiegegevens
+voortgangsrapportages
+competentiebeoordelingen
+formatieve toetsing
+summatieve toetsing
+schoolexamens
+centraal examen
+praktijktoetsen
+mondelinge examens
+portfolio beoordeling
+assessment scores
+tentamenresultaten
+hertentamen data
+herkansingen
+examenuitslagen
+cijferregistratie
+
+# Educational qualifications
+onderwijskwalificaties
+diploma gegevens
+certificaten
+vooropleiding
+opleidingsniveau
+studierichting
+vakkenpaket
+
+# Learning analytics
+leeranalyse
+studievoortgang
+leergedrag
+studiepatronen
+aanwezigheidsgegevens
+participatiedata
+
+# Special needs and support
+onderwijsbehoeften
+leermoeilijkheden
+ondersteuningsbehoefte
+dyslexieverklaringen
+hoogbegaafdheid indicaties
+
+# Institutional fit data
+motivatiebrieven onderwijs
+aanbevelingsbrieven
+extracurriculaire activiteiten
+talentportfolio
+geschiktheidstests

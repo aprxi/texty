@@ -1,0 +1,87 @@
+# Social Media Users - LOW RISK TARGET
+# Social media gebruikers
+# 
+# PATH: target/lr/vrijwillige_gebruikers/sociale_media_gebruikers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary social media use)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Social media users using AI-powered features
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be voluntary social media users
+# - Must NOT include what AI does to them
+# - Must NOT include which platforms they use
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+social media gebruikers
+social media users
+platform gebruikers
+platform users
+
+# Content creators
+vloggers
+
+# Actieve gebruikers
+volgers
+followers
+fans
+abonnees
+subscribers
+vrienden
+friends
+connecties
+connections
+
+# Platform specifiek
+Instagram gebruikers
+Instagram users
+TikTok gebruikers
+TikTok users
+Twitter gebruikers
+Twitter users
+Facebook gebruikers
+Facebook users
+LinkedIn gebruikers
+LinkedIn users
+
+# Engagement types
+commentaar plaatsers
+commenters
+like gevers
+likers
+deel gebruikers
+sharers
+taggers
+hashtag gebruikers
+hashtag users
+
+# Account types
+persoonlijke accounts
+personal accounts
+bedrijfsaccounts
+business accounts
+maker accounts
+creator accounts
+fan accounts
+
+# Gebruikers gedrag
+actieve gebruikers
+active users
+passieve kijkers
+passive viewers
+dagelijkse gebruikers
+daily users
+gelegenheidgebruikers
+casual users

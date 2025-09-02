@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor onze camping willen we een AI-assistent die gasten kan helpen bij het plannen van hun verblijf. Het systeem moet kunnen adviseren over de beste plekken op basis van voorkeuren zoals schaduw, nabijheid sanitair, of rust. De AI moet ook activiteiten kunnen suggereren in de omgeving die passen bij het gezinstype en interesses. We willen dat het systeem weerupdates kan geven en waarschuwt voor storm zodat gasten voorzorgsmaatregelen kunnen nemen. Het moet ook kunnen helpen met het reserveren van fietsen en andere verhuurmaterialen. Kun je deze camping-AI ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for camping site management and guest services, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (guest preferences are not human identification or categorization)
+- Not critical infrastructure AI (camping sites are not critical infrastructure)
+- Not educational AI (travel planning is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (camping services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is hospitality and tourism software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

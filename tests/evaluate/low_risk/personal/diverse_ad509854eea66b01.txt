@@ -1,0 +1,10 @@
+<START_TEXT>
+Kapperszaak - AI kapselsuggesties via gezichtsscan: vorm hoofd, haartype, leeftijd. Virtual try-on voor knippen. Minder mislukte kapsels maar spontaniteit weg.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

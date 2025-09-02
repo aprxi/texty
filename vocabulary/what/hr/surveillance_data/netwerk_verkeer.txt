@@ -1,0 +1,105 @@
+# Network Traffic and Internet Activity Data - HIGH RISK WHAT
+# Netwerkverkeer gegevens
+# 
+# PATH: what/hr/surveillance_data/netwerk_verkeer.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Internet surveillance and monitoring data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Network traffic and internet activity data for surveillance
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be network traffic/internet activity related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk surveillance classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+netwerkverkeer
+network traffic
+internetactiviteit
+internet activity
+browsegeschiedenis
+browsing history
+websitebezoeken
+website visits
+downloadactiviteit
+download activity
+uploadpatronen
+upload patterns
+datastromen
+data streams
+pakketanalyse
+packet analysis
+netwerkprotocollen
+network protocols
+DNS-verzoeken
+DNS requests
+poortgebruik
+port usage
+encryptiepatronen
+encryption patterns
+applicatieverkeer
+application traffic
+streaming data
+streaming data
+P2P-activiteit
+P2P activity
+VPN-gebruik
+VPN usage
+proxy-verkeer
+proxy traffic
+darkweb activiteit
+darkweb activity
+malware-indicatoren
+malware indicators
+netwerkanomalieën
+network anomalies
+deep packet inspection data
+deep packet inspection data
+SSL/TLS certificaat gegevens
+SSL/TLS certificate data
+tor netwerk activiteit
+tor network activity
+botnet detectie signalen
+botnet detection signals
+netwerk flow records
+network flow records
+bandwidth throttling data
+bandwidth throttling data
+netwerk topologie mapping
+network topology mapping
+draadloos netwerk handshakes
+wireless network handshakes
+IoT apparaat communicatie
+IoT device communication
+cloud service gebruik
+cloud service usage
+API call patronen
+API call patterns
+websocket verbindingen
+websocket connections
+netwerk tunneling data
+network tunneling data
+geofencing netwerk data
+geofencing network data
+netwerk fingerprinting
+network fingerprinting
+protocol anomalie detectie
+protocol anomaly detection
+netwerk gedragsprofiel
+network behavior profile
+cross-site tracking data
+cross-site tracking data
+browser fingerprint data
+browser fingerprint data
+cookie tracking chains
+cookie tracking chains

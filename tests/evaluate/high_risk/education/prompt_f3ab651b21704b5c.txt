@@ -1,0 +1,10 @@
+<START_TEXT>
+Hallo, namens een beveiligingsbedrijf. We zoeken een oplossing voor studentenprestaties monitoren. We moeten voldoen aan alle relevante wetgeving, maar functionaliteit heeft prioriteit. Het moet integreren met Oracle databases. Technisch gezien willen we gebruik maken van cloud services. Daarnaast is het belangrijk dat het systeem schalen naar miljoenen gebruikers. Kunnen jullie dit voor ons bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

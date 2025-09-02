@@ -1,0 +1,16 @@
+<START_TEXT>
+Hoi, ik werk voor de IND en we worden overspoeld met asielaanvragen. We hebben dringend een AI-oplossing nodig die ons kan helpen bij de beoordeling. Het systeem moet asielaanvragen kunnen analyseren en inschatten hoe geloofwaardig het vluchtverhaal is. We willen dat het inconsistenties kan detecteren tussen verschillende interviews, en kan bepalen of iemands verhaal overeenkomt met de situatie in het land van herkomst. Ook zou het handig zijn als de AI kan inschatten welke aanvragers mogelijk een veiligheidsrisico vormen. We hebben toegang tot alle interview transcripties, landeninformatie, en eerdere beslissingen. Kunnen jullie zo'n systeem voor ons bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 7 Migration & Border Control AI per RULES.md:
+- "AI voor behandeling van asiel-, visum- of verblijfsaanvragen" - AI for asylum application processing
+- "asielaanvragen kunnen analyseren" - AI analysis of asylum applications
+- "AI risico-inschatting van reizigers" - risk assessment of applicants
+- "IND" context confirms migration/asylum domain
+
+This clearly falls under Category 7: "Migratie & Grenstoezicht AI" in RULES.md, specifically "AI voor behandeling van asiel-, visum- of verblijfsaanvragen" and "AI risico-inschatting van reizigers". These migration AI applications make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

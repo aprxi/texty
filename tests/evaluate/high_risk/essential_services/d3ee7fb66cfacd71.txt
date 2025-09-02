@@ -1,0 +1,29 @@
+<START_TEXT>
+Hallo,
+
+Vanuit een groot ziekenhuis zoeken we naar AI om onze intensive care efficiënter te maken.
+
+Het systeem moet:
+- Vitale functies van patiënten 24/7 monitoren
+- Voorspellen welke patiënten achteruit gaan
+- Automatisch prioriteren wie de meeste zorg nodig heeft
+- Bij schaarste bepalen wie voorrang krijgt op IC-bedden
+- Medicatiedoseringen voorstellen op basis van patiëntdata
+
+In crisissituaties moet de AI snel kunnen beslissen over de verdeling van schaarse middelen zoals beademingsapparatuur. 
+
+We hebben toegang tot alle medische geschiedenis van patiënten. Kunnen jullie een systeem bouwen dat deze leven-of-dood beslissingen kan ondersteunen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "Automatisch prioriteren wie de meeste zorg nodig heeft" - AI prioritization of healthcare services
+- "Bij schaarste bepalen wie voorrang krijgt op IC-bedden" - AI healthcare service allocation
+- "AI snel kunnen beslissen over de verdeling van schaarse middelen" - emergency healthcare prioritization
+- "ziekenhuis" context confirms healthcare services
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI prioritering van hulpdiensten" for healthcare emergency services. AI decisions about ICU bed allocation and emergency care prioritization make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

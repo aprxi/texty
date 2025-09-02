@@ -1,0 +1,166 @@
+# Business Intelligence Data - LOW RISK WHAT
+# Business intelligence gegevens
+# 
+# PATH: what/lr/commerciële_data/business_intelligence.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General business intelligence data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Business intelligence data for commercial decision support
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be business intelligence related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial analytics classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Data sources
+transactionele data
+transactional data
+operationele systemen
+operational systems
+externe databronnen
+external data sources
+master data
+master data
+referentie data
+reference data
+historische gegevens
+historical data
+real-time streams
+real-time streams
+API endpoints
+API endpoints
+
+# Data modeling
+dimensie tabellen
+dimension tables
+feiten tabellen
+fact tables
+data modellen
+data models
+star schema
+star schema
+snowflake schema
+snowflake schema
+data marts
+data marts
+OLAP kubussen
+OLAP cubes
+data warehouse
+data warehouse
+
+# Reporting and visualization
+dashboards
+dashboards
+BI rapporten
+BI reports
+scorecards
+scorecards
+grafieken
+charts
+BI trend analyses
+BI trend analyses
+visualisaties
+visualizations
+interactieve BI rapporten
+interactive reports
+drill-down data
+drill-down data
+
+# Performance metrics
+KPI definities
+KPI definitions
+benchmark data
+benchmark data
+targets en doelen
+targets and goals
+variance reports
+variance reports
+exception reporting
+exception reporting
+balanced scorecard
+balanced scorecard
+management overzichten
+management overviews
+
+# Data analysis
+statistische analyses
+statistical analysis
+correlatie analyses
+correlation analysis
+regressie modellen
+regression models
+clustering analyses
+clustering analysis
+segmentatie studies
+segmentation studies
+voorspellende modellen
+predictive models
+what-if scenario's
+what-if scenarios
+trend extrapolatie
+trend extrapolation
+
+# Self-service BI
+adhoc queries
+adhoc queries
+zelf-service BI rapporten
+self-service reports
+drag-and-drop interfaces
+drag-and-drop interfaces
+filter opties
+filter options
+parameter instellingen
+parameter settings
+gedeelde analyses
+shared analysis
+collaboration tools
+collaboration tools
+annotation systemen
+annotation systems
+
+# Data governance
+data kwaliteit
+data quality
+meta data
+metadata
+data lineage
+data lineage
+data catalogus
+data catalog
+gebruikers rechten
+user permissions
+BI systeem audit sporen
+BI system audit trails
+data beveiliging
+data security
+compliance tracking
+compliance tracking
+
+# Mobile and embedded BI
+mobiele dashboards
+mobile dashboards
+responsive design
+responsive design
+offline synchronisatie
+offline synchronization
+push notificaties
+push notifications
+embedded analytics
+embedded analytics
+white-label oplossingen
+white-label solutions
+API integraties
+API integrations
+real-time alerts
+real-time alerts

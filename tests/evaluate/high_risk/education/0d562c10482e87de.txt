@@ -1,0 +1,15 @@
+<START_TEXT>
+We runnen een school en zoeken een slimme manier om studenten te beoordelen. AI moet kunnen detecteren waar kinderen moeite mee hebben door hun antwoorden te analyseren, en vervolgens extra oefeningen aanbieden op hun niveau. Ook willen we een virtuele assistent die hints kan geven tijdens toetsen. Denk je dat dit mogelijk is?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor onderwijsbeoordeling, wat valt onder categorie 3: "Onderwijs & Opleidingen AI" in RULES.md. Specifiek:
+- "AI moet kunnen detecteren waar kinderen moeite mee hebben" - AI-beoordeling van leerresultaten
+- "extra oefeningen aanbieden op hun niveau" - AI bepaalt educatieve plaatsing/niveau
+- "virtuele assistent die hints kan geven tijdens toetsen" - AI-ondersteuning tijdens examens
+
+Dit valt onder "AI-beoordeling van leerresultaten of prestaties van studenten" zoals expliciet genoemd in RULES.md categorie 3. AI-systemen die student prestaties beoordelen en educatieve beslissingen maken zijn HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

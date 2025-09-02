@@ -1,0 +1,69 @@
+# Object Detection Systems - HIGH RISK FUNCTION
+# Objectdetectiesystemen
+# 
+# PATH: function/hr/computer_vision/object_detectie.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Surveillance and tracking capabilities)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Object detection and tracking capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to object detection and tracking
+# - Must be high-risk surveillance/tracking application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Object Detection and Tracking Systems
+# Objectdetectie en volgsystemen
+# Sorted by commonality (most common first)
+
+objectdetectie
+object detection
+objecttracking
+object tracking
+objectidentificatie
+object identification
+automatische objectherkenning
+automatic object recognition
+meervoudige objectdetectie
+multiple object detection
+objectlokalisatie
+object localization
+3D-objectdetectie
+3D object detection
+objectclassificatie
+object classification
+real-time objectdetectie
+real-time object detection
+objectvolgsysteem
+object tracking system
+bewegende objectdetectie
+moving object detection
+objecttelling
+object counting
+objectsegmentatie
+object segmentation
+objectpositiebepaling
+object position determination
+geavanceerde objectherkenning
+advanced object recognition
+objectanalyse
+object analysis
+objectregistratie
+object registration
+objectvergelijking
+object comparison
+objectmapping
+object mapping
+objectvoorspelling
+object prediction

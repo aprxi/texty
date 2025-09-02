@@ -1,0 +1,112 @@
+# Mobile Search Functions - LOW RISK FUNCTION
+# Mobiele zoeksystemen
+# 
+# PATH: function/lr/verwerking/mobiele_zoeken.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (mobile search and discovery tools)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Mobile search and location-based discovery capabilities for general purpose applications
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to mobile search and location-based services
+# - Must be low-risk search and discovery application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Mobiel zoeken  
+mobiele zoeken
+mobile search
+app zoeken
+app search
+stem zoeken
+voice search
+spraakherkenning
+speech recognition
+locatie-gebaseerde zoeken
+location-based search
+GPS zoeken
+GPS search
+nabijheid zoeken
+proximity search
+lokale zoeken
+local search
+kaart zoeken
+map search
+gids zoeken
+directory search
+contact zoeken
+contact search
+telefoon zoeken
+phone search
+adres zoeken
+address search
+bedrijf zoeken
+business search
+# Sociale zoeken
+social media zoeken
+social media search
+profiel zoeken
+profile search
+mensen zoeken
+people search
+vriend zoeken
+friend search
+netwerk zoeken
+network search
+gemeenschap zoeken
+community search
+hashtag zoeken
+hashtag search
+vermelding zoeken
+mention search
+trend zoeken
+trend search
+virale inhoud zoeken
+viral content search
+door gebruiker gegenereerde inhoud zoeken
+user-generated content search
+discussie zoeken
+discussion search
+forum zoeken
+forum search
+commentaar zoeken
+comment search
+# Academisch zoeken
+academische zoeken
+academic search
+wetenschappelijke zoeken
+scholarly search
+onderzoek zoeken
+research search
+citaat zoeken
+citation search
+tijdschrift zoeken
+journal search
+artikel zoeken
+paper search
+publicatie zoeken
+publication search
+instelling zoeken
+institution search
+conferentie zoeken
+conference search
+thesis zoeken
+thesis search
+dissertatie zoeken
+dissertation search
+referentie zoeken
+reference search
+bibliografie zoeken
+bibliography search

@@ -1,0 +1,10 @@
+<START_TEXT>
+Dierenasiel - AI matcht hond met baasje. Kijkt naar: woon situatie, werkschema, energie niveau, ervaring. Minder terug gebrachte honden maar missen we de klik?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

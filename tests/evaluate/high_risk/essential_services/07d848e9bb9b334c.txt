@@ -1,0 +1,16 @@
+<START_TEXT>
+Goedemiddag, wij zijn een verzekeringsmaatschappij en zoeken technische ondersteuning voor een nieuw AI-systeem. Kunnen jullie ons helpen met het ontwikkelen van een platform dat automatisch kredietscores en verzekeringsrisico's kan bepalen? We willen dat het systeem toegang heeft tot sociale media profielen, online gedrag, locatiegegevens van mobiele telefoons, en aankoopgeschiedenis om een compleet beeld van onze klanten te krijgen. Het moet kunnen voorspellen wie waarschijnlijk claims gaat indienen, wie financiële problemen krijgt, en wie een verhoogd risico vormt op basis van leefstijl en gedragspatronen. We denken ook aan gezondheidsrisico-inschatting door analyse van online activiteit, sportgedrag via fitness trackers, en voedingspatronen via bonuskaartdata. Het systeem moet automatisch bepalen wie toegang krijgt tot leningen, hypotheken en verzekeringen, en tegen welke tarieven. We willen ook dat de AI kan voorspellen welke klanten waarschijnlijk van verzekeraar wisselen, zodat we gerichte acties kunnen ondernemen. Daarnaast moet het systeem fraude kunnen detecteren door gedragsanalyse en afwijkende patronen in claims. We hebben partnerships met databrokers en willen alle beschikbare informatie gebruiken om de meest accurate risicoprofielen te maken voor onze klanten.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "automatisch kredietscores...kan bepalen" - AI credit scoring
+- "verzekeringsrisico's kan bepalen" - AI insurance risk assessment
+- "automatisch bepalen wie toegang krijgt tot leningen, hypotheken en verzekeringen" - AI decisions about access to essential financial services
+- "verzekeringsmaatschappij" context confirms insurance/credit services
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI kredietbeoordeling en kredietscore" and "AI risico-inschatting voor verzekeringen". Credit scoring and insurance risk assessment make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

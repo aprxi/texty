@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn vintage audio-reparatiezaak wil ik AI die storingen diagnosticeert. Het systeem moet oscilloscoop-patronen analyseren, componenten-waarden voorspellen, en vervangingsonderdelen adviseren. De AI moet ook kunnen helpen met het behouden van authentieke klank bij restauraties. Ik wil dat het systeem schema's kan interpreteren van obscure merken en modificaties kan suggereren voor moderne aansluitingen. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for vintage audio equipment repair, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (circuit analysis is not human identification or categorization)
+- Not critical infrastructure AI (audio repair shops are not critical infrastructure)
+- Not educational AI (repair guidance is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (vintage audio repair is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is specialized repair service software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

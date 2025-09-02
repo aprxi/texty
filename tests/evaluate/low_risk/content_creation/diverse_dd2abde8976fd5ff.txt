@@ -1,0 +1,10 @@
+<START_TEXT>
+Podcast over Brabantse volksverhalen. AI genereert achtergrondmuziek die past bij sfeer verhaal. Spannend bij heksen, vrolijk bij carnaval. Ook: dialect transcriptie want ondertitels nodig voor Hollanders ;)
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content_creation. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

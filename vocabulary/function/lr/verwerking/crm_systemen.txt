@@ -1,0 +1,114 @@
+# CRM Systems Functions - LOW RISK FUNCTION
+# CRM-systemen
+# 
+# PATH: function/lr/verwerking/crm_systemen.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (customer relationship management and business tools)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Customer relationship management capabilities for business optimization and customer service
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to customer relationship management
+# - Must be low-risk business management application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# CRM functies
+klant relatie beheer
+customer relationship management
+contact beheer
+contact management
+leads tracken
+track leads
+opportunity beheer
+opportunity management
+verkooppijplijn beheer
+sales pipeline management
+klant communicatie
+customer communication
+follow-up automatisering
+follow-up automation
+klant tevredenheid meting
+customer satisfaction measurement
+loyaliteit programma's
+loyalty programs
+
+# E-commerce functies
+product catalogus beheer
+product catalog management
+voorraad beheer
+bestelling verwerking
+order processing
+betaling verwerking
+payment processing
+verzending tracking
+shipping tracking
+retourbeleid afhandeling
+return policy handling
+
+# Business intelligence functies
+data visualisatie
+data visualization
+dashboard generatie
+dashboard generation
+rapport creatie
+report creation
+trends identificeren
+identify trends
+KPI berekening
+KPI calculation
+verkoop voorspelling
+sales forecasting
+budget planning
+kosten analyse
+cost analysis
+winstgevendheid analyse
+profitability analysis
+
+# Marketing automatisering
+marketing automatisering
+marketing automation
+campagne beheer
+campaign management
+lead generatie
+lead generation
+klant betrokkenheid
+customer engagement
+email marketing automatisering
+email marketing automation
+social media beheer
+social media management
+
+# Sales functies
+verkoop automatisering
+sales automation
+lead kwalificatie
+lead qualification
+sales prediction
+deal tracking
+prijzen optimalisatie
+verkoop ondersteuning
+sales support
+
+# Klant analytics
+klant analytics
+customer analytics
+gedrag voorspelling
+levenslange waarde berekening
+lifetime value calculation
+klant profiling
+customer profiling
+segment analyse
+segment analysis

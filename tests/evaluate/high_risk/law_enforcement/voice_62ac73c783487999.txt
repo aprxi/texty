@@ -1,0 +1,10 @@
+<START_TEXT>
+buddy voor ex-gevangenen. re-integratie is moeilijk. ai helpt: waarschuwt voor triggers, vindt werk zonder background check, nieuwe sociale kring. tweede kans of toezicht?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Unique perspective on AI implementation with rights implications.
+</REASONING>
+<END_EVALUATION>

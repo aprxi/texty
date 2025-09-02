@@ -1,0 +1,10 @@
+<START_TEXT>
+Nachtbus chauffeur - altijd gedoe met dronken mensen. AI detecteert agressie voordat escalatie, waarschuwt politie, lockt deuren. Veiligheid voor mij maar ook: mensen buitensluiten van OV.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Unique perspective on AI implementation with rights implications.
+</REASONING>
+<END_EVALUATION>

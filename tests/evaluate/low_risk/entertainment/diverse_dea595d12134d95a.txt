@@ -1,0 +1,10 @@
+<START_TEXT>
+Bibliotheek - AI boek aanbevelingen. Niet alleen op leeshistorie maar ook: stemming (gezichtscan bij binnen komen), weer, actualiteiten. Serendipiteit of filter bubbel?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

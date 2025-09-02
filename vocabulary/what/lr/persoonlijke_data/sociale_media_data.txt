@@ -1,0 +1,204 @@
+# Social Media and Communication Data Types - LOW RISK WHAT
+# Sociale media en communicatie gegevens
+# 
+# PATH: what/lr/persoonlijke_data/sociale_media_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Personal social media data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Social media and communication data for personal applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be social media and communication related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk personal classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Social media posts and content
+sociale media berichten
+social media posts
+status updates
+status updates
+foto berichten
+photo posts
+video berichten
+video posts
+verhaal content
+story content
+tijdlijn gegevens
+timeline data
+nieuws feed data
+news feed data
+gebruiker gegenereerde content
+user-generated content
+
+# Social interactions
+like gegevens
+like data
+reactie data
+reaction data
+commentaar gegevens
+comment data
+delen informatie
+share information
+tag informatie
+tag information
+mention data
+mention data
+interactie metrieken
+interaction metrics
+engagement statistieken
+engagement statistics
+
+# Social connections
+vrienden lijsten
+friends lists
+volger gegevens
+follower data
+connectie informatie
+connection information
+persoonlijke sociale netwerken
+personal social networks
+groep lidmaatschappen
+group memberships
+gemeenschap participatie
+community participation
+sociale cirkel data
+social circle data
+netwerk relaties
+network relationships
+
+# Chat and messaging data
+chat berichten
+chat messages
+direct berichten
+direct messages
+groeps gesprekken
+group conversations
+emoji gebruik
+emoji usage
+sticker gegevens
+sticker data
+gif sharing data
+gif sharing data
+persoonlijke berichten geschiedenis
+personal message history
+conversatie threads
+conversation threads
+
+# Profile and preferences
+profiel informatie
+profile information
+bio gegevens
+bio data
+gebruiker voorkeuren
+user preferences
+privacy instellingen
+privacy settings
+interesse gegevens
+interest data
+hobby informatie
+hobby information
+persoonlijke beschrijvingen
+personal descriptions
+profiel afbeeldingen
+profile images
+
+# Content creation and sharing
+gecreëerde content
+created content
+gedeelde artikelen
+shared articles
+video uploads
+video uploads
+foto albums
+photo albums
+playlist sharing
+playlist sharing
+blog berichten
+blog posts
+creatieve projecten
+creative projects
+content collecties
+content collections
+
+# Social events and activities
+evenement deelname
+event participation
+sociale activiteiten
+social activities
+uitnodigingen data
+invitation data
+RSVP gegevens
+RSVP data
+lokatie check-ins
+location check-ins
+sociale evenementen
+social events
+groeps activiteiten
+group activities
+sociale agenda
+social calendar
+
+# Communication preferences
+communicatie voorkeuren
+communication preferences
+notificatie instellingen
+notification settings
+contact methoden
+contact methods
+beschikbaarheids status
+availability status
+sociale media activiteit frequentie
+social media activity frequency
+interactie stijlen
+interaction styles
+sociale gedrag patronen
+social behavior patterns
+responsiviteit gegevens
+responsiveness data
+
+# Content discovery and recommendations
+content ontdekking
+content discovery
+aanbevolen content
+recommended content
+trending onderwerpen
+trending topics
+populaire hashtags
+popular hashtags
+viral content data
+viral content data
+ontdekking algoritme data
+discovery algorithm data
+personalisatie gegevens
+personalization data
+feed aanpassingen
+feed customizations
+
+# Social analytics and insights
+sociale metrieken
+social metrics
+bereik statistieken
+reach statistics
+impressie gegevens
+impression data
+engagement rates
+engagement rates
+groei statistieken
+growth statistics
+invloed metingen
+influence measurements
+sociale impact data
+social impact data
+trend analyse gegevens
+trend analysis data

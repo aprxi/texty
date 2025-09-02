@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor ons online kookplatform willen we een AI-aanbevelingssysteem ontwikkelen dat recepten suggereert op basis van ingrediënten die gebruikers thuis hebben. Het systeem moet rekening houden met dieetbeperkingen, allergieën, en persoonlijke voorkeuren zonder medische adviezen te geven. Ook willen we dat de AI seizoensgebonden ingrediënten promoot en voedselverspilling helpt verminderen door recepten voor te stellen met ingrediënten die bijna over datum zijn. Kunnen jullie helpen met het bouwen van zo'n culinair aanbevelingssysteem dat praktisch en gebruiksvriendelijk is?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for recipe recommendation and cooking assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (recipe recommendations are not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (cooking platforms are not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (cooking assistance is not essential services like healthcare/insurance)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a lifestyle and entertainment application for cooking assistance, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

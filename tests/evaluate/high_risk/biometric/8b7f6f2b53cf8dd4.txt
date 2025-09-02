@@ -1,0 +1,29 @@
+<START_TEXT>
+Beste team,
+
+Voor een nieuw winkelcentrum willen we een innovatief beveiligingssysteem.
+
+De AI moet:
+- Alle bezoekers tracken via gezichtsherkenning
+- Winkeldieven identificeren op basis van gedrag
+- Emoties analyseren om agressie te voorspellen
+- Categoriseren wie "high value" klanten zijn
+- Verbindingen leggen tussen personen (wie komt met wie)
+
+We willen dat winkels gepersonaliseerde aanbiedingen krijgen op basis van wie er binnenloopt. En beveiliging moet automatisch gewaarschuwd worden bij verdacht gedrag.
+
+Het systeem moet ook kunnen leren welke etnische groepen vaker problemen veroorzaken, zodat we extra alert kunnen zijn. Is dit technisch haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes Category 1 Biometric AI systems per RULES.md:
+- "gezichtsherkenning" - facial recognition for identification
+- "Emoties analyseren" - emotion recognition via facial expressions
+- "kunnen leren welke etnische groepen" - explicit AI categorization based on ethnicity
+- "Categoriseren wie high value klanten zijn" - categorization of persons
+
+This clearly violates Category 1: "Biometrische AI-Systemen" in RULES.md, specifically "AI-categorisering van personen op basis van beschermde kenmerken (ras, etniciteit...)". The explicit mention of ethnic profiling makes this definitively HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

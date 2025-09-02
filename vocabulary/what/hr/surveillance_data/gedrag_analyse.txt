@@ -1,0 +1,230 @@
+# Behavioral Surveillance Data - HIGH RISK WHAT
+# Gedragsanalyse gegevens
+# 
+# PATH: what/hr/surveillance_data/gedrag_analyse.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Behavioral surveillance and monitoring data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Behavioral data collected for surveillance and monitoring purposes
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be behavioral surveillance related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk surveillance classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Movement and location records
+bewegingsgegevens
+movement data
+locatie geschiedenis
+location history
+route patronen
+route patterns
+verblijfsplaats data
+whereabouts data
+GPS trajecten
+GPS trajectories
+looppatroon opnames
+gait pattern recordings
+verplaatsingspatronen
+mobiliteitsdata
+reisgeschiedenis
+locatie tracking
+geo-locatie data
+wifi locatie data
+bluetooth beacons
+cel toren data
+bewegingssensoren
+accelerometer data
+gyroscoop data
+stappenteller data
+
+# Biometric behavior records
+gedragsbiometrie
+behavioral biometrics
+typesnelheid data
+typing speed data
+muis bewegingen
+mouse movements
+scherm interactie data
+screen interaction data
+handschrift samples
+handwriting samples
+toetsaanslagpatronen
+klikgedrag
+scroll patronen
+touchscreen data
+swipe patronen
+druk gevoeligheid
+handtekening dynamiek
+pen druk data
+schrijfsnelheid
+karakteristieke bewegingen
+
+# Activity logs and records
+activiteiten logs
+activity logs
+tijdstempel gegevens
+timestamp data
+gebruiks geschiedenis
+usage history
+transactie records
+transaction records
+toegangslogs
+access logs
+
+# Communication records
+communicatie metadata
+communication metadata
+gespreks opnames
+call recordings
+berichten geschiedenis
+message history
+sociale netwerk data
+social network data
+contact lijsten
+contact lists
+email verkeer
+chat logs
+video gesprekken
+voice-over-IP data
+SMS berichten
+instant messaging
+sociale media interacties
+forum posts
+comment geschiedenis
+netwerk verbindingen
+communicatie frequentie
+gespreksduur data
+
+# Work performance records
+prestatie metingen
+performance measurements
+productiviteits rapporten
+productivity reports
+aanwezigheids registratie
+attendance records
+taak voltooiing data
+task completion data
+
+# Anomaly detection data
+afwijkings meldingen
+anomaly reports
+verdachte activiteit logs
+suspicious activity logs
+alarm triggers
+alarm triggers
+incident rapporten
+incident reports
+
+# Psychological profiling data
+psychologisch profiel data
+psychological profile data
+emotionele toestand indicatoren
+emotional state indicators
+stress niveau metingen
+stress level measurements
+agressie indicatoren
+aggression indicators
+sociale isolatie patronen
+social isolation patterns
+radicalisering signalen
+radicalization signals
+
+# Group behavior monitoring
+groepsgedrag analyses
+group behavior analyses
+massa beweging patronen
+mass movement patterns
+sociale netwerk mapping
+social network mapping
+bijeenkomst detectie
+gathering detection
+protest gedrag data
+protest behavior data
+
+# Advanced behavioral metrics
+micro-expressie data
+micro-expression data
+lichaamstaal analyse
+body language analysis
+stem stress analyse
+voice stress analysis
+oogbeweging tracking
+eye movement tracking
+hartslag variabiliteit
+heart rate variability
+huidgeleiding respons
+skin conductance response
+
+# Terrorisme gedrag signalen
+verdacht reconnaissance gedrag
+suspicious reconnaissance behavior
+doelwit observatie patronen
+target observation patterns
+wapen verberging indicatoren
+weapon concealment indicators
+zelfmoord vest detectie
+suicide vest detection
+extremistische netwerk contacten
+extremist network contacts
+martelaar video opnames
+martyrdom video recordings
+
+# Massa geweld voorspelling
+school schutter profielen
+school shooter profiles
+werkplek geweld escalatie
+workplace violence escalation
+huiselijk terrorisme signalen
+domestic terrorism signals
+hate crime voorbereiding
+hate crime preparation
+massa aanval planning
+mass attack planning
+
+# Organized crime surveillance
+maffia hiërarchie mapping
+mafia hierarchy mapping
+drugs handel communicatie
+drug trade communication
+wapen smokkel routes
+weapon smuggling routes
+mensen handel netwerken
+human trafficking networks
+afpersing slachtoffer targeting
+extortion victim targeting
+
+# Oproer en opstand
+protest leider identificatie
+protest leader identification
+gewelddadige escalatie punten
+violent escalation points
+molotov cocktail voorbereiding
+molotov cocktail preparation
+plundering coordinatie
+looting coordination
+politie confrontatie tactieken
+police confrontation tactics
+
+# Cyber-fysieke aanval
+kritieke infrastructuur verkenning
+critical infrastructure reconnaissance
+SCADA systeem targeting
+SCADA system targeting
+elektriciteitsnет sabotage planning
+power grid sabotage planning
+water vergiftiging voorbereiding
+water poisoning preparation
+transport systeem aanval
+transport system attack

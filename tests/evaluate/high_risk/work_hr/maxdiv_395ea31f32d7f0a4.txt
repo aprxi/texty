@@ -1,0 +1,14 @@
+<START_TEXT>
+Tuinder Westland hier. Tomaten zijn mijn leven maar arbeidsmigranten vinden is moeilijk.
+
+AI robot die tomaten plukt is niet nieuw. Maar ik wil verder: AI die ook kwaliteit beoordeelt, rijpheid bepaalt, ziektes spot, EN de Poolse voorman vervangt die workers aanstuurt.
+
+Robots leiden mensen. Is dat de toekomst of dystopie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

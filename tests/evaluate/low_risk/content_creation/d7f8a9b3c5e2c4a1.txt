@@ -1,0 +1,23 @@
+<START_TEXT>
+ik werk bij een uitgeverij voor educatieve en wetenschappelijke publicaties en vraag me af hoe ai kan helpen? is het mogelijk om het publicatieproces te moderniseren zonder kwaliteit te verliezen? voor manuscript development, kan ai echt academisch nederlands checken? hoe betrouwbaar is terminologie consistentie? plagiaat detectie klinkt belangrijk maar mist ai niet subtiele vormen? leesniveau analyse voor doelgroep, wie bepaalt wat geschikt is? structuur suggesties zijn nuttig maar wordt tekst niet te uniform? bij onderzoek assistentie vraag ik me af of ai relevante bronnen kan vinden. mist het niet niche publicaties? feit-checking met ai, hoe accuraat is dat voor wetenschappelijke claims? peer review matching klinkt goed maar kent ai echt expertise gebieden? quality score predictie voor acceptatie, creëert dat geen bias? automatische opmaak is handig maar wat met creatieve vrijheid? cover design suggesties, wordt alles niet hetzelfde? samenvatting generatie voor marketing, blijft de nuance behouden? titel optimalisatie kan leiden tot clickbait toch? doelgroep identificatie met ai, is dat niet te simplistisch? sales forecasting klinkt als crystal ball gazing. bij rights management, hoe complex is copyright scanning? reader analytics zijn interessant maar privacy gevoelig. moeilijke passages identificeren is subjectief toch? alles blijft adviserend zeg je maar worden auteurs niet lui? waar beginnen we zonder overweldigd te raken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-ondersteuning voor uitgeverij processen, wat niet valt onder de 8 hoog-risico categorieën:
+
+- "Grammatica en spelling check" - tekst assistentie tools
+- "Reviewer matching op expertise gebied" - professionele matching
+- "Sales forecasting model" - business intelligence
+- "Reading pattern analyse (geanonimiseerd)" - geaggregeerde analytics
+- "Citation tracking" - academische metrics
+
+Belangrijke beperkingen:
+- "Alle AI-suggesties blijven adviserend"
+- "auteurs en editors behouden volledige controle"
+- "Geen automatische content generatie of beslissingen"
+
+Dit zijn typische low-risk productiviteitstools voor de publishing industrie zonder impact op fundamentele rechten, essentiële diensten of persoonlijke beslissingen.
+</REASONING>
+<END_EVALUATION>

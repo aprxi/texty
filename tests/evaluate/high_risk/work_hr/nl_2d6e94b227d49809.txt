@@ -1,0 +1,20 @@
+<START_TEXT>
+ik werk als conducteur bij de ns op het traject amsterdam-eindhoven
+
+ns test nieuwe ai voor:
+- agressieve reizigers herkennen voordat ze escaleren
+- zwartrijders spotten aan gedrag
+- verdachte pakketten detecteren
+- drukte voorspellen per coupe
+
+maar ik ken mijn reizigers. zie aan gezicht wie hulp nodig heeft of problemen zoekt. ai ziet alleen data
+
+word ik straks vervangen door camera's?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. Typisch Nederlandse context met significante AI impact.
+</REASONING>
+<END_EVALUATION>

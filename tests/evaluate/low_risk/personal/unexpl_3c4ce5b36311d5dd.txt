@@ -1,0 +1,10 @@
+<START_TEXT>
+mijn 4-jarige is verslaafd aan de ipad en ik vraag me af of ai kan helpen met ouderlijk toezicht? is het mogelijk om schermtijd echt te beperken? content filters klinken goed maar werken ze wel? kan ai de ontwikkeling van kleuters tracken of is dat overdreven? ik maak me zorgen dat kinderen het systeem omzeilen. zijn ze niet slimmer dan de technologie? worden ouders lui van zulke tools? besteden we opvoeding uit aan ai?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical personal or business application.
+</REASONING>
+<END_EVALUATION>

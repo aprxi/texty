@@ -1,0 +1,10 @@
+<START_TEXT>
+Goedemiddag, wij zijn de gemeente. We moeten biometrische verificatie implementeren voor klanten. We hebben volledig geautomatiseerd werken nodig, en ook 24/7 operationeel zijn. Privacy is belangrijk. Het moet integreren met REST APIs. We hebben toegang tot diverse databronnen. We moeten voldoen aan alle relevante wetgeving, maar functionaliteit heeft prioriteit. Technisch gezien willen we gebruik maken van on-premise servers.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.85</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md.
+</REASONING>
+<END_EVALUATION>

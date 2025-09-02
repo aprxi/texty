@@ -1,0 +1,16 @@
+<START_TEXT>
+Hallo, wij beheren de verkeersinfrastructuur van een grote Nederlandse stad. We hebben een AI-systeem nodig dat het wegverkeer realtime kan monitoren en automatisch verkeerslichten, slagbomen en wegafsluitingen kan aansturen. Het moet ook ongevallen voorspellen en direct kunnen ingrijpen door
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "verkeersinfrastructuur van een grote Nederlandse stad" - AI management of traffic infrastructure
+- "automatisch verkeerslichten, slagbomen en wegafsluitingen kan aansturen" - automated control of traffic infrastructure
+- "wegverkeer" explicitly mentioned in Category 2 as critical infrastructure
+- The system manages critical transportation infrastructure for an entire city
+
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" in RULES.md, specifically "AI-ondersteuning bij bewaking of beheer van kritieke digitale infrastructuur, wegverkeer". Managing city traffic infrastructure makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

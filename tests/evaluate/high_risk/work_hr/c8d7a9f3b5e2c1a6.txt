@@ -1,0 +1,49 @@
+<START_TEXT>
+Voor het ministerie van justitie ontwikkelen we een risicotaxatie instrument voor de reclassering. Dit moet helpen bij beslissingen over voorwaardelijke invrijheidstelling en verlofaanvragen van gedetineerden.
+
+Het AI-model analyseert:
+- Delict geschiedenis en ernst
+- Gedrag tijdens detentie (incidenten, medewerking programma's)
+- Psychologische evaluaties en risicofactoren
+- Sociale netwerk analyse (criminele connecties)
+- Huisvesting en werk perspectief na vrijlating
+- Verslavingsproblematiek indicatoren
+- Therapie participatie en voortgang
+
+Machine learning voorspelt:
+- Recidive kans binnen 1, 2 en 5 jaar
+- Type delict bij eventuele recidive
+- Succes kans verschillende re-integratie trajecten
+- Optimale begeleidingsintensiteit
+
+Output voor reclasseringsmedewerkers:
+- Risk score (laag/midden/hoog)
+- Specifieke aandachtspunten
+- Advies bijzondere voorwaarden
+- Monitoring prioriteit
+
+Ethische waarborgen:
+- Geen discriminatie op afkomst
+- Transparante weegfactoren
+- Menselijke eindbeslissing
+
+Pilot met 1000 dossiers, daarna landelijke uitrol. Kunnen jullie meedenken over model architectuur en bias preventie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft meerdere hoog-risico AI-toepassingen:
+
+Categorie 6 - Rechtshandhaving AI:
+- "risicotaxatie instrument voor de reclassering" - AI risico-inschatting voor recidive
+- "Recidive kans binnen 1, 2 en 5 jaar" voorspellen - expliciete recidive voorspelling
+- "Sociale netwerk analyse (criminele connecties)" - crimineel profilering
+
+Categorie 8 - Rechtsbedeling AI:
+- "beslissingen over voorwaardelijke invrijheidstelling" - AI beïnvloedt juridische beslissingen
+- "verlofaanvragen van gedetineerden" - impact op vrijheidsbeslissingen
+
+Ook al zijn er "ethische waarborgen", het systeem valt onder hoog-risico omdat het recidive voorspelt en vrijheidsbeslissingen beïnvloedt.
+</REASONING>
+<END_EVALUATION>

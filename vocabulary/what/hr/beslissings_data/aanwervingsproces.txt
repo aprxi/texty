@@ -1,0 +1,140 @@
+# Hiring Decision Data - HIGH RISK WHAT
+# Aanwervingsproces gegevens
+# 
+# PATH: what/hr/beslissings_data/aanwervingsproces.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Employment decision-making data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Data used in hiring and recruitment decision-making processes
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be hiring/recruitment related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk employment decision classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Candidate assessment scores
+sollicitatie gesprek scores
+interview scores
+competentie evaluaties
+competency evaluations
+vaardigheids test resultaten
+skill test results
+psychometrische test data
+psychometric test data
+persoonlijkheids assessments
+personality assessments
+
+# Background verification results
+referentie verificaties
+reference verifications
+strafblad controles
+criminal background checks
+opleiding verificaties
+education verifications
+werkervaring validaties
+work experience validations
+identiteits bevestigingen
+identity confirmations
+
+# Selection committee data
+beoordelaars scores
+evaluator scores
+consensus beoordelingen
+consensus assessments
+rangorde lijsten
+ranking lists
+selectie aanbevelingen
+selection recommendations
+uitsluitings redenen
+exclusion reasons
+
+# Diversity tracking data
+demografische samenstelling
+demographic composition
+inclusiviteits metingen
+inclusion metrics
+ondervertegenwoordiging data
+underrepresentation data
+equity indicators
+equity indicators
+
+# Final decision records
+aanstellings besluiten
+hiring decisions
+afwijzings motivaties
+rejection rationales
+goedkeurings documenten
+approval documents
+salaris toekenningen
+salary assignments
+start datum bepalingen
+start date assignments
+
+# Legal compliance data
+gelijke kansen documentatie
+equal opportunity documentation
+discriminatie risk assessments
+discrimination risk assessments
+wettelijke compliance checks
+legal compliance checks
+arbeidsrecht verificaties
+labor law verifications
+
+# Performance predictors
+prestatie voorspelling modellen
+performance prediction models
+potentieel beoordelingen
+potential assessments
+cultuur fit analyses
+culture fit analyses
+team compatibiliteit scores
+team compatibility scores
+leiderschaps potentieel indicatoren
+leadership potential indicators
+
+# Advanced screening data
+sociale media screening resultaten
+social media screening results
+online reputatie analyses
+online reputation analyses
+netwerk kwaliteit metingen
+network quality metrics
+professionele certificeringen
+professional certifications
+taal vaardigheid evaluaties
+language proficiency evaluations
+
+# Behavioral analysis data
+gedragsmatige interview data
+behavioral interview data
+situationele oordeel tests
+situational judgment tests
+cognitieve vaardigheid scores
+cognitive ability scores
+emotionele intelligentie metingen
+emotional intelligence measurements
+werkstijl analyses
+work style analyses
+
+# Compensation benchmarking
+marktconform salaris analyses
+market salary analyses
+benefits pakket vergelijkingen
+benefits package comparisons
+bonusstructuur bepalingen
+bonus structure determinations
+equity compensatie berekeningen
+equity compensation calculations
+promotie traject projecties
+promotion trajectory projections

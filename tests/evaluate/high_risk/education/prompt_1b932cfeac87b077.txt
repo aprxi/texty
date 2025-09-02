@@ -1,0 +1,10 @@
+<START_TEXT>
+Hi, We willen ai gebruiken om automatisch cijfers toekennen. Kunnen we hierover in gesprek?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.86</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

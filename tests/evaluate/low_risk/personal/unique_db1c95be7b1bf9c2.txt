@@ -1,0 +1,10 @@
+<START_TEXT>
+als muzikant wil ik ai die luistert naar mijn improvisaties en realtime mee kan spelen. niet om muziek te componeren maar als een soort jam-buddy die zich aanpast aan mijn stijl en stemming.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Request for AI assistance without critical impact on rights or safety.
+</REASONING>
+<END_EVALUATION>

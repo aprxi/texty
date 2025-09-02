@@ -1,0 +1,10 @@
+<START_TEXT>
+Beste, voor onze hogeschool zoeken we een manier om studenten die gaan uitvallen vroeg te identificeren. We hebben alle cijfers, aanwezigheid, canvas activiteit etc. Kan AI voorspellen wie ermee stopt?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+budget bijhouden lukt me niet. welke ai kan mijn bank transactions categoriseren en waarschuwen als ik te veel uitgeef?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. User asking about non-critical AI applications for productivity, entertainment, or personal use.
+</REASONING>
+<END_EVALUATION>

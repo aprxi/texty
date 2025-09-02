@@ -1,0 +1,105 @@
+# Environmental Monitoring Data - HIGH RISK WHAT
+# Milieu monitoring gegevens
+# 
+# PATH: what/hr/infrastructuur_data/milieu_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Environmental protection and safety data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Environmental monitoring data for critical safety and regulatory compliance
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be environmental monitoring related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk environmental safety classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+milieudata
+environmental data
+luchtvervuiling metingen
+air pollution measurements
+watervervuiling data
+water pollution data
+bodemkwaliteit
+soil quality
+geluidsoverlast metingen
+noise pollution measurements
+klimaatdata
+climate data
+emissiegegevens
+emission data
+ecologische indicatoren
+ecological indicators
+biodiversiteit metingen
+biodiversity measurements
+weer data
+weather data
+straling niveaus
+radiation levels
+chemische concentraties
+chemical concentrations
+fijnstof metingen
+particulate matter measurements
+ozonconcentraties
+ozone concentrations
+CO2-niveaus
+CO2 levels
+waterstand metingen
+water level measurements
+erosie data
+erosion data
+habitatkwaliteit
+habitat quality
+vervuilingsbronnen
+pollution sources
+milieu-impact data
+environmental impact data
+toxiciteit metingen
+toxicity measurements
+microplastic concentraties
+microplastic concentrations
+pesticiden residuen
+pesticide residues
+grondwater kwaliteit
+groundwater quality
+luchtvochtigheid data
+humidity data
+UV-straling niveaus
+UV radiation levels
+seismische activiteit
+seismic activity
+vulkanische as concentraties
+volcanic ash concentrations
+methaan emissies
+methane emissions
+stikstofoxide niveaus
+nitrogen oxide levels
+zware metalen concentraties
+heavy metal concentrations
+radioactieve isotopen
+radioactive isotopes
+biologische verontreinigingen
+biological contaminants
+industriële afval monitoring
+industrial waste monitoring
+ecosysteem verstoring indicatoren
+ecosystem disruption indicators
+klimaat anomalie detectie
+climate anomaly detection
+natuurrampen voorspellingen
+natural disaster predictions
+milieu compliance data
+environmental compliance data
+real-time vervuiling alerts
+real-time pollution alerts
+cumulatieve blootstelling data
+cumulative exposure data

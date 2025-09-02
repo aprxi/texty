@@ -1,0 +1,19 @@
+<START_TEXT>
+Als fotograaf wil ik AI gebruiken om mijn workflow te verbeteren bij het verwerken van grote hoeveelheden foto's van evenementen. De AI moet foto's kunnen categoriseren op basis van onderwerp, compositie, en technische kwaliteit. Het moet duplicaten en onscherpe foto's kunnen identificeren, en de beste shots kunnen selecteren uit een serie. Ook zou het handig zijn als de AI kan helpen met basic color grading suggesties die passen bij mijn stijl. Ik wil mijn creatieve controle behouden, maar de tijdrovende selectie en organisatie versnellen. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for photography workflow automation, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (photo organization is not human identification or categorization)
+- Not critical infrastructure AI (photography tools are not critical infrastructure)
+- Not educational AI (photo editing is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (photography services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is creative industry production tool software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

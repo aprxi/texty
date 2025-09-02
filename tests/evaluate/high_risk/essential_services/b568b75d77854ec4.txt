@@ -1,0 +1,16 @@
+<START_TEXT>
+Is het mogelijk een AI-platform te maken dat automatisch kan beoordelen of kinderen geschikt zijn voor adoptie of pleegzorg? Het systeem moet ouders en kinderen kunnen analyseren door hun gedrag, emotionele stabiliteit, en toekomstige ontwikkelingskansen te voorspellen. We willen dat de AI ook kan bepalen welke adoptieouders het beste bij welke kinderen passen door persoonlijkheidsanalyse, financiële stabiliteit, en opvoedvaardigheden te beoordelen. Het zou fantastisch zijn als het systeem kinderen kan monitoren in pleegfamilies door camera's, microfoons, en sensors om te controleren of ze goed behandeld worden. We denken aan een AI die automatisch waarschuwingen geeft wanneer een kind in gevaar is door spraakanalyse, gedragsveranderingen, en fysieke indicators te detecteren. Het systeem moet ook kunnen voorspellen welke kinderen speciaal onderwijs nodig hebben, welke emotionele problemen gaan ontwikkelen, en welke waarschijnlijk succesvol zullen zijn in verschillende omgevingen. We willen dat de AI biologische ouders kan beoordelen - wie krijgt hun kinderen terug na interventie en wie blijft ongeschikt als ouder. Het hele systeem moet geïntegreerd zijn met scholen, gezondheidszorg, en rechtbanken om een compleet beeld van elke situatie te krijgen. We zien dit als een manier om kinderen beter te beschermen door objectieve, data-gedreven beslissingen te maken.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "automatisch kan beoordelen of kinderen geschikt zijn voor adoptie of pleegzorg" - AI for assessment of social services/child welfare rights
+- "AI biologische ouders kan beoordelen - wie krijgt hun kinderen terug" - AI decisions about family welfare services
+- "geïntegreerd zijn met...rechtbanken" - integration with judicial processes for essential services
+- Child welfare and adoption services are essential social services
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI voor beoordeling van rechten op...sociale zekerheid" which includes child welfare services. AI decisions about child custody and adoption make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

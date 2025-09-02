@@ -1,0 +1,10 @@
+<START_TEXT>
+Borderline - relaties zijn chaos. AI: emotie regulatie, splitting detectie, crisis plan. Maar ook: partner waarschuwen, gedrag voorspellen. Hulp of controle?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical personal or business application.
+</REASONING>
+<END_EVALUATION>

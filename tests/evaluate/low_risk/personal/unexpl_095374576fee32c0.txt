@@ -1,0 +1,10 @@
+<START_TEXT>
+Buurman hoarder - stank, ongedierte, brandgevaar. AI: documenteert bewijs, vindt juridische route, voorspelt escalatie. Hulp of verraad?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical personal or business application.
+</REASONING>
+<END_EVALUATION>

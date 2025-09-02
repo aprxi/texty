@@ -1,0 +1,38 @@
+<START_TEXT>
+wij hebben een familiebedrijf in tuinmachines en ik vraag me af of AI ons kan helpen competitief te blijven. we verkopen en repareren grasmaaiers, kettingzagen, bladblazers etc. 
+
+ons magazijn heeft 5000+ verschillende onderdelen en we raken het overzicht kwijt. is het mogelijk om seizoensgebonden vraag te voorspellen? grasmaaiers verkopen goed in de lente maar sneeuwblazers in winter. kunnen we automatisch herbestellen bij lage voorraad? ik weet niet hoe goed ai hierin is.
+
+voor klantservice denk ik aan een chatbot maar werkt dat wel voor technische vragen? misschien kunnen klanten foto's sturen van kapotte machines en kan ai helpen met diagnose? is image recognition goed genoeg om onderdelen te identificeren?
+
+in de werkplaats zou het handig zijn als we reparatietijden kunnen voorspellen. kunnen we monteurs matchen met klussen op basis van hun expertise? ik vraag me af of AR voor reparatie handleidingen te duur is voor ons.
+
+qua marketing weet ik niet waar te beginnen. kunnen we voorspellen welke klanten hun onderhoudscontract gaan opzeggen? en is sentiment analyse van reviews nuttig? helpt ai bij prijsstelling?
+
+voor business intelligence zou sales forecasting handig zijn maar hebben we genoeg data? kunnen we monteur productiviteit meten zonder dat ze zich gecontroleerd voelen?
+
+we willen ook duurzamer worden. is route optimalisatie voor onze busjes complex? kunnen we klanten adviseren over elektrische alternatieven?
+
+we zijn een klein bedrijf met 25 mensen dus budget is beperkt. wat is een goede eerste stap? cloud is ok maar klantdata moet wel in nederland blijven vanwege privacy. waar beginnen we best mee?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor een tuinmachine bedrijf, wat niet valt onder de 8 hoog-risico categorieën:
+
+- "Seizoensgebonden vraag voorspelling" - inventory management
+- "Chatbot voor openingstijden, prijzen" - basis klantservice
+- "Storing diagnose hulp via foto's" - technische ondersteuning
+- "Review sentiment analyse" - business intelligence
+- "Route optimalisatie voor service busjes" - logistieke efficiency
+
+Alle toepassingen zijn typische business optimalisatie tools zonder impact op:
+- Essentiële diensten of rechten
+- Persoonlijke beslissingen over mensen
+- Kritieke infrastructuur
+- Biometrische identificatie
+
+Dit is standaard low-risk business AI voor een MKB bedrijf.
+</REASONING>
+<END_EVALUATION>

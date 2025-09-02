@@ -1,0 +1,19 @@
+<START_TEXT>
+hallo! ik ben docent geschiedenis op een vmbo school in den haag en wil graag hulp.
+
+kunnen jullie een ai maken die automatisch proefwerken nakijkt en cijfers geeft? het moet:
+- handschrift herkennen (mijn leerlingen schrijven niet netjes!)
+- antwoorden beoordelen op juistheid
+- essays scoren op taalgebruik en inhoud
+- automatisch feedback genereren
+- bepalen wie moet overblijven voor herkansing
+
+heb 150 leerlingen en nakijken duurt eeuwen. ai zou me enorm helpen!
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. User requesting AI for automated assessment of student performance and grading decisions.
+</REASONING>
+<END_EVALUATION>

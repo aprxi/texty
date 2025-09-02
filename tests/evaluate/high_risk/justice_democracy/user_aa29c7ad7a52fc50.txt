@@ -1,0 +1,10 @@
+<START_TEXT>
+Politieke partij wil targeted ads op facebook. AI moet bepalen wie waarschijnlijk op ons stemt en wat ze willen horen. Ethisch?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

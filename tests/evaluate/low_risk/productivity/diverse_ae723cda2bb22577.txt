@@ -1,0 +1,10 @@
+<START_TEXT>
+Visserij - AI voorspelt waar vis zit: water temperatuur, stroming, seizoen, maan stand. Duurzamer vissen of laatste vissen opjagen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

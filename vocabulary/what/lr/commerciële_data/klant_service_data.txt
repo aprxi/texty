@@ -1,0 +1,85 @@
+# Customer Service Process Data - LOW RISK WHAT
+# Klanten service proces gegevens
+#
+# PATH: what/lr/commerciële_data/klant_service_data.txt  
+# DIMENSION: WHAT (Subject matter/data being processed)
+# RISK: LOW (Customer service data for commercial assistance)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data, information, and content being processed by AI
+# THIS FILE contains: Customer service and commercial assistance process data
+#
+# VALIDATION RULES:
+# - Must be data/information processed by AI systems
+# - Must be low-risk commercial/service data
+# - Must NOT include AI capabilities (FUNCTION dimension)
+# - Must NOT include affected people (TARGET dimension)  
+# - Must NOT include activities/processes (CONTEXT dimension)
+#
+# FORMAT:
+# - Dutch terms first, English translation
+# - Focus on data/information being processed
+# - Maximum 40 terms per file
+#
+#====================================================================
+
+# Customer interaction data
+klant vragen
+customer questions
+service verzoeken
+service requests
+probleem beschrijvingen
+problem descriptions
+ondersteuning tickets
+support tickets
+feedback formulieren
+feedback forms
+
+# Shopping assistance data
+product zoekopdrachten
+product searches
+winkel voorkeuren
+shop preferences
+aankoop geschiedenis
+purchase history
+prijs vergelijkingen
+price comparisons
+product reviews
+product reviews
+
+# Personal assistance data
+agenda gegevens
+calendar data
+reis plannen
+travel plans
+route voorkeuren
+route preferences
+navigatie geschiedenis
+navigation history
+taak lijsten
+task lists
+
+# Communication data
+chat berichten
+chat messages
+email correspondentie
+email correspondence
+telefoon gesprekken
+phone conversations
+video call gegevens
+video call data
+bericht threads
+message threads
+
+# Marketing interaction data
+advertentie voorkeuren
+advertisement preferences
+campagne reacties
+campaign responses
+promotie interesse
+promotion interest
+aanbiedingen reacties
+offer responses
+marketing feedback
+marketing feedback

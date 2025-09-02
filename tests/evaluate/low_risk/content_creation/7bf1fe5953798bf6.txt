@@ -1,0 +1,15 @@
+<START_TEXT>
+Podcast transcriptie service gezocht! We willen AI die automatisch Nederlandse podcasts kan transcriberen naar tekst, met timestamps en sprekers-identificatie. Ook automatische samenvatting van lange afleveringen. Zuiver voor entertainment en toegankelijkheid.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor content verwerking dat valt onder de laag-risico categorieën in RULES.md:
+- "AI die automatisch Nederlandse podcasts kan transcriberen" - AI-tools voor algemene communicatie/transcriptie
+- "automatische samenvatting van lange afleveringen" - AI-assistenten voor informatieverzameling
+- "Zuiver voor entertainment en toegankelijkheid" - entertainment/toegankelijkheidstoepassing
+
+Deze tekst beschrijft "AI-tools voor contentcreatie, vertaling of algemene communicatie" zoals expliciet genoemd als laag-risico in RULES.md. Het systeem valt niet onder een van de 8 hoog-risico categorieën en betreft alleen entertainment content verwerking, waardoor dit LOW-RISK is.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,92 @@
+# Team Collaboration Tools - LOW RISK FUNCTION
+# Teamsamenwerkingstools
+# 
+# PATH: function/lr/assistentie/samenwerking.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (Team collaboration features)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Team collaboration tool features and capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to team collaboration/cooperation
+# - Must be low-risk productivity application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Collaboration Functions (AI capabilities for team collaboration)
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Document collaboration
+gezamenlijk bewerken
+collaborative editing
+versie beheer
+version control
+wijziging tracking
+change tracking
+document delen
+document sharing
+toegangsrechten beheer
+access rights management
+real-time synchronisatie
+real-time synchronization
+conflict resolutie
+conflict resolution
+review workflows
+goedkeuring processen
+approval processes
+annotatie tools
+annotation tools
+# Project coordination
+taak toewijzing
+task assignment
+resource allocatie
+resource allocation
+milestone monitoring
+sprint planning
+kanban boards
+agile workflows
+# Meeting tools
+meeting scheduling
+notitie delen
+note sharing
+actie items tracking
+action item tracking
+besluit documentatie
+decision documentation
+opname transcriptie
+recording transcription
+deelnemer beheer
+participant management
+poll functies
+polling features
+Q&A sessies
+Q&A sessions
+breakout kamers
+breakout rooms
+# Knowledge sharing
+kennisbank beheer
+knowledge base management
+best practice sharing
+documentatie creatie
+documentation creation
+FAQ onderhoud
+FAQ maintenance
+training materiaal
+training materials
+onboarding content
+expertise matching
+mentorship verbinding
+mentorship connection
+leer paden
+learning paths
+skill tracking

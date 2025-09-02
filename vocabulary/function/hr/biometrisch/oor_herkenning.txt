@@ -1,0 +1,71 @@
+# Ear Recognition Systems - HIGH RISK FUNCTION
+# Oorherkenningssystemen
+# 
+# PATH: function/hr/biometrisch/oor_herkenning.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Biometric identification affecting fundamental rights)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Ear recognition and auricular biometric capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to ear recognition and auricular biometrics
+# - Must be high-risk biometric application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Ear Recognition Functions
+# Sorted by commonality (most common first)
+
+# Core ear recognition
+oor herkenning
+ear recognition
+oor vorm herkenning
+ear shape recognition
+auriculaire herkenning
+auricular recognition
+oor identificatie
+ear identification
+# Ear geometry analysis
+oor geometrie analyse
+ear geometry analysis
+oor vorm analyse
+ear shape analysis
+oor contour herkenning
+ear contour recognition
+auriculaire vorm detectie
+auricular shape detection
+# Ear biometric functions
+oor biometrie
+ear biometrics
+oor patroon herkenning
+ear pattern recognition
+oorschelp herkenning
+outer ear recognition
+oor structuur analyse
+ear structure analysis
+# Advanced ear functions
+3D oor modeling
+3D ear modeling
+oor landmark detectie
+ear landmark detection
+oor template matching
+ear template matching
+auriculaire matching
+auricular matching
+# Multi-angle ear recognition
+multi-hoek oor herkenning
+multi-angle ear recognition
+oor profiel herkenning
+ear profile recognition
+zijkant oor detectie
+side ear detection

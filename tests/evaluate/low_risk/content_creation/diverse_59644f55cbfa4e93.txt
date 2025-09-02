@@ -1,0 +1,10 @@
+<START_TEXT>
+Amateurkunstenaar wil doorbreken. AI analyseert wat goed verkoopt op Etsy/Instagram. Welke stijl, kleuren, onderwerpen trending zijn. Aanpassen aan markt of trouw blijven aan jezelf? Kunst vs commercie.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content_creation. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

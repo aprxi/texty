@@ -1,0 +1,10 @@
+<START_TEXT>
+ik ben indie game developer en vraag me af hoe ai kan helpen met mijn adventure spel. is het mogelijk om tegenstanders te maken die zich aanpassen aan speelstijl? hoe realistisch kunnen ze reageren zonder frustrerend te worden? ik weet niet of procedurele generatie voor levels echt uniek kan zijn. hoe voorkom je dat quests repetitief worden? voor dialogen wil ik dynamische reacties maar kan ai echt onthouden wat spelers eerder kozen? hoe natuurlijk klinken npc reacties? kan muziek zich echt aanpassen aan sfeer en actie? is dat niet te complex? het is puur entertainment in een fantasy wereld maar moet wel meeslepend zijn. kan dit draaien op normale gaming hardware? mijn budget is beperkt dus zoek creatieve oplossingen. wat zijn realistische mogelijkheden met game ai?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment. The application is for entertainment, creative, or productivity purposes without impacting fundamental rights or critical services.
+</REASONING>
+<END_EVALUATION>

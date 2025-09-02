@@ -1,0 +1,19 @@
+<START_TEXT>
+ik werk bij een botanische tuin en vraag me af of ai kan helpen met plantenverzorging en educatie? is het mogelijk om planten te identificeren via foto's? hoe accuraat is zoiets eigenlijk? ik weet niet of ai echt kan helpen met onderhoudsplanning voor duizenden verschillende soorten. kan het rekening houden met specifieke behoeften zoals water en bemesting? hoe weet ai wanneer tropische planten bescherming nodig hebben? is het mogelijk om klimaatdata te analyseren of is dat te complex? ik zou graag hulp willen bij het ontwerpen van themaborders maar weet niet of ai goede combinaties kan voorstellen. kan het echt rekening houden met bloeitijd en groeiomstandigheden? voor bedreigde soorten, hoe betrouwbaar zijn ai-adviezen voor conservering? kunnen we interactieve tours maken voor verschillende doelgroepen? ik maak me zorgen dat het te technisch wordt voor kleuters. we hebben veel data maar hoe krijgen we daar nuttige informatie uit? is dit allemaal haalbaar of droom ik te groot?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.90</CONFIDENCE>
+<REASONING>
+This text describes AI for botanical garden management and education, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (plant identification is not biometric identification of persons)
+- Not critical infrastructure AI (botanical gardens are not critical infrastructure)
+- Not educational AI in the high-risk sense (while mentioned for education, this is public information sharing, not assessment/admission/fraud detection in formal education)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (no access to healthcare, insurance, or essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a public service/entertainment application for botanical education and garden management, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

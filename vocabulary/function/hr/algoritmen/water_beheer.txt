@@ -1,0 +1,165 @@
+# Water Management Systems - HIGH RISK FUNCTION
+# Waterbeheersystemen
+# 
+# PATH: function/hr/algoritmen/water_beheer.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Critical infrastructure affecting public safety)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Water management and utilities control algorithms
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to water management and utilities control
+# - Must be high-risk utilities infrastructure application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Water Management Functions
+# Sorted by commonality (most common first)
+
+geautomatiseerd watermanagement
+automated water management
+geautomatiseerde watervoorziening beheer
+automated water supply management
+slimme water infrastructuur controle
+smart water infrastructure control
+AI water resource management
+# Kwaliteits monitoring
+waterkwaliteit monitoring
+water quality monitoring
+water zuiverheid monitoring
+water purity monitoring
+water contaminatie detectie
+water contamination detection
+water veiligheids monitoring
+water safety monitoring
+# Distributie beheer
+waterdistributie
+water distribution
+water levering systemen
+water delivery systems
+water voorziening systemen
+water supply systems
+water infrastructuur beheer
+water infrastructure management
+# Behandeling processen
+waterbehandeling
+water treatment
+water zuivering
+water purification
+rioolwater behandeling
+sewage treatment
+water filtratie
+water filtration
+# Slimme systemen
+slimme watersystemen
+smart water systems
+intelligente watermanagement
+intelligent water management
+geautomatiseerde watersystemen
+automated water systems
+water systeem automatisering
+water system automation
+# Lek detectie
+lek detectie
+leak detection
+water verlies preventie
+water loss prevention
+lek identificatie
+leak identification
+pijpleiding monitoring
+pipeline monitoring
+# Druk beheer
+druk beheer
+pressure management
+water druk controle
+water pressure control
+druk regulatie
+pressure regulation
+hydraulisch beheer
+hydraulic management
+# Stroming optimalisatie
+stroming optimalisatie
+water stroom controle
+water flow control
+hydraulische optimalisatie
+hydraulic optimization
+stroom snelheid optimalisatie
+flow rate optimization
+# Analyse systemen
+water analytics
+water data analyse
+water data analysis
+hydro analytics
+water intelligentie
+water intelligence
+# Overstromings beheer
+overstromings beheer
+flood management
+overstromings controle
+flood control
+overstromings preventie
+flood prevention
+water niveau beheer
+water level management
+# Irrigatie systemen
+irrigatie systemen
+irrigation systems
+landbouw water beheer
+agricultural water management
+irrigatie automatisering
+irrigation automation
+slimme irrigatie
+smart irrigation
+# Waterbesparing
+waterbesparing
+water conservation
+water efficiëntie
+water efficiency
+water gebruik optimalisatie
+water usage optimization
+water besparingssystemen
+water saving systems
+# Afvalwater beheer
+afvalwater beheer
+wastewater management
+riool beheer
+sewage management
+effluent beheer
+effluent management
+riool verwerking
+sewage processing
+# Beveiliging
+water beveiliging
+water security
+water bescherming
+water protection
+water systeem beveiliging
+water system security
+water infrastructuur bescherming
+water infrastructure protection
+# Sensor monitoring
+watersensor monitoring
+water sensor monitoring
+water apparatuur monitoring
+water equipment monitoring
+water instrumentatie
+water instrumentation
+sensor data verwerking
+sensor data processing
+# Voorspelling
+water voorspelling
+water forecasting
+water gebruik voorspelling
+water usage prediction
+hydrologische voorspelling
+hydrological forecasting

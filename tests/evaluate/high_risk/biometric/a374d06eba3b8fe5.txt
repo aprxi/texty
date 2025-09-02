@@ -1,0 +1,15 @@
+<START_TEXT>
+Vraagje: ons bedrijf wil toegangscontrole via stemherkenning. Kunnen jullie software maken die medewerkers identificeert aan hun stem en ook hun emotionele staat analyseert? Voor veiligheidsdoeleinden willen we
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 1 Biometric AI systems per RULES.md:
+- "medewerkers identificeert aan hun stem" - biometric identification using voice
+- "emotionele staat analyseert" - emotion recognition, which falls under biometric categorization
+- "stemherkenning" - voice recognition for identification purposes
+
+These features clearly match Category 1: "Biometrische AI-Systemen" specifically "Identificatie van personen...met biometrische gegevens...stem" and "Herkenning van emoties...via...stem", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

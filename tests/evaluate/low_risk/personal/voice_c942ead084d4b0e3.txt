@@ -1,0 +1,10 @@
+<START_TEXT>
+bijstandsmoeder - moet rondkomen van minimum. ai app: wanneer welke winkel aanbiedingen, foodsharing alerts, bijverdien mogelijkheden zonder gekort worden. systeem slim gebruiken of fraude?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

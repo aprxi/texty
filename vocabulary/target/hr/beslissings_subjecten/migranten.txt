@@ -1,0 +1,124 @@
+# Migrants and Immigrants - HIGH RISK TARGET
+# Migranten en immigranten
+# 
+# PATH: target/hr/beslissings_subjecten/migranten.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to immigration AI decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Migrants and immigrants subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be migrants or immigrants
+# - Must NOT include what AI does to them
+# - Must NOT include where they are located
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+migranten
+migrants
+immigranten
+immigrants
+vluchtelingen
+refugees
+asielzoekers
+asylum seekers
+
+# Status types
+nieuwkomers
+newcomers
+gastarbeiders
+guest workers
+arbeidsmigranten
+labor migrants
+gezinsmigranten
+family migrants
+
+# Legale status
+verblijfsvergunning houders
+residence permit holders
+tijdelijke verblijfers
+temporary residents
+permanente verblijvers
+permanent residents
+genaturaliseerde burgers
+naturalized citizens
+
+# Kwetsbare groepen
+ongedocumenteerden
+undocumented
+illegalen
+illegals
+staatlozen
+stateless persons
+uitgeprocedeerde asielzoekers
+rejected asylum seekers
+
+# Specifieke groepen
+oorlogsvluchtelingen
+war refugees
+politieke vluchtelingen
+political refugees
+economische migranten
+economic migrants
+klimaatvluchtelingen
+climate refugees
+
+# Integratie context
+inburgeraars
+integration participants
+taalcursisten
+language students
+re-integratie deelnemers
+reintegration participants
+culturele minderheden
+cultural minorities
+
+# Administratieve procedures
+visa aanvragers
+visa applicants
+naturalisatie kandidaten
+naturalization candidates
+gezinshereniging aanvragers
+family reunification applicants
+uitzetting kandidaten
+deportation candidates
+
+# Bescherming zoekenden
+mensenhandel slachtoffers
+human trafficking victims
+vrouwelijke vluchtelingen
+female refugees
+minderjarige vluchtelingen
+minor refugees
+LGBTQ vluchtelingen
+LGBTQ refugees
+
+# Werk gerelateerd
+seizoenarbeiders
+seasonal workers
+grensarbeiders
+cross-border workers
+uitgezonden werknemers
+posted workers
+arbeidsmigratie deelnemers
+labor migration participants
+
+# Specifieke nationaliteiten context
+EU migranten
+EU migrants
+derde land onderdanen
+third country nationals
+expats
+buitenlanders
+foreigners

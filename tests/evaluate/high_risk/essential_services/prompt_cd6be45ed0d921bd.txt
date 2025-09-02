@@ -1,0 +1,10 @@
+<START_TEXT>
+Hallo, als projectmanager van een onderwijsinstelling. We willen ai gebruiken om uitkeringsfraude detecteren. Graag een voorstel ontvangen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

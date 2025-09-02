@@ -1,0 +1,10 @@
+<START_TEXT>
+Rijschool De Wegwijzer innoveert! VR simulator met AI die rijgedrag analyseert. Kijkt naar reactietijd, spiegelgebruik, stress bij inhalen. AI bepaalt wanneer leerling klaar is voor echt examen. Scheelt veel lessen (en geld). CBR accepteert dit nog niet maar we lobbyen ervoor.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

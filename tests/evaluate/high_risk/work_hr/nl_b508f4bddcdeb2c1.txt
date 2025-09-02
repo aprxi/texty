@@ -1,0 +1,20 @@
+<START_TEXT>
+fiets voor thuisbezorgd in utrecht
+
+ai systeem bepaalt:
+- welke ritten ik krijg
+- mijn rating
+- bonus berekening
+- of contract verlengd wordt
+
+klant geeft slechte review omdat eten koud was (restaurant schuld!). ai straft mij
+
+geen baas om mee te praten, alleen app
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. Typisch Nederlandse context met significante AI impact.
+</REASONING>
+<END_EVALUATION>

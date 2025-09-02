@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn koffiebar wil ik een AI-systeem dat perfecte koffie kan helpen maken. Het moet de smaakvoorkeuren van vaste klanten kunnen onthouden en automatisch hun favoriete bestelling voorstellen. De AI moet ook kunnen adviseren over de ideale maalgraad, watertemperatuur en extractietijd voor verschillende koffiebonen. Ik wil dat het systeem seizoensgebonden dranksuggesties kan doen en nieuwe recepten kan voorstellen op basis van beschikbare ingrediënten. Het moet ook voorraad kunnen voorspellen op basis van verkooppatronen. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for coffee shop operations and customer preferences, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (taste preferences are not human identification or categorization)
+- Not critical infrastructure AI (coffee shops are not critical infrastructure)
+- Not educational AI (beverage recommendations are not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (coffee shops are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial hospitality software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

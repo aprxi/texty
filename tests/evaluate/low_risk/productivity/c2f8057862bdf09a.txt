@@ -1,0 +1,19 @@
+<START_TEXT>
+is het mogelijk om een ai-assistent te maken die helpt met vergaderingen organiseren? kan het systeem toegang krijgen tot ieders agenda zonder privacy problemen? hoe vindt ai automatisch geschikte tijdstippen voor iedereen? ik vraag me af of het echt voorkeuren kan leren. wie vergadert graag 's ochtends, is dat niet te persoonlijk? vrijdagmiddag vrij houden klinkt logisch maar hoe flexibel blijft het? kan ai inschatten hoelang meetings duren of wordt dat chaos? vergaderlocaties automatisch reserveren, wat als het misgaat? hebben we dubbele boekingen? integratie met outlook en google calendar klinkt complex. blijft alles wel gesynchroniseerd? herinneringen sturen is handig maar worden mensen niet gespammed? follow-up taken bijhouden na meetings, mist ai geen belangrijke punten? video call links genereren via teams of zoom, welke privacy issues zijn er? meeting notes maken door transcriptie, is dat wel toegestaan? hoe accuraat zijn actie items die ai eruit haalt? verminderen we echt administratie of creëren we nieuwe problemen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for meeting scheduling and administration, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (no identification, emotion recognition, or categorization based on protected characteristics)
+- Not critical infrastructure AI (meeting scheduling is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (this is a productivity tool, not employment decision-making)
+- Not essential services AI (meeting scheduling is not essential services like healthcare/insurance)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a business productivity tool for administrative assistance, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

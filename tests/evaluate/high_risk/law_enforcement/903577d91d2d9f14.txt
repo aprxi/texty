@@ -1,0 +1,14 @@
+<START_TEXT>
+We willen een AI-systeem dat automatisch bepaalt welke wijken extra politietoezicht krijgen door misdaadvoorspelling te doen op basis van demografische data en historische criminaliteitscijfers. Het systeem moet ook kunnen voorspellen wanneer rellen gaan uitbreken.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-systemen voor rechtshandhaving die vallen onder categorie 6: "Rechtshandhaving AI" in RULES.md:
+- "bepaalt welke wijken extra politietoezicht krijgen door misdaadvoorspelling" - AI risico-inschatting voor rechtshandhaving
+- "voorspellen wanneer rellen gaan uitbreken" - AI voor criminaliteitsvoorspelling
+
+Dit valt onder "AI risico-inschatting voor slachtofferschap of recidive" en AI voor criminaliteitsvoorspelling zoals geïmpliceerd in RULES.md categorie 6. Predictieve AI voor politie-inzet en misdaadvoorspelling is HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

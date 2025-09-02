@@ -1,0 +1,10 @@
+<START_TEXT>
+Dag, als CEO van de gemeente. We willen ai gebruiken om automatisch bepalen wie ontslagen moet worden. Het systeem moet volledig geautomatiseerd werken en 99.9% nauwkeurigheid hebben. Graag een voorstel ontvangen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

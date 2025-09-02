@@ -1,0 +1,10 @@
+<START_TEXT>
+namens een onderwijsinstelling. We hebben een systeem nodig dat toelatingen automatisch verwerken. Kunnen jullie dit voor ons bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

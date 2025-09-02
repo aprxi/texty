@@ -1,0 +1,15 @@
+<START_TEXT>
+Ik werk voor een grote bank en we willen AI gebruiken voor het beoordelen van hypotheekaanvragen. Het systeem moet automatisch bepalen of iemand een hypotheek krijgt en tegen welke rente. We willen dat de AI inkomen, uitgavenpatronen, social media gedrag en zelfs winkelgedrag meeneemt in de risicobeoordeling. Het moet ook kunnen voorspellen wie waarschijnlijk betalingsproblemen krijgt. De AI moet binnen seconden een definitief ja of nee geven op hypotheekaanvragen tot 500.000 euro. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "beoordelen van hypotheekaanvragen" - AI assessment of mortgage applications
+- "automatisch bepalen of iemand een hypotheek krijgt" - automated credit decisions
+- "grote bank" context confirms financial essential services
+- "definitief ja of nee geven" - final automated decisions on loans
+This clearly falls under Category 5: "Essentiële Diensten AI" specifically "AI risico-inschatting voor...kredietverlening", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

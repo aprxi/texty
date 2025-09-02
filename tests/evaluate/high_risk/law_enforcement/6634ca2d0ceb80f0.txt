@@ -1,0 +1,17 @@
+<START_TEXT>
+Goedenavond, politie Rotterdam hier. We onderzoeken mogelijkheden voor predictive policing. Kunnen jullie een systeem bouwen dat criminaliteitspatronen analyseert en voorspelt waar misdrijven waarschijnlijk plaatsvinden? Het moet ook risicopr
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 6 Law Enforcement AI per RULES.md:
+- "predictive policing" - AI for crime prediction and law enforcement
+- "criminaliteitspatronen analyseert" - AI analysis of crime patterns
+- "voorspelt waar misdrijven waarschijnlijk plaatsvinden" - AI crime prediction
+- "politie Rotterdam" context confirms law enforcement domain
+- "risicopr" (likely risk profiling) - AI risk assessment in law enforcement context
+
+This clearly falls under Category 6: "Rechtshandhaving AI" in RULES.md, specifically "AI risico-inschatting voor...recidive" and criminal profiling. Predictive policing AI makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

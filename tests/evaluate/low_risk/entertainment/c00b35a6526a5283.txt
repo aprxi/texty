@@ -1,0 +1,19 @@
+<START_TEXT>
+ik ben indie game developer en vraag me af hoe ai kan helpen in mijn puzzelspel? is het mogelijk om puzzels dynamisch te genereren? hoe weet ai wat het juiste vaardigheidsniveau is voor spelers? ik maak me zorgen dat automatische aanpassing te makkelijk of te moeilijk wordt. kunnen spelers uitgedaagd blijven zonder gefrustreerd te raken? dat lijkt me een lastige balans. hints geven klinkt nuttig maar hoe subtiel kan ai dat doen? alleen op verzoek is belangrijk maar detecteert ai frustratie? voor alle leeftijden maken is complex, hoe houdt ai daar rekening mee? intuïtief blijven met ai-systemen lijkt me tegenstrijdig. hebben jullie ervaring met adaptieve games of is dit experimenteel terrein?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for game development and adaptive puzzle generation, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (game difficulty adaptation is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (gaming is not critical infrastructure)
+- Not educational AI (while games can be educational, this is entertainment puzzles, not formal educational assessment/admission)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (gaming is entertainment, not essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is an entertainment application for game development and player experience optimization, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

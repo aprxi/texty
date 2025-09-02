@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn bordspellencafé wil ik AI die spellen aanbeveelt op basis van groepssamenstelling. Het systeem moet complexiteit matchen met ervaring, speelduur inschatten, en thema's suggereren. De AI moet ook kunnen helpen met regeluitleg via interactieve tutorials. Ik wil dat het systeem toernooien organiseert en fair matchmaking doet. Het moet ook nieuwe spellen kunnen evalueren voor de collectie. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for board game café management, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (game preference analysis is not human identification or categorization)
+- Not critical infrastructure AI (game cafés are not critical infrastructure)
+- Not educational AI (game recommendations are not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (board game entertainment is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is entertainment and hospitality software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

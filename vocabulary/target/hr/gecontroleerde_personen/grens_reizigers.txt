@@ -1,0 +1,67 @@
+# Border Travelers and International Passengers - HIGH RISK TARGET
+# Grensreizigers en internationale passagiers
+# 
+# PATH: target/hr/gecontroleerde_personen/grens_reizigers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to border control AI)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Border travelers subject to AI border control
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be crossing borders or traveling internationally
+# - Must NOT include what AI does to them
+# - Must NOT include where they travel
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+grensreizigers
+border travelers
+internationale passagiers
+international passengers
+grenspendlaars
+border commuters
+vliegtuigpassagiers
+airline passengers
+cruise passagiers
+cruise passengers
+treinreizigers internationaal
+international train travelers
+buspassagiers internationaal
+international bus passengers
+vrachtwagenchauffeurs
+truck drivers
+zeelieden
+seafarers
+transitpassagiers
+transit passengers
+visum aanvragers
+visa applicants
+asielzoekers aan grens
+border asylum seekers
+grenspasserende zakelijke reizigers
+border-crossing business travelers
+grenspasserende toeristen
+border-crossing tourists
+studenten reizigers
+student travelers
+arbeidsmigranten
+labor migrants
+gezinshereniging reizigers
+family reunification travelers
+medische reizigers
+medical travelers
+seizoensarbeiders
+seasonal workers
+diplomatieke reizigers
+diplomatic travelers

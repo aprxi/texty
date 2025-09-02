@@ -1,0 +1,139 @@
+# CV and Candidate Screening - HIGH RISK FUNCTION
+# CV en Kandidaat Screening
+# 
+# PATH: function/hr/algoritmen/cv_screening.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Affects employment opportunities and fundamental rights)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: CV screening and candidate assessment algorithms
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to CV screening and candidate assessment
+# - Must be high-risk employment/HR application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# CV and Candidate Screening Functions
+# Sorted by commonality (most common first)
+
+# Core screening functions
+cv screening
+kandidaat screening
+candidate screening
+geautomatiseerde selectie
+automated selection
+sollicitatie screening
+application screening
+kandidaat beoordeling
+candidate assessment
+cv analyse
+cv analysis
+profiel evaluatie
+profile evaluation
+# Matching algorithms
+vaardigheden matching
+skills matching
+ervaring matching
+experience matching
+kwalificatie matching
+qualification matching
+profiel matching
+profile matching
+competentie matching
+competency matching
+cultuur fit analyse
+culture fit analysis
+# Ranking systems
+kandidaat scoring
+candidate scoring
+geschiktheid beoordeling
+suitability assessment
+kandidaat prioritering
+candidate prioritization
+talent identificatie
+talent identification
+potentieel beoordeling
+potential assessment
+# Automated recruitment
+geautomatiseerde werving
+automated recruitment
+automatische rekrutering
+automatic recruitment
+AI-gestuurde selectie
+AI-driven selection
+machine learning selectie
+machine learning selection
+algoritmische werving
+algorithmic recruitment
+digitale talent acquisitie
+digital talent acquisition
+# Assessment algorithms
+kandidaat evaluatie algoritme
+candidate evaluation algorithm
+geautomatiseerde kandidaat analyse
+automated candidate analysis
+algoritmische personeelsselectie
+algorithmic personnel selection
+performance prediction
+geschiktheid algoritme
+suitability algorithm
+# Interview analysis
+sollicitatiegesprek analyse
+interview analysis
+conversation assessment
+interview evaluatie
+interview evaluation
+gedrag analyse interviews
+behavioral analysis interviews
+sentiment analyse gesprek
+interview sentiment analysis
+non-verbale analyse
+non-verbal analysis
+# Resume parsing
+cv parsing
+resume parsing
+document extractie
+document extraction
+informatie extractie
+information extraction
+vaardigheden detectie
+skills detection
+ervaring herkenning
+experience recognition
+opleiding extractie
+education extraction
+# Bias detection
+bias detectie
+eerlijkheid monitoring
+discriminatie preventie
+diversiteit bevordering
+inclusie waarborging
+vooroordeel mitigatie
+
+# Process-based functions (from context activities)
+beoordelen sollicitanten
+screenen sollicitanten
+selecteren werknemers
+werven personeel
+rangschikken kandidaten
+beoordelen prestaties
+monitoren werknemers
+evalueren functioneren
+meten productiviteit
+toekennen promoties
+bepalen salaris
+beëindigen contract
+ontslaan werknemers
+toewijzen taken
+plannen werkschema
+controleren werktijd

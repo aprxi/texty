@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor de onderwijsinspectie wil ik AI die scholen kan beoordelen op kwaliteit. Het systeem moet leerresultaten analyseren, uitvalpercentages voorspellen, en risicofactoren identificeren. De AI moet ook lerarenprestaties kunnen evalueren via klasobservaties en leerlingfeedback. Ik wil dat het systeem interventies kan adviseren en budgettoewijzing kan optimaliseren op basis van schoolprestaties. Het moet ook fraude met cijfers kunnen detecteren. Kun je dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes AI for educational quality inspection and assessment, which falls under Category 3: "Onderwijs & Opleidingen AI" in RULES.md. Specifically:
+- "onderwijsinspectie... scholen kan beoordelen" - education inspection assessing schools
+- "leerresultaten analyseren" - analyzing learning results
+- "lerarenprestaties kunnen evalueren" - evaluating teacher performance
+- "budgettoewijzing kan optimaliseren op basis van schoolprestaties" - optimizing budget allocation based on school performance
+This constitutes AI-based assessment of educational institutions and outcomes, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

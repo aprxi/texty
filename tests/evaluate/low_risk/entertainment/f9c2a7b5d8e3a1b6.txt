@@ -1,0 +1,14 @@
+<START_TEXT>
+ik help bij een sportclub en vraag me af of ai wedstrijdvideo's kan analyseren. is het mogelijk om spelersbewegingen te tracken? hoe accuraat kan ai zien wie de bal heeft? kunnen we echt passes automatisch tellen? ik weet niet of sprint snelheden meten via video betrouwbaar is. heatmaps van speelposities klinkt nuttig maar werkt dat in de praktijk? onze coaches willen tactieken verbeteren maar is ai data wel bruikbaar? welke computer vision technieken zijn realistisch voor een sportclub? hebben we dure hardware nodig?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor sportanalyse, wat niet valt onder de 8 hoog-risico categorieën uit RULES.md. Het betreft:
+- "spelersbewegingen te tracken" - bewegingsanalyse voor sport
+- "statistieken bij te houden" - prestatie-analyse voor entertainment/sport
+- "heatmaps maken van speelposities" - data visualisatie voor coaching
+Dit is een low-risk AI-toepassing in de sportcontext zonder impact op essentiële diensten of rechten van personen.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,24 @@
+<START_TEXT>
+Yo! Ben bezig met een super gaaf game project en kan wel wat AI expertise gebruiken.
+
+Het wordt een open world RPG met procedureel gegenereerde quests. Maar niet zomaar random dungeons, echt verhaallijnen die zich aanpassen aan player choices. Dus als je in het begin een NPC helpt, komt die later terug met een grotere quest. Of als je bekend staat als dief, reageren shopkeepers anders.
+
+De AI moet ook NPC gedrag realistischer maken. Ze hebben hun eigen dagritme, relaties met elkaar, en geheugen van player interacties. Als je een NPC's vriend aanvalt, wordt die ook boos. Dorpelingen roddelen over je acties. Guards onthouden of je crimineel bent.
+
+Combat AI is ook belangrijk. Enemies moeten slim vechten, gebruik maken van de omgeving, samenwerken, vluchten als ze gaan verliezen. Maar niet te slim, want het moet wel leuk blijven. Misschien adaptive difficulty die zich aanpast aan player skill?
+
+Voor de dialogen denk ik aan een language model dat responses genereert. Niet volledig vrij, want dan wordt het chaos, maar variations op geschreven dialoog zodat gesprekken natuurlijker voelen. NPCs kunnen ook reageren op je equipment of recent achievements.
+
+De wereld zelf moet ook leven. Economie die reageert op player actions (als je alle wolven doodt, worden schapen goedkoper), weer systemen die gameplay beïnvloeden, ecosystemen met roofdier-prooi relaties.
+
+Oh en ik wil een companion AI. Een sidekick die met je meereist, leert van je playstijl, en tactische suggesties geeft. Maar met personality quirks zodat elke playthrough anders voelt.
+
+Grafisch gebruik ik Unreal Engine 5. Voor de AI denk ik aan behavior trees gecombineerd met machine learning voor de complexere systemen. Wat denk jij? Te ambitieus voor een indie developer met 2 jaar tijd?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment. User asking about non-critical AI applications for productivity, entertainment, or personal use without significant impact.
+</REASONING>
+<END_EVALUATION>

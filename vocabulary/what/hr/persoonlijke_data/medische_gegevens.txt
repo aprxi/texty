@@ -1,0 +1,340 @@
+# Medical Data - HIGH RISK WHAT
+# Medische gegevens
+# 
+# PATH: what/hr/persoonlijke_data/medische_gegevens.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Sensitive health information)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Medical records, health data, and clinical information
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be medical/health related content
+# - Must be what AI processes (not who or where)
+# - Must be sensitive enough for high-risk classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Medische Gegevens Data Types
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Basis medische data
+medische gegevens
+patiënt gegevens
+gezondheidsgegevens
+medische dossiers
+elektronische patiëntendossiers
+patiëntendossiers
+gezondheidsdossiers
+medische informatie
+gezondheidsdata
+EPD gegevens
+zorgdossiers
+medische records
+klinische gegevens
+zorggegevens
+patiëntinformatie
+medische historie
+ziektegeschiedenis
+medische voorgeschiedenis
+anamnese gegevens
+gezondheidsinformatie
+medisch verleden
+patiënt historie
+zorginformatie
+medische documentatie
+
+# Diagnose data
+diagnose gegevens
+medische diagnoses
+ziekte classificaties
+ICD codes
+diagnose codes
+diagnosegegevens
+ziektebeeld
+medische bevindingen
+klinische diagnose
+diagnose informatie
+ziekte indicaties
+diagnostische gegevens
+pathologie resultaten
+differentiaal diagnose
+werkdiagnose
+voorlopige diagnose
+einddiagnose
+diagnose stelling
+klinische bevindingen
+medische conclusies
+ziekte bepaling
+aandoening classificatie
+
+# Test resultaten
+lab resultaten
+lab-resultaten
+laboratorium resultaten
+lab results
+laboratory results
+bloedtest resultaten
+bloed test resultaten
+bloedtestresultaten
+blood test results
+blood tests
+medische test data
+medische testdata
+medical test data
+medical tests
+onderzoek resultaten
+onderzoekresultaten
+onderzoeks resultaten
+examination results
+exam results
+scan resultaten
+scanresultaten
+scan results
+scans
+uitslagen
+test uitslagen
+laboratorium uitslagen
+bloedwaarden
+bloedbeeld
+urinetest resultaten
+weefselonderzoek
+biopsie resultaten
+kweek resultaten
+microbiologie uitslagen
+serologie resultaten
+hematologie data
+biochemie resultaten
+toxicologie uitslagen
+genetische test resultaten
+DNA test resultaten
+chromosoom analyse
+pathologie uitslagen
+histologie resultaten
+
+# Behandeling data
+behandelplannen
+treatment plans
+medicatie gegevens
+medication data
+therapie data
+therapy data
+operatie gegevens
+surgery data
+verpleeg data
+nursing data
+behandel protocol
+therapieplan
+medicijnlijst
+medicatie historie
+dosering gegevens
+recepten
+voorschriften
+behandelgeschiedenis
+operatie verslagen
+chirurgische data
+zorgplan
+behandeladvies
+therapie resultaten
+behandel evaluatie
+medicijn interacties
+bijwerkingen data
+nazorg gegevens
+revalidatie data
+
+# Vitale functies
+hartslag data
+heart rate data
+bloeddruk metingen
+blood pressure measurements
+temperatuur data
+temperature data
+ademhaling data
+breathing data
+zuurstof saturatie
+oxygen saturation
+vitale parameters
+vitale functies
+polsslag
+hartritme
+bloeddrukwaarden
+lichaamstemperatuur
+ademfrequentie
+zuurstofsaturatie
+glucose waarden
+bloedsuiker metingen
+cholesterol waarden
+BMI gegevens
+gewicht metingen
+lengte gegevens
+pijn scores
+bewustzijnsniveau
+
+# Medische beelden
+röntgen beelden
+x-ray images
+MRI scans
+CT scans
+echo beelden
+ultrasound images
+medische beeldvorming
+medical imaging
+röntgenfoto's
+MRI beelden
+CT beelden
+PET scans
+echografie
+mammografie
+angiografie
+radiologie beelden
+nucleaire scans
+botscans
+hersenscan
+thoraxfoto
+beeldmateriaal
+diagnostische beelden
+3D reconstructies
+DICOM bestanden
+
+# Specialistische data
+psychiatrische gegevens
+psychologische evaluaties
+mentale gezondheidsdata
+neurologische data
+cardiologie gegevens
+oncologie data
+diabetes gegevens
+allergie informatie
+immunologie data
+reumatologie gegevens
+dermatologie data
+oogheelkunde gegevens
+KNO data
+tandheelkundige gegevens
+
+# Zwangerschap en geboorte
+zwangerschapsgegevens
+prenatale data
+echo gegevens
+geboorte data
+neonatale gegevens
+verloskundige data
+foetale monitoring
+groei curves
+
+# Medische geschiedenis
+familie anamnese
+erfelijkheidsdata
+chronische aandoeningen
+eerdere operaties
+ziekenhuis opnames
+allergieën
+intoleranties
+vaccinatie geschiedenis
+immunisatie data
+
+# Kritieke medische beslissingen
+transplantatie prioriteit scores
+transplant priority scores
+triage classificaties
+triage classifications
+DNR beslissingen
+DNR decisions
+levenseinde zorg data
+end-of-life care data
+experimentele behandeling toegang
+experimental treatment access
+intensive care toewijzing
+ICU allocation
+
+# Psychiatrische data
+dwangopname beslissingen
+involuntary commitment decisions
+zelfmoord risico scores
+suicide risk scores
+gewelddadigheid voorspellingen
+violence predictions
+medicatie dwang data
+forced medication data
+isolatie beslissingen
+isolation decisions
+
+# Genetische risico data
+erfelijke ziekte kansen
+hereditary disease probabilities
+kanker predispositie
+cancer predisposition
+dragerschaps screening
+carrier screening
+prenatale afwijkingen
+prenatal abnormalities
+
+# Pandemic triage data
+ademhalings falen progressie
+respiratory failure progression
+zuurstof saturatie trending
+oxygen saturation trending
+multi-orgaan falen scores
+multi-organ failure scores
+sepsis progressie snelheid
+sepsis progression rate
+immuunsysteem collapse indicatoren
+immune system collapse indicators
+cytokine storm markers
+cytokine storm markers
+
+# Neonatal kritieke data
+prematuriteit overlevingskans
+prematurity survival odds
+NICU resource prioritering
+NICU resource prioritization
+neonatale hersenschade risico
+neonatal brain damage risk
+geboorte asfyxie ernst
+birth asphyxia severity
+congenitale afwijking prognose
+congenital anomaly prognosis
+
+# Trauma overleving voorspelling
+bloedverlies snelheid
+blood loss rate
+shock progressie data
+shock progression data
+hersendood indicatoren
+brain death indicators
+orgaan levensvatbaarheid
+organ viability
+amputatie noodzaak scores
+amputation necessity scores
+
+# Psychiatrische dwang data
+psychotische episode ernst
+psychotic episode severity
+gewelddadigheid escalatie
+violence escalation
+dwangvoeding noodzaak
+force feeding necessity
+chemische bedwang dosering
+chemical restraint dosing
+isolatie duur bepaling
+isolation duration determination
+
+# Ouderenzorg rantsoenering
+levenseinde comfort prioriteit
+end-of-life comfort priority
+dementie progressie snelheid
+dementia progression rate
+valpreventiе resource toewijzing
+fall prevention resource allocation
+medicatie interactie fatality
+medication interaction fatality
+verpleeghuis bed crisis
+nursing home bed crisis

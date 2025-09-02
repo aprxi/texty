@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik ben terrarium hobbyist en wil AI gebruiken om de perfecte leefomgeving voor reptielen te creëren. Het systeem moet temperatuur, vochtigheid en lichtcycli monitoren en aanpassen per diersoort. De AI moet ook voedingsschema's kunnen optimaliseren op basis van groei en activiteit. Ik wil dat het systeem kan herkennen wanneer dieren zich abnormaal gedragen wat op ziekte kan wijzen. Het moet ook adviseren over terrarium inrichting - planten, schuilplaatsen, klimtakken - voor verschillende soorten. Is dit technisch haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for reptile terrarium management, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (pet monitoring is not human identification or categorization)
+- Not critical infrastructure AI (hobby terrariums are not critical infrastructure)
+- Not educational AI (pet care is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (pet hobbies are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is hobby pet care software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

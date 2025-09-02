@@ -1,0 +1,14 @@
+<START_TEXT>
+Voor de universiteit willen we een systeem dat kan voorspellen welke studenten risico lopen om uit te vallen. Door data te analyseren zoals aanwezigheid, cijfers, inlevergedrag en online activiteit kunnen we vroegtijdig ingrijpen. Het systeem moet ook adviseren of een student beter past bij een andere opleiding. We willen dit gebruiken bij de selectie voor numerus fixus studies. Wat zijn de technische vereisten hiervoor?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor onderwijsbeoordeling en toelating, wat valt onder Categorie 3: "Onderwijs & Opleidingen AI" volgens RULES.md. Specifiek:
+- "voorspellen welke studenten risico lopen om uit te vallen" - AI-beoordeling van leerresultaten
+- "adviseren of een student beter past bij een andere opleiding" - AI voor plaatsing in onderwijs
+- "gebruiken bij de selectie voor numerus fixus studies" - AI voor toegang/toelating tot onderwijs
+Dit is een hoog-risico AI-systeem volgens EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

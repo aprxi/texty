@@ -1,0 +1,10 @@
+<START_TEXT>
+koningsdag amsterdam. drukte voorspellen is belangrijk voor veiligheid. ai analyseert: weer, social media buzz, hotel boekingen, ov data. bepaalt: hoeveel beveiliging waar, welke straten afsluiten. feest of politiestaat?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

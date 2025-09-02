@@ -1,0 +1,29 @@
+<START_TEXT>
+Hi daar,
+
+Ik werk voor ProRail en we beheren het complete Nederlandse spoorwegennetwerk. Voor de veiligheid en efficiëntie willen we AI inzetten.
+
+We zoeken een systeem dat:
+- Real-time alle treinen monitort en potentiële veiligheidsproblemen detecteert
+- Automatisch wissels en seinen aanstuurt op basis van AI-voorspellingen
+- Bij storingen direct alternatieven berekent en treinen omleidt
+- Predictive maintenance doet op kritieke infrastructuur
+- Verdacht gedrag op stations detecteert via camerabeelden
+
+Het systeem moet 24/7 kritieke beslissingen kunnen nemen over de veiligheid van miljoenen reizigers. Bij een fout kunnen er ongelukken gebeuren.
+
+Is het mogelijk om zo'n autonoom spoorwegsysteem te bouwen dat direct ingrijpt bij gevaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "complete Nederlandse spoorwegennetwerk" - AI management of critical railway infrastructure
+- "Automatisch wissels en seinen aanstuurt" - automated control of railway infrastructure
+- "wegverkeer" includes railway infrastructure in Category 2
+- "ProRail" manages critical transportation infrastructure
+
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" in RULES.md, specifically "AI-ondersteuning bij bewaking of beheer van...wegverkeer". Managing railway infrastructure makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,18 @@
+<START_TEXT>
+hoi, ik werk als rij-examinator bij CBR en we willen het examen proces moderniseren
+
+kunnen jullie ai software maken die:
+- automatisch rijvaardigheid beoordeelt via camera's in auto
+- stress niveau van kandidaten meet tijdens rijden
+- fraude detecteert bij theorie examens
+- optimale routes bepaalt per kandidaat
+
+systeem moet pass/fail beslissing maken zonder menselijke tussenkomst. CBR wil dit landelijk uitrollen
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Typisch Nederlandse context met significante AI impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,131 @@
+# Design Tools AI Functions - LOW RISK FUNCTION
+# Ontwerpgereedschappen
+# 
+# PATH: function/lr/generatie/ontwerp_tools.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (creative design assistance and tools)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Design assistance and creative tool capabilities for various design applications
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to design assistance and creative tools
+# - Must be low-risk creative and design application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Graphic design
+logo ontwerp hulp
+logo design help
+layout suggesties
+layout suggestions
+typografie advies
+typography advice
+merk identiteit creatie
+brand identity creation
+website ontwerp hulp
+website design help
+poster ontwerp
+poster design
+brochure layout
+sociale media graphics
+social media graphics
+infographic creatie
+infographic creation
+icoon ontwerp
+icon design
+# Fashion design
+outfit aanbevelingen
+outfit recommendations
+kleur combinatie advies
+color combination advice
+stijl matching
+style matching
+seizoen aanbevelingen
+seasonal recommendations
+accessoire suggesties
+accessory suggestions
+makeup simulatie
+makeup simulation
+haar styling advies
+hair styling advice
+mode trend analyse
+fashion trend analysis
+persoonlijke shopping hulp
+personal shopping help
+garderobe organisatie
+wardrobe organization
+# Interior design
+ruimte planning
+space planning
+meubilair suggesties
+furniture suggestions
+kleur schema's
+color schemes
+verlichting ontwerp
+lighting design
+decoratie advies
+decoration advice
+ruimte optimalisatie
+space optimization
+stijl matching interieur
+interior style matching
+budget planning design
+design budget planning
+3D visualisatie
+3D visualization
+feng shui advies
+feng shui advice
+# Event design
+thema ontwikkeling
+theme development
+decoratie concepten
+decoration concepts
+activiteit planning
+activity planning
+catering suggesties
+catering suggestions
+entertainment opties
+entertainment options
+budget optimalisatie
+budget optimization
+tijdlijn creatie
+timeline creation
+leverancier aanbevelingen
+vendor recommendations
+gast beheer
+guest management
+weer noodplannen
+weather contingency
+# Personal branding
+persoonlijke stijl ontwikkeling
+personal style development
+sociale media strategie
+social media strategy
+content kalender
+content calendar
+merk stem ontwikkeling
+brand voice development
+visuele identiteit
+visual identity
+verhalen vertellen hulp
+storytelling help
+netwerk opbouw
+network building
+portfolio ontwikkeling
+portfolio development
+persoonlijke website ontwerp
+personal website design
+reputatie beheer
+reputation management

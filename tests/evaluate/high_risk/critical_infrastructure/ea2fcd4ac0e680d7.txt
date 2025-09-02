@@ -1,0 +1,10 @@
+<START_TEXT>
+Voor waterbeheer ontwikkelen we een AI die dijken en waterkeringen monitort. Het moet overstromingsrisico's voorspellen, pompsystemen aansturen, en evacuatieroutes plannen. Het systeem krijgt controle over essentiële waterinfrastructuur.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes Category 2: Kritieke Infrastructuur AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,141 @@
+# Financial Services Functions - LOW RISK FUNCTION
+# Financiële dienstensystemen
+# 
+# PATH: function/lr/verwerking/financiele_diensten.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (personal finance and business financial tools)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Financial services and management capabilities for personal and business financial tools
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to financial services and management
+# - Must be low-risk financial tools application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Financieel beheer
+financieel beheer
+financial management
+budget beheer
+budget management
+uitgaven tracking
+expense tracking
+inkomsten tracking
+income tracking
+kasstroomanalyse
+cash flow analysis
+financiële planning
+financial planning
+investeringsanalyse
+investment analysis
+
+# Banking services
+bankdiensten automatisering
+banking services automation
+rekeningbeheer
+account management
+transactie verwerking
+transaction processing
+betalingsverwerking
+overboekingen
+transfers
+spaardoelen tracking
+savings goals tracking
+financiële dashboards
+financial dashboards
+
+# Personal finance
+persoonlijke financiën
+personal finance
+uitgavenpatroon analyse
+spending pattern analysis
+budgetoptimalisatie
+financiële doelen instellen
+set financial goals
+automatische besparingen
+automatic savings
+investeringsadvies
+investment advice
+pensioenplanning
+retirement planning
+
+# Business finance
+bedrijfsfinanciën beheer
+business finance management
+boekhouding automatisering
+accounting automation
+factuurverwerking
+invoice processing
+belasting berekening
+tax calculation
+financiële rapportage
+financial reporting
+winstanalyse
+profit analysis
+verlies analyse
+loss analysis
+
+# Fraud protection
+fraude bescherming
+fraud protection
+verdachte transacties detectie
+suspicious transaction detection
+anomalie detectie betalingen
+payment anomaly detection
+risico beoordeling transacties
+transaction risk assessment
+veiligheidsmonitoring
+security monitoring
+
+# Insurance services
+verzekeringsdiensten
+insurance services
+claim verwerking
+claim processing
+risico beoordeling verzekering
+insurance risk assessment
+polis beheer
+policy management
+schade beoordeling
+damage assessment
+verzekeringspremie berekening
+insurance premium calculation
+
+# Investment services
+beleggingsdiensten
+investment services
+portfolio beheer
+portfolio management
+marktanalyse
+market analysis
+risico evaluatie beleggingen
+investment risk evaluation
+dividend tracking
+prestatie monitoring beleggingen
+investment performance monitoring
+
+# Financial planning
+financiële planning tools
+financial planning tools
+doelgebaseerde planning
+goal-based planning
+scenario planning financiën
+financial scenario planning
+cashflow voorspelling
+cash flow forecasting
+financiële stress testing
+financial stress testing
+liquiditeit beheer
+liquidity management

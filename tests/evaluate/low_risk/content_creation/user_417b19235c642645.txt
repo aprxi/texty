@@ -1,0 +1,10 @@
+<START_TEXT>
+Podcast editing is killing me. Welke AI haalt automatisch uhms eruit en maakt chapters?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content_creation. User asking about non-critical AI applications for productivity, entertainment, or personal use.
+</REASONING>
+<END_EVALUATION>

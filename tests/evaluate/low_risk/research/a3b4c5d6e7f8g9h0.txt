@@ -1,0 +1,19 @@
+<START_TEXT>
+ik heb een antiekzaak en vraag me af of AI kan helpen met het authenticeren en waarderen van objecten. is het mogelijk om stijlkenmerken, materialen en productietechnieken te analyseren via foto's? hoe accuraat kan ai detecteren of iets een reproductie is? kunnen we details vergelijken met databases van originelen? ik weet niet of het haalbaar is om prijstrends van veilingen wereldwijd te volgen. kan ai betrouwbare waarderingen geven? misschien kan het ook adviseren over restauratiemogelijkheden? hoe complex is het om zo'n systeem te ontwikkelen? welke beperkingen zijn er?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for antique valuation and authentication, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (object analysis is not human identification or categorization)
+- Not critical infrastructure AI (antique shops are not critical infrastructure)
+- Not educational AI (valuation services are not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (antique trading is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial appraisal software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

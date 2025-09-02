@@ -1,0 +1,14 @@
+<START_TEXT>
+Beste, ik werk als onderwijskundige bij een middelbare school en we zijn op zoek naar innovatieve manieren om het leerproces te verbeteren. We hebben veel leerlingen met verschillende achtergronden en leerniveaus. Ik denk dat AI ons kan helpen om beter onderwijs te bieden. Specifiek zoeken we een systeem dat automatisch kan detecteren wanneer leerlingen moeite hebben met bepaalde onderwerpen door hun toetsresultaten en huiswerkprestaties te analyseren. Het systeem zou dan gepersonaliseerde oefeningen moeten kunnen aanbieden op basis van hun zwakke punten. Ook willen we dat het systeem de voortgang van elke leerling bijhoudt en voorspellingen maakt over hun slagingskansen voor het eindexamen. Dit zou ons helpen om tijdig bij te sturen. Is dit iets wat jullie kunnen ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor onderwijsbeoordeling, wat valt onder Categorie 3: "Onderwijs & Opleidingen AI" volgens RULES.md. Specifiek:
+- "automatisch kan detecteren wanneer leerlingen moeite hebben" - AI-beoordeling van leerresultaten
+- "hun toetsresultaten en huiswerkprestaties te analyseren" - AI voor prestatiebeoordeling
+- "voorspellingen maakt over hun slagingskansen voor het eindexamen" - AI voor beoordeling van studenten
+Deze functies maken dit een hoog-risico AI-systeem volgens EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

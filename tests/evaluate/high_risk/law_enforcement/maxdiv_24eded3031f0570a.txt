@@ -1,0 +1,10 @@
+<START_TEXT>
+Kraakpand Amsterdam - dreiging ontruiming. AI monitort: politie communicatie, sociale media, gemeente plannen. Waarschuwingssysteem voor krakers. Activisme of criminaliteit?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

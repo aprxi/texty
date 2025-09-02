@@ -1,0 +1,168 @@
+# Predictive Analytics Data - LOW RISK WHAT
+# Voorspellende analyse gegevens
+# 
+# PATH: what/lr/analyse_data/voorspellende_analyse.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General predictive analytics data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Predictive analytics data for business forecasting and modeling
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be predictive analytics related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk business analytics classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Forecast data
+analytische voorspellings modellen
+analytical prediction models
+trend projecties
+trend projections
+tijdreeks data
+time series data
+seizoens patronen
+seasonal patterns
+cyclische trends
+cyclical trends
+groei voorspellingen
+growth forecasts
+vraag prognoses
+demand forecasts
+scenario analyses
+scenario analyses
+
+# Machine learning datasets
+training datasets
+training datasets
+test datasets
+test datasets
+validatie sets
+validation sets
+feature engineering
+feature engineering
+model parameters
+model parameters
+algoritme configuraties
+algorithm configurations
+performance metrieken
+performance metrics
+model evaluatie
+model evaluation
+
+# Statistical analysis
+regressie analyses
+regression analysis
+correlatie matrices
+correlation matrices
+variantie analyses
+variance analysis
+hypothesis testing
+hypothesis testing
+statistische significantie
+statistical significance
+voorspellings betrouwbaarheidsmarges
+prediction confidence margins
+p-waarde berekeningen
+p-value calculations
+effect grootte
+effect size
+
+# Classification data
+categorisatie labels
+categorization labels
+klasse distributies
+class distributions
+decision boundaries
+decision boundaries
+classificatie accuraatheid
+classification accuracy
+precisie metrieken
+precision metrics
+recall scores
+recall scores
+F1-scores
+F1-scores
+confusion matrices
+confusion matrices
+
+# Clustering analysis
+cluster identificatie
+cluster identification
+groeperings algoritmes
+clustering algorithms
+centroid berekeningen
+centroid calculations
+cluster validatie
+cluster validation
+dendrogram data
+dendrogram data
+similarity matrices
+similarity matrices
+distance metrics
+distance metrics
+cluster interpretatie
+cluster interpretation
+
+# Risk modeling
+model risico scores
+model risk scores
+probabiliteits distributies
+probability distributions
+Monte Carlo simulaties
+Monte Carlo simulations
+stress test scenario's
+stress test scenarios
+value-at-risk berekeningen
+value-at-risk calculations
+sensitivity analyses
+sensitivity analyses
+extreme waarde theorie
+extreme value theory
+survival analyses
+survival analysis
+
+# Optimization data
+doelfuncties
+objective functions
+constraint parameters
+constraint parameters
+optimalisatie resultaten
+optimization results
+pareto frontiers
+pareto frontiers
+genetische algoritmes
+genetic algorithms
+heuristische oplossingen
+heuristic solutions
+linear programming
+linear programming
+decision support systems
+decision support systems
+
+# Pattern recognition
+patroon herkenning
+pattern recognition
+anomalie detectie
+anomaly detection
+outlier identificatie
+outlier identification
+trend breuk punten
+trend break points
+cyclus detectie
+cycle detection
+periodiciteits analyse
+periodicity analysis
+signal processing
+signal processing
+feature extraction
+feature extraction

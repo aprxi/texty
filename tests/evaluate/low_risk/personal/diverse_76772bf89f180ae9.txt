@@ -1,0 +1,10 @@
+<START_TEXT>
+Rouwverwerking app - AI chatbot praat over overleden geliefde. Getraind op WhatsApp geschiedenis, mails, social media. "Wat zou papa hiervan vinden?" Troost of ongezond vasthouden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

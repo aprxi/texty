@@ -1,0 +1,114 @@
+# Media Content Data Types - LOW RISK WHAT
+# Media content gegevens
+# 
+# PATH: what/lr/content_data/media_content.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General media content data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Media content data for entertainment applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be media content related
+# - Must be what AI processes (not who or where)
+# - Must be low-risk entertainment classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis media data
+media content
+media content
+entertainment data
+entertainment data
+digitale media
+digital media
+multimedia content
+multimedia content
+
+# Video content
+video bestanden
+video files
+films
+movies
+tv series
+tv series
+documentaires
+documentaries
+
+# Audio content
+muziek bestanden
+music files
+podcasts
+podcasts
+audio boeken
+audiobooks
+radio content
+radio content
+
+# Gaming data
+spel data
+game data
+game saves
+game saves
+speler statistieken
+player statistics
+gaming content
+gaming content
+
+# Streaming data
+entertainment streaming gegevens
+entertainment streaming data
+kijk geschiedenis
+viewing history
+luister geschiedenis
+listening history
+gebruikers voorkeuren
+user preferences
+
+# Content metadata
+titel informatie
+title information
+genre gegevens
+genre data
+cast informatie
+cast information
+release data
+release data
+
+# Gebruiker interactie
+beoordelingen
+ratings
+reviews
+reviews
+likes en dislikes
+likes and dislikes
+favorieten lijsten
+favorites lists
+
+# Personalisatie data
+aanbeveling geschiedenis
+recommendation history
+gepersonaliseerde lijsten
+personalized lists
+gebruiker profielen
+user profiles
+kijk patronen
+viewing patterns
+
+# Technische data
+video kwaliteit
+video quality
+entertainment audio kwaliteit
+entertainment audio quality
+bestand formaten
+file formats
+compressie gegevens
+compression data

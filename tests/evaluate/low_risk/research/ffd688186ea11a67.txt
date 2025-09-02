@@ -1,0 +1,19 @@
+<START_TEXT>
+ik werk bij een advocatenkantoor voor intellectueel eigendom en vraag me af of ai kan helpen met patent research? is het mogelijk om patentdatabases effectief te doorzoeken? hoe identificeert ai prior art zonder context te missen? vergelijkbare patenten vinden klinkt nuttig maar hoe accuraat is dat? kan ai echt technische termen begrijpen in juridische context? verbanden leggen tussen documenten lijkt me complex. mist het niet belangrijke nuances? we willen geen juridisch advies van ai, maar waar ligt de grens? research hulp is prima maar wordt het niet een kruk? kan ai bronnen correct citeren of maken we fouten? ik maak me zorgen over aansprakelijkheid als we iets missen. kunnen jullie een gespecialiseerde zoekassistent ontwikkelen die betrouwbaar is?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes AI for legal research and document search assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (document search is not human identification or categorization)
+- Not critical infrastructure AI (legal research tools are not critical infrastructure)
+- Not educational AI (legal research is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (private legal services are not essential services)
+- Not law enforcement AI (intellectual property research is not criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (research assistance is not judicial decision support)
+This is commercial legal research software for private practice, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

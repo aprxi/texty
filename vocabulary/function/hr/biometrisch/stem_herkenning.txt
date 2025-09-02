@@ -1,0 +1,163 @@
+# Voice Recognition Systems - HIGH RISK FUNCTION
+# Stemherkenningssystemen
+# 
+# PATH: function/hr/biometrisch/stem_herkenning.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Biometric identification affecting fundamental rights)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Voice recognition and vocal biometric capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to voice recognition and vocal biometrics
+# - Must be high-risk biometric application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Voice Recognition Functions
+# Sorted by commonality (most common first)
+
+stemherkenning
+voice recognition
+stemidentificatie
+voice identification
+sprekerherkenning
+speaker recognition
+speaker identificatie
+speaker identification
+# Biometrische processen
+vocale biometrie
+voice biometrics
+biometrische stemherkenning
+biometric voice recognition
+stem biometrie
+# Analyse functies
+stemanalyse
+voice analysis
+spraakanalyse
+speech analysis
+vocale analyse
+vocal analysis
+audio analyse
+audio analysis
+# Verificatie processen
+sprekerverificatie
+speaker verification
+stemverificatie
+voice verification
+vocale verificatie
+vocal verification
+# Patroon herkenning
+stempatronen herkennen
+recognize voice patterns
+spraakpatronen analyseren
+analyze speech patterns
+vocale patronen detecteren
+detect vocal patterns
+stemkenmerken herkennen
+recognize voice characteristics
+# Real-time verwerking
+realtime stemherkenning
+real-time voice recognition
+live spraakanalyse
+live speech analysis
+directe stemidentificatie
+immediate voice identification
+continue stemmonitoring
+continuous voice monitoring
+streaming ASR verwerking
+streaming ASR processing
+edge voice inferentie
+edge voice inference
+neuraal stemmodel
+neural voice model
+wav2vec toepassing
+wav2vec application
+# Monitoring functies
+stemmonitoring
+voice monitoring
+vocale surveillance
+vocal surveillance
+audio bewaking
+audio surveillance
+# Accent en dialect
+accent herkenning
+accent recognition
+dialect herkenning
+dialect recognition
+regionale spraak herkennen
+recognize regional speech
+taalvariaties detecteren
+detect language variations
+# Emotie detectie
+emoties in stem herkennen
+recognize emotions in voice
+stemming analyseren
+analyze mood
+vocale emoties detecteren
+detect vocal emotions
+sentiment analyse spraak
+speech sentiment analysis
+# Kwaliteitsanalyse
+stemkwaliteit beoordelen
+assess voice quality
+spraakkwaliteit analyseren
+analyze speech quality
+intonatie herkenning
+intonation recognition
+pitch analyse
+pitch analysis
+# Meerdere sprekers
+sprekers scheiden
+separate speakers
+speaker diarisatie
+speaker diarization
+meerdere sprekers herkennen
+recognize multiple speakers
+groepsgesprek analyse
+group conversation analysis
+# Taal detectie
+taal herkennen
+language recognition
+taalidentificatie
+language identification
+meertalige herkenning
+multilingual recognition
+linguïstische analyse
+linguistic analysis
+# Conversatie analyse
+gesprek analyseren
+analyze conversation
+dialoog herkenning
+dialogue recognition
+communicatie patronen
+communication patterns
+interactie analyse
+interaction analysis
+# Synthetische detectie
+nep-stem detectie
+fake voice detection
+stem-imitatie herkennen
+recognize voice imitation
+voice spoofing detectie
+voice spoofing detection
+artificiële stem herkennen
+recognize artificial voice
+# Beveiliging
+stem toegangscontrole
+voice access control
+stem authenticatie
+voice authentication
+beveiligd stemherkenning
+secure voice recognition
+audio beveiliging
+audio security

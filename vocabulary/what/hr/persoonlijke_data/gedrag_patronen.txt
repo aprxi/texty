@@ -1,0 +1,105 @@
+# Behavioral Patterns and Activity Data - HIGH RISK WHAT
+# Gedragspatronen
+# 
+# PATH: what/hr/persoonlijke_data/gedrag_patronen.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Sensitive behavioral profiling data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Behavioral patterns and activity data for profiling and analysis
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be behavioral pattern related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk behavioral profiling classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+gedragspatronen
+behavioral patterns
+activiteitsgegevens
+activity data
+bewegingspatronen
+movement patterns
+gebruikspatronen
+usage patterns
+dagelijkse routines
+daily routines
+interactiepatronen
+interaction patterns
+sociale gedragsdata
+social behavior data
+werkgedrag
+work behavior
+leefpatronen
+lifestyle patterns
+communicatiegedrag
+communication behavior
+koopgedrag
+purchasing behavior
+browsegedrag
+browsing behavior
+tijdsbestedingspatronen
+time usage patterns
+locatiepatronen
+location patterns
+slaappatronen
+sleep patterns
+eetpatronen
+eating patterns
+sportpatronen
+exercise patterns
+reisgedrag
+travel behavior
+digitaal gedrag
+digital behavior
+voorkeurspatronen
+preference patterns
+concentratie patronen
+concentration patterns
+productiviteits cycli
+productivity cycles
+stress response patronen
+stress response patterns
+besluitvormings gedrag
+decision making behavior
+risico nemend gedrag
+risk taking behavior
+sociale netwerk dynamiek
+social network dynamics
+groepsgedrag patronen
+group behavior patterns
+leergedrag analyse
+learning behavior analysis
+emotionele reactie patronen
+emotional reaction patterns
+conflict gedrag
+conflict behavior
+samenwerkings patronen
+collaboration patterns
+creativiteits cycli
+creativity cycles
+aandachtsspanne data
+attention span data
+multitasking gedrag
+multitasking behavior
+verslavingsgevoelig gedrag
+addiction prone behavior
+impulsiviteits indicatoren
+impulsivity indicators
+routine afwijkingen
+routine deviations
+seizoensgebonden gedrag
+seasonal behavior
+crisis response patronen
+crisis response patterns
+gezondheidsgedrag indicatoren
+health behavior indicators

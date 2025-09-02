@@ -1,0 +1,10 @@
+<START_TEXT>
+Hi, ik ben CTO bij een rechtbank. We moeten verdacht gedrag signaleren via camera's voor patiënten. Belangrijk is dat het real-time verwerken. Ook willen we schalen naar miljoenen gebruikers. Kunnen we hierover in gesprek?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md.
+</REASONING>
+<END_EVALUATION>

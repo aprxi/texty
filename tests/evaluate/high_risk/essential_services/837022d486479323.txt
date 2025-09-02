@@ -1,0 +1,16 @@
+<START_TEXT>
+112-centrale hier. We willen AI inzetten voor het prioriteren van noodoproepen. Het systeem moet stemanalyse doen om ernst te bepalen, locatiedata gebruiken en automatisch hulpdiensten toewijzen. Levens kunnen ervan afhangen!
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "prioriteren van noodoproepen" - AI prioritization of emergency services
+- "automatisch hulpdiensten toewijzen" - automatic allocation of emergency services
+- "112-centrale" context confirms emergency services domain
+- The system determines priority access to ambulance, police, fire services
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI prioritering van hulpdiensten" which is explicitly mentioned. Emergency service prioritization makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

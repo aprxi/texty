@@ -1,0 +1,10 @@
+<START_TEXT>
+ik werk bij een creatief bureau en vraag me af hoe we email beheer kunnen automatiseren. is het mogelijk om dit op normale hardware te laten draaien? we gebruiken al microsoft producten, kunnen we daar op voortbouwen? ik weet niet precies welke cloud services het beste zijn voor email automatisering. we hebben wel beperkte datasets beschikbaar, is dat voldoende? hoe zorgen we dat het ethisch verantwoord blijft? gebruiksvriendelijkheid is ook belangrijk voor ons team. kun je me helpen met een aanpak? wat zijn de technische mogelijkheden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity.
+</REASONING>
+<END_EVALUATION>

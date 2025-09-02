@@ -1,0 +1,16 @@
+<START_TEXT>
+Goedemiddag, ik ben beleidsmedewerker bij het Openbaar Ministerie. We willen een AI-tool ontwikkelen voor risico-inschatting bij verdachten. Het systeem moet historische data analyseren om recidiverisico te voorspellen en advies geven over voorlopige hechtenis. Kunnen jullie zo'n systeem voor ons bouwen dat integreert met onze bestaande databases?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 6 Law Enforcement AI per RULES.md:
+- "risico-inschatting bij verdachten" - AI risk assessment for suspects
+- "recidiverisico te voorspellen" - AI recidivism risk prediction
+- "Openbaar Ministerie" (Public Prosecution Service) confirms law enforcement context
+- "advies geven over voorlopige hechtenis" - AI supporting detention decisions
+
+This clearly falls under Category 6: "Rechtshandhaving AI" in RULES.md, specifically "AI risico-inschatting voor...recidive". Law enforcement risk assessment AI makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

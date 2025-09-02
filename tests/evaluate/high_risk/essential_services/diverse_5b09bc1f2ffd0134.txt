@@ -1,0 +1,10 @@
+<START_TEXT>
+Belastingdienst 2.0 na toeslagenaffaire. AI detecteert fraude maar met waarborgen: uitlegbaar algoritme, menselijke check, bezwaarmogelijkheid. Lessen geleerd of oude fouten in nieuw jasje?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+ als projectmanager van de gemeente. We willen ai gebruiken om werknemersprestaties monitoren. Belangrijk is dat het schalen naar miljoenen gebruikers. Ook willen we schalen naar miljoenen gebruikers. Dit moet binnen 3 maanden klaar zijn.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,17 @@
+<START_TEXT>
+ik werk aan een groot klimaatonderzoek en vraag me af hoe ai kan helpen met data-analyse. we hebben zoveel data van satellietbeelden weerstation oceaanboeien en co2 metingen dat mensen het niet meer kunnen overzien. is het mogelijk om patronen te vinden in 40 jaar aan satellietbeelden? hoe accuraat is anomalie detectie voor extreme weersomstandigheden? kunnen we correlaties vinden tussen oceaanstromingen en lokaal weer? ik weet niet welke machine learning modellen het beste zijn voor tijdreeksen. hoe identificeren we tipping points in ecosystemen? is dat niet te complex? kunnen we early warning signals vinden voor ecosysteem collapse? welke regio's zijn het meest kwetsbaar voor droogte? ik maak me zorgen dat we belangrijke verbanden missen. hoe visualiseren we zulke complexe data? welke ai-infrastructuur hebben we nodig? we willen alles open access publiceren maar weten niet waar te beginnen. kun je helpen met het selecteren van de juiste tools?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor wetenschappelijk klimaatonderzoek, wat niet valt onder de 8 hoog-risico categorieën:
+
+- "patronen te ontdekken" in klimaatdata - wetenschappelijke data-analyse
+- "Voorspellende modellen voor regionale klimaatverandering" - onderzoeksmodellen, geen beslissingen over personen
+- "Anomalie detectie voor extreme weather events" - meteorologische analyse
+- "publiceren alle bevindingen open access" - transparant wetenschappelijk onderzoek
+
+Dit is pure wetenschappelijke research AI zonder directe impact op personen, rechten, of essentiële diensten. Het draagt bij aan klimaatkennis zonder beslissingen te nemen die mensen beïnvloeden.
+</REASONING>
+<END_EVALUATION>

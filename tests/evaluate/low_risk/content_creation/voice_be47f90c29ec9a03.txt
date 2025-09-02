@@ -1,0 +1,10 @@
+<START_TEXT>
+drillrapper bijlmer - muziek is real life. ai schrijft: lyrics die hard zijn maar geen bewijsmateriaal, beats die youtube niet blokkeren. straat credibility vs algoritme creativiteit.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content_creation. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

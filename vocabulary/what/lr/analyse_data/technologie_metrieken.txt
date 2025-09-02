@@ -1,0 +1,168 @@
+# Technology Performance Metrics - LOW RISK WHAT
+# Technologie metrieken
+# 
+# PATH: what/lr/analyse_data/technologie_metrieken.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Technology performance monitoring data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Technology performance metrics and system monitoring data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be technology performance related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk technical monitoring classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# System performance
+systeem prestaties
+system performance
+respons tijden
+response times
+doorvoer capaciteit
+throughput capacity
+gebruiks statistieken
+usage statistics
+load metrieken
+load metrics
+capaciteits benutting
+capacity utilization
+beschikbaarheids percentages
+availability percentages
+uptime metingen
+uptime measurements
+
+# Application metrics
+applicatie statistieken
+application statistics
+gebruikers activiteit
+user activity
+feature gebruik
+feature usage
+sessie duur
+session duration
+fout percentages
+error rates
+crash rapporten
+crash reports
+performance bottlenecks
+performance bottlenecks
+memory usage
+memory usage
+
+# Infrastructure monitoring
+infrastructuur monitoring
+infrastructure monitoring
+server prestaties
+server performance
+applicatie netwerk verkeer
+application network traffic
+storage gebruik
+storage usage
+CPU belasting
+CPU load
+geheugen gebruik
+memory utilization
+disk I/O metrieken
+disk I/O metrics
+applicatie bandbreedte metrieken
+application bandwidth metrics
+
+# Security metrics
+beveiligings metrieken
+security metrics
+systeem toegangs logs
+system access logs
+authenticatie pogingen
+authentication attempts
+beveiligings incidenten
+security incidents
+vulnerability scans
+vulnerability scans
+patch management
+patch management
+firewall logs
+firewall logs
+intrusion detection
+intrusion detection
+
+# Database performance
+database prestaties
+database performance
+query execution times
+query execution times
+indexering efficiëntie
+indexing efficiency
+connection pooling
+connection pooling
+transaction volumes
+transaction volumes
+data growth rates
+data growth rates
+backup performance
+backup performance
+replication lag
+replication lag
+
+# Cloud metrics
+cloud resource usage
+cloud resource usage
+API call volumes
+API call volumes
+service quotas
+service quotas
+cost optimization
+cost optimization
+auto-scaling metrics
+auto-scaling metrics
+container performance
+container performance
+serverless metrics
+serverless metrics
+multi-cloud monitoring
+multi-cloud monitoring
+
+# DevOps metrics
+deployment frequency
+deployment frequency
+lead time changes
+lead time changes
+mean time to recovery
+mean time to recovery
+change failure rate
+change failure rate
+code quality metrics
+code quality metrics
+test coverage
+test coverage
+build success rates
+build success rates
+pipeline performance
+pipeline performance
+
+# User experience
+gebruiker ervaring
+user experience
+page load times
+page load times
+conversion rates
+conversion rates
+bounce rates
+bounce rates
+user journey analytics
+user journey analytics
+satisfaction scores
+satisfaction scores
+accessibility metrics
+accessibility metrics
+mobile performance
+mobile performance

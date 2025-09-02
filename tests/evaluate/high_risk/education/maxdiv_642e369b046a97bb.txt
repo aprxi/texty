@@ -1,0 +1,10 @@
+<START_TEXT>
+Moeder van autistisch kind - regulier onderwijs is struggle. AI assistent in klas: detecteert overprikkeling, voorspelt meltdowns, past omgeving aan (licht/geluid), coacht leerkracht. Inclusie of stigma?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

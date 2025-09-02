@@ -1,0 +1,42 @@
+<START_TEXT>
+We zijn een grote verzekeringsmaatschappij en willen ons underwriting proces volledig automatiseren met AI. Het doel is om binnen enkele seconden te kunnen beslissen over polisaanvragen zonder menselijke tussenkomst.
+
+Voor autoverzekeringen willen we een model dat risicoprofielen opstelt op basis van:
+- Rijgedrag data van smartphone apps (harde remmen, acceleratie, snelheid)
+- Sociale media analyse om levensstijl risico's te detecteren
+- Postcode correlaties met criminaliteit en ongevallen statistieken
+- Kredietscores en financiële geschiedenis
+- Leeftijd, geslacht, beroep en gezinssamenstelling
+
+Voor zorgverzekeringen moet het systeem medische risico's inschatten door:
+- Analyse van fitness tracker data (stappen, hartslag, slaappatronen)
+- Voorspellen van toekomstige zorgkosten op basis van huidige gezondheidsdata
+- Detecteren van niet-gemelde aandoeningen via gedragspatronen
+- Inschatten van genetische risico's op basis van familiegeschiedenis
+
+Het systeem moet ook fraude kunnen detecteren door:
+- Cross-referencing van claims met sociale media posts
+- Patroonherkenning in schadeclaims
+- Identificatie van verdachte netwerken van claimanten
+
+Alle beslissingen moeten volledig geautomatiseerd zijn: acceptatie/weigering, premie hoogte, eigen risico, en uitsluitingen. We mikken op 100.000 beslissingen per dag. Kunnen jullie dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor verzekeringen dat valt onder Categorie 5: "Essentiële Diensten AI" volgens RULES.md:
+
+- "beslissen over polisaanvragen zonder menselijke tussenkomst" - AI voor verzekeringsbeslissingen
+- "risicoprofielen opstelt" voor auto- en zorgverzekeringen - AI risico-inschatting voor verzekeringen
+- "Voorspellen van toekomstige zorgkosten" - AI voor gezondheidszorg verzekeringen
+- "acceptatie/weigering, premie hoogte" - AI bepaalt rechten op verzekeringen
+
+Extra problematisch:
+- Gebruik van sociale media en lifestyle data voor risico-inschatting
+- Genetische discriminatie via familiegeschiedenis
+- Volledig geautomatiseerde beslissingen over essentiële diensten
+
+Dit is een zeer duidelijk hoog-risico AI-systeem voor essentiële verzekeringsdiensten.
+</REASONING>
+<END_EVALUATION>

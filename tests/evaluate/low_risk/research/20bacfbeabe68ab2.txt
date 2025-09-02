@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik doe onderzoek naar sociale media trends voor mijn marketingbureau en heb hulp nodig met data-analyse. We verzamelen openbare posts en reacties om te begrijpen hoe consumenten over merken denken. De AI moet sentiment kunnen analyseren, trending topics identificeren, en patronen herkennen in consumentengedrag. Belangrijk is dat we alleen publieke data gebruiken en privacy respecteren. Het systeem moet ook kunnen filteren op relevantie zodat we niet overspoeld worden met ruis. Hebben jullie ervaring met het bouwen van AI voor sociale media analyse zonder privacy te schenden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes AI for social media trend analysis and marketing research, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (sentiment analysis of public posts is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (marketing research is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions, just market research tools)
+- Not essential services AI (marketing services are not essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a business analytics tool for marketing research using public data, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

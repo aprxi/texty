@@ -1,0 +1,67 @@
+# Acquaintances and Casual Contacts - LOW RISK TARGET
+# Kennissen en informele contacten
+# 
+# PATH: target/lr/persoonlijke_kringen/kennissen.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Casual social interactions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Acquaintances and casual contacts using AI
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be casual contacts or acquaintances
+# - Must NOT include what AI does to them
+# - Must NOT include where they interact
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+kennissen
+acquaintances
+bekenden
+familiar faces
+collega kennissen
+colleague acquaintances
+buur kennissen
+neighbor acquaintances
+sport kennissen
+sports acquaintances
+school kennissen
+school acquaintances
+zakelijke kennissen
+business acquaintances
+sociale kennissen
+social acquaintances
+feest kennissen
+party acquaintances
+hobby kennissen
+hobby acquaintances
+vereniging kennissen
+association acquaintances
+kerk kennissen
+church acquaintances
+vrijwilligers kennissen
+volunteer acquaintances
+ouder kennissen
+parent acquaintances
+vage kennissen
+distant acquaintances
+nieuwe kennissen
+new acquaintances
+oude kennissen
+old acquaintances
+gemeenschappelijke kennissen
+mutual acquaintances
+online kennissen
+online acquaintances
+lokale kennissen
+local acquaintances

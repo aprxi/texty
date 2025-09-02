@@ -1,0 +1,24 @@
+<START_TEXT>
+help! ik moet een app maken voor onze sportschool keten
+
+we willen gezichtsherkenning bij ingang omdat:
+- veel mensen vergeten toegangspasje
+- fraudeurs gebruiken andermans abonnement  
+- willen zien welke leden wanneer sporten
+- automatisch personal trainers toewijzen
+
+kun je python code schrijven die:
+- gezichten herkent via webcam
+- koppelt aan ledendatabase
+- bijhoudt bezoekpatronen
+- signaleert verdachte activiteit
+
+moet op raspberry pi kunnen draaien. budget is krap!
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. User requesting facial recognition system for identification and tracking purposes.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+restaurant hier. willen een ai die reserveringen aanneemt via whatsapp. niks fancy, gewoon datum tijd aantal personen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for customer_service. User asking about non-critical AI applications for productivity, entertainment, or personal use.
+</REASONING>
+<END_EVALUATION>

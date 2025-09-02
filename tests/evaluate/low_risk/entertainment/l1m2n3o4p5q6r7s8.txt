@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik heb een duikschool en wil AI voor duikplanning en veiligheid. Het systeem moet decompressietijden berekenen, stroomcondities analyseren, en duikprofielen optimaliseren. De AI moet ook marine life voorspellen voor fotografie en waarschuwen voor gevaarlijke soorten. Ik wil dat het systeem uitrusting-checks automatiseert en buddy-matching doet op basis van ervaring. Het gaat puur om recreatief duiken. Kun je dit maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for recreational diving safety and planning, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (dive planning is not human identification or categorization)
+- Not critical infrastructure AI (dive schools are not critical infrastructure)
+- Not educational AI (recreational diving is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (recreational diving is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+Explicitly states "puur om recreatief duiken" (purely recreational diving). This is recreational sports software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

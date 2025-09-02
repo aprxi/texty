@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Texty WebRS - Text Classification</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦀</text></svg>">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .input-section {
+            margin-bottom: 20px;
+        }
+        textarea {
+            width: 100%;
+            height: 150px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+            font-family: inherit;
+        }
+        .buttons {
+            text-align: center;
+            margin: 20px 0;
+        }
+        button {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 0 10px;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+        button:disabled {
+            background: #6c757d;
+            cursor: not-allowed;
+        }
+        .results {
+            margin-top: 20px;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 4px;
+            border-left: 4px solid #007bff;
+        }
+        .high-risk {
+            border-left-color: #dc3545;
+            background: #f8d7da;
+        }
+        .neutral {
+            border-left-color: #28a745;
+            background: #d4edda;
+        }
+        .error {
+            border-left-color: #ffc107;
+            background: #fff3cd;
+        }
+        .loading {
+            text-align: center;
+            color: #6c757d;
+        }
+        .model-status {
+            margin: 10px 0;
+            padding: 10px;
+            background: #e9ecef;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        .examples {
+            margin-top: 30px;
+        }
+        .example {
+            margin: 10px 0;
+            padding: 10px;
+            background: #f8f9fa;
+            border-radius: 4px;
+            cursor: pointer;
+            border: 1px solid #dee2e6;
+        }
+        .example:hover {
+            background: #e9ecef;
+        }
+        .example h4 {
+            margin: 0 0 5px 0;
+            color: #495057;
+        }
+        .example p {
+            margin: 0;
+            font-size: 14px;
+            color: #6c757d;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🦀 Texty WebRS</h1>
+        <p>Real-time AI Text Classification in WebAssembly</p>
+    </div>
+
+    <div class="model-status" id="modelStatus">
+        📦 Loading WebAssembly module...
+    </div>
+
+    <div class="input-section">
+        <h3>📝 Enter text to classify:</h3>
+        <textarea id="textInput" placeholder="Enter your text here...
+
+For example: 'We use facial recognition to identify employees' or 'Our music app recommends songs based on your preferences'"></textarea>
+    </div>
+
+    <div class="buttons">
+        <button id="classifyBtn" onclick="classifyText()" disabled>🔍 Classify Text</button>
+        <button onclick="clearText()">🗑️ Clear</button>
+    </div>
+
+    <div id="results"></div>
+
+
+    <script type="module">
+        import init, { WasmTextClassifier } from './pkg/texty_webrs.js';
+
+        let classifier = null;
+        let isLoading = false;
+
+        async function initClassifier() {
+            try {
+                await init();
+                classifier = new WasmTextClassifier();
+                
+                // Load real ONNX model and vectorizer config from artifacts
+                console.log('Loading ONNX artifacts...');
+                
+                // Load the real vectorizer configuration
+                const vectorizerResponse = await fetch('./build/models/base_model_vectorizer.json');
+                if (!vectorizerResponse.ok) {
+                    throw new Error(`Failed to load vectorizer config: ${vectorizerResponse.status}`);
+                }
+                const vectorizerConfig = await vectorizerResponse.text();
+                
+                // Load the metadata containing real classifier parameters
+                const metadataResponse = await fetch('./build/models/base_model_metadata.json');
+                if (!metadataResponse.ok) {
+                    throw new Error(`Failed to load model metadata: ${metadataResponse.status}`);
+                }
+                const metadataConfig = await metadataResponse.text();
+                
+                // Load the ONNX model
+                const onnxResponse = await fetch('./build/models/base_model_classifier.onnx');
+                if (!onnxResponse.ok) {
+                    throw new Error(`Failed to load ONNX model: ${onnxResponse.status}`);
+                }
+                const onnxBytes = new Uint8Array(await onnxResponse.arrayBuffer());
+                
+                console.log(`Loaded ONNX model: ${onnxBytes.length} bytes`);
+                console.log(`Loaded vectorizer config: ${vectorizerConfig.length} chars`);
+                console.log(`Loaded metadata config: ${metadataConfig.length} chars`);
+                
+                await classifier.load_model_with_metadata(onnxBytes, vectorizerConfig, metadataConfig);
+                
+                document.getElementById('modelStatus').innerHTML = '✅ WebAssembly model loaded and ready!';
+                document.getElementById('classifyBtn').disabled = false;
+                
+            } catch (error) {
+                console.error('Failed to initialize classifier:', error);
+                document.getElementById('modelStatus').innerHTML = '❌ Failed to load model: ' + error.message;
+            }
+        }
+
+        window.classifyText = async function() {
+            if (isLoading || !classifier) return;
+            
+            const text = document.getElementById('textInput').value.trim();
+            if (!text) {
+                showResults('Please enter some text to classify.', 'error');
+                return;
+            }
+            
+            isLoading = true;
+            document.getElementById('classifyBtn').disabled = true;
+            document.getElementById('classifyBtn').textContent = '⏳ Classifying...';
+            
+            try {
+                showResults('🔄 Processing text...', 'loading');
+                
+                // Simulate a small delay for better UX
+                await new Promise(resolve => setTimeout(resolve, 300));
+                
+                const result = await classifier.classify(text);
+                
+                displayResults(result, text);
+                
+            } catch (error) {
+                console.error('Classification error:', error);
+                showResults('❌ Classification failed: ' + error.message, 'error');
+            } finally {
+                isLoading = false;
+                document.getElementById('classifyBtn').disabled = false;
+                document.getElementById('classifyBtn').textContent = '🔍 Classify Text';
+            }
+        }
+
+        window.clearText = function() {
+            document.getElementById('textInput').value = '';
+            document.getElementById('results').innerHTML = '';
+        }
+
+        window.loadExample = function(element) {
+            const text = element.getAttribute('data-text');
+            document.getElementById('textInput').value = text;
+        }
+
+        function showResults(message, type) {
+            const results = document.getElementById('results');
+            results.className = `results ${type}`;
+            results.innerHTML = message;
+        }
+
+        function displayResults(result, originalText) {
+            const classification = result.classification;
+            const confidence = (result.confidence * 100).toFixed(1);
+            const processingTime = result.processing_time_ms.toFixed(1);
+            
+            const isHighRisk = classification === 'high-risk';
+            const cssClass = isHighRisk ? 'high-risk' : 'neutral';
+            const icon = isHighRisk ? '🔴' : '🟢';
+            
+            // Generate sentence-by-sentence analysis
+            let sentenceAnalysis = '';
+            if (result.sentence_details && result.sentence_details.length > 0) {
+                sentenceAnalysis = `
+                    <div style="margin-top: 25px;">
+                        <h4>📝 Sentence-by-Sentence Analysis</h4>
+                        <div style="font-size: 13px; color: #666; margin-bottom: 15px;">
+                            Confidence threshold: ${(0.7 * 100).toFixed(0)}% - sentences above this threshold count as high-risk
+                        </div>
+                `;
+                
+                result.sentence_details.forEach((sentence, index) => {
+                    const highRiskPercent = (sentence.high_risk_prob * 100).toFixed(1);
+                    const lowRiskPercent = (sentence.low_risk_prob * 100).toFixed(1);
+                    const isHighRiskSentence = sentence.effective_prediction === 'high-risk';
+                    const isModerateSentence = sentence.high_risk_prob > 0.3;
+                    
+                    let statusIcon, statusText, statusColor;
+                    if (isHighRiskSentence) {
+                        statusIcon = '🔴';
+                        statusText = 'HIGH-RISK';
+                        statusColor = '#dc3545';
+                    } else if (isModerateSentence) {
+                        statusIcon = '🟡';
+                        statusText = 'MODERATE';
+                        statusColor = '#ffc107';
+                    } else {
+                        statusIcon = '🟢';
+                        statusText = 'LOW-RISK';
+                        statusColor = '#28a745';
+                    }
+                    
+                    // Generate feature analysis
+                    let featureAnalysis = '';
+                    if (sentence.top_features && sentence.top_features.length > 0) {
+                        featureAnalysis = '<div style="margin-top: 8px; font-size: 12px;">';
+                        featureAnalysis += '<strong>Key features:</strong> ';
+                        
+                        const topFeatures = sentence.top_features.slice(0, 5);
+                        const riskFeatures = topFeatures.filter(f => f.contribution > 0);
+                        const safeFeatures = topFeatures.filter(f => f.contribution <= 0);
+                        
+                        if (riskFeatures.length > 0) {
+                            featureAnalysis += '<span style="color: #dc3545;">Risk: ' + 
+                                riskFeatures.map(f => `"${f.word}" (+${f.contribution.toFixed(2)})`).join(', ') + '</span>';
+                        }
+                        
+                        if (safeFeatures.length > 0) {
+                            if (riskFeatures.length > 0) featureAnalysis += ' | ';
+                            featureAnalysis += '<span style="color: #28a745;">Safe: ' + 
+                                safeFeatures.map(f => `"${f.word}" (${f.contribution.toFixed(2)})`).join(', ') + '</span>';
+                        }
+                        
+                        featureAnalysis += '</div>';
+                    }
+                    
+                    let resultExplanation = '';
+                    if (isHighRiskSentence) {
+                        resultExplanation = '<span style="color: #dc3545; font-weight: bold;">✓ TRIGGERS high-risk classification</span>';
+                    } else if (isModerateSentence) {
+                        resultExplanation = `<span style="color: #ffc107;">Potentially risky but below 70% threshold</span>`;
+                    } else {
+                        resultExplanation = '<span style="color: #28a745;">No significant risk signals detected</span>';
+                    }
+                    
+                    sentenceAnalysis += `
+                        <div style="margin-bottom: 20px; padding: 12px; border: 1px solid #dee2e6; border-radius: 6px; background: #f8f9fa;">
+                            <div style="display: flex; align-items: center; margin-bottom: 8px;">
+                                <span style="margin-right: 8px; font-size: 16px;">${statusIcon}</span>
+                                <strong style="color: ${statusColor};">[${index + 1}] ${statusText}</strong>
+                                <span style="margin-left: 10px; font-size: 13px;">
+                                    High-risk: <strong>${highRiskPercent}%</strong> | Low-risk: ${lowRiskPercent}%
+                                </span>
+                            </div>
+                            <div style="margin: 8px 0; font-style: italic;">
+                                "${sentence.sentence}"
+                            </div>
+                            ${featureAnalysis}
+                            <div style="margin-top: 8px; font-size: 12px;">
+                                <strong>Result:</strong> ${resultExplanation}
+                            </div>
+                        </div>
+                    `;
+                });
+                
+                sentenceAnalysis += '</div>';
+            }
+            
+            const html = `
+                <h3>${icon} Classification Result</h3>
+                <div style="margin: 15px 0;">
+                    <strong>Result:</strong> ${classification.toUpperCase()}
+                </div>
+                <div style="margin: 15px 0;">
+                    <strong>Confidence:</strong> ${confidence}%
+                </div>
+                <div style="margin: 15px 0;">
+                    <strong>High-risk sentences:</strong> ${result.high_risk_sentences} of ${result.total_sentences}
+                </div>
+                <div style="margin: 15px 0;">
+                    <strong>Processing time:</strong> ${processingTime}ms
+                </div>
+                ${sentenceAnalysis}
+                <div style="margin-top: 20px; font-size: 12px; color: #6c757d;">
+                    <strong>Note:</strong> This uses real Naive Bayes inference with TF-IDF vectorization 
+                    loaded from the exported ONNX artifacts. The WebAssembly implementation processes 
+                    the actual trained model parameters.
+                </div>
+            `;
+            
+            showResults(html, cssClass);
+        }
+
+        // Initialize when page loads
+        initClassifier();
+    </script>
+</body>
+</html>

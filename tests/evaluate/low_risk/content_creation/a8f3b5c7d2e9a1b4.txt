@@ -1,0 +1,14 @@
+<START_TEXT>
+We hebben een grote collectie historische documenten die we willen digitaliseren en doorzoekbaar maken. De AI moet handgeschreven tekst kunnen herkennen (OCR) en automatisch metadata toevoegen zoals datum, onderwerp en betrokken personen. Het gaat om documenten uit de 17e tot 19e eeuw. Ook willen we dat het systeem verbanden legt tussen verschillende documenten. Wat zijn de mogelijkheden hiervoor?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor documentverwerking en archivering, wat niet valt onder de 8 hoog-risico categorieën uit RULES.md. Het betreft:
+- "handgeschreven tekst kunnen herkennen (OCR)" - optische tekenherkenning
+- "automatisch metadata toevoegen" - documentclassificatie
+- "verbanden legt tussen verschillende documenten" - kennisextractie
+Dit is een low-risk AI-toepassing voor cultureel erfgoed zonder impact op personen of essentiële diensten.
+</REASONING>
+<END_EVALUATION>

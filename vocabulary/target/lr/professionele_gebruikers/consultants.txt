@@ -1,0 +1,67 @@
+# Professional Consultants and Advisors - LOW RISK TARGET
+# Professionele consultants en adviseurs
+# 
+# PATH: target/lr/professionele_gebruikers/consultants.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Professional service providers)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Professional consultants using AI for business services
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be professional consultants or advisors
+# - Must NOT include what AI does to them
+# - Must NOT include where they work
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+consultants
+consultants
+adviseurs
+advisors
+business consultants
+business consultants
+IT consultants
+IT consultants
+management consultants
+management consultants
+strategie consultants
+strategy consultants
+financieel adviseurs
+financial advisors
+HR consultants
+HR consultants
+marketing consultants
+marketing consultants
+organisatie adviseurs
+organizational advisors
+proces consultants
+process consultants
+change consultants
+change consultants
+technische consultants
+technical consultants
+juridisch adviseurs
+legal advisors
+belasting adviseurs
+tax advisors
+interim managers
+interim managers
+project consultants
+project consultants
+digitale consultants
+digital consultants
+transformatie adviseurs
+transformation advisors
+sector specialisten
+sector specialists

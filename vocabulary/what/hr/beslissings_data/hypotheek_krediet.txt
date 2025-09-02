@@ -1,0 +1,256 @@
+# Mortgage and Credit Data - HIGH RISK WHAT
+# Hypotheek en krediet gegevens
+# 
+# PATH: what/hr/beslissings_data/hypotheek_krediet.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Credit and mortgage decision data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Mortgage, credit, and financial data used in lending decisions
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be mortgage/credit related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk lending decision classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Core financial data terms
+krediet
+credit
+hypotheek
+mortgage
+lening
+loan
+schuld
+debt
+inkomen
+income
+salaris
+salary
+
+# Common debt types
+hypotheek schuld
+mortgage debt
+creditcard schuld
+credit card debt
+persoonlijke lening
+personal loan
+studielening
+student loan
+auto lening
+car loan
+
+# Financial accounts
+bankrekening
+bank account
+spaarrekening
+savings account
+lopende rekening
+checking account
+beleggingsrekening
+investment account
+
+# Financial indicators
+kredietwaardigheid
+creditworthiness
+krediet score
+credit score
+betalingsgeschiedenis
+payment history
+schuld-inkomen ratio
+debt-to-income ratio
+
+# Assets and collateral
+onderpand
+collateral
+eigendom
+property
+activa
+assets
+vastgoed
+real estate
+spaargeld
+savings
+
+# Financial transactions
+betaling
+payment
+transactie
+transaction
+overschrijving
+transfer
+afschrijving
+direct debit
+storting
+deposit
+opname
+withdrawal
+terugbetaling
+repayment
+
+# Investment and securities data
+belegging gegevens
+investment data
+aandelen portefeuille
+stock portfolio
+obligatie data
+bond data
+fonds beleggingen
+mutual fund investments
+pensioenfonds gegevens
+pension fund data
+beleggings rekening
+investment account
+portefeuille waarde
+portfolio value
+kapitaalwinst
+capital gains
+
+# Insurance and risk data
+verzekering gegevens
+insurance data
+levensverzekering
+life insurance
+zorgverzekering
+health insurance
+schadeverzekering
+property insurance
+verzekeringspremies
+insurance premiums
+claim geschiedenis
+claims history
+risico profiel
+risk profile
+verzekering dekking
+insurance coverage
+
+# Business and commercial finance
+bedrijfsfinanciering
+business financing
+handelskredieten
+trade credits
+factoring gegevens
+factoring data
+leasing contracten
+leasing contracts
+bedrijfsleningen
+business loans
+werkkapitaal financiering
+working capital financing
+project financiering
+project financing
+export kredieten
+export credits
+
+# Banking and account data
+bank statements
+bank statements
+rekeningsaldi
+account balances
+transactie geschiedenis
+transaction history
+banking gegevens
+banking data
+renteberekeningen
+interest calculations
+bankkosten
+banking fees
+overdraft gegevens
+overdraft data
+kredietnota's
+credit notes
+
+# Credit assessment data
+kredietbeoordeling data
+credit assessment data
+financiele analyse
+financial analysis
+kredietrisico evaluatie
+credit risk evaluation
+scoring modellen
+scoring models
+kredietaanvraag gegevens
+credit application data
+financiele stabiliteit
+financial stability
+terugbetaal capaciteit
+repayment capacity
+krediet limiet data
+credit limit data
+
+# Regulatory and compliance data
+financiele regelgeving
+financial regulation
+compliance gegevens
+compliance data
+anti-witwas data
+anti-money laundering data
+KYC gegevens
+KYC data
+financiele rapportage
+financial reporting
+belasting gegevens
+tax data
+audit informatie
+audit information
+regelgeving compliance
+regulatory compliance
+
+# Alternative finance data
+cryptocurrency data
+cryptocurrency data
+digitale betalingen
+digital payments
+fintech gegevens
+fintech data
+peer-to-peer lending
+peer-to-peer lending
+crowdfunding data
+crowdfunding data
+mobile banking gegevens
+mobile banking data
+digitale portemonnee
+digital wallet
+blockchain transacties
+blockchain transactions
+
+# Huisuitzetting beslissingen
+gedwongen verkoop data
+forced sale data
+executieveiling informatie
+foreclosure auction information
+deurwaarder acties
+bailiff actions
+woningontruiming beslissingen
+eviction decisions
+dakloosheid risico scores
+homelessness risk scores
+
+# Predatory lending detectie
+woekerrente indicatoren
+usury rate indicators
+misleidende voorwaarden
+deceptive terms
+kwetsbare lener targeting
+vulnerable borrower targeting
+oneerlijke praktijken signalen
+unfair practice signals
+
+# Generationele impact
+erfenis blokkering
+inheritance blocking
+gezins vermogen erosie
+family wealth erosion
+armoedeцикл versterking
+poverty cycle reinforcement
+sociale mobiliteit beperking
+social mobility limitation

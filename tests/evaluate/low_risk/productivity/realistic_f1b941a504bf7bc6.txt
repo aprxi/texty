@@ -1,0 +1,10 @@
+<START_TEXT>
+ik heb een consultancy bureau met 50 mensen en vraag me af hoe ai kan helpen met productiviteit. we hebben te veel meetings onduidelijke prioriteiten en informatie overal verspreid. is het mogelijk om taken intelligent te prioriteren? hoe bepaalt ai wat belangrijker is? kunnen we deadlines en dependencies automatisch laten beheren? ik weet niet of ai echt kan voorspellen hoelang taken duren. kan het taken groeperen die goed samen gaan? wanneer is deep work het beste voor verschillende mensen? meetings zijn echt een probleem, kan ai bepalen of een meeting nodig is? wie moet er echt bij zijn? is automatische transcriptie betrouwbaar genoeg? ik wil niet alleen wat gezegd is maar wat besloten is. kunnen we meeting patronen analyseren om te zien welke nuttig zijn? onze kennis zit in google drive slack email en meer, kan ai dat doorzoeken? hoe detecteren we wanneer mensen aan hetzelfde werken? voor automatisering vraag ik me af wat echt mogelijk is. expense reports timesheets kunnen die echt automatisch? kan ai emails beantwoorden zonder dat het raar wordt? werkpatronen verschillen per persoon, kan ai dat leren? hoe detecteer je burnout signalen zonder privacy te schenden? ik wil mensen helpen niet controleren. voor teams, kan ai echt ideale samenstellingen voorstellen? hoe integreren we met microsoft slack asana zonder chaos? privacy en vertrouwen zijn cruciaal, hoe garanderen we dat?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI applications for productivity. The system is designed for entertainment, productivity, or creative purposes without impacting fundamental rights, critical infrastructure, or essential services.
+</REASONING>
+<END_EVALUATION>

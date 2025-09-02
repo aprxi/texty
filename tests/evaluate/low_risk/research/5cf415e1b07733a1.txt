@@ -1,0 +1,19 @@
+<START_TEXT>
+ik ben onderzoeker bij een universiteit en vraag me af of AI kan helpen met het analyseren van grote hoeveelheden wetenschappelijke literatuur. ik moet duizenden papers doorzoeken voor mijn literatuuronderzoek over klimaatverandering, maar hoe pak ik dat aan? is het mogelijk dat ai verbanden kan leggen tussen verschillende studies? en kan het tegenstrijdige bevindingen identificeren en onderzoekslacunes aanwijzen? ik weet niet of het technisch haalbaar is, maar kunnen citaties automatisch geëxtraheerd en georganiseerd worden volgens verschillende citatiestijlen? hoeveel tijd zou dit besparen? hebben jullie ervaring met het bouwen van AI voor academisch literatuuronderzoek? wat zijn de beperkingen van zo'n systeem?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for academic literature research, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (no identification, emotion recognition, or categorization based on protected characteristics)
+- Not critical infrastructure AI (literature research is not critical infrastructure)
+- Not educational AI in the high-risk sense (this is research assistance, not assessment/admission/fraud detection in formal education)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (no access to healthcare, insurance, or essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is an academic research tool for literature analysis, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

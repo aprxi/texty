@@ -1,0 +1,168 @@
+# Project Management Data - LOW RISK WHAT
+# Project management gegevens
+# 
+# PATH: what/lr/commerciële_data/project_management.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General project management data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Project management data for business operations
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be project management related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Project planning
+project plannen
+project plans
+werk breakdown structuur
+work breakdown structure
+tijdlijn gegevens
+timeline data
+mijlpaal data
+milestone data
+afhankelijkheden
+dependencies
+kritieke pad
+critical path
+resource planning
+resource planning
+budget toewijzing
+budget allocation
+
+# Task management
+taak lijsten
+task lists
+activiteit overzichten
+activity overviews
+actie items
+action items
+deliverable tracking
+deliverable tracking
+taak prioriteiten
+task priorities
+werkpakket data
+work package data
+sprint backlogs
+sprint backlogs
+user stories
+user stories
+
+# Progress tracking
+voortgang rapporten
+progress reports
+status updates
+status updates
+percentage voltooid
+percentage complete
+tijd registratie
+time tracking
+werkuren logs
+work hour logs
+effort estimates
+effort estimates
+burn down charts
+burn down charts
+velocity metrics
+velocity metrics
+
+# Risk management
+risico registers
+risk registers
+project risico assessments
+project risk assessments
+mitigatie plannen
+mitigation plans
+contingentie plannen
+contingency plans
+issue logs
+issue logs
+probleem tracking
+problem tracking
+escalatie procedures
+escalation procedures
+impact analyses
+impact analyses
+
+# Team coordination
+team samenstelling
+team composition
+rol toewijzingen
+role assignments
+verantwoordelijkheden
+responsibilities
+communicatie plannen
+communication plans
+vergader agenda's
+meeting agendas
+besluit logs
+decision logs
+actie punten
+action points
+team kalenders
+team calendars
+
+# Quality management
+kwaliteits plannen
+quality plans
+review criteria
+review criteria
+acceptatie criteria
+acceptance criteria
+test plannen
+test plans
+kwaliteits metrieken
+quality metrics
+defect tracking
+defect tracking
+change requests
+change requests
+configuratie data
+configuration data
+
+# Stakeholder management
+stakeholder lijsten
+stakeholder lists
+belanghebbenden analyse
+stakeholder analysis
+communicatie matrix
+communication matrix
+verwachtingen management
+expectations management
+feedback verzameling
+feedback collection
+approval workflows
+approval workflows
+sign-off documenten
+sign-off documents
+stakeholder tevredenheid
+stakeholder satisfaction
+
+# Portfolio management
+project portfolio
+project portfolio
+strategische alignment
+strategic alignment
+resource balancing
+resource balancing
+prioriteits matrix
+priority matrix
+portfolio dashboards
+portfolio dashboards
+investerings tracking
+investment tracking
+waarde realisatie
+value realization
+portfolio optimalisatie
+portfolio optimization

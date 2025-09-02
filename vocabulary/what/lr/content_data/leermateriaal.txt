@@ -1,0 +1,258 @@
+# Educational Learning Materials Data Types - LOW RISK WHAT
+# Leermateriaal gegevens
+# 
+# PATH: what/lr/content_data/leermateriaal.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Educational learning material data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Educational learning material data for training and education applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be educational learning material related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk educational classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# General educational content
+leer materialen
+learning materials
+educatieve content
+educational content
+studie gidsen
+study guides
+instructie materialen
+instruction materials
+training content
+training content
+kennisbank artikelen
+knowledge base articles
+educatieve video's
+educational videos
+leer modules
+learning modules
+
+# Online course data
+online cursus gegevens
+online course data
+e-learning content
+e-learning content
+video lessen
+video lessons
+interactieve lessen
+interactive lessons
+cursus materialen
+course materials
+leer trajecten
+learning paths
+module gegevens
+module data
+progressie tracking
+progress tracking
+
+# Reference and documentation
+naslagwerk gegevens
+reference work data
+encyclopedie informatie
+encyclopedia information
+woordenboek gegevens
+dictionary data
+handboek informatie
+handbook information
+gids gegevens
+guide data
+documentatie materialen
+documentation materials
+referentie lijsten
+reference lists
+informatie databases
+information databases
+
+# Language learning data
+taal leer gegevens
+language learning data
+woordenschat lijsten
+vocabulary lists
+grammatica regels
+grammar rules
+uitspraak gidsen
+pronunciation guides
+conversatie oefeningen
+conversation exercises
+taal oefeningen
+language exercises
+vertaal oefeningen
+translation exercises
+taal niveau tests
+language level tests
+
+# Skill development content
+vaardigheids training
+skill training
+praktijk oefeningen
+practice exercises
+techniek instructies
+technique instructions
+stap-voor-stap gidsen
+step-by-step guides
+tutorial gegevens
+tutorial data
+workshop materialen
+workshop materials
+training programma's
+training programs
+competentie ontwikkeling
+competency development
+
+# Academic subjects data
+wetenschap gegevens
+science data
+wiskunde materialen
+mathematics materials
+geschiedenis informatie
+history information
+literatuur gegevens
+literature data
+kunst geschiedenis
+art history
+natuurkunde concepten
+physics concepts
+chemie informatie
+chemistry information
+biologie gegevens
+biology data
+
+# Creative learning content
+creatieve lessen
+creative lessons
+kunst instructies
+art instructions
+muziek theorie
+music theory
+design principes
+design principles
+fotografie technieken
+photography techniques
+schrijf technieken
+writing techniques
+performance training
+performance training
+creatieve oefeningen
+creative exercises
+
+# Professional development data
+professionele training
+professional training
+zakelijke vaardigheden
+business skills
+leiderschap materialen
+leadership materials
+communicatie training
+communication training
+presentatie technieken
+presentation techniques
+project management cursussen
+project management courses
+career ontwikkeling
+career development
+netwerk vaardigheden
+networking skills
+
+# Hobby and interest learning
+hobby instructies
+hobby instructions
+ambacht lessen
+craft lessons
+kook lessen
+cooking lessons
+sport technieken
+sports techniques
+fitness training
+fitness training
+reis gidsen
+travel guides
+lifestyle cursussen
+lifestyle courses
+persoonlijke interesse
+personal interests
+
+# Technology and digital literacy
+technologie training
+technology training
+digitale vaardigheden
+digital skills
+computer cursussen
+computer courses
+software tutorials
+software tutorials
+app instructies
+app instructions
+internet veiligheid
+internet safety
+digitale geletterdheid
+digital literacy
+tech ondersteuning
+tech support
+
+# Assessment and testing data
+test materialen
+test materials
+quiz gegevens
+quiz data
+evaluatie instrumenten
+assessment tools
+oefenexamens
+practice exams
+zelf-evaluatie tools
+self-assessment tools
+voortgangs tests
+progress tests
+competentie metingen
+competency measurements
+leer resultaten
+learning outcomes
+
+# Multimedia learning content
+interactieve media
+interactive media
+audio lessen
+audio lessons
+podcast educatie
+podcast education
+visuele leer hulpmiddelen
+visual learning aids
+animatie instructies
+animation instructions
+simulation data
+simulation data
+virtual reality lessen
+virtual reality lessons
+augmented reality educatie
+augmented reality education
+
+# Personalized learning data
+gepersonaliseerde lessen
+personalized lessons
+adaptieve leer content
+adaptive learning content
+individuele leer paden
+individual learning paths
+aangepaste curricula
+customized curricula
+leer stijl aanpassingen
+learning style adaptations
+persoonlijke voortgang
+personal progress
+individuele doelen
+individual goals
+op maat gemaakte training
+tailored training

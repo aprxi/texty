@@ -1,0 +1,19 @@
+<START_TEXT>
+kunnen jullie helpen met een AI-tool voor ons marketing team? we krijgen zoveel klant feedback en reviews op Google, Facebook, TrustPilot en onze eigen site dat we het overzicht kwijtraken. is het mogelijk om sentiment analysis te doen zodat we snappen hoe klanten over ons denken? en kunnen we trends identificeren in klachten en complimenten? ik vraag me af of ai automatisch kan categoriseren waar klanten het over hebben - product kwaliteit, service, prijs, levering? misschien kunnen we ook alerts krijgen als sentiment plotseling verandert of veel negatieve reviews binnenkomen? hoe moeilijk is het om de ai suggesties te laten doen voor het beantwoorden van reviews in onze merkstijl? kunnen we ook vergelijken met concurrenten? ik weet niet of dit allemaal kan maar het zou geweldig zijn als we onze meest tevreden klanten kunnen identificeren voor referrals. wat is technisch gezien haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for customer feedback analysis and marketing, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (sentiment analysis of reviews is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (marketing analysis is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions, just marketing analysis)
+- Not essential services AI (marketing services are not essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a business analytics tool for marketing research using public review data, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

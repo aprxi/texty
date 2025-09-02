@@ -1,0 +1,10 @@
+<START_TEXT>
+Sociologie onderzoek naar online communities. AI moet discourse analyseren, sociale netwerken mappen, en culturele shifts detecteren. Privacy is cruciaal, alleen publieke data.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for research. Request for AI assistance without critical impact on rights or safety.
+</REASONING>
+<END_EVALUATION>

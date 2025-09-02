@@ -1,0 +1,14 @@
+<START_TEXT>
+gezichtsherkenning api nodig voor toegangscontrole kantoorgebouw. moet 10000 werknemers kunnen identificeren. realtime verificatie vereist. integratie met bestaande badge systeem. ook emotiedetectie voor security doeleinden
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft biometrische AI-systemen, wat valt onder Categorie 1 volgens RULES.md:
+- "gezichtsherkenning api" voor "toegangscontrole" - identificatie van personen met biometrische gegevens
+- "10000 werknemers kunnen identificeren" - grootschalige biometrische identificatie
+- "emotiedetectie voor security" - herkenning van emoties via gezichtsuitdrukkingen
+Dit is een duidelijk hoog-risico AI-systeem.
+</REASONING>
+<END_EVALUATION>

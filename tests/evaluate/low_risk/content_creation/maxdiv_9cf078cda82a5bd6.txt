@@ -1,0 +1,10 @@
+<START_TEXT>
+Sinterklaas comité - lastige tijd, tradities onder vuur. AI genereert pieten-vrije verhalen, moderne liedjes, inclusive cadeautips. Traditie behouden of meegaan met tijd? Algoritme beslist over cultuur.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content_creation. Non-critical application without fundamental rights impact.
+</REASONING>
+<END_EVALUATION>

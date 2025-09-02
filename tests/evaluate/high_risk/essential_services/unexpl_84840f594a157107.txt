@@ -1,0 +1,10 @@
+<START_TEXT>
+Sex change spijt - detransitie taboe. AI: medische reversal opties, community vinden, trauma verwerking. Waarheid of trans-fobie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unexplored scenario with potential rights impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,14 @@
+<START_TEXT>
+Kunnen jullie een AI-systeem bouwen dat vingerafdrukken en gezichtsscans gebruikt voor toegangscontrole bij onze kerncentrale? Het moet ook abnormaal gedrag van medewerkers detecteren als extra veiligheidsmaatregel.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst combineert twee hoog-risico categorieën volgens RULES.md:
+- Categorie 1: "Biometrische AI-Systemen" - "vingerafdrukken en gezichtsscans" voor identificatie
+- Categorie 2: "Kritieke Infrastructuur AI" - "kerncentrale" is kritieke infrastructuur
+- "abnormaal gedrag van medewerkers detecteren" - gedragsanalyse in kritieke infrastructuur
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

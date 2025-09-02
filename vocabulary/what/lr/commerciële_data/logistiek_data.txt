@@ -1,0 +1,150 @@
+# Logistics Data Types - LOW RISK WHAT
+# Logistiek gegevens
+# 
+# PATH: what/lr/commerciële_data/logistiek_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General logistics data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Logistics data for business operations
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be logistics related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Transport en verzending
+transport planning
+transportation planning
+route optimalisatie
+route optimization
+bezorg schema's
+delivery schedules
+vrachtkosten
+freight costs
+pakket tracking
+package tracking
+verzend labels
+shipping labels
+levering adressen
+delivery addresses
+transport modal data
+transport modal data
+
+# Magazijn operaties
+voorraad beheer
+inventory management
+magazijn locaties
+warehouse locations
+opslag capaciteit
+storage capacity
+pick-en-pack data
+pick-and-pack data
+magazijn layout
+warehouse layout
+equipment gebruik
+equipment usage
+loading dock data
+loading dock data
+cycle count data
+cycle count data
+
+# Leverancier coordinatie
+leverancier prestaties
+supplier performance
+inkoop orders
+purchase orders
+levering tijden
+delivery times
+kwaliteits controles
+quality controls
+leverancier evaluaties
+supplier evaluations
+contract voorwaarden
+contract terms
+prijs onderhandelingen
+price negotiations
+service level agreements
+service level agreements
+
+# Planning en forecasting
+vraag voorspelling
+demand forecasting
+seizoen trends
+seasonal trends
+verkoop projecties
+sales projections
+capaciteits planning
+capacity planning
+resource allocatie
+resource allocation
+buffer stock data
+buffer stock data
+lead time variaties
+lead time variations
+markt volatiliteit
+market volatility
+
+# Kwaliteit en compliance
+product specificaties
+product specifications
+kwaliteits standaarden
+quality standards
+certificering data
+certification data
+batch tracking
+batch tracking
+shelf life data
+shelf life data
+recall informatie
+recall information
+transport regulatory compliance
+transport compliance data
+inspection records
+inspection records
+
+# Kosten optimalisatie
+transport kosten
+transportation costs
+handling kosten
+handling costs
+opslag kosten
+storage costs
+verpakking materialen
+packaging materials
+efficiency metrieken
+efficiency metrics
+ROI berekeningen
+ROI calculations
+kostenbesparingen
+cost savings
+proces verbeteringen
+process improvements
+
+# Klanten service logistiek
+bezorg vensters
+delivery windows
+klant voorkeuren
+customer preferences
+speciale instructies
+special instructions
+bezorg feedback
+delivery feedback
+levering service kwaliteit
+delivery service quality
+tijdige levering
+timely delivery
+damage claims
+damage claims
+customer satisfaction
+customer satisfaction

@@ -1,0 +1,130 @@
+# Translation Data Types - LOW RISK WHAT
+# Vertaling gegevens
+# 
+# PATH: what/lr/content_data/vertalingen.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General translation data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Translation data for language processing applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be translation related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk language processing classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis vertaal data
+brontaal
+source language
+doeltaal
+target language
+taalpaar
+language pair
+taal richting
+language direction
+vertaal input
+translation input
+vertaal output
+translation output
+vertaal data
+translation data
+vertaal tekst
+translation text
+
+# Taal detectie data
+taal detectie data
+language detection data
+taal identificatie
+language identification
+taal herkenning data
+language recognition data
+automatische taal detectie
+automatic language detection
+
+# Vertaal kwaliteit data
+vertaal nauwkeurigheid
+translation accuracy
+vertaal kwaliteit
+translation quality
+vloeiendheid
+fluency
+adequaatheid
+adequacy
+trouw
+faithfulness
+betrouwbaarheid
+fidelity
+natuurlijkheid
+naturalness
+leesbaarheid
+readability
+begrijpelijkheid
+comprehensibility
+samenhang
+coherence
+consistentie
+consistency
+terminologie consistentie
+terminology consistency
+stijl consistentie
+style consistency
+register consistentie
+register consistency
+
+# Evaluatie data
+kwaliteit beoordeling
+quality assessment
+menselijke evaluatie
+human evaluation
+automatische evaluatie
+automatic evaluation
+BLEU score
+BLEU score
+METEOR score
+METEOR score
+TER score
+TER score
+menselijke adequaatheid
+human adequacy
+menselijke vloeiendheid
+human fluency
+post-editing data
+post-editing data
+vertaal revisie
+translation revision
+proeflees data
+proofreading data
+kwaliteitscontrole data
+quality control data
+foutenanalyse
+error analysis
+
+# Document data
+document vertaling data
+document translation data
+bestand vertaling
+file translation
+batch vertaling data
+batch translation data
+manuscript vertaling
+manuscript translation
+technisch document data
+technical document data
+zakelijk document data
+business document data
+academisch artikel data
+academic paper data
+handleiding data
+manual data
+rapport vertaling data
+report translation data

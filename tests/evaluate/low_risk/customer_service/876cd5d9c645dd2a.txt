@@ -1,0 +1,19 @@
+<START_TEXT>
+kunnen jullie helpen met het automatiseren van onze boekhouding? we verdrinken in facturen en bonnetjes. is het mogelijk om OCR te gebruiken om gegevens uit papieren bonnetjes te halen? en kan ai die automatisch in de juiste categorieën indelen? ik vraag me af of het ook verdachte transacties kan herkennen of ongewone uitgavenpatronen die op fouten wijzen. kunnen facturen automatisch gecontroleerd worden tegen contracten en purchase orders? hoe moeilijk is integratie met banking systemen? misschien kunnen transacties automatisch gematched worden met facturen? ik weet niet of ai belasting codes kan toewijzen maar dat zou veel tijd schelen bij BTW aangiftes. is cash flow voorspelling betrouwbaar genoeg om op te vertrouwen? en kunnen we automatische herinneringen sturen voor openstaande facturen? hoeveel fouten kunnen we hiermee voorkomen? wat zijn de risico's van te veel automatisering in de boekhouding?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for accounting automation and financial administration, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (document processing is not human identification or categorization)
+- Not critical infrastructure AI (accounting software is not critical infrastructure)
+- Not educational AI (financial administration is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (business accounting is not essential services)
+- Not law enforcement AI (fraud detection in business accounting is not law enforcement profiling)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial business process automation software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,186 @@
+# Messaging and Communication Data Types - LOW RISK WHAT
+# Berichten en communicatie gegevens
+# 
+# PATH: what/lr/persoonlijke_data/berichten_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Personal messaging and communication data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Personal messaging and communication data for personal applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be messaging and communication related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk personal classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Text messaging data
+tekst berichten
+text messages
+SMS gegevens
+SMS data
+instant berichten
+instant messages
+persoonlijke chat logs
+personal chat logs
+conversatie geschiedenis
+conversation history
+bericht threads
+message threads
+groeps chat data
+group chat data
+bericht metadata
+message metadata
+
+# Voice and video communication
+spraakbericht data
+voice message data
+voicemail gegevens
+voicemail data
+video call data
+video call data
+audio call informatie
+audio call information
+persoonlijke gespreks opnames
+personal conversation recordings
+call history data
+call history data
+video conferentie data
+video conference data
+scherm delen gegevens
+screen sharing data
+
+# Communication platforms
+messaging app data
+messaging app data
+communicatie platform gegevens
+communication platform data
+chat applicatie informatie
+chat application information
+social messaging data
+social messaging data
+zakelijke communicatie data
+business communication data
+team chat gegevens
+team chat data
+collaboratie platform data
+collaboration platform data
+werkruimte berichten
+workspace messages
+
+# Contact and address book
+persoonlijke contact lijsten
+personal contact lists
+adres boek informatie
+address book information
+telefoon directory
+phone directory
+communicatie contacten
+communication contacts
+favoriete contacten
+favorite contacts
+contact groepen
+contact groups
+emergency contacten
+emergency contacts
+zakelijke contacten
+business contacts
+
+# Message content types
+tekst content
+text content
+media berichten
+media messages
+afbeelding berichten
+image messages
+video berichten
+video messages
+audio clips
+audio clips
+document delen
+document sharing
+link sharing data
+link sharing data
+bestand overdracht
+file transfer
+
+# Communication metadata
+bericht tijdstempel gegevens
+message timestamp data
+bericht locatie tags
+message location tags
+apparaat informatie
+device information
+netwerk gegevens
+network data
+leverings status
+delivery status
+lees bevestigingen
+read confirmations
+online status
+online status
+laatste activiteit
+last activity
+
+# Group communication
+groeps berichten
+group messages
+team communicatie
+team communication
+familie chat data
+family chat data
+vrienden groep data
+friends group data
+studie groep berichten
+study group messages
+hobby groep communicatie
+hobby group communication
+interesse groep data
+interest group data
+community berichten
+community messages
+
+# Communication preferences
+bericht voorkeuren
+message preferences
+notificatie instellingen
+notification settings
+privacy instellingen
+privacy settings
+communicatie regels
+communication rules
+auto-reply gegevens
+auto-reply data
+bericht filters
+message filters
+spam detectie data
+spam detection data
+blokker lijsten
+block lists
+
+# Communication analytics
+bericht statistieken
+message statistics
+persoonlijke chat patronen
+personal chat patterns
+respons tijden
+response times
+bericht frequentie
+message frequency
+chat activiteit gegevens
+chat activity data
+gebruik metrieken
+usage metrics
+interactie analyses
+interaction analyses
+communicatie trends
+communication trends

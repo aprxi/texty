@@ -1,0 +1,167 @@
+# Creative Professionals - LOW RISK TARGET
+# Creatieve professionals
+# 
+# PATH: target/lr/professionele_gebruikers/creatieve_professionals.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Creative professional services)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Creative professionals using AI for artistic work
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be creative professionals
+# - Must NOT include what AI does to them
+# - Must NOT include where they work
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+kunstenaars
+artists
+creatieven
+creatives
+ontwerpers
+designers
+makers
+creatives
+
+# Visuele kunstenaars
+grafisch ontwerpers
+graphic designers
+illustratoren
+illustrators
+fotografen
+photographers
+schilders
+painters
+beeldhouwers
+sculptors
+digitale kunstenaars
+digital artists
+
+# Media professionals
+video makers
+video creators
+content makers
+content creators
+youtubers
+YouTubers
+podcasters
+streamers
+influencers
+
+# Mode en design
+mode ontwerpers
+fashion designers
+interieur ontwerpers
+interior designers
+product ontwerpers
+product designers
+webdesigners
+web designers
+UX ontwerpers
+UX designers
+UI ontwerpers
+UI designers
+
+# Muziek professionals
+muzikanten
+musicians
+componisten
+composers
+producers
+geluidstechnici
+sound engineers
+dj's
+DJs
+singer-songwriters
+
+# Schrijvers en auteurs
+schrijvers
+writers
+auteurs
+authors
+journalisten
+journalists
+bloggers
+copywriters
+content schrijvers
+content writers
+
+# Podium kunstenaars
+acteurs
+actors
+dansers
+dancers
+theatermakers
+theater creators
+cabaretiers
+comedians
+performers
+entertainment artiesten
+entertainment artists
+
+# Film en video
+filmmakers
+film regisseurs
+film directors
+camera operators
+video editors
+animators
+documentaire makers
+documentary filmmakers
+
+# Ambachtslieden
+handwerkers
+craftspeople
+juweliers
+jewelers
+keramisten
+ceramicists
+houtbewerkers
+woodworkers
+metaalbewerkers
+metalworkers
+textiel kunstenaars
+textile artists
+
+# Digital creatives
+game designers
+app ontwerpers
+app designers
+motion graphics ontwerpers
+motion graphics designers
+3D modelleurs
+3D modelers
+VR ontwikkelaars
+VR developers
+AR ontwerpers
+AR designers
+
+# Event creatives
+evenement ontwerpers
+event designers
+wedding planners
+party planners
+decorateurs
+decorators
+stage designers
+expo ontwerpers
+exhibition designers
+
+# Educatieve creatieven
+workshop leiders
+workshop leaders
+art instructors
+creatieve trainers
+creative trainers
+

@@ -1,0 +1,28 @@
+<START_TEXT>
+Goedemiddag,
+
+Ik ben game developer en wil een slimmere AI voor de vijanden in mijn nieuwe RPG. De AI moet:
+- Tactisch reageren op speler-acties
+- Samenwerken met andere NPC's in gevechten
+- Leren van spelersgedrag om uitdagender te worden
+- Verschillende moeilijkheidsgraden ondersteunen
+- Realistische dialogen genereren tijdens quests
+
+Het gaat om een fantasy setting met zwaardgevechten en magie. De AI moet leuk maar eerlijk zijn, zodat spelers een goede ervaring hebben.
+
+Hebben jullie ervaring met game AI? En wat zou zoiets ongeveer kosten?
+
+Groeten,
+Indie Game Studio
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor gaming en entertainment volgens RULES.md:
+- "AI voor de vijanden in mijn nieuwe RPG" - gaming toepassing
+- "Tactisch reageren", "dialogen genereren" - entertainment functionaliteit
+- Geen educatieve assessment of een van de 8 hoog-risico categorieën
+Dit is een LAAG-RISICO AI-toepassing voor entertainment volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

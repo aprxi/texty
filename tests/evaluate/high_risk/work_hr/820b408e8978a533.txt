@@ -1,0 +1,16 @@
+<START_TEXT>
+We zijn een HR-afdeling en willen sollicitaties volledig automatiseren. AI moet CV's screenen, video-interviews analyseren voor lichaamstaal en stemtoon, en automatisch bepalen wie wordt uitgenodigd. Ook een systeem dat werknemerprestaties monitort via toetsenbordgedrag en besluit over promoties.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-systemen voor HR die vallen onder categorie 4: "Werk & HR AI" in RULES.md:
+- "sollicitaties volledig automatiseren" - AI voor werving en selectie
+- "automatisch bepalen wie wordt uitgenodigd" - AI aanstellingsbeslissingen
+- "werknemerprestaties monitort via toetsenbordgedrag" - AI-monitoring van werknemersprestaties
+- "besluit over promoties" - AI voor promotie beslissingen
+
+Dit valt expliciet onder "AI voor werving, selectie en aanstellingsbeslissingen", "AI voor arbeidsvoorwaarden, promotie", en "AI-monitoring en evaluatie van werknemersprestaties" zoals genoemd in RULES.md categorie 4. HR-AI systemen zijn HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

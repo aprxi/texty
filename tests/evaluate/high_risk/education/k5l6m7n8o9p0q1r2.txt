@@ -1,0 +1,15 @@
+<START_TEXT>
+Ik ontwikkel AI voor gemeentelijke sociale diensten om bijstandsaanvragen te beoordelen. Het systeem moet vermogen detecteren via publieke bronnen, samenwoonfraude identificeren, en arbeidsgeschiktheid inschatten. De AI moet ook re-integratietrajecten adviseren en sancties voorstellen bij regelovertreding. Ik wil dat het systeem risicoprofielen maakt voor intensievere controles en gezinssituaties kan monitoren. Het moet ook schuldhulptrajecten prioriteren. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes AI for social welfare benefit assessment, which falls under Category 5: "Essentiële diensten AI" in RULES.md. Specifically:
+- "bijstandsaanvragen te beoordelen" - assessing welfare applications
+- "sancties voorstellen bij regelovertreding" - proposing sanctions for rule violations
+- "risicoprofielen maakt voor intensievere controles" - creating risk profiles for increased monitoring
+- Decisions about access to social benefits
+Social welfare services are explicitly listed as essential public services, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

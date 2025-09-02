@@ -1,0 +1,10 @@
+<START_TEXT>
+pabo student - stage in achterstandswijk. ai helpt: gedragsproblemen herkennen, trauma signalen, armoede indicators. vroege interventie maar ook: kinderen labelen, vooroordelen versterken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

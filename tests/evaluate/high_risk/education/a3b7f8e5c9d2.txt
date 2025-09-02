@@ -1,0 +1,15 @@
+<START_TEXT>
+ik werk bij een verzekeraar en vraag me af hoe ai kan helpen met arbeidsongeschiktheid claims. het duurt nu weken om te beoordelen, kan ai dit versnellen? is automatische analyse van medische rapporten betrouwbaar genoeg? ik weet niet of we sociale media mogen checken voor claims. is dat niet privacy schending? kunnen we werkhistorie analyseren zonder discriminatie? video-interviews waarbij ai pijn beoordeelt klinkt eng. hoe accuraat is lichaamsbeweging analyse? mag ai een uitkeringspercentage bepalen? dat beinvloedt iemands hele leven. we hebben 500000 historische claims maar is dat data wel representatief? hoe voorkomen we bias tegen bepaalde groepen? fraude tegengaan is belangrijk maar niet ten koste van echte zieke mensen. wat als ai fouten maakt en mensen onterecht weigert? hoe transparant moeten we zijn over ai gebruik? kunnen mensen in beroep tegen ai beslissingen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-systemen die vallen onder Categorie 5: "Essentiële Diensten AI" volgens RULES.md:
+- "claimproces voor arbeidsongeschiktheid" - betreft uitkeringen/sociale zekerheid
+- "Medische rapporten automatisch analyseert en de ernst inschat" - AI-beoordeling voor uitkeringsrechten
+- "uitkeringspercentage voorstelt" - directe AI-beslissing over hoogte van uitkering
+- "Video-interviews... waarbij AI lichaamsbeweging en pijnuitingen beoordeelt" - AI-beoordeling voor toegang tot uitkeringen
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

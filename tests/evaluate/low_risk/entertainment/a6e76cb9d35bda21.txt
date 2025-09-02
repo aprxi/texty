@@ -1,0 +1,19 @@
+<START_TEXT>
+ik heb een grote moestuin en siertuim en vraag me af of ai kan helpen met tuinieren? is het mogelijk om te adviseren wanneer ik moet zaaien? hoe weet ai wat het beste seizoen is voor verschillende groenten? ik heb sensoren voor bodemmetingen maar weet niet of die data betrouwbaar genoeg is voor ai. kan het systeem echt plagen herkennen op foto's? ik maak me zorgen dat het ziektes mist. automatisch water geven klinkt handig maar wat als het systeem faalt? verdrinken mijn planten dan? companion planting is complex, kan ai die oude wijsheid echt begrijpen? kleurencombinaties optimaliseren voor de siertuin lijkt me subjectief. wie bepaalt wat mooi is? kan ai echt bloeiperiodes voorspellen met wisselend weer? oogstplanning klinkt nuttig maar elke tuin is anders. recepten suggereren is leuk maar past dat bij mijn smaak? ik ben ervaren tuinier maar twijfel of ai mijn intuïtie kan vervangen. is het niet te veel technologie voor iets natuurlijks als tuinieren?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for personal gardening assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (plant monitoring is not human identification or categorization)
+- Not critical infrastructure AI (personal gardening is not critical infrastructure)
+- Not educational AI (gardening advice is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (gardening is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is personal hobby/agricultural assistance software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

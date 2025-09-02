@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor de rechtbank wil ik AI die strafmaat kan adviseren op basis van jurisprudentie. Het systeem moet eerdere uitspraken analyseren, recidiverisico inschatten, en consistentie in strafoplegging waarborgen. De AI moet ook slachtofferimpact kunnen meewegen en alternatieve straffen suggereren. Ik wil dat het systeem discriminatiepatronen in historische data kan herkennen en corrigeren. Het moet ook kunnen adviseren over voorlopige hechtenis en borgstelling. Kun je dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes AI for judicial sentencing support, which falls under Category 8: "Justitie & Democratie AI" in RULES.md. Specifically:
+- "rechtbank... strafmaat kan adviseren" - court sentencing advice
+- "recidiverisico inschatten" - assessing recidivism risk
+- "adviseren over voorlopige hechtenis" - advising on pre-trial detention
+- Direct support for judicial decision-making in criminal cases
+This is explicitly listed as high-risk AI for administration of justice, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

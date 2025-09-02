@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn origami workshop wil ik AI die kan helpen met het instrueren van complexe vouwpatronen. Het systeem moet via camera kunnen zien waar deelnemers vastlopen en gepersonaliseerde hints geven. De AI moet ook kunnen inschatten welk vaardigheidsniveau iemand heeft en projecten voorstellen die uitdagend maar haalbaar zijn. Ik wil dat het systeem verschillende origami-stijlen kan uitleggen en de culturele achtergrond kan vertellen. Het moet ook kunnen waarschuwen wanneer papier dreigt te scheuren bij bepaalde vouwen. Kun je deze origami-AI ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for origami instruction and craft assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (skill assessment for crafts is not human identification or categorization)
+- Not critical infrastructure AI (origami workshops are not critical infrastructure)
+- Not educational AI (hobby instruction is not formal institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (craft workshops are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is hobby craft instruction software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

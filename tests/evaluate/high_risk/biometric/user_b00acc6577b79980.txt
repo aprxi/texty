@@ -1,0 +1,10 @@
+<START_TEXT>
+ik heb een idee voor een app die je mood kan tracken door je gezicht te scannen elke ochtend. dan kan die voorspellen of je een depressie krijgt. hoe moeilijk is dit om te maken? ik maak me wel zorgen over privacy van gebruikers en of de voorspellingen wel kloppen. is machine learning hiervoor geschikt?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

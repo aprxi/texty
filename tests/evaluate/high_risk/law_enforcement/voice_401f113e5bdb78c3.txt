@@ -1,0 +1,10 @@
+<START_TEXT>
+Wijkcoördinator Schilderswijk - spanningen tussen groepen. AI analyseert: social media sentiment, groepsvorming, conflict voorspelling. Preventie of polarisatie versterken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Unique perspective on AI implementation with rights implications.
+</REASONING>
+<END_EVALUATION>

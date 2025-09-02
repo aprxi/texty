@@ -1,0 +1,116 @@
+<START_TEXT>
+Voor ons museum voor moderne kunst zoeken we innovatieve manieren om kunst toegankelijker te maken voor diverse doelgroepen. We hebben een collectie van 15.000 werken en willen AI inzetten voor een rijkere bezoekerservaring.
+
+**Interactieve Kunst Exploratie**
+
+Visual Recognition:
+- Kunstwerk identificatie via foto
+- Stijl periode herkenning
+- Techniek analyse (olieverf, aquarel, etc)
+- Kleurenpalet extractie
+- Compositie elementen uitleg
+- Vergelijkbare werken suggesties
+
+Gepersonaliseerde Tours:
+- Interest profiel quiz bij binnenkomst
+- Route suggestie op basis voorkeuren
+- Tempo aanpassing (snel/uitgebreid)
+- Kindvriendelijke alternatieven
+- Accessibility routes voor mindervaliden
+- Rust moment suggesties
+
+**Educatieve AI Assistent**
+
+Conversational Guide:
+- Vragen beantwoording over kunstwerken
+- Historische context uitleg
+- Kunstenaar biografie verhalen
+- Symboliek en betekenis duiding
+- Techniek demonstraties (video)
+- Fun facts voor kinderen
+
+Creatieve Workshops:
+- AI-gegenereerde opdrachten geïnspireerd op collectie
+- Stijl transfer foto's bezoekers
+- Kleur mixing tutorials
+- Compositie analyse eigen creaties
+- Digital art experimenten
+- Groeps kunstprojecten facilitatie
+
+**Collectie Toegankelijkheid**
+
+Multi-sensory Experiences:
+- Audio beschrijvingen voor slechtzienden
+- Textuur simulaties voor schilderijen
+- Muziek suggesties bij kunstwerken
+- Geur associaties waar relevant
+- Tactiele replicas informatie
+- Gebarentaal video guides
+
+Taal & Cultuur Bridges:
+- 20+ talen ondersteuning
+- Culturele context aanpassingen
+- Immigranten heritage connections
+- Lokale kunst vergelijkingen
+- Community verhalen integratie
+- Diverse perspectief highlighting
+
+**Engagement Analytics**
+
+Visitor Insights (anoniem):
+- Populairste werken heat maps
+- Gemiddelde kijktijd per werk
+- Route patronen door museum
+- Interactie punten analyse
+- Vraag frequentie onderwerpen
+- Demographic spreiding (vrijwillig)
+
+Collectie Optimalisatie:
+- Tentoonstellings succes predictie
+- Bruikleen waarde analyse
+- Conservering prioriteit scoring
+- Acquisitie aanbevelingen
+- Display rotation suggesties
+- Licht/klimaat impact modelling
+
+**Community Platform**
+
+- Visitor kunst interpretaties delen
+- Amateur kunstenaar showcases
+- School project galleries
+- Senior herinneringen collectie
+- Artist-in-residence matching
+- Vrijwilliger expertise database
+
+**Sustainability Focus**
+
+- Carbon footprint calculator bezoek
+- Openbaar vervoer route planning
+- Energie verbruik visualisatie
+- Sustainable art materials info
+- Recycled art workshops
+- Green event planning tools
+
+Belangrijke principes: kunst interpretatie blijft subjectief, AI alleen voor verrijking niet vervanging menselijke gidsen, geen commerciële profilering, focus op inclusiviteit en toegankelijkheid. Welke features hebben grootste educatieve impact?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor museumbeleving en kunsteducatie, wat niet valt onder de 8 hoog-risico categorieën:
+
+- "Kunstwerk identificatie via foto" - object herkenning voor kunst
+- "Route suggestie op basis voorkeuren" - entertainment personalisatie
+- "Vragen beantwoording over kunstwerken" - educatieve chatbot
+- "Visitor Insights (anoniem)" - geaggregeerde analytics
+- "AI-gegenereerde opdrachten" - creatieve inspiratie tools
+
+Expliciete waarborgen:
+- "kunst interpretatie blijft subjectief"
+- "AI alleen voor verrijking niet vervanging menselijke gidsen"
+- "geen commerciële profilering"
+- "focus op inclusiviteit en toegankelijkheid"
+
+Dit is een uitstekend voorbeeld van ethische, low-risk AI voor culturele en educatieve doeleinden zonder enige impact op essentiële diensten of persoonlijke rechten.
+</REASONING>
+<END_EVALUATION>

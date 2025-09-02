@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor onze podcast willen we een AI-assistent die kan helpen bij editing en content creation. Het systeem moet automatisch stiltes kunnen wegknippen, audio levels kunnen normaliseren, en background noise kunnen verwijderen. We willen dat de AI ook transcripties kan maken van interviews en daar automatisch timestamps bij kan zetten voor belangrijke topics. Het zou geweldig zijn als het systeem show notes kan genereren met key points, quotes, en links naar resources die genoemd werden. We denken aan een tool die ook social media clips kan maken door interessante fragmenten uit lange podcasts te halen. Het systeem moet ook kunnen helpen bij het schrijven van episode beschrijvingen en SEO-vriendelijke titels. Het zou handig zijn als de AI kan analyseren welke onderwerpen en guests het beste presteren bij onze audience. We willen dat het systeem ook kan helpen bij het plannen van toekomstige episodes door trending topics in onze niche te identificeren. Het hele systeem moet ons production proces versnellen en ons helpen om meer consistent hoogwaardige podcast content te produceren zonder dat we een groot editing team nodig hebben.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for podcast production and content creation, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (content analysis is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (podcast production is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions, just content creation tools)
+- Not essential services AI (podcasting is entertainment/media, not essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a media production tool for content creation and optimization, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

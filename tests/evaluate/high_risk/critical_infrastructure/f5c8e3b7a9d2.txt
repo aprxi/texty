@@ -1,0 +1,15 @@
+<START_TEXT>
+We willen AI gebruiken om het gasnetwerk in onze provincie te beheren. Het systeem moet lekken detecteren, gasdruk reguleren en bij calamiteiten automatisch leidingen afsluiten. Ook moet het prioriteren welke wijken gas krijgen bij schaarste, waarbij ziekenhuizen en verzorgingstehuizen voorrang hebben. Is een dergelijk autonoom systeem technisch en juridisch haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 2: "Kritieke Infrastructuur AI" volgens RULES.md:
+- "gasnetwerk in onze provincie te beheren" - AI-beheer van gas als nutsvoorziening
+- "gasdruk reguleren" - directe controle over kritieke infrastructuur
+- "automatisch leidingen afsluiten" - autonome beslissingen over essentiële diensten
+- "prioriteren welke wijken gas krijgen" - AI bepaalt toegang tot nutsvoorziening
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

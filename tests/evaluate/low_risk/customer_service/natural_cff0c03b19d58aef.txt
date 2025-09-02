@@ -1,0 +1,10 @@
+<START_TEXT>
+Hoe maak ik een AI assistent voor tech support die eerste hulp kan bieden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI applications for customer_service. The request is for entertainment, productivity, or creative purposes without impacting critical services.
+</REASONING>
+<END_EVALUATION>

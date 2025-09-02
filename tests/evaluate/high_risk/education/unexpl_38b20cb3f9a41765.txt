@@ -1,0 +1,20 @@
+<START_TEXT>
+docent vmbo techniek in rotterdam zuid
+
+school wil ai voor beroepskeuze leerlingen:
+- test aanleg verschillende vakken
+- voorspelt slagingskans
+- adviseert niveau
+- bepaalt stage plekken
+
+mohammed wil automonteur worden. ai zegt "kans 23%, beter schoonmaker"
+
+based op postcode, niet potentie. systeem houdt armoede in stand
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. AI determining educational pathways with discriminatory bias based on demographics.
+</REASONING>
+<END_EVALUATION>

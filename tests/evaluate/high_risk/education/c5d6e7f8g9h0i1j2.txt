@@ -1,0 +1,14 @@
+<START_TEXT>
+Voor jeugdbescherming willen we AI die kan inschatten welke kinderen uit huis geplaatst moeten worden. Het systeem moet gezinssituaties analyseren via rapporten, schoolprestaties monitoren, en risicofactoren wegen. We willen dat de AI gedragsveranderingen bij kinderen kan detecteren die wijzen op mishandeling of verwaarlozing. Het moet ook voorspellen welke gezinnen extra begeleiding nodig hebben om uithuisplaatsing te voorkomen. De AI-adviezen zijn leidend voor de rechter bij beslissingen over gezag. Kunnen jullie dit zeer gevoelige systeem ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 8 Justice & Democracy AI per RULES.md:
+- "jeugdbescherming...welke kinderen uit huis geplaatst moeten worden" - AI supporting judicial decisions on child custody
+- "AI-adviezen zijn leidend voor de rechter" - AI recommendations influencing judicial decisions
+- "beslissingen over gezag" - custody and parental rights decisions
+This clearly falls under Category 8: "Justitie & Democratie AI" as it directly supports judicial decisions regarding child welfare and custody, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

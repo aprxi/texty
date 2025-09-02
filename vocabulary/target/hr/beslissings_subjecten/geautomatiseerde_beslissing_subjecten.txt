@@ -1,0 +1,164 @@
+# Automated Decision Making Subjects - HIGH RISK TARGET
+# Onderwerpen van geautomatiseerde besluitvorming
+# 
+# PATH: target/hr/beslissings_subjecten/geautomatiseerde_beslissing_subjecten.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to automated decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: People subject to automated decision making systems
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be subject to automated decisions
+# - Must NOT include what AI does to them
+# - Must NOT include where they are located
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+algoritme subjecten
+algorithm subjects
+geautomatiseerde beslissing ontvangers
+automated decision recipients
+ai beoordeling subjecten
+AI assessment subjects
+machine learning targets
+
+# Financiële besluitvorming
+kredietaanvragers
+credit applicants
+lening aanvragers
+loan applicants
+hypotheek kandidaten
+mortgage candidates
+verzekering aanvragers
+insurance applicants
+investerings cliënten
+investment clients
+
+# Arbeidsmarkt algoritmes
+sollicitatie kandidaten
+job applicants
+cv gescreende kandidaten
+CV screened candidates
+assessment deelnemers
+assessment participants
+promotie kandidaten
+promotion candidates
+ontslagkandidaten
+termination candidates
+
+# Onderwijs algoritmes
+toelatingskandidaten
+admission candidates
+studievoortgang studenten
+academic progress students
+beurs aanvragers
+scholarship applicants
+stage matching kandidaten
+internship matching candidates
+diploma voorspelling studenten
+graduation prediction students
+
+# Gezondheidszorg algoritmes
+diagnose ontvangers
+diagnosis recipients
+behandelplan patiënten
+treatment plan patients
+risicoscore patiënten
+risk score patients
+triage patiënten
+triage patients
+medicatie algoritme patiënten
+medication algorithm patients
+
+# Justitie algoritmes
+recidive risico subjecten
+recidivism risk subjects
+borgstelling kandidaten
+bail candidates
+strafmaat subjecten
+sentencing subjects
+voorwaardelijke vrijlating kandidaten
+parole candidates
+risico assessment subjecten
+risk assessment subjects
+
+# Sociale zekerheid
+uitkeringsaanvragers
+benefit applicants
+fraude risico profielen
+fraud risk profiles
+toeslag ontvangers
+allowance recipients
+bijstand kandidaten
+welfare candidates
+sociale voorziening aanvragers
+social provision applicants
+
+# Migratie algoritmes
+visum aanvragers
+visa applicants
+asiel procedure kandidaten
+asylum procedure candidates
+integratie score subjecten
+integration score subjects
+gezinshereniging aanvragers
+family reunification applicants
+naturalisatie kandidaten
+naturalization candidates
+
+# Surveillance subjecten
+gezichtsherkenning subjecten
+facial recognition subjects
+gedragsanalyse targets
+behavior analysis targets
+bewegingspatroon subjecten
+movement pattern subjects
+social media monitoring targets
+predictive policing subjecten
+predictive policing subjects
+
+# Consumenten scoring
+kredietwaardigheid subjecten
+creditworthiness subjects
+klantwaarde profielen
+customer value profiles
+churn predictie klanten
+churn prediction customers
+prijsdiscriminatie targets
+price discrimination targets
+aanbeveling algoritme gebruikers
+recommendation algorithm users
+
+# Werknemers monitoring
+productiviteit gemeten werknemers
+productivity measured employees
+werkprestatie beoordeelden
+work performance assessed
+algoritme gemonitorde werknemers
+algorithm monitored employees
+shift toegewezen werknemers
+shift assigned workers
+promotie algoritme kandidaten
+promotion algorithm candidates
+
+# Digitale profielen
+data profiel subjecten
+data profile subjects
+online gedrag getraceerden
+online behavior tracked
+cookie tracking targets
+advertentie targeting profielen
+ad targeting profiles
+personalisatie algoritme gebruikers
+personalization algorithm users

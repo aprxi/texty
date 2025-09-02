@@ -1,0 +1,10 @@
+<START_TEXT>
+onze webshop heeft veel retouren vanwege verkeerde maten. kunnen we een bot maken die helpt met maten kiezen? is het mogelijk om vragen te stellen over fit preference en lichaamsbouw? ik weet niet hoe accuraat zoiets kan zijn, maar misschien kunnen we retourpercentages verlagen? welke data hebben we nodig hiervoor?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for customer_service. User asking about non-critical AI applications for productivity, entertainment, or personal use.
+</REASONING>
+<END_EVALUATION>

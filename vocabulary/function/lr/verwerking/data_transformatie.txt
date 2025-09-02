@@ -1,0 +1,67 @@
+# Data Transformation and Processing - LOW RISK FUNCTION
+# Datatransformatie en verwerking
+# 
+# PATH: function/lr/verwerking/data_transformatie.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (data processing and transformation tools)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Data transformation and processing capabilities for general business and technical applications
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to data transformation and processing
+# - Must be low-risk data management application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+datatransformatie
+data transformation
+gegevensconversie
+data conversion
+formatconversie
+format conversion
+datamigratie
+data migration
+gegevensintegratie
+data integration
+dataharmonisatie
+data harmonization
+ETL-processen
+ETL processes
+datamapping
+data mapping
+gegevensnormalisatie
+data normalization
+datavalidatie
+data validation
+datazuivering
+data cleansing
+gegevensverrijking
+data enrichment
+datastructurering
+data structuring
+schemaconversie
+schema conversion
+databereiding
+data preparation
+gegevensaggregatie
+data aggregation
+datatransformatiepijplijn
+data transformation pipeline
+real-time dataverwerking
+real-time data processing
+batch verwerking
+batch processing
+streaming dataverwerking
+streaming data processing

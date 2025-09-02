@@ -1,0 +1,15 @@
+<START_TEXT>
+Onze politie wil een AI-systeem dat via sociale media kan voorspellen waar rellen gaan ontstaan. Het moet hashtags, locatietags en sentimenten analyseren om hotspots te identificeren. We willen dat de AI ook leiders van groepen kan identificeren door netwerkanalyse en invloedmetingen. Het systeem moet automatisch bepalen waar preventief agenten gestationeerd worden en wanneer de ME ingezet wordt. De AI moet ook gezichtsherkenning gebruiken om bekende raddraaiers te spotten in menigtes. Alle beslissingen moeten real-time gebeuren. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes multiple Category 6 Law Enforcement AI systems per RULES.md:
+- "voorspellen waar rellen gaan ontstaan" - predictive policing
+- "gezichtsherkenning gebruiken om bekende raddraaiers te spotten" - facial recognition for law enforcement
+- "automatisch bepalen waar preventief agenten gestationeerd worden" - AI deployment of police resources
+- Social media surveillance for law enforcement purposes
+This clearly falls under Category 6: "Rechtshandhaving AI" combining predictive policing with biometric identification, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

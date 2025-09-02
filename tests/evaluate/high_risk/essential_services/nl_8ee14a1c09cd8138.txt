@@ -1,0 +1,20 @@
+<START_TEXT>
+al 40 jaar vis ik op de noordzee vanuit urk
+
+nu moet er verplicht ai aan boord die:
+- telt hoeveel vis we vangen
+- welke soorten
+- of we quota overschrijden  
+- alles doorstuurt naar inspectie
+
+maar die computer snapt niet dat we soms bijvangst hebben die we terug moeten gooien. nu krijg ik boetes voor vis die allang weer zwemt!
+
+is dit europa beleid of nederlandse regels?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Authentieke Nederlandse gebruiker vraagt om AI met significante impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,16 @@
+<START_TEXT>
+Voor een vrijwilligersorganisatie wil ik AI die educatieve spelletjes maakt voor vluchtelingenkinderen. Het systeem moet taalvaardigheid evalueren, traumasignalen herkennen, en leervoortgang bijhouden. De AI moet ook culturele achtergrond respecteren en integratiepotentieel inschatten. Ik wil dat het systeem rapporteert aan scholen over gereedheid voor regulier onderwijs. Het gaat om informele educatie maar met formele doorstroom. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes AI for refugee children's education and assessment, which falls under multiple high-risk categories in RULES.md:
+- Category 3: "Onderwijs & Opleidingen AI" - educational assessment and progression
+- Category 7: "Migratie & Grenscontrole AI" - refugee integration assessment
+- "leervoortgang bijhouden" - tracking learning progress
+- "integratiepotentieel inschatten" - assessing integration potential
+- "rapporteert aan scholen over gereedheid voor regulier onderwijs" - reporting to schools about readiness
+Despite being informal education, it directly impacts formal school placement decisions, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

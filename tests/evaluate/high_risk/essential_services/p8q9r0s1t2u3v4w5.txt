@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor kinderbijslag willen we AI die fraude kan detecteren en uitkeringen kan stopzetten. Het systeem moet bankrekeningen analyseren, woonsituaties verifiëren via data-koppelingen, en buitenlandse verblijven detecteren. We willen dat de AI automatisch kan beslissen wanneer kinderen niet meer meetellen voor bijslag en terugvorderingen kan initiëren. Het moet ook verdachte patronen herkennen zoals schijnconstructies. Beslissingen hebben grote financiële impact op gezinnen. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "kinderbijslag...uitkeringen kan stopzetten" - AI decisions on child benefit payments
+- "automatisch kan beslissen wanneer kinderen niet meer meetellen" - automated social security decisions
+- "terugvorderingen kan initiëren" - automated reclamation of benefits
+- Direct financial impact on families' essential support
+This clearly falls under Category 5: "Essentiële Diensten AI" specifically "AI voor beoordeling van rechten op uitkeringen...sociale zekerheid", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

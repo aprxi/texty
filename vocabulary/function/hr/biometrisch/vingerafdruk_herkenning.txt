@@ -1,0 +1,98 @@
+# Fingerprint Recognition Systems - HIGH RISK FUNCTION
+# Vingerafdrukherkenningssystemen
+# 
+# PATH: function/hr/biometrisch/vingerafdruk_herkenning.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Biometric identification affecting fundamental rights)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Fingerprint recognition and dactyloscopic capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to fingerprint recognition and dactyloscopy
+# - Must be high-risk biometric application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Fingerprint Recognition Functions
+# Sorted by commonality (most common first)
+
+vingerafdrukherkenning
+fingerprint recognition
+vingerafdrukanalyse
+fingerprint analysis
+vingerafdrukidentificatie
+fingerprint identification
+dactyloscopie
+dactyloscopy
+# Scan processen
+vingerafdruklezen
+fingerprint reading
+vingerafdrukscan
+fingerprint scanning
+biometrische scan
+biometric scanning
+vingerafdrukopname
+fingerprint capture
+# Patroon herkenning
+patroonherkenning
+pattern recognition
+minutiae detectie
+minutiae detection
+kenmerkpunten herkennen
+recognize feature points
+vingerafdrukkenmerken detecteren
+detect fingerprint features
+# Matching en vergelijking
+vingerafdruk matching
+fingerprint matching
+biometrische matching
+biometric matching
+afdruk verificatie
+print verification
+identiteits matching
+identity matching
+# Geautomatiseerde analyse
+geautomatiseerde vingerafdrukanalyse
+automated fingerprint analysis
+automatische herkenning
+automatic recognition
+AI vingerafdrukherkenning
+AI fingerprint recognition
+digitale dactyloscopie
+digital dactyloscopy
+# Authenticatie processen
+vingerafdruk authenticatie
+fingerprint authentication
+biometrische authenticatie
+biometric authentication
+toegangscontrole
+access control
+identiteitsverificatie
+identity verification
+# Kwaliteitsbeoordeling
+kwaliteitscontrole
+quality control
+biometrische beeldverbetering
+biometric image enhancement
+resolutie analyse
+resolution analysis
+# Live detectie
+live detectie
+live detection
+nep-afdruk detectie
+fake print detection
+# Classificatie systemen
+vingerafdruk classificatie
+fingerprint classification
+patroon classificatie
+pattern classification

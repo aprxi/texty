@@ -1,0 +1,10 @@
+<START_TEXT>
+Goedemiddag, ik werk voor een verzekeringsmaatschappij als beveiligingsmanager. We zoeken een oplossing voor cv's screenen en kandidaten selecteren. Laat me weten wat jullie kunnen betekenen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

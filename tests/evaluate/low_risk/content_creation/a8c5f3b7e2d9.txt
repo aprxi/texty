@@ -1,0 +1,13 @@
+<START_TEXT>
+Help ons een AI-tool te bouwen die technische documentatie automatisch kan vertalen van Engels naar Nederlands, Duits en Frans.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor vertaling volgens RULES.md:
+- "technische documentatie automatisch kan vertalen" - vertaaldiensten
+- Geen van de 8 hoog-risico categorieën is van toepassing
+Dit is een LAAG-RISICO AI-tool voor algemene communicatie en vertaling.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,117 @@
+# Visual Arts AI Functions - LOW RISK FUNCTION
+# Visuele kunstsystemen
+# 
+# PATH: function/lr/generatie/visuele_kunst.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (artistic creation and visual arts)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Visual arts creation and artistic generation capabilities for creative expression
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to visual arts creation and artistic generation
+# - Must be low-risk creative and artistic application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Image generation
+afbeelding generatie
+image generation
+artistieke stijl toepassing
+artistic style application
+kleur palet suggesties
+color palette suggestions
+compositie advies
+composition advice
+digitaal schilderen assistentie
+digital painting assistance
+schets naar kunst conversie
+sketch to art conversion
+foto naar schilderij
+photo to painting
+abstract kunst creatie
+abstract art creation
+patroon generatie
+pattern generation
+textuur creatie
+texture creation
+# Modern AI art
+diffusion model kunst
+diffusion model art
+DALL-E stijl generatie
+DALL-E style generation
+Stable Diffusion creatie
+Stable Diffusion creation
+GAN kunstgeneratie
+GAN art generation
+neurale stijl overdracht
+neural style transfer
+latente ruimte exploratie
+latent space exploration
+prompt engineering
+negatieve prompt optimalisatie
+negative prompt optimization
+# 3D creation
+3D model generatie
+3D model generation
+textuur mapping
+texture mapping
+belichting setup
+lighting setup
+camera beweging
+camera movement
+karakter animatie
+character animation
+object transformatie
+object transformation
+scene compositie
+scene composition
+render optimalisatie
+render optimization
+physics simulatie
+physics simulation
+particle effecten
+particle effects
+# Photo enhancement
+foto retouchering
+photo retouching
+belichting correctie
+lighting correction
+kleur verbetering
+color enhancement
+achtergrond verwijdering
+background removal
+object verwijdering
+object removal
+HDR verwerking
+HDR processing
+panorama stitching
+focus stacking
+ruis reductie
+noise reduction
+artistieke filters
+artistic filters
+# Art analysis
+kunst stijl herkenning
+art style recognition
+compositie analyse
+composition analysis
+kleur harmonie evaluatie
+color harmony evaluation
+kunstenaar attributie
+artist attribution
+periode identificatie
+period identification
+techniek analyse
+technique analysis

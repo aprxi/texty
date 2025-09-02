@@ -1,0 +1,10 @@
+<START_TEXT>
+Jeugdwerker probleemwijk - jongeren hangen op straat. AI voorspelt: wie afglijdt naar criminaliteit, welke interventie werkt, wanneer ingrijpen. Preventie of minority report?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

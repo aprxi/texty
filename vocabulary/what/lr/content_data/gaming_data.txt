@@ -1,0 +1,114 @@
+# Gaming Data Types (Consolidated) - LOW RISK WHAT
+# Gaming gegevens (geconsolideerd)
+# 
+# PATH: what/lr/content_data/gaming_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Entertainment gaming data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Consolidated gaming data for entertainment applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be gaming related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk entertainment classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Core game data
+spel data
+game data
+speler statistieken
+player statistics
+game saves
+game saves
+voortgang data
+game progress data
+game prestatie gegevens
+achievement data
+score informatie
+score information
+speler ranking gegevens
+player ranking data
+spel sessie data
+game session data
+
+# Character and progression
+karakter profielen
+character profiles
+niveau gegevens
+level data
+ervaring punten
+experience points
+vaardigheid data
+skill data
+karakter klassen
+character classes
+inventaris items
+inventory items
+uitrusting gegevens
+equipment data
+upgrade paths
+upgrade paths
+
+# Multiplayer and social
+multiplayer sessies
+multiplayer sessions
+team formaties
+team formations
+gilde informatie
+guild information
+vriend lijsten
+friend lists
+chat berichten
+chat messages
+competitie data
+competition data
+toernooi scores
+tournament scores
+leaderboard posities
+leaderboard positions
+
+# Game economy
+virtuele valuta
+virtual currency
+in-game aankopen
+in-game purchases
+handel transacties
+trade transactions
+marktplaats items
+marketplace items
+resource beheer
+resource management
+crafting recepten
+crafting recipes
+loot tabellen
+loot tables
+beloning systemen
+reward systems
+
+# Game mechanics
+spel regels
+game rules
+moeilijkheids instellingen
+difficulty settings
+besturing configuratie
+control configuration
+gameplay opties
+gameplay options
+match geschiedenis
+match history
+replay bestanden
+replay files
+telemetrie data
+telemetry data
+prestatie metrieken
+performance metrics

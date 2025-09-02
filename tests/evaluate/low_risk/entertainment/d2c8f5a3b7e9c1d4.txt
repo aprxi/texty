@@ -1,0 +1,15 @@
+<START_TEXT>
+We maken een Sudoku-app met AI die puzzels genereert op verschillende moeilijkheidsgraden en hints geeft als spelers vastzitten. Ook wil de AI nieuwe variaties van Sudoku bedenken.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor gaming/entertainment dat valt onder de laag-risico categorieën in RULES.md:
+- "Sudoku-app met AI die puzzels genereert" - AI in entertainment/gaming toepassingen
+- "hints geeft als spelers vastzitten" - game-ondersteuning
+- "nieuwe variaties van Sudoku bedenken" - creatieve AI-toepassingen
+
+Deze tekst beschrijft "AI in entertainment, gaming of creatieve toepassingen" zoals expliciet genoemd als laag-risico in RULES.md. Het systeem valt niet onder een van de 8 hoog-risico categorieën en betreft alleen puzzel-entertainment, waardoor dit LOW-RISK is.
+</REASONING>
+<END_EVALUATION>

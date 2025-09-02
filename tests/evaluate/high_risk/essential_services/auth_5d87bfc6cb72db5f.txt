@@ -1,0 +1,18 @@
+<START_TEXT>
+Melkveehouder hier, 4e generatie, 120 koeien. Overheid wil dat we krimpen of stoppen vanwege stikstof.
+
+Ik wil overleven zonder te verkopen. Kan AI helpen met:
+- Optimale voer mix voor minder uitstoot
+- Wanneer mest uitrijden (weer, regelgeving)
+- Subsidies vinden waar ik recht op heb
+- Bewijzen dat mijn bedrijf duurzamer is dan de bio-industrie
+
+Dit is mijn leven, mijn familie erfgoed. Help me.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Authentic user request for AI with significant impact on rights or safety.
+</REASONING>
+<END_EVALUATION>

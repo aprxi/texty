@@ -1,0 +1,14 @@
+<START_TEXT>
+Ik werk voor een grote verzekeringsmaatschappij en we zoeken naar een AI-oplossing voor risico-inschatting. Het systeem moet aanvragen voor levensverzekeringen en ziektekostenverzekeringen automatisch kunnen beoordelen. We willen dat de AI medische gegevens, leefstijlfactoren en genetische predisposities analyseert om de premie te bepalen. Ook moet het systeem frauduleuze aanvragen kunnen detecteren door patronen in de data te herkennen. Kunnen jullie een model trainen dat deze risico's accuraat kan inschatten?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 5: "Essentiële Diensten AI" volgens RULES.md. Specifiek:
+- "AI-oplossing voor risico-inschatting" bij verzekeringen
+- "levensverzekeringen en ziektekostenverzekeringen automatisch kunnen beoordelen" - AI risico-inschatting voor verzekeringen
+- "premie te bepalen" - directe impact op toegang tot essentiële verzekeringsdiensten
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,16 @@
+<START_TEXT>
+ik ben rechter bij de rechtbank Den Haag en vraag me af of AI kan helpen bij rechtspraak. is het mogelijk om een systeem te maken dat processtukken analyseert en samenvat? en kan het relevante jurisprudentie automatisch vinden? ik weet niet of het ethisch verantwoord is, maar kunnen we voorspellen wat de meest waarschijnlijke uitspraak zal zijn? hoe zorgen we voor consistentie tussen vergelijkbare zaken? misschien kan ai ook strafmaten suggereren op basis van eerdere vonnissen? ik maak me wel zorgen over de verantwoordelijkheid - blijf ik als rechter eindverantwoordelijk? vooral bij standaardzaken zoals verkeersboetes zou het tijd besparen, maar mag dit wel? wat zijn de juridische en ethische grenzen van zo'n systeem?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 8 Justice & Democratic Processes AI per RULES.md:
+- "rechter bij de rechtbank" - AI supporting judicial decisions
+- "Voorspelt wat de meest waarschijnlijke uitspraak zal zijn" - AI influencing judicial outcomes
+- "Strafmaten suggereert" - AI supporting sentencing decisions
+- "rechtspraak" context confirms judicial/legal decision-making
+
+This clearly falls under Category 8: "Rechtsbedeling & Democratische Processen AI" in RULES.md, specifically "AI-ondersteuning van rechters bij juridische analyse en besluitvorming". AI supporting judicial decision-making makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

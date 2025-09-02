@@ -1,0 +1,64 @@
+# Contact Lists and Address Books - LOW RISK WHAT
+# Contactlijsten en adresboeken
+# 
+# PATH: what/lr/persoonlijke_data/contact_lijsten.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Personal contact list data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Contact lists and address book data for personal applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be contact list related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk personal classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+contactlijsten
+adresboek
+address book
+telefoonnummers
+phone numbers
+e-mailadressen
+email addresses
+contactnamen
+contact names
+bedrijfscontacten
+business contacts
+persoonlijke contacten
+personal contacts
+noodcontacten
+emergency contacts
+groepscontacten
+group contacts
+favoriete contacten
+favorite contacts
+contactlabels
+contact labels
+contactnotities
+contact notes
+sociale media profielen
+social media profiles
+messenger contacten
+messenger contacts
+contactgeschiedenis
+contact history
+verjaardagen
+birthdays
+relatie informatie
+relationship information
+werkgerelateerde contacten
+work-related contacts
+leverancier contacten
+vendor contacts
+klant contacten
+customer contacts

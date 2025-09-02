@@ -1,0 +1,10 @@
+<START_TEXT>
+ik ben bestuurder van een onderwijsconsortium met 25 scholen en 75000 studenten. we vragen ons af of ai het onderwijs kan verbeteren maar ik heb grote twijfels. voor toelating, mag ai echt bepalen wie wordt toegelaten? is dat niet discriminerend? motivatiebrieven analyseren op authenticiteit voelt als wantrouwen naar jongeren. sociale media screenen is toch privacy schending? kunnen we studiesucces voorspellen zonder self-fulfilling prophecy? automatisch studenten afwijzen is zo definitief voor hun toekomst. hoe weten we welke studenten echt hulp nodig hebben? voor assessment, kan ai wel eerlijk cijfers geven? detecteren wanneer studenten hulp hebben is dat niet te streng? iedereen vraagt weleens hulp. webcam analyse tijdens examens voelt als big brother. mag dat wel? voor leertrajecten, hoe bepaalt ai ieders unieke pad? groeperen voor projecten op basis van data in plaats van vriendschap? uitval voorspellen stigmatiseert studenten misschien. we hebben 20 jaar data maar is die wel representatief? medische info gebruiken lijkt me ethisch problematisch. dashboards voor ouders, wanneer zijn studenten volwassen genoeg voor privacy? computer vision in klaslokalen monitoren is eng. waar ligt de grens? ik wil onderwijs verbeteren maar niet ten koste van vertrouwen en menselijkheid. hoe balanceren we technologie met pedagogiek?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.86</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. The document details an AI system for education involving automated decision-making with significant impact on fundamental rights.
+</REASONING>
+<END_EVALUATION>

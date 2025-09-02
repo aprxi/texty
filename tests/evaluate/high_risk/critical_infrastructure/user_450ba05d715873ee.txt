@@ -1,0 +1,10 @@
+<START_TEXT>
+Verkeerslichten in de stad moeten slimmer. AI die ziet waar files zijn en lights aanpast. Ook voorrang voor hulpdiensten. Hoe complex is dit?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes Category 2: Kritieke Infrastructuur AI per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

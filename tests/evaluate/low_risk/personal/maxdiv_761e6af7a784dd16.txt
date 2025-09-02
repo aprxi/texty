@@ -1,0 +1,10 @@
+<START_TEXT>
+rolstoelgebruiker utrecht. ai plant routes: waar zijn liften, toegankelijke wc's, drempels. maar ook: waar word ik niet raar aangekeken, welke winkels zijn echt welkom. algoritme tegen validisme?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application without fundamental rights impact.
+</REASONING>
+<END_EVALUATION>

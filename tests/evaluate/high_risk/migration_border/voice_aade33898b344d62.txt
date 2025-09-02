@@ -1,0 +1,10 @@
+<START_TEXT>
+Vrijwilliger vluchtelingenwerk - matched met Syrisch gezin. AI vertaalt, verklaart culturele verschillen, voorspelt integratiekansen. Helpen of vooroordelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 7: Migratie & Grenstoezicht AI per RULES.md. Unique perspective on AI implementation with rights implications.
+</REASONING>
+<END_EVALUATION>

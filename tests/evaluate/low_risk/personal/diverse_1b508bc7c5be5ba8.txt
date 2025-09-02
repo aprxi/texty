@@ -1,0 +1,10 @@
+<START_TEXT>
+Studentenhuis - AI huisgenoot matcher. Op basis van: slaapritme, netheid, feest frequentie, studie. Minder ruzie maar ook: vooroordelen in algoritme?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

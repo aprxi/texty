@@ -1,0 +1,19 @@
+<START_TEXT>
+ik ben hobbyist met modeltreinen en vraag me af of ai kan helpen met het ontwerpen van spoorbanen? is het mogelijk om rekening te houden met de ruimte in mijn kelder? ik heb verschillende soorten rails maar weet niet hoe ik ze het beste combineer. kan ai echt realistische layouts genereren? hoe weet het systeem wat mooi is? ik zou graag bergachtig terrein willen maar is dat technisch haalbaar? kan ai berekenen hoeveel spanning ik nodig heb voor verschillende secties? ik snap niet helemaal hoe dat werkt met wissels, waar plaats ik die het beste? is het mogelijk om scenery te plannen of is dat te creatief voor ai? waar komen gebouwen en bomen het beste tot hun recht? ik heb veel treinen en wil botsingen voorkomen maar hoe slim is ai daarin? kan het echt suggesties doen voor nieuwe aankopen? ik vraag me af of dit niet te gespecialiseerd is voor ai. hoeveel eigen data moet ik aanleveren? is het de moeite waard om hier tijd in te steken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for hobby model train layout design, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (no identification, emotion recognition, or categorization based on protected characteristics)
+- Not critical infrastructure AI (model trains are hobby equipment, not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (no access to healthcare, insurance, or essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is purely a hobby application for personal entertainment, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

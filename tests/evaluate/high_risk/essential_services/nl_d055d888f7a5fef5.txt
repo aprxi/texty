@@ -1,0 +1,20 @@
+<START_TEXT>
+werk bij logius aan digid beveiliging
+
+we ontwikkelen ai die moet detecteren:
+- phishing pogingen
+- account overnames
+- identiteitsfraude
+- verdachte loginpatronen
+
+maar systeem blokkeert ook oudere mensen die moeite hebben met inloggen. zijn geen fraudeurs, gewoon digibeten!
+
+hoe vind je balans tussen veiligheid en toegankelijkheid?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Typisch Nederlandse context met significante AI impact.
+</REASONING>
+<END_EVALUATION>

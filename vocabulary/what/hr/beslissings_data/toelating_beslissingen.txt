@@ -1,0 +1,218 @@
+# Admission Decision Data - HIGH RISK WHAT
+# Toelatings beslissingsgegevens
+# 
+# PATH: what/hr/beslissings_data/toelating_beslissingen.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Educational admission gatekeeping data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Data used in educational admission and selection decisions
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be admission/selection related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk educational gatekeeping classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis toelating data
+toelating gegevens
+admission data
+student dossiers
+student files
+kandidaat informatie
+candidate information
+aanmelding gegevens
+application data
+
+# Academische records
+schoolcijfers
+school grades
+diploma's
+diplomas
+certificaten
+certificates
+transcripten
+transcripts
+
+# Toelating documenten
+toelatings documenten
+admission documents
+aanmelding formulieren
+application forms
+motivatiebrieven
+motivation letters
+aanbeveling brieven
+recommendation letters
+
+# Test resultaten
+toelating test resultaten
+admission test results
+examen scores
+exam scores
+geschiktheid test scores
+aptitude test scores
+standaard test resultaten
+standardized test results
+
+# Portfolio materiaal
+portfolio's
+portfolios
+werk voorbeelden
+work samples
+projecten
+projects
+creatieve werken
+creative works
+
+# Interview gegevens
+interview verslagen
+interview reports
+gesprek notities
+conversation notes
+beoordeling formulieren
+assessment forms
+evaluatie rapporten
+evaluation reports
+
+# Demografische gegevens
+demografische data
+demographic data
+achtergrond informatie
+background information
+socio-economische gegevens
+socio-economic data
+diversiteit gegevens
+diversity data
+
+# Voorspellende data
+toelating voorspelling modellen
+admission prediction models
+succes indicatoren
+success indicators
+risico factoren
+risk factors
+prestatie voorspellers
+performance predictors
+
+# Wachtlijst gegevens
+wachtlijst data
+waitlist data
+uitgestelde toelatingen
+deferred admissions
+reserve kandidaten
+reserve candidates
+alternatieve opties
+alternative options
+
+# Internationale data
+internationale student gegevens
+international student data
+buitenlandse diploma's
+foreign diplomas
+visum vereisten
+visa requirements
+taal vaardigheden
+language skills
+
+# Transfer data
+transfer student gegevens
+transfer student data
+credit overdracht
+credit transfer
+equivalentie gegevens
+equivalency data
+eerdere onderwijs records
+previous education records
+
+# Speciale toelating
+speciale toelating gegevens
+special admission data
+uitzonderlijke gevallen
+exceptional cases
+alternatieve paden
+alternative pathways
+niet-traditionele studenten
+non-traditional students
+
+# Capaciteits gegevens
+capaciteit data
+capacity data
+inschrijving aantallen
+enrollment numbers
+klasse grootte limieten
+class size limits
+beschikbare plaatsen
+available seats
+
+# Financiële gegevens
+financiële informatie
+financial information
+studiefinanciering data
+financial aid data
+beurzen gegevens
+scholarship data
+betaal vermogen
+ability to pay
+
+# Database gegevens
+toelating databases
+admission databases
+student informatie systemen
+student information systems
+aanmelding systemen
+application systems
+tracking gegevens
+tracking data
+
+# Kritieke toelating beslissingen
+medische studie afwijzingen
+medical school rejections
+juridische opleiding weigering
+law school denial
+piloten training uitsluiting
+pilot training exclusion
+politie academie afwijzing
+police academy rejection
+militaire dienst ongeschiktheid
+military service disqualification
+
+# Sociale mobiliteit impact
+eerste generatie student data
+first generation student data
+lage inkomen gezin status
+low income family status
+ondervertegenwoordigde groepen
+underrepresented groups
+geografische discriminatie
+geographic discrimination
+elite school toegang
+elite school access
+
+# Levenslange consequenties
+carrière pad blokkering
+career path blocking
+inkomen potentieel beperking
+income potential limitation
+sociale klasse reproductie
+social class reproduction
+generationele armoede cyclus
+generational poverty cycle
+
+# Speciale behoeften discriminatie
+leerstoornis accommodatie weigering
+learning disability accommodation denial
+fysieke handicap uitsluiting
+physical disability exclusion
+mentale gezondheid stigma
+mental health stigma
+autisme spectrum discriminatie
+autism spectrum discrimination

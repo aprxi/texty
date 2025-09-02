@@ -1,0 +1,19 @@
+<START_TEXT>
+Kunnen jullie ons helpen met het bouwen van een AI-chatbot voor onze webshop? We willen graag een systeem dat automatisch veelgestelde vragen kan beantwoorden over producten, levertijden, retourbeleid, en betalingsmogelijkheden. De bot moet ook bestellingen kunnen opzoeken wanneer klanten hun ordernummer invoeren en de status kunnen delen. Het zou geweldig zijn als het systeem klanten kan doorverwijzen naar de juiste afdeling wanneer vragen te complex worden voor geautomatiseerde antwoorden. We denken aan integratie met onze bestaande website, maar ook via WhatsApp en Facebook Messenger zodat klanten op hun favoriete platform hulp kunnen krijgen. De chatbot moet vriendelijk en behulpzaam klinken, ook in informele Nederlandse taal die klanten vaak gebruiken. We willen dat het systeem kan leren van gesprekken om steeds betere antwoorden te geven en nieuwe veelgestelde vragen automatisch te herkennen. Het zou handig zijn als de bot ook productaanbevelingen kan doen gebaseerd op wat klanten zoeken of eerder hebben gekocht. We zien dit als een manier om klantenservice 24/7 beschikbaar te maken zonder dat we meer personeel hoeven aan te nemen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for e-commerce customer service chatbot, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (customer service is not human identification or categorization)
+- Not critical infrastructure AI (e-commerce support is not critical infrastructure)
+- Not educational AI (customer service is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (retail customer service is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial customer service automation, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

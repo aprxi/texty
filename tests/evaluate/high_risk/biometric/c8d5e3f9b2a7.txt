@@ -1,0 +1,13 @@
+<START_TEXT>
+Ik wil een AI-tool die op basis van irisscans toegang verleent tot beveiligde overheidsgebouwen en tegelijk de emotionele staat van bezoekers monitort.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 1: "Biometrische AI-Systemen" volgens RULES.md:
+- "op basis van irisscans toegang verleent" - biometrische identificatie (irisscan)
+- "emotionele staat van bezoekers monitort" - herkenning van emoties
+Beide functies maken dit een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

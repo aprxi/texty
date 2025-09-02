@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik organiseer wijndegustaties en wil AI gebruiken om de ervaring te personaliseren. Het systeem moet smaakvoorkeuren kunnen leren door reacties op verschillende wijnen te analyseren. De AI moet ook spijs-wijn combinaties kunnen suggereren op basis van menu's. Ik wil dat het systeem educatieve content kan aanbieden aangepast aan het kennisniveau - van beginner tot sommelier. Het moet ook kunnen helpen met het samenstellen van wijncollecties voor verschillende budgetten en gelegenheden. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for wine tasting and education services, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (taste preference analysis is not human identification or categorization)
+- Not critical infrastructure AI (wine services are not critical infrastructure)
+- Not educational AI (wine education is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (wine tasting is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is hospitality and educational entertainment software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

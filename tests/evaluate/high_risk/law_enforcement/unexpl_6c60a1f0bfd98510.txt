@@ -1,0 +1,19 @@
+<START_TEXT>
+politie amsterdam vraagt hulp met nieuwe criminaliteit technologie
+
+we willen ai die:
+- sociale media scant op dreigementen
+- gezichtsherkenning bij demonstraties  
+- voorspelt waar rellen uitbreken
+- herkent wapens in crowd footage
+- profiling maakt van verdachten
+
+kunnen jullie zo'n predictive policing systeem bouwen? hebben budgets en data beschikbaar
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. User requesting predictive policing AI with facial recognition and profiling capabilities.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,20 @@
+<START_TEXT>
+monteur bij ziggo voor internet/tv
+
+ai bepaalt:
+- welke storing prioriteit heeft
+- oorzaak op afstand
+- monteur nodig of niet
+- compensatie klanten
+
+maar ai zegt "gebruik reset knop". klant belt al 5x! soms moet je gewoon langsgaan
+
+service is menselijk contact
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Nederlandse context zonder kritieke impact op fundamentele rechten.
+</REASONING>
+<END_EVALUATION>

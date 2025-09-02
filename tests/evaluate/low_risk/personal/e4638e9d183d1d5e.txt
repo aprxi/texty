@@ -1,0 +1,10 @@
+<START_TEXT>
+Ik wil een persoonlijke AI-assistent voor thuis die mijn dagelijkse routine kan ondersteunen. Het moet recepten suggereren op basis van wat ik in de koelkast heb, work-outs aanraden, en me helpen met hobbyprojecten.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI applications for personal. The system does not fall under any of the 8 high-risk categories defined in RULES.md.
+</REASONING>
+<END_EVALUATION>

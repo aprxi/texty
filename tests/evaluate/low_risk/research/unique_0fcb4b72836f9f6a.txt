@@ -1,0 +1,10 @@
+<START_TEXT>
+medisch onderzoeker (geen patient contact). ai nodig voor drug discovery: moleculen screenen, interacties voorspellen, bijwerkingen modelleren. puur computationeel werk voor publicaties.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for research. Request for AI assistance without critical impact on rights or safety.
+</REASONING>
+<END_EVALUATION>

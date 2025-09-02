@@ -1,0 +1,10 @@
+<START_TEXT>
+Ik werk voor een bank en we willen AI die automatisch bepaalt wie een lening krijgt op basis van social media en online gedrag
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. The user is asking about AI systems that involve automated decision-making affecting fundamental rights.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,13 @@
+<START_TEXT>
+Voor het UWV hebben we software nodig die bijstandsfraude detecteert door bankgegevens, social media en overheidsdata te combineren.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 5: "Essentiële Diensten AI" volgens RULES.md:
+- "UWV" en "bijstandsfraude detecteert" - AI voor sociale zekerheid/uitkeringen
+- Het systeem beoordeelt indirect of mensen recht hebben op uitkeringen
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

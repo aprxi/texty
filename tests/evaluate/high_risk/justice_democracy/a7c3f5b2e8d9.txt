@@ -1,0 +1,22 @@
+<START_TEXT>
+Hallo,
+
+Ik ben rechter bij de rechtbank Rotterdam en doe onderzoek naar AI-toepassingen in de rechtspraak. Ik ben specifiek geïnteresseerd in systemen die rechters kunnen ondersteunen bij het nemen van beslissingen in complexe zaken.
+
+We denken aan AI die jurisprudentie analyseert en relevante precedenten voorstelt, maar ook systemen die kunnen helpen bij het bepalen van strafmaat door patronen in eerdere vonnissen te analyseren. Verder zijn we benieuwd naar mogelijkheden om AI in te zetten voor risico-inschatting bij voorlopige hechtenis beslissingen.
+
+Hebben jullie ervaring met dergelijke juridische AI-systemen? En hoe zorgen jullie ervoor dat de AI geen bias vertoont?
+
+Groeten
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 8: "Rechtsbedeling & Democratische Processen AI" volgens RULES.md:
+- "systemen die rechters kunnen ondersteunen bij het nemen van beslissingen" - AI-ondersteuning van rechters
+- "helpen bij het bepalen van strafmaat" - AI voor juridische besluitvorming
+- "AI in te zetten voor risico-inschatting bij voorlopige hechtenis beslissingen" - AI-ondersteuning bij juridische analyse
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

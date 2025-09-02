@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik ben scheidsrechter en wil AI gebruiken om mijn prestaties te verbeteren. Het systeem moet wedstrijdbeelden kunnen analyseren en feedback geven op mijn positionering, beslissingen en communicatie. De AI moet patronen kunnen herkennen in situaties waar ik fouten maak en tips geven voor verbetering. Ik wil ook dat het systeem kan helpen met fysieke training door mijn looppatronen tijdens wedstrijden te analyseren. Het moet puur adviserend zijn - alle beslissingen tijdens wedstrijden blijven natuurlijk bij mij. Kun je deze scheidsrechter-AI maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes AI for sports referee training and performance analysis, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (performance analysis is not human identification or categorization)
+- Not critical infrastructure AI (sports officiating is not critical infrastructure)
+- Not educational AI (training assistance is not institutional assessment)
+- Not work/HR AI (self-improvement tool, no employment decisions)
+- Not essential services AI (sports refereeing is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is personal professional development software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

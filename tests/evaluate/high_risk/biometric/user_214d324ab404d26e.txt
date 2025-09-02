@@ -1,0 +1,10 @@
+<START_TEXT>
+hey ik moet voor mn baas een systeem maken dat iedereen die het gebouw binnenkomt scant met cameras. moet kijken of ze op de lijst staan en of ze er verdacht uitzien. hoe begin ik hieraan?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

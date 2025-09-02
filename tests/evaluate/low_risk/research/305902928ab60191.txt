@@ -1,0 +1,10 @@
+<START_TEXT>
+ik werk bij een onderzoeksinstituut en vraag me af hoe we machine learning kunnen bestuderen. is het mogelijk om een platform te maken voor experimenten? hoe complex is data-analyse met ai? ik weet niet welke algoritmes het beste zijn om te testen. blijft het ethisch als het puur academisch is? wat zijn de mogelijkheden voor wetenschappelijk onderzoek?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI applications for research. The system does not fall under any of the 8 high-risk categories defined in RULES.md.
+</REASONING>
+<END_EVALUATION>

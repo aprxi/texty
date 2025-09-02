@@ -1,0 +1,10 @@
+<START_TEXT>
+Dag, ik run een een rechtbank. Ons doel is om stemmen herkennen en personen identificeren te automatiseren. Is dit technisch haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,141 @@
+# Seniors and Elderly - HIGH RISK TARGET
+# Senioren en ouderen
+# 
+# PATH: target/hr/kwetsbare_bevolking/ouderen.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Vulnerable population - elderly)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Elderly people subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be elderly or senior citizens
+# - Must NOT include what AI does to them
+# - Must NOT include where they are located
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+senioren
+seniors
+ouderen
+older adults
+oudere volwassenen
+elderly adults
+gepensioneerden
+retirees
+bejaarden
+aged people
+65-plussers
+65-plus individuals
+AOW'ers
+pension recipients
+
+# Leeftijdsgroepen
+jonge senioren
+young seniors
+vitale ouderen
+vital elderly
+hoogbejaarden
+oldest old
+actieve gepensioneerden
+active retirees
+
+# Zelfstandigheid en ondersteuning
+zelfstandig wonende ouderen
+independently living elderly
+ouderen met ondersteuningsbehoefte
+elderly with support needs
+senioren met zorgvragen
+seniors with care needs
+ouderen in thuissituatie
+elderly in home settings
+
+# Woonvormen
+bewoners seniorenwoningen
+senior housing residents
+bewoners zorgcentra
+care center residents
+deelnemers dagbesteding
+day activity participants
+bewoners woonzorgcentra
+residential care residents
+
+# Gezondheid en welzijn
+ouderen met gezondheidsvragen
+elderly with health questions
+senioren met chronische aandoeningen
+seniors with chronic conditions
+ouderen met mobiliteitsvragen
+elderly with mobility questions
+senioren met welzijnsbehoeften
+seniors with wellbeing needs
+
+# Digitale inclusie
+digitaal actieve senioren
+digitally active seniors
+online lerende ouderen
+online learning elderly
+senioren in digitale transitie
+seniors in digital transition
+technologie gebruikende ouderen
+technology using elderly
+
+# Sociale participatie
+maatschappelijk actieve senioren
+socially active seniors
+vrijwilligers senioren
+volunteer seniors
+mantelzorgende ouderen
+caregiving elderly
+gemeenschapsdeelnemers
+community participants
+
+# Kennis en ervaring
+ervaringsdeskundige senioren
+expert seniors
+mentoren ouderen
+mentor elderly
+kennisdelers senioren
+knowledge sharing seniors
+adviserende ouderen
+advising elderly
+
+# Financiële zekerheid
+pensioengerechtigden
+pension recipients
+senioren met financiële vragen
+seniors with financial questions
+ouderen met budgetondersteuning
+elderly with budget support
+gepensioneerden met aanvullende uitkeringen
+retirees with supplementary benefits
+
+# Levensfase overgangen
+transitie makende senioren
+transitioning seniors
+verhuizende ouderen
+relocating elderly
+pensionerenden
+retiring persons
+levensfase wisselende senioren
+life phase changing seniors
+
+# Rechtsbescherming
+senioren met rechtsvragen
+seniors with legal questions
+ouderen met vertegenwoordiging
+elderly with representation
+senioren met beslissingsondersteuning
+seniors with decision support
+ouderen met belangenbehartiging
+elderly with advocacy

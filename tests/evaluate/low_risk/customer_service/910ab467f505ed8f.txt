@@ -1,0 +1,19 @@
+<START_TEXT>
+ik werk in logistics en vraag me af hoe ai kan helpen met voorraad beheer. is het mogelijk om te voorspellen hoeveel producten we nodig hebben? hoe accuraat zijn voorspellingen op basis van historische data? kunnen seizoenspatronen echt automatisch herkend worden? ik weet niet of automatisch bestellen bij leveranciers verstandig is. wat als ai te veel bestelt? voor magazijn optimalisatie, kan ai echt bepalen waar producten het beste liggen? hoe complex wordt picking en packing planning? verzendroutes plannen klinkt goed maar werkt dat met real-time verkeer? kunnen we e-commerce platforms veilig koppelen? ik maak me zorgen over automatische voorraad updates bij fouten. hoe detecteert ai langzaam bewegende producten? is dat niet te laat voor actie? bij returns, mag ai bepalen wat weer verkocht wordt? wat met hygiëne en kwaliteit? operationele kosten verlagen is belangrijk maar niet ten koste van betrouwbaarheid. hoe balanceren we automatisering met menselijke controle?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for inventory management and logistics optimization, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (inventory management is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (commercial logistics is not critical infrastructure management)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions, just business operations)
+- Not essential services AI (commercial logistics is not essential services like healthcare/insurance)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a business operations tool for supply chain and inventory optimization, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

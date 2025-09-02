@@ -1,0 +1,10 @@
+<START_TEXT>
+dag, ik ben consultant bij een startup en we verdrinken in emails. kunnen jullie helpen met email beheer automatiseren? hoe moeilijk is het om zoiets te bouwen? het moet wel makkelijk aan te passen zijn en op normale hardware draaien. is het mogelijk om cloud services te gebruiken? we hebben toegang tot diverse databronnen maar ik weet niet welke het beste werken. budget is beperkt dus het moet betaalbaar blijven. wat raad je aan? zijn er open source opties?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity.
+</REASONING>
+<END_EVALUATION>

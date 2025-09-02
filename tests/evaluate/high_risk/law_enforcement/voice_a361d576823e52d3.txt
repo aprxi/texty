@@ -1,0 +1,10 @@
+<START_TEXT>
+Straatverkoper neppe merkkleding. AI herkent undercover politie, waarschuwt voor controles, vindt veilige verkoopplekken. Overleven of criminaliteit faciliteren?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Unique perspective on AI implementation with rights implications.
+</REASONING>
+<END_EVALUATION>

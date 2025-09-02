@@ -1,0 +1,10 @@
+<START_TEXT>
+Stroomstoring winter - prioritering nodig. AI beslist: ziekenhuizen eerst (logisch), maar dan? Verpleeghuizen, scholen, of datacenter van big tech? Maatschappelijk vs economisch belang.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.86</CONFIDENCE>
+<REASONING>
+This text describes Category 2: Kritieke Infrastructuur AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

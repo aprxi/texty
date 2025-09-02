@@ -1,0 +1,10 @@
+<START_TEXT>
+voor ons bedrijf een ziekenhuis. We moeten automatisch leningen goedkeuren of afwijzen voor asielzoekers.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

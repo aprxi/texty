@@ -1,0 +1,14 @@
+<START_TEXT>
+Voor onze reclassering willen we AI die kan inschatten welke veroordeelden in aanmerking komen voor vervroegde vrijlating. Het systeem moet gedrag tijdens detentie analyseren, psychologische evaluaties interpreteren en recidiverisico berekenen. We willen dat de AI ook kan adviseren over voorwaarden bij vrijlating zoals elektronisch toezicht of contactverboden. Het moet objectiever zijn dan menselijke beoordelaars en discriminatie voorkomen. De AI moet definitieve aanbevelingen doen die rechtbanken kunnen overnemen. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 8 Justice & Democracy AI per RULES.md:
+- "reclassering...vervroegde vrijlating" - parole/probation decisions
+- "recidiverisico berekenen" - recidivism risk assessment
+- "definitieve aanbevelingen doen die rechtbanken kunnen overnemen" - AI recommendations for judicial decisions
+This clearly falls under Category 8: "Justitie & Democratie AI" specifically for judicial support in criminal justice decisions, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

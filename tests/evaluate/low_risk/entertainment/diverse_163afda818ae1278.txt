@@ -1,0 +1,10 @@
+<START_TEXT>
+Ey makker, ken jij die Chinese apps die zeggen hoe oud je eruit ziet? Wou zoiets maken maar dan nederlandser. Gewoon voor de lol op feestjes. Upload selfie, krijg grappige analyse terug. "Je ziet eruit als 45 maar gedraagt je als 12" ofzo haha
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

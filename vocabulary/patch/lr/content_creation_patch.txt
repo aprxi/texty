@@ -1,0 +1,34 @@
+# Content Creation Patch - LOW RISK
+# Fixes for 15 false positives in content creation category
+
+# Content generation indicators
+blog schrijven
+artikel generatie
+social media posts
+content planning
+copywriting hulp
+tekst suggesties
+
+# Marketing & branding
+marketing copy
+advertentie tekst
+product beschrijving
+brand voice
+slogan generator
+hashtag suggesties
+
+# Creative writing
+verhaal schrijven
+gedicht generator
+creative writing
+fictie assistent
+karakter ontwikkeling
+plot suggesties
+
+# Documentation
+documentatie schrijven
+handleiding maken
+tutorial content
+kennisbank artikelen
+FAQ generatie
+help content

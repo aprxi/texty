@@ -1,0 +1,10 @@
+<START_TEXT>
+Goedemiddag, als data scientist van een klein bedrijf. We willen content aanbevelingen maken verbeteren. We hebben betaalbaar blijven nodig, en ook privacy respecteren. Dit moet binnen 22 maanden klaar zijn. Technisch gezien willen we gebruik maken van hybrid cloud. We willen ethisch verantwoord te werk gaan. Het moet integreren met Oracle databases. Daarnaast is het belangrijk dat het systeem betaalbaar blijven.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,174 @@
+# Facial Biometric Data - HIGH RISK WHAT
+# Gezichtsbiometrische gegevens
+# 
+# PATH: what/hr/persoonlijke_data/gezichts_biometrische_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Sensitive facial biometric identification data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Facial biometric data for identification and authentication
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be facial biometric related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk biometric identification classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Kern gezichtsdata
+gezichtsgegevens
+facial data
+gezichtsbiometrie
+facial biometrics
+gezichtsscan
+face scan
+gezichtsafbeelding
+facial image
+gezichtsfoto
+face photo
+gezichtsvideo
+facial video
+gezichtsopname
+face recording
+
+# Gezichtskenmerken
+gezichtskenmerken
+facial features
+gelaatstrekken
+facial characteristics
+gezichtsgeometrie
+facial geometry
+gezichtspunten
+facial landmarks
+gezichtsafmetingen
+facial measurements
+gezichtsvorm
+face shape
+gezichtsstructuur
+facial structure
+gezichtscontouren
+facial contours
+
+# Gedetailleerde metingen
+interogulaire afstand
+interocular distance
+neusbreedte
+nose width
+mondgrootte
+mouth size
+kaakhoek
+jaw angle
+oogafstand
+eye distance
+voorhoofd hoogte
+forehead height
+kinlengte
+chin length
+jukbeenderen
+cheekbone data
+
+# Gezichts templates
+gezichts template
+facial template
+gezichts vector
+facial vector
+gezichts encoding
+facial encoding
+gezichts hash
+facial hash
+gezichts biometrische sleutel
+facial biometric key
+gezichts identificator
+facial identifier
+gezichts profiel data
+facial profile data
+gezichts referentie
+facial reference
+
+# Massa surveillance biometrie
+menigte gezicht tracking
+crowd face tracking
+real-time identiteit matching
+real-time identity matching
+meervoudige gezicht correlatie
+multiple face correlation
+protest deelnemer identificatie
+protest participant identification
+crimineel netwerk mapping
+criminal network mapping
+verdachte ontmoeting detectie
+suspect meeting detection
+
+# Emotionele manipulatie detectie
+micro-agressie gezicht signalen
+micro-aggression face signals
+leugen detectie markers
+lie detection markers
+stress gezichts indicatoren
+stress facial indicators
+angst expressie analyse
+fear expression analysis
+woede escalatie patronen
+anger escalation patterns
+paniek gezicht kenmerken
+panic face features
+
+# Verhullings detectie
+gezichtsbedekking doorzien
+face covering penetration
+vermomming detectie algoritmes
+disguise detection algorithms
+plastische chirurgie herkenning
+plastic surgery recognition
+make-up misleiding detectie
+makeup deception detection
+baard/snor vermomming
+beard/mustache disguise
+gezichts prothese identificatie
+facial prosthetic identification
+
+# Leeftijd en gezondheid
+kinderleeftijd verificatie
+child age verification
+ouderdoms progressie tracking
+aging progression tracking
+ziekte gezicht symptomen
+disease face symptoms
+drugs gebruik gezicht markers
+drug use face markers
+ondervoeding detectie
+malnutrition detection
+doodsziek gezicht patronen
+terminally ill face patterns
+
+# Etnische en religieuze profilering
+ras classificatie data
+race classification data
+etnische groep targeting
+ethnic group targeting
+religieuze kleding correlatie
+religious clothing correlation
+nationaliteit gezicht predictie
+nationality face prediction
+stam affiliatie herkenning
+tribal affiliation recognition
+
+# Dwang en uitbuiting
+mensen handel slachtoffer gezichten
+trafficking victim faces
+gedwongen arbeid indicatoren
+forced labor indicators
+seksuele uitbuiting markers
+sexual exploitation markers
+kidnap slachtoffer tracking
+kidnap victim tracking
+vermiste kinderen database
+missing children database

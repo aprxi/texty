@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik werk voor een museum en we willen een interactieve AI-gids maken voor onze bezoekers. De AI moet vragen kunnen beantwoorden over kunstwerken, de geschiedenis van het museum, en praktische informatie zoals openingstijden en routes. Het zou geweldig zijn als de AI gesprekken kan aanpassen aan verschillende doelgroepen - van kunstexperts tot schoolkinderen. We willen ook dat het systeem interessante weetjes en verhalen kan delen om de ervaring boeiender te maken. Kunnen jullie helpen met het ontwikkelen van zo'n intelligente museumgids die educatief en vermakelijk is?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for museum visitor guidance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (museum guidance is not human identification or categorization)
+- Not critical infrastructure AI (museums are not critical infrastructure)
+- Not educational AI (informal museum education is not institutional assessment or formal educational placement)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (museum services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is cultural institution visitor assistance software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

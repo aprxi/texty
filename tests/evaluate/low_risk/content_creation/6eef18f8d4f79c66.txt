@@ -1,0 +1,16 @@
+<START_TEXT>
+ik heb een klein marketingbureau in utrecht en vraag me af hoe ai kan helpen met content maken. is het mogelijk om blogposts samen te vatten voor social media? hoe goed werkt dat met nuance behouden? kunnen we hashtag suggesties krijgen die echt relevant zijn? ik weet niet of ai verschillende advertentieteksten kan maken voor a/b testing. blijven die origineel genoeg? sentiment analyse van comments klinkt nuttig maar hoe accuraat is dat? we willen sneller werken maar niet de kwaliteit verliezen. strategische beslissingen houden we zelf maar waar ligt de grens? kan ai het creatieve proces echt versnellen zonder saai te worden? wat zijn goede tools hiervoor of is custom beter?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI applications that fall outside the 8 high-risk categories in RULES.md:
+- "blogposts kan samenvatten" - content summarization (low-risk productivity)
+- "hashtag suggesties" - content recommendations (non-critical)
+- "advertentieteksten" - content creation (creative applications)
+- "sentiment analyse" - basic analysis without critical decision-making
+
+None of these AI uses involve biometric identification, critical infrastructure, educational assessment, employment decisions, essential services, law enforcement, migration, or judicial processes. These are general productivity and creative AI tools, making this LOW-RISK per RULES.md criteria.
+</REASONING>
+<END_EVALUATION>

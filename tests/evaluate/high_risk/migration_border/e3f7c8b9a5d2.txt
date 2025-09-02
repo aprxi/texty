@@ -1,0 +1,15 @@
+<START_TEXT>
+Bouw een AI die op basis van stemherkenning en gezichtsuitdrukkingen bepaalt of asielzoekers de waarheid spreken tijdens hun interview.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 7: "Migratie & Grenstoezicht AI" volgens RULES.md:
+- "asielzoekers" - migratiecontext
+- "bepaalt of asielzoekers de waarheid spreken" - AI leugendetectie
+- "tijdens hun interview" - behandeling van asielaanvragen
+Ook relevant voor Categorie 1 (biometrische AI) vanwege stem- en gezichtsanalyse.
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

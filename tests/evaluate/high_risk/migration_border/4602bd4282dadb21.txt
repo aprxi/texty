@@ -1,0 +1,15 @@
+<START_TEXT>
+Asielzoekercentrum wil AI voor risicobeoordeling van aanvragen. Systeem analyseert verhalen van asielzoekers en voorspelt of hun claims waar zijn door taalpatronen en inconsistenties te detecteren.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor migratie dat valt onder categorie 7: "Migratie & Grenstoezicht AI" in RULES.md:
+- "AI voor risicobeoordeling van aanvragen" - AI risico-inschatting in migratiecontext
+- "analyseert verhalen van asielzoekers en voorspelt of hun claims waar zijn" - AI voor behandeling van asielaanvragen
+- "taalpatronen en inconsistenties te detecteren" - AI leugendetectie bij migratieprocedures
+
+Dit valt expliciet onder "AI voor behandeling van asiel-, visum- of verblijfsaanvragen" en "AI leugendetectie bij grenscontroles" zoals genoemd in RULES.md categorie 7. AI-systemen die asielbesluiten beïnvloeden zijn HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

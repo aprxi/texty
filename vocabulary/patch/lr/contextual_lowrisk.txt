@@ -1,0 +1,34 @@
+# Contextual Low-Risk Phrases
+# Disambiguates generic terms in low-risk context
+
+# Non-critical contexts
+systeem voor entertainment
+algoritme voor spelletjes
+AI voor creatieve projecten
+geautomatiseerde foto bewerking
+met gebruiker controle
+semi-automatisch proces
+
+# Research & development contexts
+voor onderzoek doeleinden
+in academische context
+prototype ontwikkeling
+experimentele setup
+lab omgeving
+test scenario
+
+# Personal use contexts
+persoonlijk project
+hobby applicatie
+eigen gebruik
+privé doeleinden
+voor mezelf
+thuis experimenteren
+
+# General assistance contexts
+helpt bij suggesties
+ondersteunt gebruiker
+geeft aanbevelingen
+biedt opties
+assisteert met taken
+versnelt workflow

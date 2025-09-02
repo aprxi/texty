@@ -1,0 +1,27 @@
+<START_TEXT>
+Beste ontwikkelaars,
+
+Bij de politie Amsterdam-Amstelland willen we onze capaciteit beter inzetten. We hebben te weinig agenten voor alle meldingen die binnenkomen.
+
+Kunnen jullie een systeem bouwen dat voorspelt waar en wanneer criminaliteit waarschijnlijk gaat plaatsvinden? We hebben historische data van alle misdrijven van de afgelopen 10 jaar, inclusief tijdstip, locatie en type delict.
+
+Het systeem moet ook kunnen inschatten welke personen het hoogste risico hebben om opnieuw de fout in te gaan. We hebben toegang tot strafdossiers, en informatie over sociale netwerken van verdachten. Als we weten wie waarschijnlijk recidiveert, kunnen we gerichter toezicht houden.
+
+Bij nieuwe misdrijven zou het systeem verdachten moeten kunnen suggereren op basis van modus operandi en locatiegegevens. Ook willen we graag leugendetectie tijdens verhoren - kunnen jullie stemanalyse en gezichtsherkenning software integreren die aangeeft of iemand liegt?
+
+Dit zou ons enorm helpen bij het effectiever inzetten van onze beperkte middelen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes multiple Category 6 Law Enforcement AI systems per RULES.md:
+- "inschatten welke personen het hoogste risico hebben om opnieuw de fout in te gaan" - AI recidivism risk assessment
+- "verdachten moeten kunnen suggereren" - criminal profiling
+- "leugendetectie tijdens verhoren" - lie detection
+- "stemanalyse en gezichtsherkenning" - AI lie detection tools
+- "politie" context confirms law enforcement domain
+
+This clearly falls under Category 6: "Rechtshandhaving AI" in RULES.md, specifically "AI risico-inschatting voor...recidive", "AI crimineel profilering", and "AI leugendetectie". These law enforcement AI applications make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

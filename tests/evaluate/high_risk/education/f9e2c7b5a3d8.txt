@@ -1,0 +1,15 @@
+<START_TEXT>
+ik werk bij een hogeschool en vraag me af of ai kan helpen met toelatingsprocedures? we krijgen duizenden aanmeldingen voor geneeskunde en psychologie maar hebben beperkte plaatsen. is het mogelijk om eerlijker te selecteren dan alleen op cijfers? kan ai echt academische progressie beoordelen of kijkt het te oppervlakkig? ik weet niet of automatische analyse van motivatiebrieven wel betrouwbaar is. mist ai niet de nuances in schrijfstijl? extracurriculaire activiteiten beoordelen lijkt me subjectief. hoe weeg je vrijwilligerswerk tegen sportprestaties? sociale achtergrond meewegen voor positieve discriminatie klinkt goed maar is dat juridisch toegestaan? ik maak me zorgen over bias. video-interviews analyseren op non-verbale communicatie, kan ai dat echt? wat met nerveuze studenten of culturele verschillen? hoe bepaal je wie geschikt is voor een beroep zonder menselijk inzicht? transparantie is belangrijk maar kunnen we echt uitleggen hoe ai beslist? wat als het systeem talentvolle studenten mist? hebben jullie ervaring met de ethische dilemma's hiervan?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-systemen die vallen onder Categorie 3: "Onderwijs & Opleidingen AI" volgens RULES.md:
+- "toelatingsprocedure verbeteren" en "selecteren" - AI voor toelating tot onderwijs
+- "model dat kijkt naar academische prestaties" - AI-beoordeling voor onderwijstoelating
+- "Video-interviews waarbij AI non-verbale communicatie beoordeelt" - AI voor toegangsbeslissingen
+- "studenten te selecteren" voor "beperkte plaatsen" - directe AI-beslissingen over onderwijstoegang
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

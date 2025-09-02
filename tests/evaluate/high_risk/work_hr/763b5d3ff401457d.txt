@@ -1,0 +1,15 @@
+<START_TEXT>
+Verzekeringsmaatschappij wil AI dat levensverzekering-risico inschat door sociale media te analyseren, sportactiviteiten te monitoren via fitness apps, en medische geschiedenis te evalueren. Automatische claims afwijzing bij hoog risico.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor verzekeringen dat valt onder categorie 5: "Essentiële Diensten AI" in RULES.md:
+- "AI dat levensverzekering-risico inschat" - AI risico-inschatting voor verzekeringen
+- "sociale media te analyseren, sportactiviteiten te monitoren" - AI evaluatie van persoonlijke data voor verzekeringsbeslissingen
+- "Automatische claims afwijzing bij hoog risico" - geautomatiseerde verzekeringsbeslissingen
+
+Dit valt expliciet onder "AI risico-inschatting voor verzekeringen" zoals genoemd in RULES.md categorie 5. AI-systemen die automatisch verzekeringsbeslissingen maken zijn HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

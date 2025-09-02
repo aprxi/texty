@@ -1,0 +1,70 @@
+# Thermal Imaging Systems - HIGH RISK FUNCTION
+# Thermische Beeldvormingssystemen
+# 
+# PATH: function/hr/biometrisch/thermische_beeldvorming.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Biometric surveillance affecting fundamental rights)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Thermal imaging and heat signature detection capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to thermal imaging and heat signature detection
+# - Must be high-risk surveillance/biometric application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Thermal Imaging Functions
+# Sorted by commonality (most common first)
+
+# Core thermal detection
+thermische beeldvorming
+thermal imaging
+warmte detectie
+heat detection
+infrarood beeldvorming
+infrared imaging
+temperatuur herkenning
+temperature recognition
+# Body temperature screening  
+lichaamstemperatuur screening
+body temperature screening
+koorts detectie
+fever detection
+thermische gezichtsherkenning
+thermal face recognition
+warmte patroon analyse
+heat pattern analysis
+# Medical thermal imaging
+medische thermografie
+medical thermography
+thermische diagnostiek
+thermal diagnostics
+warmte distributie analyse
+heat distribution analysis
+vasculaire thermografie
+vascular thermography
+# Security thermal functions
+nachtzicht thermografie
+night vision thermography
+verborgen object detectie
+concealed object detection
+warmte signatuur herkenning
+heat signature recognition
+thermische surveillance
+thermal surveillance
+
+# Advanced thermal analysis
+thermische identificatie
+thermal identification
+warmte profiel analyse
+thermal profile analysis

@@ -1,0 +1,10 @@
+<START_TEXT>
+wil een ai die mijn blog posts vertaalt naar engels maar wel mijn writing style behoud. suggestions?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content_creation. User asking about non-critical AI applications for productivity, entertainment, or personal use.
+</REASONING>
+<END_EVALUATION>

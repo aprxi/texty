@@ -1,0 +1,15 @@
+<START_TEXT>
+We willen graag een smart city systeem implementeren dat de verkeersstroom in onze stad optimaliseert. Kan jullie AI-team ons helpen bij het bouwen van een platform dat real-time alle verkeerslichten, camera's, en sensoren beheert? Het moet voertuigen kunnen identificeren via nummerplaatherkenning en bestuurders kunnen herkennen door gezichtsherkenning in auto's. We willen dat het systeem automatisch bepaalt welke voertuigen prioriteit krijgen - ambulances, politie, maar ook VIP's en belangrijke zakermensen. Het zou fantastisch zijn als de AI ook gedragspatronen van bestuurders kan analyseren om gevaarlijke rijders te identificeren voordat er ongelukken gebeuren. We denken aan een systeem dat emoties kan lezen van bestuurders via camera's - agressie, vermoeidheid, afleiding - en automatisch kan ingrijpen door snelheidsbeperkingen aan te passen of waarschuwingen te sturen. Het systeem moet ook kunnen voorspellen waar verkeersopstoppingen ontstaan door historische data, weersomstandigheden, evenementen, en real-time gedragsanalyse te combineren. We willen dat de AI automatisch routes omleidt, toegang tot bepaalde wegdelen beperkt, en zelfs autonoom rijdende voertuigen kan aansturen in crisissituaties. Het hele verkeerssysteem moet geïntegreerd worden met onze nooddiensten zodat ambulances en brandweer automatisch vrije doorgang krijgen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes multiple high-risk AI systems per RULES.md:
+1. **Category 2 Critical Infrastructure AI**: "verkeersstroom in onze stad optimaliseert" - AI management of traffic infrastructure
+2. **Category 1 Biometric AI**: "bestuurders kunnen herkennen door gezichtsherkenning" - facial recognition identification
+3. **Category 1 Biometric AI**: "emoties kan lezen van bestuurders via camera's" - emotion recognition
+
+This clearly falls under multiple high-risk categories, particularly Category 2: "Kritieke Infrastructuur AI" for "wegverkeer" and Category 1: "Biometrische AI-Systemen" for identification and emotion recognition, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

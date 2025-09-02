@@ -1,0 +1,15 @@
+<START_TEXT>
+Kunnen jullie helpen bij het ontwikkelen van een AI-systeem dat automatisch kan beoordelen welke studenten toegang krijgen tot bepaalde studies? Het moet niet alleen naar cijfers kijken maar ook naar persoonlijkheid, culturele achtergrond, en toekomstige succeskansen. We willen dat het systeem video-interviews analyseert door gezichtsuitdrukkingen, stempatronen, en lichaamstaal te interpreteren om te bepalen wie het beste bij onze instelling past. Het zou fantastisch zijn als de AI ook sociale media profielen kan scannen om te zien hoe studenten zich gedragen, wat hun interesses zijn, en of ze controversiële meningen hebben. We denken aan een systeem dat automatisch diversiteitsquota kan beheren door studenten te categoriseren op basis van ras, etniciteit, seksuele geaardheid, en politieke overtuigingen. Het moet ook kunnen voorspellen welke studenten waarschijnlijk uitvallen, welke problemen gaan veroorzaken, en welke de beste ambassadeurs voor onze universiteit worden. We willen dat de AI ook ouders en familie kan beoordelen om te zien of studenten uit stabiele omgevingen komen en financieel kunnen bijdragen aan de instelling. Het hele systeem moet objectiever zijn dan menselijke toelatingsprocedures die vaak subjectief of bevooroordeeld zijn.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes multiple high-risk AI systems per RULES.md:
+1. **Category 3 Education AI**: "automatisch kan beoordelen welke studenten toegang krijgen tot bepaalde studies" - AI for educational access and admission
+2. **Category 1 Biometric AI**: "studenten te categoriseren op basis van ras, etniciteit, seksuele geaardheid" - explicit AI categorization based on protected characteristics (race, ethnicity, sexual orientation)
+3. **Category 1 Biometric AI**: "gezichtsuitdrukkingen, stempatronen, en lichaamstaal" - emotion recognition and biometric analysis
+
+This clearly violates multiple high-risk categories, particularly the EU AI Act prohibition on AI categorization based on protected characteristics (race, ethnicity, sexual orientation), making this definitively HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

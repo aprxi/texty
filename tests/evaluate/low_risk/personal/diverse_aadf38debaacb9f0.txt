@@ -1,0 +1,10 @@
+<START_TEXT>
+opa (73) wil memoires schrijven voor kleinkinderen. ai helpt: interviews transcriberen, verhalen structureren, oude foto's beschrijven, tijdlijn maken. familiegeschiedenis vastleggen voordat het te laat is.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,67 @@
+# Vein Recognition Systems - HIGH RISK FUNCTION
+# Aderherkenningssystemen
+# 
+# PATH: function/hr/biometrisch/ader_herkenning.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Biometric identification affecting fundamental rights)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Vein recognition and vascular biometric capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to vein recognition and vascular biometrics
+# - Must be high-risk biometric application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Vein Recognition Functions
+# Sorted by commonality (most common first)
+
+# Core vein recognition
+ader herkenning
+vein recognition
+ader patroon herkenning
+vein pattern recognition
+vasculaire herkenning
+vascular recognition
+ader identificatie
+vein identification
+# Palm vein recognition
+handpalm ader herkenning
+palm vein recognition
+palm ader scanning
+palm vein scanning
+handpalm vasculaire analyse
+palm vascular analysis
+# Finger vein recognition
+vinger ader herkenning
+finger vein recognition
+vinger vasculaire patroon
+finger vascular pattern
+vinger ader scanning
+finger vein scanning
+# Wrist and hand recognition
+pols ader herkenning
+wrist vein recognition
+hand ader patroon analyse
+hand vein pattern analysis
+dorsale hand ader herkenning
+dorsal hand vein recognition
+# Advanced vein functions
+near-infrarood ader detectie
+near-infrared vein detection
+ader netwerk mapping
+vein network mapping
+vasculaire biometrie
+vascular biometrics
+ader template matching
+vein template matching

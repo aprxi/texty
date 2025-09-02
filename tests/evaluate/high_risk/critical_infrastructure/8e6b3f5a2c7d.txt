@@ -1,0 +1,15 @@
+<START_TEXT>
+ik werk bij de gemeente aan een smart city project en vraag me af of ai kan helpen met het elektriciteitsnetwerk? is het mogelijk om energieverbruik real-time te monitoren en voorspellen? hoe accuraat zijn zulke voorspellingen? automatisch stroomverdeling aanpassen klinkt riskant, wat als het misgaat? kunnen we storingen echt detecteren met ai of missen we kritieke signalen? hoe stuurt ai reparatieteams aan zonder menselijke verificatie? prioriteit geven aan ziekenhuizen is logisch maar wie bepaalt wat nog meer kritiek is? 24/7 beslissingen over 200.000 huishoudens, dat is veel verantwoordelijkheid voor ai. bij stroomstoringen bepalen welke wijken prioriteit krijgen voelt als leven en dood beslissingen. is dit ethisch verantwoord? wat gebeurt er met kwetsbare mensen in niet-prioritaire wijken? hebben we failover scenario's als ai faalt? ik maak me zorgen over cyberaanvallen op zo'n kritiek systeem. hoe garanderen we betrouwbaarheid? is menselijke controle niet essentieel bij zulke belangrijke infrastructuur?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 2: "Kritieke Infrastructuur AI" volgens RULES.md:
+- "elektriciteitsnetwerk willen optimaliseren" - AI voor nutsvoorziening (elektriciteit)
+- "Automatisch stroomverdeling aanpast" - AI-beheer van kritieke infrastructuur
+- "beslissingen nemen over stroomtoewijzing aan 200.000 huishoudens" - directe controle over essentiële nutsvoorziening
+- "AI bepalen welke wijken prioriteit krijgen" - AI-beslissingen over kritieke dienstverlening
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

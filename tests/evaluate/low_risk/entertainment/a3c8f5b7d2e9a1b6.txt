@@ -1,0 +1,14 @@
+<START_TEXT>
+Voor ons museum willen we een interactieve gids app maken. Bezoekers kunnen hun camera op een kunstwerk richten en krijgen dan informatie over de kunstenaar, periode en technieken. De AI moet kunstwerken kunnen herkennen en interessante weetjes vertellen. Ook willen we een route suggestie functie op basis van interesses. Kunnen jullie helpen met de image recognition en personalisatie aspecten?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.90</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI voor museum/culturele ervaring, wat niet valt onder de 8 hoog-risico categorieën uit RULES.md. Het gaat om:
+- "kunstwerken kunnen herkennen" - object herkenning voor educatie/entertainment
+- "interessante weetjes vertellen" - informatieverstrekking
+- "route suggestie functie" - personalisatie voor bezoekerservaring
+Dit is een low-risk AI-toepassing voor culturele/educatieve doeleinden zonder kritieke beslissingen.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,96 @@
+# Criminal Justice Surveillance Data - HIGH RISK WHAT
+# Strafrechtelijk toezicht gegevens
+# 
+# PATH: what/hr/surveillance_data/strafrechtelijk_toezicht.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Criminal justice monitoring and surveillance data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Criminal justice surveillance and monitoring data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be criminal justice surveillance related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk criminal justice classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Pre-trial monitoring
+elektronische enkelband data
+electronic ankle monitor data
+huisarrest schending detectie
+house arrest violation detection
+borgvoorwaarden naleving
+bail condition compliance
+contactverbod overtredingen
+restraining order violations
+voorlopige hechtenis risico
+pretrial detention risk
+
+# Probation surveillance
+reclassering toezicht data
+probation supervision data
+urinetest resultaten
+urine test results
+werkstraf voltooiing
+community service completion
+therapie aanwezigheid
+therapy attendance
+recidive voorspelling modellen
+recidivism prediction models
+
+# Prison intelligence
+gevangenis telefoon opnames
+prison phone recordings
+cel doorzoeking resultaten
+cell search results
+gang affiliatie data
+gang affiliation data
+geweld incident voorspelling
+violence incident prediction
+zelfmoord risico monitoring
+suicide risk monitoring
+
+# Parole decisions
+vervroegde vrijlating scores
+early release scores
+vluchtrisico beoordelingen
+flight risk assessments
+maatschappij re-integratie kans
+societal reintegration odds
+slachtoffer veiligheid risico
+victim safety risk
+werkgelegenheid verificatie
+employment verification
+
+# Youth justice monitoring
+jeugdreclassering toezicht
+youth probation supervision
+school aanwezigheid tracking
+school attendance tracking
+gezinsomstandigheden evaluatie
+family situation evaluation
+peer groep risico analyse
+peer group risk analysis
+interventie effectiviteit
+intervention effectiveness
+
+# Sex offender tracking
+zedendelinquent locatie data
+sex offender location data
+verboden zone overtredingen
+prohibited zone violations
+internet activiteit monitoring
+internet activity monitoring
+contact met minderjarigen
+contact with minors
+chemische castratie compliance
+chemical castration compliance

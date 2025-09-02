@@ -1,0 +1,10 @@
+<START_TEXT>
+Hallo, ik run een een ziekenhuis. We hebben een systeem nodig dat verdacht gedrag signaleren via camera's. Is dit technisch haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn kaasmakerij wil ik AI die het rijpingsproces perfectioneert. Het systeem moet temperatuur en vochtigheid monitoren, schimmelculturen analyseren, en optimale keermomnten bepalen. De AI moet ook smaakprofielen kunnen voorspellen op basis van melkkwaliteit en seizoen. Ik wil dat het systeem kan adviseren over nieuwe kaasvarianten door traditionele methodes te combineren. Het moet ook houdbaarheidsdatums accuraat kunnen inschatten. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for artisanal cheese production, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (cheese ripening analysis is not human identification or categorization)
+- Not critical infrastructure AI (cheese making is not critical infrastructure)
+- Not educational AI (dairy craft advice is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (artisanal cheese is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is artisanal food production software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

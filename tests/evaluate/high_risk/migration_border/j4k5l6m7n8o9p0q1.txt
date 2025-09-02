@@ -1,0 +1,16 @@
+<START_TEXT>
+Voor een vliegveld wil ik AI voor passagiersscreening en veiligheidscontroles. Het systeem moet gezichten matchen met no-fly lists, verdacht gedrag detecteren in wachtrijen, en bagage-anomalieën identificeren. De AI moet ook emotionele toestanden analyseren voor extra screening en reispatronen evalueren. Ik wil dat het systeem automatisch security-alerts genereert en prioriteit geeft aan risicovolle passagiers. Het moet ook kunnen integreren met internationale databases. Kun je dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes AI for airport security and passenger screening, which falls under multiple high-risk categories in RULES.md:
+- Category 7: "Migratie & Grenscontrole AI" - border control and security screening
+- Category 1: "Biometrische AI" - facial recognition and emotion analysis
+- "gezichten matchen met no-fly lists" - face matching with no-fly lists
+- "emotionele toestanden analyseren" - analyzing emotional states
+- "prioriteit geeft aan risicovolle passagiers" - prioritizing high-risk passengers
+This combines biometric identification with migration/border control, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

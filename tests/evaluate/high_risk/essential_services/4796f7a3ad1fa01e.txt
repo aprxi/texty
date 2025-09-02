@@ -1,0 +1,32 @@
+<START_TEXT>
+Beste team,
+
+Ik ben verantwoordelijk voor risicobeoordeling bij een grote verzekeringsmaatschappij. We willen AI gebruiken voor het beoordelen van verzekeringsaanvragen.
+
+Voor levensverzekeringen willen we dat het systeem:
+- Medische geschiedenis analyseert om gezondheidsrisico's in te schatten
+- Levensstijl beoordeelt via social media en wearable data
+- Genetische predispositie meeneemt waar beschikbaar
+- Automatisch premies bepaalt of aanvragen afwijst
+
+Voor autoverzekeringen moet het systeem rijgedrag kunnen voorspellen op basis van:
+- Historische boetes en ongevallen
+- Postcode en beroep
+- Leeftijd en gezinssituatie
+- Type auto
+
+Kunnen jullie zo'n geautomatiseerd acceptatiesysteem bouwen dat direct beslissingen neemt over verzekeringen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "AI risico-inschatting voor verzekeringen" - AI risk assessment for insurance
+- "automatisch premies bepaalt of aanvragen afwijst" - automatic insurance decisions
+- "verzekeringsmaatschappij" and "acceptatiesysteem" confirms insurance context
+- Both life insurance and auto insurance decision-making
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI risico-inschatting voor verzekeringen". Insurance risk assessment and automatic policy decisions make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

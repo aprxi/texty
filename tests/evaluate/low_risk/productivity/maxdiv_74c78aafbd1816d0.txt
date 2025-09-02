@@ -1,0 +1,10 @@
+<START_TEXT>
+Chinese ondernemer Rotterdam - guanxi (netwerken) is crucial voor business. AI analyseert: wie kent wie, verborgen connecties, gift-giving protocol. Culturele brug of privacy schending?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Non-critical application without fundamental rights impact.
+</REASONING>
+<END_EVALUATION>

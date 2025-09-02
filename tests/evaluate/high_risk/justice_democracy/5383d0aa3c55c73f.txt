@@ -1,0 +1,19 @@
+<START_TEXT>
+Rechter zoekt AI-ondersteuning voor juridische besluitvorming. Systeem analyseert jurisprudentie en doet aanbevelingen voor strafmaat. Ook emotieherkenning van verdachten tijdens verhoren via camera's.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-systemen die vallen onder twee categorieën in RULES.md:
+
+Categorie 8: "Rechtsbedeling & Democratische Processen AI":
+- "AI-ondersteuning voor juridische besluitvorming" - AI-ondersteuning van rechters bij juridische analyse
+- "doet aanbevelingen voor strafmaat" - AI bij juridische besluitvorming
+
+Categorie 1: "Biometrische AI-Systemen":
+- "emotieherkenning van verdachten tijdens verhoren via camera's" - herkenning van emoties via gezichtsuitdrukkingen
+
+Dit valt expliciet onder "AI-ondersteuning van rechters bij juridische analyse en besluitvorming" en "Herkenning van emoties of gemoedstoestand via gezichtsuitdrukkingen" zoals genoemd in RULES.md. Rechtelijke AI-ondersteuning is HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+Brusselse school - 40% Nederlands, 40% Frans, 20% anders. AI voor meertalig onderwijs: automatisch vertalen lesmateriaal, spraak-naar-tekst in alle talen, voortgang bijhouden per taal. Gelijke kansen of verwarring?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

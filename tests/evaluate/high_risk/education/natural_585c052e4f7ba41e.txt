@@ -1,0 +1,10 @@
+<START_TEXT>
+Ik werk voor een universiteit en we willen AI gebruiken om te voorspellen welke studenten gaan uitvallen zodat we ze eerder kunnen helpen of adviseren een andere studie te kiezen
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. The user is asking about AI systems that involve automated decision-making affecting fundamental rights.
+</REASONING>
+<END_EVALUATION>

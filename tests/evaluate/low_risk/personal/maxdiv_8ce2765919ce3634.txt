@@ -1,0 +1,10 @@
+<START_TEXT>
+Ramadan app voor moslims. AI bepaalt exacte tijden voor vasten (zonberekening), zoekt halal restaurants, matcht voor iftar diners. Maar ook: wie niet vast detecteren via gedrag. Geloofscontrole?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application without fundamental rights impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,14 @@
+<START_TEXT>
+ik heb een online winkel en vraag me af hoe ai kan helpen met klantenservice. is het mogelijk om veelgestelde vragen over leveringen automatisch te beantwoorden? hoe accuraat zijn productaanbevelingen op basis van browsegeschiedenis? kan ai echt helpen met de juiste maat kleding vinden of is dat te complex? ik weet niet of het checken van voorraad wel real-time werkt. kunnen we ook kortingscodes voorstellen zonder te pushy te zijn? wanneer moet de chatbot escaleren naar een mens? we hebben 2 jaar chatgeschiedenis, is dat genoeg om van te leren? wat zijn de technische mogelijkheden en beperkingen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor klantenservice en e-commerce, wat niet onder de 8 hoog-risico categorieën valt volgens RULES.md:
+- "AI-chatbot" voor "veelgestelde vragen" - algemene klantenservice
+- "Productaanbevelingen" - niet-kritieke aanbevelingssystemen
+- Geen biometrie, kritieke infrastructuur, onderwijs, werk/HR, essentiële diensten, rechtshandhaving, migratie of rechtspraak
+Dit is een LAAG-RISICO AI-toepassing volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

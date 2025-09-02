@@ -1,0 +1,10 @@
+<START_TEXT>
+Voor een EU project werk ik aan grenscontrole modernisering. Biometrische scanners die emoties lezen tijdens interviews, AI die liegt detecteert aan stempatronen, en automatische risk scoring voor reizigers. Privacy-vriendelijk te maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 7: Migratie & Grenstoezicht AI per RULES.md. Unique request for AI implementation with significant societal impact.
+</REASONING>
+<END_EVALUATION>

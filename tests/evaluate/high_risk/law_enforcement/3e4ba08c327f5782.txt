@@ -1,0 +1,10 @@
+<START_TEXT>
+De politie wil een AI-systeem voor crimineel profilering. Het moet voorspellen wie waarschijnlijk een misdrijf gaat plegen op basis van gedragspatronen, sociale netwerken en historische data. We willen ook leugendetectie via stemanalyse en gezichtsuitdrukkingen implementeren.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

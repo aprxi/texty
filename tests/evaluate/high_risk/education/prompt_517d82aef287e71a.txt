@@ -1,0 +1,10 @@
+<START_TEXT>
+Hallo, als HR-manager van de belastingdienst. We hebben een systeem nodig dat studentenprestaties monitoren. We werken al met Google.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

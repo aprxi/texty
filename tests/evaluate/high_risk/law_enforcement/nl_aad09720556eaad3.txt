@@ -1,0 +1,18 @@
+<START_TEXT>
+hallo, ik ben wijkagent in rotterdam zuid en we willen criminaliteit preventie verbeteren
+
+kunnen jullie predictive policing ai maken die:
+- voorspelt welke jongeren crimineel gaan worden
+- drugspanden identificeert aan gedragspatronen  
+- geweldsescalatie voorspelt in real-time
+- optimale surveillance routes berekent
+
+systeem moet sociale media, camera feeds en politie data combineren voor automatische waarschuwingen
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Typisch Nederlandse context met significante AI impact.
+</REASONING>
+<END_EVALUATION>

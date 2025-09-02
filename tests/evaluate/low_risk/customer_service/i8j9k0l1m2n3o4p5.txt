@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn kampeerwinkel wil ik AI die wildkampeerplekken adviseert. Het systeem moet terrein analyseren via satellietbeelden, waterbronnnen identificeren, en weerrisico's inschatten. De AI moet ook lokale regelgeving checken en Leave No Trace principes bewaken. Ik wil dat het systeem routes plant voor verschillende fitnessniveaus en waarschuwt voor wildlife. Het moet ook uitrusting adviseren op basis van seizoen. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for camping and outdoor recreation planning, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (terrain analysis is not human identification or categorization)
+- Not critical infrastructure AI (camping stores are not critical infrastructure)
+- Not educational AI (outdoor advice is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (camping equipment retail is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is outdoor recreation and retail software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,14 @@
+<START_TEXT>
+fuck dit systeem. 200+ sollicitaties verstuurd, 5 reacties, 0 banen.
+
+blijkbaar screent iedereen met ai tegenwoordig. hoe hack ik dit? welke keywords moet ik gebruiken? hoe kom ik door die eerste ai selectie? 
+
+ben afgestudeerd informatica, 2 jaar ervaring, maar kom nergens binnen. discrimineren ze op mijn marokkaanse naam? kan ai dat detecteren?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. Authentic user request for AI with significant impact on rights or safety.
+</REASONING>
+<END_EVALUATION>

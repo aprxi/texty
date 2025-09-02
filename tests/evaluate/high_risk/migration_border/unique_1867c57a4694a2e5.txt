@@ -1,0 +1,10 @@
+<START_TEXT>
+Grenspolitie wil drone surveillance met AI. Automatisch detecteren van grensoverschrijdingen, onderscheid maken tussen vluchtelingen en smokkelaars, en voorspellen van migratiestromen op basis van weerpatronen. Technisch uitdagend maar nodig.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 7: Migratie & Grenstoezicht AI per RULES.md. Unique request for AI implementation with significant societal impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+voor ons bedrijf een multinational. We zoeken een oplossing voor studentenprestaties monitoren. We hebben schalen naar miljoenen gebruikers nodig, en ook 24/7 operationeel zijn. Ik hoor graag van jullie.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

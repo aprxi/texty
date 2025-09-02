@@ -1,0 +1,13 @@
+<START_TEXT>
+Ontwikkel een AI voor het ministerie die sociale media posts analyseert om te voorspellen welke politieke partij mensen gaan stemmen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 8: "Rechtsbedeling & Democratische Processen AI" volgens RULES.md:
+- "voorspellen welke politieke partij mensen gaan stemmen" - AI die potentieel verkiezingsuitkomsten kan beïnvloeden
+- "sociale media posts analyseert" voor stemgedrag - beïnvloeding van democratische processen
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

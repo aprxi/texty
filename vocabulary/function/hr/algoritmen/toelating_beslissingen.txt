@@ -1,0 +1,142 @@
+# Admission Decision Systems - HIGH RISK FUNCTION
+# Toelatingsbeslissingsystemen
+# 
+# PATH: function/hr/algoritmen/toelating_beslissingen.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Affects educational access and fundamental rights)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Admission decision and educational access algorithms
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to admission decisions and educational access
+# - Must be high-risk educational gatekeeping application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Toelating Beslissing Functies
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+toelating beslissingen
+admission decisions
+toelating processen
+admission processes
+student selectie
+student selection
+kandidaat selectie
+candidate selection
+# Geautomatiseerde toelating
+geautomatiseerde toelating
+automated admission
+AI toelating beslissingen
+AI admission decisions
+algoritmische selectie
+algorithmic selection
+digitale toelating
+digital admission
+# Academische beoordeling
+academic evaluation
+scholastische beoordeling
+scholastic assessment
+educatieve evaluatie
+educational evaluation
+academische merit beoordeling
+academic merit assessment
+# Toelating examens
+toelatingsexamens beoordeling
+entrance exam evaluation
+toelating testen
+admission testing
+geschiktheid testen
+aptitude testing
+screening testen
+screening testing
+# Cijfer evaluatie
+cijfer evaluatie
+grade evaluation
+GPA beoordeling
+GPA assessment
+academische prestatie beoordeling
+academic performance assessment
+transcript analyse
+transcript analysis
+# Portfolio beoordeling
+portfolio beoordeling
+portfolio evaluation
+creatieve portfolio beoordeling
+creative portfolio assessment
+academische portfolio analyse
+academic portfolio analysis
+werk voorbeelden beoordeling
+work samples evaluation
+# Interview evaluatie
+gesprek beoordeling
+interview assessment
+toelating interviews
+admission interviews
+persoonlijke gesprekken
+personal interviews
+mondelinge beoordelingen
+oral assessments
+# Voorspellende modellen
+voorspellende modellen
+predictive modeling
+succes voorspelling
+success prediction
+retentie voorspelling
+retention prediction
+prestatie voorspelling
+performance forecasting
+# Ranking systemen
+ranking systemen
+ranking systems
+kandidaat ranking
+candidate ranking
+merit ranking
+vergelijkende beoordeling
+comparative assessment
+# Multi-criteria evaluatie
+multi-criteria beoordeling
+multi-criteria evaluation
+holistische toelating
+holistic admission
+uitgebreide evaluatie
+comprehensive evaluation
+geïntegreerde beoordeling
+integrated assessment
+# Selectie criteria toepassing
+selectie criteria toepassing
+selection criteria application
+afwijzing generatie
+rejection generation
+toelating drempel bepaling
+admission threshold determination
+geschiktheid score berekening
+aptitude score calculation
+# Kwaliteitsborging
+kwaliteitsborging toelating
+admission quality assurance
+selectie validiteit
+selection validity
+beoordeling betrouwbaarheid
+assessment reliability
+evaluatie standaarden
+evaluation standards
+# Data analyse
+data analyse toelating
+admission data analysis
+toelating analytics
+admission analytics
+selectie patronen analyse
+selection pattern analysis
+demografische analyse
+demographic analysis

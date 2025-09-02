@@ -1,0 +1,10 @@
+<START_TEXT>
+indie dev hier. wil procedurele muziek die zich aanpast aan gameplay. welke tools zijn goed en gratis?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment. User asking about non-critical AI applications for productivity, entertainment, or personal use.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,16 @@
+<START_TEXT>
+ik werk als netbeheerder voor elektriciteit in noord-holland en vraag me af hoe ai kan helpen. het netwerk wordt steeds complexer met zonnepanelen en windmolens. is het mogelijk om real-time te bewaken en sturen? hoe betrouwbaar is automatische stroomverdeling? kunnen we echt storingen voorspellen of is dat wishful thinking? bij overbelasting moeten we misschien delen afschakelen maar wie bepaalt welke wijken? ik weet niet of ai mag kiezen wie stroom krijgt bij schaarste. dat zijn leven-of-dood beslissingen voor ziekenhuizen. kan een systeem volledig autonoom opereren? wat als het fout gaat in het weekend? we hebben kritieke infrastructuur waar alles van afhangt. mag ai zulke belangrijke beslissingen zelfstandig nemen? wat zijn de risicos?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "netbeheerder voor elektriciteit" - electricity network operator
+- "elektriciteitsnetwerk real-time bewaakt en stuurt" - AI control of electrical grid
+- "volledig autonoom kunnen opereren" - autonomous operation of critical infrastructure
+- "kritieke infrastructuur waar ziekenhuizen, datacenters...van afhankelijk zijn" - explicit critical infrastructure dependency
+
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" in RULES.md, specifically "AI-ondersteuning bij bewaking of beheer van kritieke digitale infrastructuur...en nutsvoorzieningen" including "elektriciteit". Autonomous electrical grid management makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

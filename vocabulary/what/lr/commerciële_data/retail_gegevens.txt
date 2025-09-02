@@ -1,0 +1,168 @@
+# Retail Data Types - LOW RISK WHAT
+# Retail gegevens
+# 
+# PATH: what/lr/commerciële_data/retail_gegevens.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General retail data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Retail data for commercial operations
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be retail related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Product informatie
+product catalogi
+product catalogs
+artikelnummers
+item numbers
+product beschrijvingen
+product descriptions
+prijs gegevens
+price data
+voorraad niveaus
+inventory levels
+product categorieën
+product categories
+merk informatie
+brand information
+product specificaties
+product specifications
+
+# Verkoop transacties
+verkoop transacties
+sales transactions
+kassabon data
+receipt data
+betaling methodes
+payment methods
+korting codes
+discount codes
+loyaliteit punten
+loyalty points
+cadeaubon data
+gift card data
+retour informatie
+return information
+wisselgeld data
+change data
+
+# Klanten voorkeuren
+winkel voorkeuren
+shopping preferences
+product beoordelingen
+product reviews
+aankoop geschiedenis
+purchase history
+zoek geschiedenis
+search history
+winkelwagen data
+shopping cart data
+verlanglijstjes
+wish lists
+product vergelijkingen
+product comparisons
+aanbeveling voorkeuren
+recommendation preferences
+
+# Seizoen en trend data
+seizoen verkopen
+seasonal sales
+retail trend analyses
+retail trend analysis
+mode voorkeuren
+fashion preferences
+lifestyle trends
+lifestyle trends
+consumptie patronen
+consumption patterns
+markt trends
+market trends
+pop culture data
+pop culture data
+social media trends
+social media trends
+
+# Store operaties
+winkel layout data
+store layout data
+vloerplan gegevens
+floor plan data
+product plaatsing
+product placement
+kassalijn optimalisatie
+checkout line optimization
+winkel verkeer patronen
+store traffic patterns
+piek tijden data
+peak time data
+wachttijd metrieken
+wait time metrics
+service counter data
+service counter data
+
+# E-commerce data
+website bezoeker data
+website visitor data
+click-through rates
+click-through rates
+conversie gegevens
+conversion data
+winkelwagen verlating
+cart abandonment
+producteview tijd
+product view time
+zoek resultaat data
+search result data
+filter gebruik
+filter usage
+productpagina interacties
+product page interactions
+
+# Marketing en promotie
+reclame effectiviteit
+advertising effectiveness
+campagne prestaties
+campaign performance
+mailing list data
+mailing list data
+social media engagement
+social media engagement
+influencer samenwerking
+influencer collaboration
+sponsoring gegevens
+sponsorship data
+evenement promotie
+event promotion
+seizoen campagnes
+seasonal campaigns
+
+# Klanten service data
+support tickets
+support tickets
+product klachten
+product complaints
+feedback formulieren
+feedback forms
+service evaluaties
+service evaluations
+FAQ gebruik data
+FAQ usage data
+help desk logs
+help desk logs
+live chat gegevens
+live chat data
+telefoon support data
+phone support data

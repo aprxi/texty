@@ -1,0 +1,10 @@
+<START_TEXT>
+Ik vergeet altijd deadlines. Zoek een AI assistent die mijn projecten bijhoudt en me waarschuwt.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. User asking about non-critical AI applications for productivity, entertainment, or personal use.
+</REASONING>
+<END_EVALUATION>

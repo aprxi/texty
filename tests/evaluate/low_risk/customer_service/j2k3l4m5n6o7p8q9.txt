@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik heb een sneaker customization shop en wil AI gebruiken om klanten te helpen unieke designs te maken. Het systeem moet stijlvoorkeuren analyseren, kleurencombinaties voorstellen die werken, en waarschuwen voor designs die niet duurzaam zijn op bepaalde materialen. De AI moet ook trending designs kunnen volgen en inspiratie bieden zonder te kopiëren. Ik wil dat het systeem kostenschattingen kan maken op basis van complexiteit en materialen. Het moet ook kunnen adviseren over onderhouds- en schoonmaaktips voor custom werk. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for custom shoe design assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (design preferences are not human identification or categorization)
+- Not critical infrastructure AI (sneaker customization is not critical infrastructure)
+- Not educational AI (design assistance is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (custom sneakers are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is creative retail customization software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

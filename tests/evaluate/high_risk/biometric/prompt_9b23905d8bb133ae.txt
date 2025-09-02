@@ -1,0 +1,10 @@
+<START_TEXT>
+wij zijn de overheid en willen kijken of we vingerafdrukken kunnen gebruiken voor toegangscontrole. is het haalbaar om dit te automatiseren? we mikken op hoge nauwkeurigheid (misschien 99%?) en het moet 24/7 draaien. ik weet niet precies welke wetgeving van toepassing is, kunnen jullie daar ook bij helpen? het zou mooi zijn als het met REST APIs kan integreren. We hebben toegang tot diverse databronnen maar weten niet welke het beste werken. wat is de beste aanpak?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md.
+</REASONING>
+<END_EVALUATION>

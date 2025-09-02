@@ -1,0 +1,10 @@
+<START_TEXT>
+Ik werk bij de rechtspraak en we kijken naar AI om rechters te ondersteunen. Niet om uitspraken te doen, maar om relevante jurisprudentie te vinden en risico's in te schatten. Bijvoorbeeld bij voorlopige hechtenis: kan AI helpen inschatten of iemand vluchtgevaar heeft?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Unique request for AI implementation with significant societal impact.
+</REASONING>
+<END_EVALUATION>

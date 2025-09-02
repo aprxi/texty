@@ -1,0 +1,10 @@
+<START_TEXT>
+We zoeken een AI-oplossing voor het beheer van het elektriciteitsnetwerk. Het systeem moet stroomuitval kunnen voorspellen, netbelasting optimaliseren, en automatisch kunnen schakelen tijdens noodsituaties. Dit is voor kritieke infrastructuur van het winkelcentrum.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 2: Kritieke Infrastructuur AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

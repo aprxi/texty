@@ -1,0 +1,10 @@
+<START_TEXT>
+raamexploitant wallen. veiligheid dames belangrijk. ai: klant screening, paniekknoppen, aggressie detectie. maar ook: meisjes monitoren, quotum handhaven. bescherming of uitbuiting?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. Unique perspective on AI implementation with rights implications.
+</REASONING>
+<END_EVALUATION>

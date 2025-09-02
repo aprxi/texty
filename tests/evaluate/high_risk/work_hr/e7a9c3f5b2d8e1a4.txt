@@ -1,0 +1,15 @@
+<START_TEXT>
+Kunnen jullie een systeem bouwen dat CV's scant en kandidaten automatisch rankt op geschiktheid? We krijgen teveel sollicitaties om handmatig door te nemen. Het moet kunnen filteren op ervaring, opleiding en vaardigheden, maar ook kunnen inschatten wie het beste bij ons team past. Graag ook een voorspelling van hoe lang iemand waarschijnlijk bij ons blijft werken gebaseerd op hun carrièrepatroon. En als het kan willen we ook sociale media profielen laten meewegen in de beoordeling.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor werving en selectie, wat valt onder Categorie 4: "Werk & HR AI" volgens RULES.md. Specifiek:
+- "CV's scant en kandidaten automatisch rankt op geschiktheid" - AI voor werving en selectie
+- "inschatten wie het beste bij ons team past" - AI voor aanstellingsbeslissingen
+- "voorspelling van hoe lang iemand waarschijnlijk bij ons blijft werken" - AI voor arbeidsvoorwaarden beslissingen
+- "sociale media profielen laten meewegen in de beoordeling" - AI-monitoring voor selectie
+Dit is een hoog-risico AI-systeem volgens EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

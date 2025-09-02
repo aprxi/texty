@@ -1,0 +1,10 @@
+<START_TEXT>
+ ik run een een tech startup. We willen experimenteren met verhaallijnen personaliseren. Het systeem moet leuk zijn om te gebruiken en leuk zijn om te gebruiken. We werken al met lokale servers.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment.
+</REASONING>
+<END_EVALUATION>

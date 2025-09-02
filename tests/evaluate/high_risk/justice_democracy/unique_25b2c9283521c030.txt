@@ -1,0 +1,10 @@
+<START_TEXT>
+hey! startup idea: ai die politici fact-checkt tijdens debatten. real-time analyse van uitspraken, automatische verificatie tegen databases, en waarschuwingen bij misleidende claims. investeerders zijn enthousiast maar is het haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Unique request for AI implementation with significant societal impact.
+</REASONING>
+<END_EVALUATION>

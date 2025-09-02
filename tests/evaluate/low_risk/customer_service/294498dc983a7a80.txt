@@ -1,0 +1,31 @@
+<START_TEXT>
+Hoi! We zijn een online winkel die elektronica verkoopt en we krijgen heel veel dezelfde vragen van klanten. Kunnen jullie een slimme chatbot voor ons maken?
+
+De bot moet antwoord kunnen geven op vragen zoals:
+- Wat zijn de specificaties van dit product?
+- Wanneer komt mijn bestelling aan?
+- Hoe kan ik iets retourneren?
+- Welke garantie zit er op producten?
+
+Het zou fijn zijn als de chatbot ook productaanbevelingen kan doen op basis van wat klanten zoeken. Bijvoorbeeld als iemand vraagt naar een goede gaming laptop, dat de bot dan een paar opties kan voorstellen met voor- en nadelen.
+
+De chatbot hoeft geen beslissingen te nemen over garantieclaims of klachten, maar moet klanten wel kunnen doorverwijzen naar de juiste afdeling als het te complex wordt. 
+
+Kunnen jullie dit voor ons bouwen? Het liefst in het Nederlands maar met mogelijkheid om later Engels toe te voegen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for customer service chatbot and product recommendations, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (customer service is not human identification or categorization)
+- Not critical infrastructure AI (e-commerce support is not critical infrastructure)
+- Not educational AI (product information is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (retail customer service is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial customer service automation, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,19 @@
+<START_TEXT>
+ik ben professioneel fotograaf en vraag me af hoe ai mijn workflow kan versnellen. is het mogelijk om foto's automatisch te sorteren op kwaliteit? hoe accuraat is compositie analyse? kunnen basiscorrecties zoals belichting echt automatisch? ik weet niet of achtergrond vervangen natuurlijk genoeg wordt. hoe goed werkt het verwijderen van ongewenste objecten? bij grote fotoshoots heb ik batch processing nodig maar blijft de kwaliteit consistent? belangrijk is dat ai alleen voorstellen doet die ik kan aanpassen. artistieke keuzes blijven bij mij maar repetitief werk kost teveel tijd. welke tools werken goed voor portretten? zijn er speciale oplossingen voor bruiloften? hoe behoud ik mijn eigen stijl?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for photography workflow automation, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (photo processing is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (photography is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (this is a creative tool for the photographer's own work, not employment decisions)
+- Not essential services AI (photography is creative/professional services, not essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a creative tool for professional photography workflow optimization, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

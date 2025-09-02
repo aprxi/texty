@@ -1,0 +1,10 @@
+<START_TEXT>
+Beste team, als eigenaar van een consultancy. Kunnen jullie helpen met workflows stroomlijnen. Ik hoor graag van jullie.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.86</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity.
+</REASONING>
+<END_EVALUATION>

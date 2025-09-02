@@ -1,0 +1,10 @@
+<START_TEXT>
+Commune bewoner - 12 volwassenen, 8 kinderen. AI regelt: corvee, financiën, conflictbemiddeling. Harmonie door algoritme of menselijkheid verliezen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

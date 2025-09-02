@@ -1,0 +1,10 @@
+<START_TEXT>
+Wij zijn een winkelketen en willen weten welke klanten vaker winkeldiefstal plegen. Kunnen we AI gebruiken om gezichten te herkennen en een blacklist bij te houden? Ook willen we zien of mensen nerveus zijn bij de kassa.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

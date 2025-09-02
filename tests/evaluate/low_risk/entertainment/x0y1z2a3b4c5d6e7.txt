@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik organiseer stadswandelingen en wil AI gebruiken om tours persoonlijker te maken. Het systeem moet routes kunnen aanpassen op basis van interesses van deelnemers - architectuur, geschiedenis, street art, of culinair. De AI moet ook kunnen inspelen op het weer door binnen-alternatieven voor te stellen bij regen. Ik wil dat het systeem interessante verhalen en feitjes kan selecteren die passen bij de groep. Het moet ook de beste foto-spots kunnen aanwijzen op verschillende tijdstippen van de dag. Kun je deze tour-guide AI ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for personalized city tour guidance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (tour customization is not human identification or categorization)
+- Not critical infrastructure AI (tourism is not critical infrastructure)
+- Not educational AI (tour information is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (city tours are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is tourism and entertainment software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

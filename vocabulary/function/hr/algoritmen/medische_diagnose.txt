@@ -1,0 +1,154 @@
+# Medical Diagnosis Systems - HIGH RISK FUNCTION
+# Medische Diagnosesystemen
+# 
+# PATH: function/hr/algoritmen/medische_diagnose.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Affects health and safety decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Medical diagnosis and healthcare decision algorithms
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to medical diagnosis and healthcare
+# - Must be high-risk healthcare application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Medische Diagnose Functies
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+medische diagnose
+medical diagnosis
+ziekte diagnose
+disease diagnosis
+klinische diagnose
+clinical diagnosis
+medische detectie
+medical detection
+# AI diagnostiek
+AI diagnostiek
+AI diagnostics
+artificiele intelligentie diagnose
+artificial intelligence diagnosis
+machine learning diagnose
+machine learning diagnosis
+geautomatiseerde diagnose
+automated diagnosis
+# Ziekte detectie
+ziekte detectie
+disease detection
+pathologie detectie
+pathology detection
+ziekte identificatie
+illness identification
+medische conditie detectie
+medical condition detection
+# Medische beeldvorming
+medische beeldvorming analyse
+medical imaging analysis
+radiologie AI
+radiology AI
+scan analyse
+scan analysis
+X-ray analyse
+X-ray analysis
+MRI interpretatie
+MRI interpretation
+# Klinische beslissingsondersteuning
+klinische beslissingsondersteuning
+clinical decision support
+diagnostische ondersteuning
+diagnostic assistance
+medische beslissings hulp
+medical decision aid
+klinische begeleiding
+clinical guidance
+# Symptoom herkenning
+symptoom herkenning
+symptom recognition
+symptoom analyse
+symptom analysis
+symptoom identificatie
+symptom identification
+klacht herkenning
+complaint recognition
+# Prognose systemen
+prognose bepaling
+prognosis determination
+ziekte voorspelling
+disease prediction
+behandeling voorspelling
+treatment prediction
+uitkomst voorspelling
+outcome prediction
+# Screening systemen
+medische screening
+medical screening
+ziekte screening
+disease screening
+preventieve screening
+preventive screening
+vroege detectie
+early detection
+# Monitoring systemen
+patiënt monitoring
+patient monitoring
+vitale functies monitoring
+vital signs monitoring
+ziekte progressie monitoring
+disease progression monitoring
+behandeling monitoring
+treatment monitoring
+# Risico inschatting
+medische risico inschatting
+medical risk assessment
+ziekte risico beoordeling
+disease risk evaluation
+patient risico analyse
+patient risk analysis
+gezondheids risico evaluatie
+health risk evaluation
+# Behandeling aanbeveling
+behandeling aanbeveling
+treatment recommendation
+therapie suggestie
+therapy suggestion
+medicatie aanbeveling
+medication recommendation
+interventie voorstel
+intervention proposal
+# Specialist consultatie
+specialist consultatie systemen
+expert medische systemen
+medische AI assistenten
+klinische AI tools
+
+# Healthcare process functions (from context activities)
+diagnosticeren patiënten
+behandelen ziekten
+voorschrijven medicatie
+beoordelen medische noodzaak
+opereren patiënten
+beoordelen studenten
+toewijzen schoolplaatsen
+evalueren leerresultaten
+bepalen studierichting
+toekennen diploma
+beoordelen kredietwaardigheid
+screenen kredietaanvragen
+goedkeuren leningen
+bepalen rente
+beoordelen verzekeringsclaims
+toekennen uitkeringen
+controleren fraude
+beoordelen aanvragen
+bepalen sociale steun

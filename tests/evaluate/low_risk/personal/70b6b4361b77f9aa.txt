@@ -1,0 +1,10 @@
+<START_TEXT>
+Voor mijn fitness doelen zoek ik een AI die trainingsschema's kan maken. Het moet mijn voortgang bijhouden, voedingsadvies geven, en motiverende berichten sturen. Ik wil gepersonaliseerde work-outs gebaseerd op mijn fitnessniveau.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.85</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI applications for personal. The system does not fall under any of the 8 high-risk categories defined in RULES.md.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+help ik verzuip in emails. is er ai die kan sorteren wat belangrijk is en standaard antwoorden kan sturen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. User asking about non-critical AI applications for productivity, entertainment, or personal use.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,65 @@
+# Trend Analysis and Pattern Data - LOW RISK WHAT
+# Trendanalyse gegevens
+# 
+# PATH: what/lr/analyse_data/trend_analyse.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General trend analysis data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Trend analysis and pattern data for business insights
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be trend analysis related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk business analytics classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+trendanalyse
+trend analysis
+markttrends
+market trends
+seizoenspatronen
+seasonal patterns
+groeitrends
+growth trends
+consumententrends
+consumer trends
+industrietrends
+industry trends
+technologietrends
+technology trends
+sociale trends
+social trends
+voorspellende trends
+predictive trends
+historische patronen
+historical patterns
+cyclische patronen
+cyclical patterns
+correlatie data
+correlation data
+tijdreeksanalyse
+time series analysis
+trendvoorspellingen
+trend predictions
+afwijkingsanalyse
+deviation analysis
+patroonherkenning data
+pattern recognition data
+sentiment trends
+sentiment trends
+volume trends
+volume trends
+geografische trends
+geographic trends
+demografische trends
+demographic trends

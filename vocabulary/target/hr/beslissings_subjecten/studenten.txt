@@ -1,0 +1,115 @@
+# Students and Learners - HIGH RISK TARGET
+# Studenten en leerlingen
+# 
+# PATH: target/hr/beslissings_subjecten/studenten.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to educational AI decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Students and learners subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be students or learners
+# - Must NOT include what AI does to them
+# - Must NOT include where they study
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+studenten
+students
+leerlingen
+pupils
+scholieren
+school students
+cursisten
+course participants
+
+# Onderwijs niveaus
+basisschool leerlingen
+primary school pupils
+middelbare school scholieren
+secondary school students
+mbo studenten
+vocational students
+hbo studenten
+university of applied sciences students
+universitaire studenten
+university students
+
+# Studie fasen
+eerstejaars studenten
+first-year students
+ouderejaars studenten
+senior students
+afstudeer studenten
+graduating students
+master studenten
+master students
+
+# Bijzondere groepen
+internationale studenten
+international students
+uitwisseling studenten
+exchange students
+deeltijd studenten
+part-time students
+avond studenten
+evening students
+
+# Financiële situatie
+studiefinanciering ontvangers
+student loan recipients
+bijbaan studenten
+working students
+financieel afhankelijke studenten
+financially dependent students
+zelfstandige studenten
+independent students
+
+# Prestatie groepen
+excellente studenten
+excellent students
+gemiddelde studenten
+average students
+zwakke studenten
+struggling students
+risicogroep studenten
+at-risk students
+
+# Levensfase
+jonge studenten
+young students
+volwassen studenten
+adult students
+herintredende studenten
+returning students
+levenslang lerende studenten
+lifelong learning students
+
+# Speciale behoeften
+studenten met beperking
+students with disabilities
+dyslectische studenten
+dyslexic students
+hoogbegaafde studenten
+gifted students
+studenten met leermoeilijkheden
+students with learning difficulties
+
+# Woon situatie
+thuiswonende studenten
+students living at home
+uitwonende studenten
+students living away from home
+kampus bewoners
+campus residents

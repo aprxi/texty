@@ -1,0 +1,10 @@
+<START_TEXT>
+ik vraag me af of ai kan helpen met email beheer automatiseren. is het mogelijk om emails te categoriseren? hoe goed werkt prioritering? ik weet niet of 8 maanden genoeg tijd is om dit te bouwen. wat zijn de technische uitdagingen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity.
+</REASONING>
+<END_EVALUATION>

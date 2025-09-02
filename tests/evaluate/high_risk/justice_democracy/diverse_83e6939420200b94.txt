@@ -1,0 +1,10 @@
+<START_TEXT>
+Rechtsbijstand voor minima. Advocaat is duur, dus AI voor eerste hulp. Checkt of je een zaak hebt, welke bewijzen nodig zijn, wat je rechten zijn. Verwijst door naar pro deo advocaat als echt nodig. Toegang tot recht voor iedereen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

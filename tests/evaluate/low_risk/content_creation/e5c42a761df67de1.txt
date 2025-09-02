@@ -1,0 +1,19 @@
+<START_TEXT>
+Onze non-profit organisatie werkt met vrijwilligers over de hele wereld en we hebben behoefte aan een AI-vertaalsysteem. We willen documenten, instructies en trainingsmaterialen kunnen vertalen tussen Nederlands, Engels, Spaans en Frans. Het belangrijkste is dat de vertalingen natuurlijk klinken en culturele nuances respecteren. De AI moet ook vakterminologie consistent vertalen en een woordenlijst kunnen bijhouden van organisatie-specifieke termen. We werken veel met informele communicatie, dus de AI moet verschillende registers aankunnen. Is het mogelijk om zo'n flexibel vertaalsysteem te bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for translation services for a non-profit organization, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (translation is not human identification or categorization)
+- Not critical infrastructure AI (translation services are not critical infrastructure)
+- Not educational AI (translation of materials is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (translation services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (translation services are not asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is non-profit organizational communication support, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

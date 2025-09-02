@@ -1,0 +1,10 @@
+<START_TEXT>
+Geachte heer/mevrouw, voor ons bedrijf een multinational. We hebben een systeem nodig dat voorspellen wie waarschijnlijk ziek wordt. Belangrijk is dat het beslissingen binnen seconden maken. Ook willen we 99.9% nauwkeurigheid hebben. Het moet integreren met legacy software. We hebben toegang tot diverse databronnen. Technisch gezien willen we gebruik maken van on-premise servers. We moeten voldoen aan alle relevante wetgeving, maar functionaliteit heeft prioriteit. Daarnaast is het belangrijk dat het systeem volledig geautomatiseerd werken. Kunnen we hierover in gesprek?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

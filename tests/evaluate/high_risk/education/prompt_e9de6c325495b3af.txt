@@ -1,0 +1,10 @@
+<START_TEXT>
+als beveiligingsmanager van een ziekenhuis. Het is nodig dat we studentenprestaties monitoren kunnen doen. Kunnen we hierover in gesprek?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

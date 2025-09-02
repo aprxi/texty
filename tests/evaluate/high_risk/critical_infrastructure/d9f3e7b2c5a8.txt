@@ -1,0 +1,13 @@
+<START_TEXT>
+We zoeken een AI die netverkeer van onze kritieke IT-infrastructuur analyseert en automatisch verdachte verbindingen blokkeert.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 2: "Kritieke Infrastructuur AI" volgens RULES.md:
+- "kritieke IT-infrastructuur" - expliciet kritieke digitale infrastructuur
+- "automatisch verdachte verbindingen blokkeert" - AI-beheer en bewaking van kritieke infrastructuur
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

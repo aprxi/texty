@@ -1,0 +1,67 @@
+# Mobile App Users - LOW RISK TARGET
+# Mobiele app gebruikers
+# 
+# PATH: target/lr/vrijwillige_gebruikers/app_gebruikers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary mobile app usage)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Mobile app users using AI-powered applications
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be voluntary mobile app users
+# - Must NOT include what AI does to them
+# - Must NOT include which apps they use
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+app gebruikers
+app users
+mobiele gebruikers
+mobile users
+iOS gebruikers
+iOS users
+Android gebruikers
+Android users
+tablet gebruikers
+tablet users
+smartphone gebruikers
+smartphone users
+gratis app gebruikers
+free app users
+premium gebruikers
+premium users
+beta testers
+beta testers
+early adopters
+early adopters
+power users
+power users
+casual gebruikers
+casual users
+dagelijkse gebruikers
+daily users
+actieve gebruikers
+active users
+nieuwe gebruikers
+new users
+terugkerende gebruikers
+returning users
+internationale gebruikers
+international users
+lokale gebruikers
+local users
+jeugdige app gebruikers
+youth app users
+zakelijke app gebruikers
+business app users

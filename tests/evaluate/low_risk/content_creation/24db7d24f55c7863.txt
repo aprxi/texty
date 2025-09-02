@@ -1,0 +1,19 @@
+<START_TEXT>
+We willen graag een AI-systeem ontwikkelen dat automatisch content kan creëren voor onze social media accounts. Het moet blogposts, Instagram captions, Facebook posts, en Twitter berichten kunnen schrijven die passen bij onze merkidentiteit. We willen dat het systeem trending topics kan herkennen en daar relevante content over kan maken die aansluit bij onze doelgroep. Het zou fantastisch zijn als de AI ook afbeeldingen kan genereren of suggesties kan doen voor visuele content die goed past bij onze geschreven posts. We denken aan een tool die automatisch posting schedules kan maken en content kan optimaliseren voor verschillende tijdstippen en platforms. Het systeem moet ook kunnen reageren op comments en berichten van volgers, tenminste voor standaard vragen en reacties. We willen dat de AI onze merkstijl leert - formeel of informeel, grappig of serieus - en consistently toepast in alle content. Het zou geweldig zijn als het systeem ook kan analyseren welke content het beste presteert en daarop gebaseerde aanbevelingen kan doen voor toekomstige posts. We zien dit als een manier om onze online aanwezigheid te vergroten zonder een groot marketing team te hoeven hebben.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for social media content creation and marketing automation, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (content creation is not human identification or categorization)
+- Not critical infrastructure AI (social media marketing is not critical infrastructure)
+- Not educational AI (marketing content is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (social media marketing is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial marketing automation software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

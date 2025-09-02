@@ -1,0 +1,10 @@
+<START_TEXT>
+Nederlandse yoga leraar - oosterse wijsheid verkopen. AI: authentieke sanskrit uitspraak, chakra analyse, karma berekening. Culturele uitwisseling of diefstal?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical personal or business application.
+</REASONING>
+<END_EVALUATION>

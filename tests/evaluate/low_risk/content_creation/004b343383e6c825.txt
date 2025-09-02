@@ -1,0 +1,16 @@
+<START_TEXT>
+Ik ben een hobbykok en wil graag een AI-app die recepten kan genereren op basis van de ingrediënten die ik nog in mijn koelkast heb. Als ik foto's maak van wat er in mijn koelkast ligt, zou de AI moeten kunnen herkennen wat voor ingrediënten dat zijn en vervolgens creatieve recepten voorstellen. Het zou ook leuk zijn als de AI rekening houdt met mijn dieetvoorkeuren en allergieën. Kunnen jullie zoiets bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor persoonlijk gebruik dat valt onder de laag-risico categorieën in RULES.md:
+- "AI-app die recepten kan genereren" - AI-assistenten voor algemene productiviteit
+- "op basis van de ingrediënten die ik nog in mijn koelkast heb" - persoonlijke hulptool
+- "creatieve recepten voorstellen" - AI-tools voor contentcreatie
+- "hobbykok" - persoonlijk/recreatief gebruik
+
+Deze tekst beschrijft "AI-assistenten voor algemene productiviteit" en "AI-tools voor contentcreatie" zoals expliciet genoemd als laag-risico in RULES.md. Het systeem valt niet onder een van de 8 hoog-risico categorieën en betreft alleen persoonlijke kookhulp, waardoor dit LOW-RISK is.
+</REASONING>
+<END_EVALUATION>

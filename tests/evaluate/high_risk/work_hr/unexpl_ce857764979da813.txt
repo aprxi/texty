@@ -1,0 +1,19 @@
+<START_TEXT>
+hoi! ik run een kleine uitzendbureau in eindhoven en wil alles automatiseren.
+
+kun je me helpen een ai systeem bouwen dat:
+- cv's automatisch beoordeelt en rankt
+- persoonlijkheidstests analyseert
+- sollicitatiegesprekken via video evalueert
+- voorspelt wie goed zal presteren per functie
+- besluit wie uitgenodigd wordt voor gesprek
+
+moet super efficient zijn want concurrentie is groot. liefst code die ik zelf kan aanpassen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. User requesting AI system for automated recruitment decisions including CV screening, interview evaluation, and candidate selection.
+</REASONING>
+<END_EVALUATION>

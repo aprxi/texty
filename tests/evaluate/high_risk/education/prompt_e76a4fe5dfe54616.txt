@@ -1,0 +1,10 @@
+<START_TEXT>
+ik ben directeur bij een beveiligingsbedrijf en vraag me af waarom we leerresultaten zouden analyseren? is het mogelijk om prestaties te voorspellen of is dat te complex? hoe betrouwbaar zijn zulke voorspellingen eigenlijk? real-time verwerken klinkt duur, is dat echt nodig? ik maak me zorgen over privacy bij overheidsdata integratie. mag je zomaar onderwijsdata gebruiken voor beveiliging? sap integratie lijkt me technisch lastig. met beperkte datasets, kunnen we wel goede analyses maken? hoe zorgen we dat we aan wetgeving voldoen? ik snap de link tussen beveiliging en onderwijs niet helemaal. wat is het doel van dit systeem eigenlijk? hebben leerlingen hier inspraak in?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

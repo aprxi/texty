@@ -1,0 +1,19 @@
+<START_TEXT>
+Goedendag, ik manage een hotelketen en krijg feedback via verschillende kanalen - reviews op Booking.com, TripAdvisor, Google, directe emails, en comment cards. Ik zou een AI willen ontwikkelen die al deze feedback kan consolideren en analyseren. Het systeem moet niet alleen sentiment kunnen bepalen, maar ook specifieke aspecten identificeren zoals schoonmaak, ontbijt kwaliteit, personeel vriendelijkheid, locatie, of geluidsisolatie. De AI moet patronen kunnen herkennen per hotel locatie en seizoen - misschien klagen gasten in de zomer over airconditioning maar in de winter over verwarming. Ik wil dat het systeem automatisch response templates kan genereren die persoonlijk aanvoelen en de specifieke zorgen van gasten adresseren. Het moet ook kunnen detecteren welke kamers of faciliteiten vaker negatief genoemd worden zodat we gericht kunnen verbeteren. Competitive intelligence zou waardevol zijn - hoe scoren we vergeleken met hotels in de buurt? De AI moet urgente issues kunnen flaggen die directe actie vereisen, zoals bedwantsen of veiligheidsproblemen. Ook wil ik predictive analytics om te voorspellen welke gasten waarschijnlijk een slechte review zullen achterlaten zodat we proactief kunnen handelen. Kun je deze hospitality feedback AI helpen bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for hotel customer feedback analysis and hospitality management, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (customer feedback analysis is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (hotel management is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions, just customer service analytics)
+- Not essential services AI (hospitality is not essential services like healthcare/insurance)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a business analytics tool for hospitality customer service improvement, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

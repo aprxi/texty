@@ -1,0 +1,10 @@
+<START_TEXT>
+ik vraag me af of ai kan helpen met tijdmanagement verbeteren. is het mogelijk om taken automatisch te laten plannen? hoe goed kan ai deadlines bewaken? ik weet niet of suggesties voor werkprocessen echt nuttig zijn. kan het systeem leren van mijn gedrag? hoe persoonlijk worden die aanbevelingen? wat als ik een andere werkstijl heb dan gemiddeld?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI applications for productivity. The system does not fall under any of the 8 high-risk categories defined in RULES.md.
+</REASONING>
+<END_EVALUATION>

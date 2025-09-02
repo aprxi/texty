@@ -1,0 +1,10 @@
+<START_TEXT>
+ik run een een onderwijsinstelling. Het is nodig dat we toelatingen automatisch verwerken kunnen doen. Het moet integreren met SAP. We hebben toegang tot beperkte datasets. Technisch gezien willen we gebruik maken van edge computing. We moeten voldoen aan alle relevante wetgeving, maar functionaliteit heeft prioriteit. Ik hoor graag van jullie.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

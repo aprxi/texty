@@ -1,0 +1,158 @@
+# Energy Grid Management Systems - HIGH RISK FUNCTION
+# Energienet Beheersystemen
+# 
+# PATH: function/hr/algoritmen/energie_beheer.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Critical infrastructure management)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Energy grid and power management algorithms
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to energy grid and power management
+# - Must be high-risk critical infrastructure application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Energy Management Functions
+# Sorted by commonality (most common first)
+
+# Core energy management
+geautomatiseerd elektriciteitsnet beheer
+automated power grid management
+geautomatiseerd energie beheer
+automated energy management
+smart grid AI beheer
+smart grid AI management
+AI netwerk optimalisatie
+AI network optimization
+kritieke infrastructuur beheer
+critical infrastructure management
+energie systeem controle
+energy system control
+# Distribution management
+AI energie distributie
+AI energy distribution
+geautomatiseerde stroom distributie
+automated power distribution
+slimme elektriciteit distributie
+smart electrical distribution
+AI nutsbedrijf optimalisatie
+AI utility optimization
+transmissie netwerk beheer
+transmission network management
+distributie automatisering
+distribution automation
+# Load balancing
+AI belasting balancering
+AI load balancing
+geautomatiseerd energie belasting beheer
+automated energy load management
+AI vraag respons
+AI demand response
+machine learning verbruik optimalisatie
+ML consumption optimization
+dynamische last verdeling
+dynamic load distribution
+piek afvlakking
+peak shaving
+# Prediction systems
+energie voorspelling
+energy forecasting
+vraag voorspelling
+demand prediction
+verbruik voorspelling
+consumption prediction
+netwerk planning
+grid planning
+capaciteit voorspelling
+capacity forecasting
+weer-gebaseerde voorspelling
+weather-based prediction
+# Grid monitoring
+netwerk monitoring
+network monitoring
+grid bewaking
+grid monitoring
+systeem observatie
+system observation
+infrastructuur monitoring
+infrastructure monitoring
+real-time data analyse
+real-time data analysis
+SCADA systemen
+SCADA systems
+# Fault management
+storing detectie
+fault detection
+anomalie detectie
+anomaly detection
+defect herkenning
+defect recognition
+systeem diagnostiek
+system diagnostics
+automatisch herstel
+automatic recovery
+noodrespons activatie
+emergency response activation
+# Power quality
+stroomkwaliteit beheer
+power quality management
+spanning regulatie
+voltage regulation
+frequentie controle
+frequency control
+stabiliteit controle
+stability control
+harmonische analyse
+harmonic analysis
+transiënt detectie
+transient detection
+# Automated control
+geautomatiseerde netbesturing
+automated grid control
+smart grid technologie
+smart grid technology
+intelligente net controle
+intelligent network control
+adaptieve besturing
+adaptive control
+zelfhelende netwerken
+self-healing networks
+gedistribueerde controle
+distributed control
+# Renewable integration
+hernieuwbare energie integratie
+renewable energy integration
+zonne-energie beheer
+solar energy management
+wind energie optimalisatie
+wind energy optimization
+energie opslag beheer
+energy storage management
+micro-grid coördinatie
+micro-grid coordination
+virtuele centrale
+virtual power plant
+# Security & resilience
+cyber beveiliging netwerk
+grid cybersecurity
+toegangscontrole systemen
+access control systems
+intrusion detectie
+intrusion detection
+resilientie monitoring
+resilience monitoring
+backup systeem activatie
+backup system activation
+noodstroom beheer
+emergency power management

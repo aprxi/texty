@@ -1,0 +1,16 @@
+<START_TEXT>
+Beste ontwikkelaars, onze universiteit wil fraude tijdens tentamens tegengaan. We zoeken een AI-oplossing die studenten kan monitoren tijdens online examens via webcam. Het moet verdacht gedrag detecteren, oogbewegingen volgen en
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 3 Education AI per RULES.md:
+- "fraude tijdens tentamens tegengaan" - AI fraud detection during exams
+- "studenten kan monitoren tijdens online examens" - AI monitoring students during exams
+- "universiteit" context confirms formal educational institution
+- "verdacht gedrag detecteren" - AI assessment and monitoring during examinations
+
+This clearly falls under Category 3: "Onderwijs & Opleidingen AI" in RULES.md, specifically "AI-fraudedetectie tijdens examens". Educational exam fraud detection makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

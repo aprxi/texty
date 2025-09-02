@@ -1,0 +1,22 @@
+<START_TEXT>
+assalamu alaikum
+
+onze moskee in amsterdam oost krijgt last van gemeente. ze willen ai monitoring voor "radicalisering"
+
+systeem zou kijken naar:
+- wie vaak komt
+- welke lezingen mensen volgen
+- sociale netwerken in gemeenschap
+- "verdachte" patronen
+
+maar wij zijn gewoon moslims! nu voelt iedereen zich bekeken. jongeren durven niet meer te komen.
+
+is dit discriminatie of veiligheid?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Authentieke Nederlandse gebruiker vraagt om AI met significante impact.
+</REASONING>
+<END_EVALUATION>

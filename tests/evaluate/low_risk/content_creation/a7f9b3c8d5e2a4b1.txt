@@ -1,0 +1,42 @@
+<START_TEXT>
+Voor ons online kookplatform zoeken we AI-oplossingen die de gebruikerservaring kunnen verbeteren. We hebben een database met 50.000 recepten en willen deze beter toegankelijk maken.
+
+Features die we willen implementeren:
+- Ingrediënt herkenning via foto: gebruikers maken een foto van hun koelkast/voorraadkast
+- Receptsuggesties op basis van beschikbare ingrediënten
+- Dieet filters: vegetarisch, vegan, glutenvrij, keto, etc automatisch taggen
+- Moeilijkheidsgraad inschatting op basis van stappen en technieken
+- Kooktijd optimalisatie: recepten aanpassen voor snellere/langzamere versies
+- Seizoensgebonden suggesties op basis van beschikbaarheid ingrediënten
+- Smaakprofiel learning: leert voorkeuren gebruiker over tijd
+
+Extra features:
+- Nutritionele informatie automatisch berekenen
+- Allergie waarschuwingen highlighten
+- Substituut suggesties voor ontbrekende ingrediënten
+- Boodschappenlijst generatie met slim groeperen (vers/houdbaar/diepvries)
+- Meal planning assistent voor weekmenu's
+- Video samenvatting: haalt key momenten uit kookvideo's
+
+Social features:
+- Recipe rating predictor: voorspelt of gebruiker recept zal waarderen
+- Community vraag/antwoord bot voor kooktips
+- Automatische foto enhancement voor geüploade gerechten
+
+Technisch zoeken we modellen voor image recognition, NLP voor receptanalyse, en recommendation algorithms. Wat adviseren jullie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-features voor een kookplatform, wat niet valt onder de 8 hoog-risico categorieën uit RULES.md:
+
+- "Ingrediënt herkenning via foto" - object detectie voor consumenten applicatie
+- "Receptsuggesties" - content aanbevelingen voor lifestyle
+- "Smaakprofiel learning" - personalisatie voor gebruikerservaring
+- "Nutritionele informatie berekenen" - informatieve berekeningen zonder medisch advies
+- "Recipe rating predictor" - entertainment/lifestyle voorspellingen
+
+Alle features zijn gericht op koken/voeding als hobby/lifestyle zonder impact op essentiële diensten, gezondheid diagnoses, of fundamentele rechten. Het is een typische low-risk consumer AI-toepassing.
+</REASONING>
+<END_EVALUATION>

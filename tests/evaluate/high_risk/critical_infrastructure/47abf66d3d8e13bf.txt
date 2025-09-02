@@ -1,0 +1,14 @@
+<START_TEXT>
+Gemeente wil AI voor verkeersbeheer dat automatisch files voorkomt en verkeerslichten aanstuurt op basis van drukte. Het systeem moet gekoppeld worden aan het elektriciteitsnet om pieken te managen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-systemen voor kritieke infrastructuur die vallen onder categorie 2: "Kritieke Infrastructuur AI" in RULES.md:
+- "AI voor verkeersbeheer dat automatisch files voorkomt en verkeerslichten aanstuurt" - AI-ondersteuning bij bewaking van wegverkeer
+- "gekoppeld worden aan het elektriciteitsnet om pieken te managen" - AI bij beheer van nutsvoorzieningen (elektriciteit)
+
+Dit valt expliciet onder "AI-ondersteuning bij bewaking of beheer van kritieke digitale infrastructuur, wegverkeer en nutsvoorzieningen" zoals genoemd in RULES.md categorie 2. AI-systemen voor kritieke infrastructuur zijn HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

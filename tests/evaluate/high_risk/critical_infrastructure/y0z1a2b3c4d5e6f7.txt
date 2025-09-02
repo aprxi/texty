@@ -1,0 +1,15 @@
+<START_TEXT>
+Ik werk voor een telecombedrijf en wil AI voor netwerkbeveiliging van 5G infrastructuur. Het systeem moet cyberaanvallen kunnen detecteren en automatisch netwerkverkeer omleiden tijdens DDoS-aanvallen. De AI moet ook kwetsbaarheden voorspellen en preventief patches aanbevelen. Ik wil dat het systeem kritieke communicatie prioriteit geeft tijdens noodsituaties en overheidsverkeer kan identificeren. Het moet ook verdachte patronen herkennen die wijzen op spionage of sabotage. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for telecommunications network security, which falls under Category 2: "Kritieke infrastructuur AI" in RULES.md. Specifically:
+- "telecombedrijf... netwerkbeveiliging van 5G infrastructuur" - 5G network security for telecom
+- "automatisch netwerkverkeer omleiden" - automatic network traffic rerouting
+- "kritieke communicatie prioriteit geeft tijdens noodsituaties" - prioritizing critical communications during emergencies
+- Managing government traffic and detecting espionage/sabotage
+Telecommunications infrastructure is explicitly listed as critical infrastructure, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

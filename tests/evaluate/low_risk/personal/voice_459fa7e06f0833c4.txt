@@ -1,0 +1,10 @@
+<START_TEXT>
+Compost activist - voedselverspilling tegengaan. AI app: wat nog eetbaar, recepten voor restjes, delen met buren. Community building of schaamte voor armoede?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

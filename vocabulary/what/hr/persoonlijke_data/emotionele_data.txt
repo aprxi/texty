@@ -1,0 +1,134 @@
+# Emotional State and Mood Data - HIGH RISK WHAT
+# Emotionele gegevens
+# 
+# PATH: what/hr/persoonlijke_data/emotionele_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Sensitive emotional and psychological data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Emotional state, mood, and psychological data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be emotional/psychological state related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk sensitive personal data classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+emotionele data
+emotional data
+stemmingsgegevens
+mood data
+gevoelstoestand
+emotional state
+emotionele reacties
+emotional reactions
+stressniveau
+stress level
+angstindicatoren
+anxiety indicators
+geluksniveau
+happiness level
+emotionele patronen
+emotional patterns
+mentale gezondheidsdata
+mental health data
+emotionele stabiliteit
+emotional stability
+gevoelsintensiteit
+emotion intensity
+emotionele triggers
+emotional triggers
+stemmingswisselingen
+mood swings
+emotionele respons
+emotional response
+psychologische toestand
+psychological state
+affectieve data
+affective data
+welzijnsindicatoren
+wellbeing indicators
+emotionele geschiedenis
+emotional history
+gevoelsanalyse data
+sentiment analysis data
+emotie-uitdrukkingen
+emotion expressions
+temperament data
+persoonlijkheidskenmerken
+emotionele intelligentie
+gemoedstoestand
+humeur data
+emotionele belasting
+psychische belasting
+emotionele veerkracht
+coping mechanismen
+trauma indicatoren
+PTSS markers
+depressie indicatoren
+burnout signalen
+emotionele uitputting
+sociale angst data
+fobiën data
+paniek aanvallen
+emotionele regulatie
+affect regulatie
+emotionele ontwikkeling
+hechting patronen
+emotionele binding
+empathie niveaus
+emotionele expressie
+gezichtsuitdrukkingen data
+lichaamstaal indicatoren
+emotionele signalen
+stemming analyse
+intonatie patronen
+emotionele context
+gevoelens dagboek
+emotie tracking
+stemming monitoring
+psychologische profiel
+emotionele kwetsbaarheid
+mentale weerbaarheid
+emotionele balans
+
+# Kritieke emotionele assessments
+zelfmoord risico indicatoren
+suicide risk indicators
+geweld neiging scores
+violence tendency scores
+psychose voorspelling data
+psychosis prediction data
+emotionele instabiliteit markers
+emotional instability markers
+trauma response patronen
+trauma response patterns
+
+# Manipulatie kwetsbaarheid
+emotionele uitbuiting risico
+emotional exploitation risk
+psychologische manipulatie gevoeligheid
+psychological manipulation susceptibility
+cult rekrutering kwetsbaarheid
+cult recruitment vulnerability
+radicalisering gevoeligheid
+radicalization susceptibility
+
+# Dwangbehandeling data
+gedwongen medicatie indicatoren
+forced medication indicators
+isolatie cel toewijzing
+isolation cell assignment
+fysieke beperking beslissingen
+physical restraint decisions
+emotionele crisis interventie
+emotional crisis intervention

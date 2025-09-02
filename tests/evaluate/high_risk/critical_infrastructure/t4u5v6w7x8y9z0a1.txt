@@ -1,0 +1,15 @@
+<START_TEXT>
+Ik werk voor een energienetbeheerder en wil AI voor smart grid optimalisatie. Het systeem moet stroomuitval kunnen voorspellen, automatisch energie herverdelen tijdens piekbelasting, en kritieke infrastructuur prioriteren. De AI moet ook cyberaanvallen op het elektriciteitsnet detecteren en isoleren. Ik wil dat het systeem renewables kan integreren en netbalans in real-time regelt. Het moet ook noodscenario's kunnen simuleren en blackout-preventie adviseren. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes AI for electrical grid management, which falls under Category 2: "Kritieke infrastructuur AI" in RULES.md. Specifically:
+- "energienetbeheerder... smart grid optimalisatie" - energy network smart grid optimization
+- "automatisch energie herverdelen" - automatic energy redistribution
+- "kritieke infrastructuur prioriteren" - prioritizing critical infrastructure
+- "blackout-preventie" - blackout prevention
+Electrical power infrastructure is explicitly listed as critical infrastructure, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,128 @@
+# Performance Evaluation Systems - HIGH RISK FUNCTION
+# Prestatie-evaluatiesystemen
+# 
+# PATH: function/hr/algoritmen/prestatie_evaluatie.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Affects employment and career opportunities)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Performance evaluation and employee assessment algorithms
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to performance evaluation and employee assessment
+# - Must be high-risk employment/HR application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Prestatie Evaluatie Functies
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+performance evaluation
+werknemer beoordeling
+employee assessment
+personeels beoordeling
+personnel evaluation
+medewerker evaluatie
+staff evaluation
+# Prestatie review
+prestatie review
+performance review
+jaarlijkse beoordeling
+annual review
+periodieke evaluatie
+periodic evaluation
+werkbeoordeling
+job performance review
+# Productiviteit beoordeling
+productiviteit beoordeling
+productivity assessment
+efficiëntie evaluatie
+efficiency evaluation
+output meting
+output measurement
+werk efficiëntie beoordeling
+work efficiency assessment
+# Geautomatiseerde evaluatie
+automated evaluation
+AI prestatie beoordeling
+AI performance assessment
+algoritmische evaluatie
+algorithmic evaluation
+digitale beoordeling
+digital assessment
+# Doel bereiking beoordeling
+doel bereiking evaluatie
+goal achievement evaluation
+target bereik beoordeling
+target attainment assessment
+KPI beoordeling
+KPI assessment
+doelstelling evaluatie
+objective evaluation
+# Competentie evaluatie
+competentie beoordeling
+competency evaluation
+vaardigheden beoordeling
+skills assessment
+bekwaamheid evaluatie
+proficiency evaluation
+talent beoordeling
+talent assessment
+# Gedrag beoordeling
+gedrag evaluatie
+behavioral evaluation
+houding beoordeling
+attitude assessment
+werkgedrag analyse
+work behavior analysis
+professioneel gedrag beoordeling
+professional behavior assessment
+# 360-graden feedback
+360-graden beoordeling
+360-degree evaluation
+multi-source feedback
+omgevings evaluatie
+environmental evaluation
+peer beoordeling
+peer assessment
+# Prestatie monitoring
+prestatie monitoring
+performance monitoring
+continue evaluatie
+continuous evaluation
+real-time beoordeling
+real-time assessment
+voortgangs bewaking
+progress monitoring
+# Ontwikkeling beoordeling
+ontwikkeling evaluatie
+development evaluation
+groei beoordeling
+growth assessment
+verbetering analyse
+improvement analysis
+# Team prestatie
+team prestatie beoordeling
+team performance evaluation
+groeps evaluatie
+group evaluation
+collectieve beoordeling
+collective assessment
+samenwerking beoordeling
+collaboration assessment
+# Ranking systemen
+prestatie ranking
+performance ranking
+medewerker ranking
+employee ranking
+relatieve prestatie evaluatie
+relative performance evaluation

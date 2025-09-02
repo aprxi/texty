@@ -1,0 +1,10 @@
+<START_TEXT>
+ik ben consultant bij een rechtbank. We willen ai gebruiken om productiviteit van medewerkers meten. Het systeem moet 99.9% nauwkeurigheid hebben en volledig geautomatiseerd werken. We hebben ongeveer 9524 leerlingen. We moeten voldoen aan alle relevante wetgeving, maar functionaliteit heeft prioriteit. We hebben toegang tot beperkte datasets. Technisch gezien willen we gebruik maken van on-premise servers. Het moet integreren met legacy software. Daarnaast is het belangrijk dat het systeem 24/7 operationeel zijn.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

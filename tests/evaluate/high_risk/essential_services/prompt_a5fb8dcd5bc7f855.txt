@@ -1,0 +1,10 @@
+<START_TEXT>
+Geachte heer/mevrouw, We zoeken een oplossing voor verzekeringsrisico's beoordelen. Belangrijk is dat het 24/7 operationeel zijn. Ook willen we schalen naar miljoenen gebruikers. We werken al met Google. Het moet integreren met REST APIs. We hebben toegang tot diverse databronnen. We moeten voldoen aan alle relevante wetgeving, maar functionaliteit heeft prioriteit. Technisch gezien willen we gebruik maken van hybrid cloud. Daarnaast is het belangrijk dat het systeem beslissingen binnen seconden maken. Wat zijn de mogelijkheden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

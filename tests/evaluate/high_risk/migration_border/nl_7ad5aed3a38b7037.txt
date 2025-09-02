@@ -1,0 +1,18 @@
+<START_TEXT>
+hallo, ik werk bij IND naturalisatie en we willen de aanvragen efficiënter afhandelen
+
+kunnen jullie een ai systeem maken dat aanvragen automatisch beoordeelt op:
+- integratie niveau via sociale media analyse
+- taalvaardigheid door gesprekken te scannen
+- economische bijdrage berekenen
+- culturele aanpassing meten
+
+systeem moet ja/nee beslissing geven per aanvraag. hebben database met alle eerdere besluiten beschikbaar voor training
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 7: Migratie & Grenstoezicht AI per RULES.md. Typisch Nederlandse context met significante AI impact.
+</REASONING>
+<END_EVALUATION>

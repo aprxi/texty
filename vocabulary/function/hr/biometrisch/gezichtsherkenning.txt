@@ -1,0 +1,215 @@
+# Facial Recognition Systems - HIGH RISK FUNCTION
+# Gezichtsherkenningssystemen
+# 
+# PATH: function/hr/biometrisch/gezichtsherkenning.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Biometric identification)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Facial recognition and identification capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to facial recognition/identification
+# - Must be high-risk biometric application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Facial Recognition Functions
+# Sorted by commonality (most common first)
+
+# Core facial recognition with semantic variations
+gezichtsherkenning
+gezicht herkenning
+gezichts herkenning
+gezichtherkenning
+facial recognition
+face recognition
+gezichtsidentificatie
+gezicht identificatie
+gezichts identificatie
+gezichtidentificatie
+face identification
+facial identification
+gezichtsdetectie
+gezicht detectie
+gezichts detectie
+gezichtdetectie
+face detection
+facial detection
+gezichtsscan
+gezicht scan
+gezichts scan
+face scan
+facial scan
+gezichtsverificatie
+gezicht verificatie
+gezichts verificatie
+face verification
+facial verification
+gezichts-ID
+gezichts ID
+gezicht ID
+face ID
+facial ID
+# Technical operations
+gezichtsanalyse
+facial analysis
+gezichtsmatching
+face matching
+gezichtsvergelijking
+face comparison
+biometrische gezichtsherkenning
+biometric facial recognition
+3D gezichtsmodellering
+3D face modeling
+gezichtspunt detectie
+facial landmark detection
+# Processing functions
+gezichten herkennen
+recognize faces
+gezichten detecteren
+detect faces
+gezichten identificeren
+identify faces
+gezichten tracken
+track faces
+gezichten extraheren
+extract faces
+gezichten segmenteren
+segment faces
+gezichten authenticeren
+authenticate faces
+gezichten valideren
+validate faces
+gezichten clusteren
+cluster faces
+gezichten groeperen
+group faces
+gezichten verifiëren
+verify faces
+
+# Advanced techniques
+multi-view gezichtsherkenning
+multi-view face recognition
+cross-age gezichtsherkenning
+cross-age face recognition
+partial gezichtsherkenning
+partial face recognition
+masked gezichtsherkenning
+masked face recognition
+occluded gezichtsherkenning
+occluded face recognition
+low-light gezichtsherkenning
+low-light face recognition
+infrared gezichtsherkenning
+infrared face recognition
+thermal gezichtsherkenning
+thermal face recognition
+
+# Performance aspects
+high-speed gezichtsherkenning
+high-speed face recognition
+low-latency gezichtsdetectie
+low-latency face detection
+batch gezichtsverwerking
+batch face processing
+real-time gezichtsidentificatie
+real-time face identification
+parallel gezichtsanalyse
+parallel face analysis
+distributed gezichtsmatching
+distributed face matching
+# Feature extraction
+gezichtskenmerken extractie
+facial feature extraction
+gezichtspunten lokalisatie
+facial landmarks localization
+gezichtscontouren detectie
+facial contour detection
+gezichtssymmetrie analyse
+facial symmetry analysis
+gezichtstextuur analyse
+facial texture analysis
+huidtoon detectie
+skin tone detection
+# Matching algorithms
+gezichtstemplate matching
+face template matching
+gezichtsvector vergelijking
+face vector comparison
+eigenface analyse
+eigenface analysis
+gezichtsafstand berekening
+face distance calculation
+gezichtsgelijkenis score
+face similarity score
+gezichtspatroon herkenning
+face pattern recognition
+# Real-time processing
+live gezichtsherkenning
+live face recognition
+realtime gezichtsdetectie
+real-time face detection
+video gezichtsanalyse
+video face analysis
+streaming gezichtsidentificatie
+streaming face identification
+doorlopende gezichtsmonitoring
+continuous face monitoring
+dynamische gezichtstracking
+dynamic face tracking
+# Quality assessment
+gezichtskwaliteit controle
+face quality control
+belichting compensatie
+lighting compensation
+pose correctie
+pose correction
+occlusie detectie
+occlusion detection
+vervaging detectie
+blur detection
+resolutie verbetering
+resolution enhancement
+# Security applications
+toegangscontrole gezicht
+face access control
+identiteitsverificatie gezicht
+face identity verification
+fraude detectie gezicht
+face fraud detection
+spoofing preventie
+spoofing prevention
+liveness detectie
+liveness detection
+anti-masker detectie
+anti-mask detection
+# Database operations
+gezichtsdatabase zoeken
+face database search
+gezichtsindexering
+face indexing
+gezichtsregistratie
+face enrollment
+gezichtsprofiel opslag
+face profile storage
+gezichtstemplate beheer
+face template management
+gezichtsdata synchronisatie
+face data synchronization
+# Privacy features
+gezichtsanonimisering
+face anonymization
+gezichtsvervaging
+face blurring
+consent verificatie
+consent verification

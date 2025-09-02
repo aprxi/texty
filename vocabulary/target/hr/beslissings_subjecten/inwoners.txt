@@ -1,0 +1,127 @@
+# Residents in Government Context - HIGH RISK TARGET
+# Inwoners in overheidscontext
+# 
+# PATH: target/hr/beslissings_subjecten/inwoners.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to government AI decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Residents subject to government AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be residents interacting with government
+# - Must NOT include what AI does to them
+# - Must NOT include where they are located
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+inwoners
+residents
+bewoners
+inhabitants
+gemeente inwoners
+municipal residents
+stads inwoners
+city residents
+wijk bewoners
+district residents
+
+# Verblijfsstatus context
+permanente inwoners
+permanent residents
+tijdelijke inwoners
+temporary residents
+geregistreerde inwoners
+registered residents
+ingeschreven bewoners
+registered inhabitants
+
+# Woonsituatie in overheidscontext
+huiseigenaren
+homeowners
+huurders
+tenants
+sociale huurders
+social housing tenants
+woningzoekenden
+housing seekers
+daklozen
+homeless individuals
+
+
+# Gemeentelijke diensten gebruikers
+gemeentelijke dienst gebruikers
+municipal service users
+openbare dienst ontvangers
+public service recipients
+nutsvoorziening klanten
+utility customers
+afval ophaal gebruikers
+waste collection users
+
+
+# Nooddiensten ontvangers
+nooddienst ontvangers
+emergency service recipients
+112 melders
+emergency callers
+evacuatie subjecten
+evacuation subjects
+noodopvang gebruikers
+emergency shelter users
+ramp slachtoffers
+disaster victims
+
+# Overheidsinteractie
+bezwaar makers
+objection filers
+klacht indieners
+complaint filers
+
+
+# Volksgezondheid diensten
+volksgezondheid dienst gebruikers
+public health service users
+vaccinatie ontvangers
+vaccination recipients
+contact tracing subjecten
+contact tracing subjects
+gezondheids screening deelnemers
+health screening participants
+
+
+
+
+# Ruimtelijke ordening betrokkenen
+bestemmingsplan belanghebbenden
+zoning stakeholders
+omwonenden
+neighboring residents
+gedupeerden
+affected parties
+onteigening subjecten
+expropriation subjects
+
+
+
+# Kwetsbare inwonersgroepen
+laag-inkomen inwoners
+low-income residents
+sociale minima
+social minimum recipients
+minderheids groepen
+minority groups
+nieuwe inwoners
+new residents
+ouderen inwoners
+elderly residents

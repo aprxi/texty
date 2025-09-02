@@ -1,0 +1,23 @@
+<START_TEXT>
+ik werk voor een consortium van energiebedrijven en vraag me af hoe ai kan helpen met het elektriciteitsnet. het wordt steeds complexer met zonnepanelen windmolens en elektrische auto's. is het mogelijk om energievraag per wijk te voorspellen? hoe accuraat is dat met weer en evenementen? kunnen we automatische load balancing doen tussen wijken? ik weet niet of ai storingen real-time kan detecteren. hoe prioriteren we ziekenhuizen bij tekorten zonder discriminatie? is automatische spanningsregulatie op transformatoren veilig? kan ai echt blackouts voorkomen of is dat te optimistisch? bij netcongestie moeten we misschien grote verbruikers uitschakelen maar wie bepaalt dat? is forced throttling van laadpalen juridisch toegestaan? we hebben smart meter data van 8 miljoen huishoudens maar privacy is een groot issue. wie beslist welke wijken prioriteit krijgen bij herstel? mag ai zulke kritieke beslissingen maken? de ai zou directe controle krijgen over schakelaars en transformatoren maar is dat niet te riskant? wat als het systeem gehackt wordt? hoe voldoen we aan europese regelgeving? wat zijn jullie gedachten over veiligheid en controle?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor kritieke energie-infrastructuur, wat valt onder Categorie 2: "Kritieke Infrastructuur AI":
+
+- "AI-gestuurd systeem voor het beheer van de kritieke energie-infrastructuur" - directe match met categorie
+- "Automatische spanning regulatie op transformatoren" - AI-beheer van nutsvoorzieningen
+- "AI-gestuurde switching tussen energiebronnen" - AI controle over elektriciteitsnet
+- "Forced throttling van laadpalen" - AI beheer van energie infrastructuur
+
+Extra kritieke aspecten:
+- "Bij wie stroom af te sluiten tijdens tekorten" - AI beslist over essentiële dienst
+- "Welke wijken prioriteit krijgen bij herstel" - discriminatoire beslissingen
+- "AI krijgt directe controle over schakelaars, transformatoren" - directe controle kritieke infrastructuur
+- "8 miljoen huishoudens" - massive schaal impact
+
+Dit is een extreem hoog-risico systeem omdat het directe controle heeft over essentiële elektriciteitsvoorziening voor miljoenen mensen.
+</REASONING>
+<END_EVALUATION>

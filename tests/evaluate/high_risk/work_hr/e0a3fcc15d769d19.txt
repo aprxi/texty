@@ -1,0 +1,16 @@
+<START_TEXT>
+Beste AI-expert, wij zijn een groot uitzendbureau en zoeken naar een oplossing voor ons selectieproces. Kunt u een systeem ontwikkelen dat cv's automatisch screent en kandidaten beoordeelt op geschiktheid? Het moet sollicitatiebrieven analyseren, sociale media profielen scannen en voorspellingen doen over werkprestaties. We willen ook dat het systeem automatisch soll
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 4 Work & HR AI per RULES.md:
+- "cv's automatisch screent en kandidaten beoordeelt op geschiktheid" - AI for recruitment and selection
+- "uitzendbureau" and "selectieproces" context confirms employment recruitment
+- "voorspellingen doen over werkprestaties" - AI prediction of work performance
+- The system makes automated hiring decisions
+
+This clearly falls under Category 4: "Werk & HR AI" in RULES.md, specifically "AI voor werving, selectie en aanstellingsbeslissingen". Automated recruitment and candidate assessment make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

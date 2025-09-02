@@ -1,0 +1,10 @@
+<START_TEXT>
+ik ben creative director bij een indie gamestudio en vraag me af hoe ai onze fantasy rpg kan verbeteren. is het mogelijk om elke playthrough echt uniek te maken? hoe procedureel kunnen verhaallijnen zijn zonder repetitief te worden? voor npcs wil ik dat ze levensecht aanvoelen maar is dat technisch haalbaar? kunnen ze echt dagelijkse routines hebben en relaties ontwikkelen? ik weet niet of npcs kunnen onthouden wat spelers doen. hoe maken we dialogen contextbewust zonder dat het geforceerd klinkt? kunnen npcs roddelen over speleracties? voor wereld generatie vraag ik me af of elke dungeon echt uniek kan zijn. hoe balanceren we uitdaging met eerlijkheid? kunnen dieren echt migreren met seizoenen? is het mogelijk dat dorpen evolueren op basis van speleracties? adaptive difficulty klinkt goed maar hoe subtiel kan het echt zijn? ik wil casual en veteran gamers bedienen maar is dat niet tegenstrijdig? voor muziek, kan ai echt game state begrijpen en smooth overgangen maken? hoe genereren we contextuele sound effects procedureel? spelers willen content creëren maar hoe helpt ai met balancing? kan ai plot holes in user quests vinden? we targeten 60fps op consoles, is complexe ai mogelijk binnen die limieten? unreal engine 5 integratie is cruciaal, werkt dat goed samen? belangrijk is ethiek, geen data verzameling of manipulatieve mechanics. kunnen jullie helpen zonder dark patterns?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI applications for entertainment. The system is designed for entertainment, productivity, or creative purposes without impacting fundamental rights, critical infrastructure, or essential services.
+</REASONING>
+<END_EVALUATION>

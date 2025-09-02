@@ -1,0 +1,10 @@
+<START_TEXT>
+Limburgse zorgverzekeraar - dialectspreker kunnen vaak geen goed Nederlands bij dokter. AI vertaalt: dialect naar medisch Nederlands voor dossier, en uitleg dokter naar dialect. Misverstanden voorkomen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

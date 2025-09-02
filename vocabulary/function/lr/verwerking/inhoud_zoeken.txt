@@ -1,0 +1,116 @@
+# Content Search Functions - LOW RISK FUNCTION
+# Inhoudzoeksystemen
+# 
+# PATH: function/lr/verwerking/inhoud_zoeken.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (information retrieval and content discovery)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Content search and information retrieval capabilities for general purpose finding and discovery
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to content search and information retrieval
+# - Must be low-risk information discovery application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Document zoeken
+document zoeken
+document search
+bestand zoeken
+file search
+inhoud ontdekking
+volledige tekst zoeken
+full-text search
+metadata zoeken
+metadata search
+tag zoeken
+tag search
+categorie zoeken
+category search
+onderwerp zoeken
+topic search
+auteur zoeken
+author search
+datum zoeken
+date search
+locatie zoeken
+location search
+# Media zoeken
+afbeelding zoeken
+image search
+video zoeken
+video search
+audio zoeken
+audio search
+content zoeken
+content search
+# Database zoeken
+database zoekopdracht
+database query
+SQL zoeken
+SQL search
+gegevens ophalen
+data retrieval
+record zoeken
+record search
+veld zoeken
+field search
+tabel zoeken
+table search
+join zoekopdrachten
+join queries
+subzoekopdrachten
+subqueries
+aggregatie zoekopdrachten
+aggregation queries
+rapportage zoekopdrachten
+reporting queries
+analytische zoekopdrachten
+analytical queries
+patroon herkenning in zoekresultaten
+pattern recognition in search results
+zoek trends analyseren
+analyze search trends
+zoek gedrag analyseren
+analyze search behavior
+# E-commerce zoeken
+product zoeken
+product search
+catalogus zoeken
+catalog search
+voorraad zoeken
+inventory search
+prijs zoeken
+price search
+merk zoeken
+brand search
+model zoeken
+model search
+specificatie zoeken
+specification search
+functie zoeken
+feature search
+vergelijking zoeken
+comparison search
+filter zoeken
+filter search
+sorteer functionaliteit
+sort functionality
+zoek verfijning
+search refinement
+winkel zoeken
+shopping search
+marktplaats zoeken
+marketplace search

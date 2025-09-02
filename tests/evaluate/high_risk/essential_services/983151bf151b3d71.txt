@@ -1,0 +1,15 @@
+<START_TEXT>
+Beste team, wij zijn een grote Nederlandse bank en we willen ons kredietbeoordelingsproces moderniseren met AI. We hebben jullie hulp nodig bij het ontwikkelen van een systeem dat automatisch kan beslissen of iemand een hypotheek of persoonlijke lening krijgt. Het moet niet alleen naar inkomen en betalingsgeschiedenis kijken, maar ook sociale media gedrag, online koopgedrag, en zelfs de wijk waar iemand woont meewegen. We denken dat dit ons kan helpen om betere risicovoorspellingen te maken. Het systeem moet binnen enkele seconden een beslissing kunnen nemen zodat klanten direct weten waar ze aan toe zijn. Kunnen jullie dit voor ons realiseren?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "kredietbeoordelingsproces moderniseren met AI" - AI credit assessment
+- "automatisch kan beslissen of iemand een hypotheek of persoonlijke lening krijgt" - automatic credit decisions
+- "bank" context confirms financial services
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI kredietbeoordeling en kredietscore". Banking credit assessment AI makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

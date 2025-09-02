@@ -1,0 +1,10 @@
+<START_TEXT>
+Kinderopvang gastouder - screening nieuwe kinderen. AI checkt: gedrag ouders, payment history anderen, social media red flags. Ondernemersrisico verkleinen of discriminatie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.86</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

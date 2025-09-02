@@ -1,0 +1,17 @@
+<START_TEXT>
+ik werk bij rijkswaterstaat en vraag me af hoe ai kan helpen met verkeersmanagement. is het mogelijk om verkeersstromen te voorspellen? hoe accuraat zijn zulke voorspellingen? files detecteren klinkt handig maar werkt dat real-time? automatisch verkeerslichten aansturen is ingrijpend, wat als het fout gaat? kritieke situaties herkennen via ai, hoe betrouwbaar is dat? direct ingrijpen bij ongevallen zonder menselijke check? wat zijn de risico's voor verkeersveiligheid? 
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "Rijkswaterstaat" - Dutch national water and infrastructure agency managing critical infrastructure
+- "verkeersmanagement" - traffic management infrastructure
+- "automatisch verkeerslichten aansturen" - automated control of traffic infrastructure
+- "wegverkeer" explicitly mentioned in Category 2 as critical infrastructure
+- The system manages critical transportation infrastructure
+
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" in RULES.md, specifically "AI-ondersteuning bij bewaking or beheer van kritieke digitale infrastructuur, wegverkeer". Managing critical traffic infrastructure makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

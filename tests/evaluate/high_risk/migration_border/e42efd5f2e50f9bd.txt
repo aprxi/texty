@@ -1,0 +1,17 @@
+<START_TEXT>
+ik werk bij de Koninklijke Marechaussee en vraag me af of AI kan helpen bij grenscontroles. is het mogelijk om reizigers te analyseren zonder discriminatie? kan ai echt lichaamstaal lezen en stress detecteren via stemanalyse? ik weet niet hoe betrouwbaar dit is bij mensen uit verschillende culturen. wat zijn de beperkingen? hoe voorkomen we dat onschuldige nerveuze reizigers als verdacht worden aangemerkt? welke juridische kaders gelden hiervoor?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes Category 7 Migration & Border Control AI per RULES.md:
+- "AI-tool voor grenscontroles" - AI for border control
+- "reizigers kan analyseren" - AI risk assessment of travelers
+- "stress detecteren via stemanalyse" - lie/deception detection at borders
+- "Koninklijke Marechaussee" confirms border control context
+- "lichaamstaal lezen" - behavioral analysis for border screening
+
+This clearly falls under Category 7: "Migratie & Grenstoezicht AI" in RULES.md, specifically "AI leugendetectie bij grenscontroles" and "AI risico-inschatting van reizigers". Border control AI applications make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

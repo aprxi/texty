@@ -1,0 +1,123 @@
+# Iris Recognition Systems - HIGH RISK FUNCTION
+# Irisherkenningssystemen
+# 
+# PATH: function/hr/biometrisch/iris_herkenning.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Biometric identification affecting fundamental rights)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Iris recognition and ocular biometric capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to iris recognition and ocular biometrics
+# - Must be high-risk biometric application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Iris Recognition Functions
+# Sorted by commonality (most common first)
+
+iris herkenning
+iris recognition
+iris scanning
+oogherkenning
+eye recognition
+iris identificatie
+iris identification
+# Biometrische processen
+iris biometrie
+iris biometrics
+biometrische iris herkenning
+biometric iris recognition
+iris authenticatie
+iris authentication
+iris verificatie
+iris verification
+# Oog analyse
+oog analyse
+eye analysis
+iris patroon analyse
+iris pattern analysis
+oog structuur analyse
+eye structure analysis
+iris textuur analyse
+iris texture analysis
+# Netvlies scanning
+netvlies scanning
+retinal scanning
+retina herkenning
+retinal recognition
+netvlies identificatie
+retinal identification
+# Capture processen
+iris vastleggen
+iris capture
+iris beeldvorming
+iris imaging
+iris registratie
+iris registration
+iris inschrijving
+iris enrollment
+# Matching algoritmes
+iris matching
+iris vergelijking
+iris comparison
+iris patroon matching
+iris pattern matching
+iris template matching
+# Nabij-infrarood scanning
+nabij-infrarood scanning
+near-infrared scanning
+NIR iris scanning
+infrarood oog scanning
+infrared eye scanning
+# Pupil analyse
+pupil analyse
+pupil analysis
+pupil herkenning
+pupil recognition
+pupil detectie
+pupil detection
+pupil tracking
+# Kwaliteitsbeoordeling
+iris kwaliteits beoordeling
+iris quality assessment
+oog beeld kwaliteit
+eye image quality
+iris opname kwaliteit
+iris capture quality
+# Levendigheid detectie
+levendigheid detectie
+spoof detectie
+spoof detection
+nep iris detectie
+fake iris detection
+anti-spoofing
+# Segmentatie
+iris segmentatie
+iris segmentation
+iris grens detectie
+iris boundary detection
+iris lokalisatie
+iris localization
+# Encoding
+iris codering
+iris encoding
+iris template generatie
+iris template generation
+iris patroon codering
+iris pattern encoding
+# Toegangscontrole
+iris toegangscontrole
+iris access control
+iris beveiliging
+iris security

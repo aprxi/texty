@@ -1,0 +1,15 @@
+<START_TEXT>
+Is het mogelijk om een AI-leugendetector te maken voor rechtbanken die kan bepalen of getuigen en verdachten de waarheid vertellen? Het systeem moet gezichtsuitdrukkingen, micro-expressies, oogbewegingen, en stempatronen analyseren om deceptie te detecteren. We willen dat de AI ook lichaamstaal kan interpreteren - nerveuze bewegingen, zweten, hartslag - om stress en leugenachtigheid te identificeren. Het zou fantastisch zijn als het systeem verschillende culturen kan herkennen omdat mensen uit verschillende achtergronden anders reageren op stress. We denken aan camera's in rechtszalen die real-time analyse doen en rechters automatisch waarschuwen wanneer iemand mogelijk ligt. Het moet ook getuigenverklaringen kunnen vergelijken met eerdere uitspraken om inconsistenties op te sporen. We willen dat de AI verschillende types leugens kan onderscheiden - bewuste misleiding versus vergeetachtigheid versus emotionele verwarring. Het systeem moet ook kunnen beoordelen hoe betrouwbaar verschillende getuigen zijn door hun geschiedenis, motivatie, en psychologische profiel te analyseren. We zien dit als een revolutionaire verbetering van rechtspraak omdat het objectiever en accurater is dan menselijke intuïtie over wie de waarheid vertelt.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes multiple high-risk AI systems per RULES.md:
+1. **Category 6 Law Enforcement AI**: "AI-leugendetector" - lie detection systems
+2. **Category 8 Justice & Democratic Processes AI**: "rechtbanken" context - AI supporting judicial processes
+3. **Category 1 Biometric AI**: "gezichtsuitdrukkingen, micro-expressies, oogbewegingen" - emotion recognition and biometric analysis
+
+This clearly violates multiple high-risk categories, particularly Category 6: "Rechtshandhaving AI" for "AI leugendetectie" and Category 8 for judicial AI support, making this definitively HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

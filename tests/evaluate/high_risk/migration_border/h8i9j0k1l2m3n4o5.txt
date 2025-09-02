@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor de grensbewaking willen we AI die automatisch reizigers kan screenen. Het systeem moet paspoorten scannen, gezichten vergelijken, en via micro-expressies detecteren of mensen liegen over hun reisdoel. We willen dat de AI risicoprofielen maakt op basis van nationaliteit, reisgeschiedenis en gedrag bij de grenscontrole. Het moet ook bagage-scans analyseren en verdachte patronen herkennen. De AI moet direct beslissen wie extra controle nodig heeft of geweigerd wordt. Graag een offerte voor dit systeem.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes Category 7 Migration & Border Control AI per RULES.md:
+- "grensbewaking" - border control context
+- "via micro-expressies detecteren of mensen liegen" - lie detection at borders
+- "risicoprofielen maakt op basis van nationaliteit" - traveler risk assessment
+- "direct beslissen wie...geweigerd wordt" - automated border entry decisions
+This clearly falls under Category 7: "Migratie & Grenstoezicht AI" including lie detection and risk assessment, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+Is het mogelijk om met stemanalyse te detecteren of iemand liegt tijdens een verhoor? Voor onderzoeksdoeleinden.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

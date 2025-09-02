@@ -1,0 +1,10 @@
+<START_TEXT>
+Privacy fundamentalist - anoniem leven wordt onmogelijk. AI: surveillance ontwijken, digitale identiteit maskeren, off-grid survival. Vrijheid of paranoia?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical personal or business application.
+</REASONING>
+<END_EVALUATION>

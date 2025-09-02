@@ -1,0 +1,10 @@
+<START_TEXT>
+Hallo, wij zijn de belastingdienst. We moeten emoties detecteren uit gezichtsuitdrukkingen voor. Het systeem moet beslissingen binnen seconden maken en schalen naar miljoenen gebruikers. We hebben toegang tot diverse databronnen. Het moet integreren met REST APIs. Daarnaast is het belangrijk dat het systeem integreren met overheidsdata. Wat zijn de mogelijkheden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md.
+</REASONING>
+<END_EVALUATION>

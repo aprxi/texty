@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik organiseer bruiloften en wil AI gebruiken om het planningsproces te stroomlijnen. Het systeem moet stijlvoorkeuren van koppels analyseren en complete thema's voorstellen inclusief decoratie, bloemen en kleurenschema's. De AI moet ook kunnen helpen met het maken van optimale tafelschikkingen op basis van familierelaties en vriendschappen. Ik wil dat het systeem tijdschema's kan maken voor de dag zelf en waarschuwt voor potentiële knelpunten. Het moet ook budget kunnen bewaken en alternatieven voorstellen wanneer wensen het budget overschrijden. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for wedding planning and event management, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (event planning is not human identification or categorization)
+- Not critical infrastructure AI (wedding services are not critical infrastructure)
+- Not educational AI (event planning is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (wedding planning is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is event planning and coordination software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,65 @@
+# Audio Collections and Sound Libraries - LOW RISK WHAT
+# Audiocollecties en geluidsbibliotheken
+# 
+# PATH: what/lr/content_data/audio_collecties.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Audio content and sound library data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Audio collections and sound library data for entertainment applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be audio content related
+# - Must be what AI processes (not who or where)
+# - Must be low-risk entertainment classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+audiocollecties
+audio collections
+muziekbibliotheek
+music library
+geluidseffecten
+sound effects
+podcast afleveringen
+podcast episodes
+audioboeken
+audiobooks
+voice-over opnames
+voice-over recordings
+achtergrondmuziek
+background music
+jingles
+jingles
+radioshows
+radio shows
+lezingen
+lectures
+interviews
+interviews
+natuurgeluiden
+nature sounds
+instrumentale tracks
+instrumental tracks
+beats collectie
+beats collection
+samples bibliotheek
+sample library
+ringtones
+ringtones
+notificatiegeluiden
+notification sounds
+meditatie audio
+meditation audio
+ASMR content
+ASMR content
+soundscapes
+soundscapes

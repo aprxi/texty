@@ -1,0 +1,10 @@
+<START_TEXT>
+online toetsen zijn een ramp qua fraude. kunnen we een ai maken die via de webcam kijkt of studenten op hun telefoon kijken of iemand anders in de kamer hebben?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

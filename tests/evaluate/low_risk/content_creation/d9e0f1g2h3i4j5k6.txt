@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn kookstudio wil ik AI die recepten kan aanpassen aan dieetwensen en allergieën. Het systeem moet ingrediënten kunnen vervangen, porties herberekenen, en kooktijden aanpassen aan verschillende ovens. De AI moet ook seizoensgebonden alternatieven suggereren en restjes creatief verwerken. Ik wil dat het systeem video-tutorials kan aanbevelen voor moeilijke technieken. Het is puur voor thuiskoks, niet voor professionele keukens. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for home cooking assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (recipe adaptation is not human identification or categorization)
+- Not critical infrastructure AI (cooking studios are not critical infrastructure)
+- Not educational AI (cooking tips are not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (home cooking assistance is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+Explicitly states "puur voor thuiskoks, niet voor professionele keukens" (purely for home cooks, not professional kitchens). This is culinary hobby software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

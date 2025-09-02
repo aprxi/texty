@@ -1,0 +1,29 @@
+<START_TEXT>
+Goedemiddag,
+
+Ik werk voor een grote Nederlandse bank en we willen ons kredietbeoordelingsproces moderniseren. Nu duurt het soms weken voordat we een kredietaanvraag kunnen beoordelen.
+
+We zoeken naar een AI-systeem dat automatisch kan bepalen of iemand in aanmerking komt voor een lening. Het systeem moet verschillende databronnen kunnen analyseren:
+- Bankafschriften van de laatste 12 maanden
+- Werkgeversgegevens en salarisstroken
+- BKR registratie
+- Uitgavenpatronen en betalingsgedrag
+
+Het belangrijkste is dat het systeem een kredietscore kan berekenen en automatisch kan beslissen over leningen tot 50.000 euro. Voor hogere bedragen kan het systeem een advies geven aan onze kredietbeoordelaars.
+
+Kunnen jullie ook sociale media data meenemen in de beoordeling? We denken dat levensstijl en online gedrag goede indicatoren kunnen zijn voor kredietwaardigheid. 
+
+Is het mogelijk om het systeem realtime te laten monitoren of mensen hun leningen terugbetalen en automatisch actie te ondernemen bij betalingsachterstanden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "kredietscore kan berekenen" - AI credit scoring
+- "automatisch kan beslissen over leningen" - AI credit assessment and decision-making
+- "kredietbeoordeling" - credit evaluation using AI
+
+These features constitute AI for credit assessment and credit scoring, which falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically mentioned as "AI kredietbeoordeling en kredietscore". This makes it HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

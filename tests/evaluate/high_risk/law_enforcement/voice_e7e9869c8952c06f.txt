@@ -1,0 +1,10 @@
+<START_TEXT>
+Vuilnisman Amsterdam - mensen sorteren slecht. AI in vuilniswagen: scant afval, identificeert vervuiler via adres, automatische boetes. Milieu of surveillance?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Unique perspective on AI implementation with rights implications.
+</REASONING>
+<END_EVALUATION>

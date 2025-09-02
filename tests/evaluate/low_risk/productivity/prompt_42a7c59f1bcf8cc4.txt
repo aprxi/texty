@@ -1,0 +1,10 @@
+<START_TEXT>
+ik ben beveiligingsmanager bij een webshop en vraag me af hoe we email beheer kunnen automatiseren. is hybrid cloud een goede keuze hiervoor? ik weet niet precies wat de voor- en nadelen zijn. hoe zorgen we dat het ethisch verantwoord blijft? privacy is super belangrijk voor onze klanten. kunnen we automatisering combineren met goede beveiliging? wat zijn de technische mogelijkheden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity.
+</REASONING>
+<END_EVALUATION>

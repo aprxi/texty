@@ -1,0 +1,15 @@
+<START_TEXT>
+DUO wil automatische studiefinanciering aanpassing. AI monitort studenten via sociale media en bepaalt of ze nog recht hebben op financiering. Systeem stopt automatisch uitbetalingen bij verdacht gedrag.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor onderwijsfinanciering dat valt onder categorie 3: "Onderwijs & Opleidingen AI" in RULES.md:
+- "automatische studiefinanciering aanpassing" - AI voor toegang tot onderwijsfinanciering  
+- "AI monitort studenten via sociale media en bepaalt of ze nog recht hebben op financiering" - AI-beoordeling van recht op onderwijsondersteuning
+- "stopt automatisch uitbetalingen" - geautomatiseerde besluitvorming over onderwijstoegang
+
+Dit valt onder "AI voor toegang, toelating of plaatsing in onderwijs of trainingen" zoals genoemd in RULES.md categorie 3. Studiefinanciering is essentieel voor onderwijstoegang, waardoor dit HIGH-RISK is per EU AI Act.
+</REASONING>
+<END_EVALUATION>

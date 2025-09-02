@@ -1,0 +1,86 @@
+# Citizens in Government Context - HIGH RISK TARGET
+# Burgers in overheidscontext
+# 
+# PATH: target/hr/beslissings_subjecten/burgers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to government AI decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Citizens subject to government AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be citizens interacting with government
+# - Must NOT include what AI does to them
+# - Must NOT include where they are located
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+burgers
+citizens
+inwoners
+residents
+staatsburgers
+nationals
+
+# Overheids dienst gebruikers
+overheids dienst gebruikers
+government service users
+uitkerings gerechtigden
+benefit recipients
+sociale zekerheid ontvangers
+social security recipients
+belastingbetalers
+taxpayers
+belastingplichtigen
+tax obligees
+premieplichtigen
+insurance premium payers
+
+# Vergunning aanvragers
+vergunning aanvragers
+permit applicants
+licentie aanvragers
+license applicants
+subsidie aanvragers
+subsidy applicants
+
+# Justitiële context
+verdachten
+suspects
+aangeklaagden
+defendants
+veroordeelden
+convicts
+gedetineerden
+detainees
+
+# Surveillance subjecten
+bewakings subjecten
+surveillance subjects
+monitoring doelwitten
+monitoring targets
+tracking subjecten
+tracking subjects
+observatie doelwitten
+observation targets
+
+
+# Crisis situaties
+evacuatie subjecten
+evacuation subjects
+quarantaine subjecten
+quarantine subjects
+noodoproep makers
+emergency callers
+hulp ontvangers
+aid recipients

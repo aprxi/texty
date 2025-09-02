@@ -1,0 +1,17 @@
+<START_TEXT>
+ik werk aan een taalleer-app en vraag me af of ai nederlandse uitspraak kan corrigeren? is het mogelijk om feedback te geven op accent? hoe nauwkeurig kan ai articulatie beoordelen? ik weet niet of het systeem echt kan horen welke klanken fout zijn. kunnen we oefeningen voorstellen die echt helpen? voor taalstudenten die nederlands als tweede taal leren, is ai feedback betrouwbaar genoeg? kan ai culturele context uitleggen bij uitdrukkingen? dat lijkt me best complex. hoe combineer je taalleren met cultuur begrijpen? is zoiets technisch haalbaar met spraakherkenning? ik maak me zorgen dat ai niet alle accenten goed begrijpt. werkt het voor mensen met verschillende moedertalen? zijn de huidige ai-mogelijkheden goed genoeg voor educatie? hoeveel trainingsdata hebben we nodig voor betrouwbare feedback?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor taalleren dat valt onder de laag-risico categorieën in RULES.md:
+- "taalleer-app" - educatieve tool maar niet voor formele beoordeling
+- "Nederlandse uitspraak kan corrigeren" - AI-tools voor algemene communicatie  
+- "feedback over hun accent en articulatie" - niet-beoordelende ondersteuning
+- "taalstudenten die Nederlands willen leren" - vrijwillig leren, geen formele toelating/beoordeling
+- "culturele context kan uitleggen" - informatieverzameling en educatie
+
+Hoewel dit educatief is, betreft het vrijwillig taalleren zonder formele beoordeling, toelating of plaatsing in onderwijs. Dit valt onder "Educatieve inhoud over AI-concepten en technieken" en "AI-tools voor contentcreatie, vertaling of algemene communicatie" zoals genoemd als laag-risico in RULES.md. Geen formele onderwijsbeoordeling maakt dit LOW-RISK.
+</REASONING>
+<END_EVALUATION>

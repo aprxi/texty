@@ -1,0 +1,14 @@
+<START_TEXT>
+ik werk bij het ministerie van justitie en vraag me af of ai rechters kan ondersteunen? is het mogelijk om standaardzaken zoals verkeersboetes te automatiseren? maar blijft menselijk oordeel dan niet achter? kan ai echt alle relevante jurisprudentie verzamelen of mist het nuances? strafadvies geven op basis van precedenten klinkt logisch maar is elke zaak niet uniek? ik maak me zorgen over vooroordelen in historische data. inconsistenties signaleren tussen rechtbanken is nuttig maar creëert dat geen uniformiteit zonder context? recidiverisico inschatten voor voorwaardelijke straffen, is dat niet discriminerend? rechter heeft laatste woord zeggen we maar vertrouwen ze niet te veel op ai? met 2 miljoen uitspraken, hoe filteren we bias uit het verleden? wat zijn ervaringen met ai in juridische sector? transparantie naar verdachten is cruciaal maar hoe leg je algoritmes uit?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 8: "Rechtsbedeling & Democratische Processen AI" volgens RULES.md:
+- "rechters te ondersteunen met AI" - AI-ondersteuning van rechters
+- "Op basis van precedenten een strafadvies geeft" - AI voor juridische besluitvorming
+- "Recidiverisico inschat" - ook relevant voor Categorie 6 (rechtshandhaving)
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

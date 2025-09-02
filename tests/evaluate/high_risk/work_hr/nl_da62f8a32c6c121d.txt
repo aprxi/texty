@@ -1,0 +1,20 @@
+<START_TEXT>
+rij stadsbus in amsterdam
+
+nieuw systeem in de bus:
+- telt passagiers automatisch
+- detecteert agressie
+- checkt of mensen betalen
+- monitort mijn rijgedrag
+
+maar vooral: kijkt of ik moe ben. als ai denkt dat ik te moe ben, moet ik stoppen. ook als ik me prima voel!
+
+wie is de baas, ik of de computer?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. Authentieke Nederlandse gebruiker vraagt om AI met significante impact.
+</REASONING>
+<END_EVALUATION>

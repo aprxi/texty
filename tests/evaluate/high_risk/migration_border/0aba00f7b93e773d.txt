@@ -1,0 +1,10 @@
+<START_TEXT>
+kunnen we een AI-systeem maken dat identiteiten verifieert bij grenscontroles voor het stadion? is het technisch haalbaar om gezichtsherkenning, documentanalyse en gedragsdetectie te combineren? ik vraag me af hoe betrouwbaar dit is voor het identificeren van potentiële dreigingen. kunnen we ook illegale immigratie detecteren zonder discriminatie? wat zijn de wettelijke vereisten hiervoor? en hoe gaan we om met privacy van bezoekers?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes Category 7: Migratie & Grenstoezicht AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

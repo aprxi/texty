@@ -1,0 +1,17 @@
+<START_TEXT>
+ik heb een online cursus platform en vraag me af of ai kan helpen met persoonlijke begeleiding. is het mogelijk om te herkennen welke concepten moeilijk zijn voor studenten? hoe analyseren we quiz resultaten zonder privacy te schenden? kan ai echt extra oefeningen aanbevelen die passen? ik weet niet of verschillende leerstijlen detecteren wel werkt. videos versus tekst, hoe weet ai wat beter is? een chatbot voor vragen klinkt handig maar begrijpt die de context wel? studenten motiveren is belangrijk maar kan ai dat echt? hoe voorspellen we wie de cursus niet afmaakt zonder te stigmatiseren? proactieve ondersteuning bieden kan opdringerig zijn. study schedules maken op basis van beschikbare tijd, is dat niet te rigide? peer-to-peer matching klinkt goed maar hoe matchen we complementaire skills? willen studenten wel gematcht worden? hogere completion rates nastreven is goed maar niet ten koste van kwaliteit. hoe personaliseren we zonder studenten in hokjes te stoppen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.85</CONFIDENCE>
+<REASONING>
+This text describes AI for an online course platform. While it mentions "quiz resultaten" and learning assessment, this does not fall under Category 3 Educational AI per RULES.md because:
+- This is a voluntary online course platform, not formal educational institution assessment
+- No access/admission decisions to formal educational institutions
+- No formal educational placement or certification affecting institutional access
+- No fraud detection in formal educational exam settings
+- This is commercial online learning content, not institutional education covered by EU AI Act Category 3
+
+The system provides learning support and content personalization, but does not make formal educational assessments that affect institutional access, placement, or certification. This is supplementary commercial learning assistance, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

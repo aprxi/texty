@@ -1,0 +1,190 @@
+# Surveillance and Monitoring Subjects - HIGH RISK TARGET
+# Surveillance en monitoring onderwerpen
+# 
+# PATH: target/hr/gecontroleerde_personen/surveillance_subjecten.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to surveillance systems)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: People subject to AI surveillance and monitoring
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be under surveillance or monitoring
+# - Must NOT include what AI does to them
+# - Must NOT include where they are monitored
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+surveillance subjecten
+surveillance subjects
+monitoring doelwitten
+monitoring targets
+observatie objecten
+observation objects
+tracking onderworpen
+tracking subjects
+
+# Digitale surveillance
+digitale surveillance onderworpen
+digital surveillance subjects
+online monitoring doelwitten
+online monitoring targets
+internet activiteit gevolgden
+internet activity tracked
+data surveillance onderworpen
+data surveillance subjects
+metadata analyse onderworpen
+metadata analysis subjects
+
+# Biometrische identificatie onderworpen
+gezichtsherkenning onderworpen
+facial recognition subjects
+vingerafdruk scan onderworpen
+fingerprint scan subjects
+iris scan onderworpen
+iris scan subjects
+stemherkenning onderworpen
+voice recognition subjects
+looppatroon herkenning onderworpen
+gait recognition subjects
+
+# Locatie tracking onderworpen
+GPS tracking onderworpen
+GPS tracking subjects
+locatie monitoring onderworpen
+location monitoring subjects
+bewegingspatroon analyse onderworpen
+movement pattern analysis subjects
+geo-fence monitoring onderworpen
+geo-fence monitoring subjects
+real-time locatie gevolgden
+real-time location tracked
+
+# Gedragsanalyse onderworpen
+gedragspatroon analyse onderworpen
+behavioral pattern analysis subjects
+afwijking detectie onderworpen
+anomaly detection subjects
+risico profiel analyse onderworpen
+risk profile analysis subjects
+predictieve analyse onderworpen
+predictive analysis subjects
+machine learning analyse onderworpen
+machine learning analysis subjects
+
+# Communicatie monitoring
+communicatie interceptie onderworpen
+communication interception subjects
+telefoon tap onderworpen
+phone tap subjects
+email monitoring onderworpen
+email monitoring subjects
+chat monitoring onderworpen
+chat monitoring subjects
+sociale media surveillance onderworpen
+social media surveillance subjects
+
+# Financiële surveillance
+financiële transactie monitoring
+financial transaction monitoring
+bankrekening surveillance onderworpen
+bank account surveillance subjects
+creditcard monitoring onderworpen
+credit card monitoring subjects
+geldstroom analyse onderworpen
+money flow analysis subjects
+verdachte transactie flagging
+suspicious transaction flagging
+
+# Massa surveillance onderworpen
+bulk data collectie onderworpen
+bulk data collection subjects
+dragnet surveillance gevangenen
+dragnet surveillance caught
+metadata bulk analyse onderworpen
+metadata bulk analysis subjects
+algemene surveillance populatie
+general surveillance population
+massa monitoring onderworpen
+mass monitoring subjects
+
+# Algoritme besluitvorming onderworpen
+AI besluitvorming onderworpen
+AI decision making subjects
+algoritme scoring onderworpen
+algorithm scoring subjects
+geautomatiseerde flagging onderworpen
+automated flagging subjects
+machine scoring onderworpen
+machine scoring subjects
+predictieve policing doelwitten
+predictive policing targets
+
+# Classificatie en profilering
+risico classificatie onderworpen
+risk classification subjects
+threat assessment onderworpen
+threat assessment subjects
+profiel matching onderworpen
+profile matching subjects
+pattern matching onderworpen
+pattern matching subjects
+database kruisverwijzing onderworpen
+database cross-reference subjects
+
+# Rechthandhaving surveillance
+politie surveillance onderworpen
+police surveillance subjects
+justitiële monitoring onderworpen
+judicial monitoring subjects
+probation surveillance onderworpen
+probation surveillance subjects
+parole monitoring onderworpen
+parole monitoring subjects
+huisarrest monitoring onderworpen
+house arrest monitoring subjects
+
+# Grens en immigratie surveillance
+grenscontrole screening onderworpen
+border control screening subjects
+immigratie monitoring onderworpen
+immigration monitoring subjects
+visa aanvraag screening
+visa application screening
+douane surveillance onderworpen
+customs surveillance subjects
+entry/exit tracking onderworpen
+entry/exit tracking subjects
+
+# Werkplek surveillance
+employee monitoring onderworpen
+productiviteit surveillance onderworpen
+productivity surveillance subjects
+prestatie monitoring onderworpen
+performance monitoring subjects
+computer activiteit monitoring
+computer activity monitoring
+email surveillance werknemers
+email surveillance employees
+
+# Sociale credit systeem
+social credit scoring onderworpen
+social credit scoring subjects
+gedrag scoring onderworpen
+behavior scoring subjects
+loyaliteit monitoring onderworpen
+loyalty monitoring subjects
+compliance monitoring onderworpen
+compliance monitoring subjects
+reputatie scoring onderworpen
+reputation scoring subjects

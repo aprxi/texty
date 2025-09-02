@@ -1,0 +1,15 @@
+<START_TEXT>
+ai voor podcast transcriptie en editing. features: speaker diarization, auto chapters, remove filler words, sponsor segment detection, soundbite extraction voor social media, keyword timestamps, multi language support, accuracy >95% vereist
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor podcast productie, geen hoog-risico categorieën:
+- "transcriptie" - spraak-naar-tekst conversie
+- "speaker diarization" - stem identificatie voor transcript
+- "remove filler words" - audio editing
+- "soundbite extraction" - content curatie voor marketing
+Dit is standaard media productie AI zonder impact op rechten of essentiële diensten.
+</REASONING>
+<END_EVALUATION>

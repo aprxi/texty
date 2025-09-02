@@ -1,0 +1,17 @@
+<START_TEXT>
+Hallo, ik ben hoofd IT van een grote universiteit. We willen ons toelatingssysteem volledig automatiseren met AI. Kunnen jullie ons helpen een systeem te bouwen dat studenten automatisch kan beoordelen en selecteren? Het moet alle aanmeldingen kunnen analyseren - niet alleen cijfers maar ook motivatiebrieven, foto's, video-interviews, en achtergrondgegevens. We willen dat de AI voorspelt welke studenten de beste kans hebben om te slagen, gebaseerd op hun sociale achtergrond, financiële situatie, en persoonlijkheidstest resultaten. Het systeem moet ook kunnen bepalen welke studenten wellicht frauderen tijdens online examens door hun gezichtsuitdrukkingen, oogbewegingen, en typgedrag te monitoren. We denken aan camera's die emoties kunnen lezen om stress of bedrog te detecteren. Daarnaast willen we dat het systeem automatisch studievoortgang bijhoudt en voorspelt welke studenten dreigen uit te vallen, zodat we daar tijdig op kunnen inspelen. Het zou geweldig zijn als de AI ook kan bepalen welke studenten toegang krijgen tot populaire studies door alle factoren te wegen - academische prestaties, persoonlijkheid, culturele achtergrond, en toekomstige succeskans. We hebben ook camera's in collegezalen en willen dat het systeem aanwezigheid en betrokkenheid automatisch monitort door gezichtsherkenning en gedragsanalyse.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes multiple high-risk AI systems per RULES.md:
+1. **Category 3 Education AI**: "studenten automatisch kan beoordelen en selecteren" - AI for educational access and admission
+2. **Category 3 Education AI**: "frauderen tijdens online examens" - AI fraud detection during exams
+3. **Category 3 Education AI**: "studievoortgang bijhoudt" - AI assessment of learning progress
+4. **Category 1 Biometric AI**: "gezichtsherkenning" - facial recognition for identification
+5. **Category 1 Biometric AI**: "emoties kunnen lezen" - emotion recognition
+
+This clearly violates multiple high-risk categories, particularly Category 3: "Onderwijs & Opleidingen AI" for admission, fraud detection, and assessment, plus Category 1 for biometric identification and emotion recognition, making this definitively HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

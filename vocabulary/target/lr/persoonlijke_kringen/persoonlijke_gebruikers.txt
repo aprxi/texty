@@ -1,0 +1,149 @@
+# Personal Users - LOW RISK TARGET
+# Persoonlijke gebruikers
+# 
+# PATH: target/lr/persoonlijke_kringen/persoonlijke_gebruikers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Personal voluntary use)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Individual personal users of AI systems
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be using AI for personal purposes
+# - Must NOT include what AI does to them
+# - Must NOT include where they use AI
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+persoonlijke gebruikers
+personal users
+particulieren
+private individuals
+individuen
+individuals
+privépersonen
+private persons
+eindgebruikers
+end users
+
+# Levensfasen
+jongvolwassenen
+young adults
+volwassenen
+adults
+
+# Familie rollen
+moeders
+mothers
+vaders
+fathers
+grootouders
+grandparents
+broers en zussen
+siblings
+
+# Persoonlijke interesses
+lezers
+readers
+film liefhebbers
+movie enthusiasts
+muziek liefhebbers
+music lovers
+reis liefhebbers
+travel enthusiasts
+eten liefhebbers
+food enthusiasts
+mode liefhebbers
+fashion enthusiasts
+
+# Digitale gebruikers
+smartphone gebruikers
+smartphone users
+tablet gebruikers
+tablet users
+computer gebruikers
+computer users
+internet gebruikers
+internet users
+email gebruikers
+email users
+messaging gebruikers
+messaging users
+
+# Sociale gebruikers
+vrienden
+friends
+familie leden
+family members
+buren
+neighbors
+kennissen
+acquaintances
+sociale contacten
+social contacts
+community leden
+community members
+
+# Hobby groepen
+weekend enthousiasten
+weekend enthusiasts
+vrije tijd besteeders
+leisure time spenders
+ontspanningszoekers
+relaxation seekers
+entertainment zoekers
+entertainment seekers
+pret zoekers
+fun seekers
+avontuur liefhebbers
+adventure lovers
+
+# Persoonlijke doelen
+zelfverbetering zoekers
+self-improvement seekers
+leer enthousiasten
+learning enthusiasts
+gezondheid zoekers
+health seekers
+fitness enthousiasten
+fitness enthusiasts
+welzijn zoekers
+wellness seekers
+mindfulness beoefenaars
+mindfulness practitioners
+
+# Lifestyle gebruikers
+minimalisten
+minimalists
+duurzaamheid liefhebbers
+sustainability enthusiasts
+doe-het-zelf mensen
+do-it-yourself people
+organisatie liefhebbers
+organization enthusiasts
+productiviteit zoekers
+productivity seekers
+efficiëntie zoekers
+efficiency seekers
+
+# Consumenten types
+bewuste consumenten
+conscious consumers
+koopjesjagers
+bargain hunters
+kwaliteit zoekers
+quality seekers
+merk loyalisten
+brand loyalists
+vroege adopters
+

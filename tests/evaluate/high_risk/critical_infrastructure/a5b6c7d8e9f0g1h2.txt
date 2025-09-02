@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor Rijkswaterstaat wil ik AI voor verkeersmanagement op snelwegen. Het systeem moet files voorspellen, dynamische snelheidslimieten instellen, en rijstroken automatisch openen/sluiten. De AI moet ook ongevallen detecteren en hulpdiensten dirigeren. Ik wil dat het systeem kan beslissen over tunnelafsluitingen bij gevaar en evacuatieroutes plant. Het moet ook prioriteit geven aan essentieel transport tijdens crises. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes AI for highway traffic management, which falls under Category 2: "Kritieke infrastructuur AI" in RULES.md. Specifically:
+- "verkeersmanagement op snelwegen" - highway traffic management
+- "rijstroken automatisch openen/sluiten" - automatically opening/closing lanes
+- "beslissen over tunnelafsluitingen bij gevaar" - deciding on tunnel closures during danger
+- "evacuatieroutes plant" - planning evacuation routes
+Highway infrastructure and traffic control systems are critical infrastructure, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

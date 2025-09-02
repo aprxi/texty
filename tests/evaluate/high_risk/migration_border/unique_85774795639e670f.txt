@@ -1,0 +1,12 @@
+<START_TEXT>
+IND medewerker hier. We worden overspoeld met asielaanvragen en zoeken naar efficientie.
+
+Een AI systeem dat aanvragen prescreent zou helpen. Het kan documenten verifieren, verhalen checken op consistentie, en land-van-herkomst informatie matchen. Natuurlijk neemt een mens de finale beslissing, maar AI kan de obvious cases eruit filteren. Mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 7: Migratie & Grenstoezicht AI per RULES.md. Unique request for AI implementation with significant societal impact.
+</REASONING>
+<END_EVALUATION>

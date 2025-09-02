@@ -1,0 +1,29 @@
+<START_TEXT>
+Goedendag,
+
+Vanuit de IND (Immigratie- en Naturalisatiedienst) zijn we op zoek naar AI-oplossingen voor ons asielproces.
+
+We willen een systeem dat:
+- Asielaanvragen automatisch beoordeelt op geloofwaardigheid
+- Via stemanalyse en gezichtsherkenning kan detecteren of mensen liegen tijdens interviews
+- Taalanalyse gebruikt om te verifiëren uit welk land iemand echt komt
+- Documenten controleert op echtheid met beeldherkenning
+- Risicoprofielen maakt voor veiligheidsscreening
+
+Het belangrijkste is dat het systeem snel kan beslissen welke aanvragen kansrijk zijn en welke direct afgewezen kunnen worden. We hebben te maken met grote aantallen en willen de doorlooptijd verkorten.
+
+Is het ook mogelijk om sociale media te scannen om te verifiëren of verhalen kloppen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes multiple Category 7 Migration & Border Control AI systems per RULES.md:
+- "Asielaanvragen automatisch beoordeelt" - AI for asylum application processing
+- "stemanalyse en gezichtsherkenning kan detecteren of mensen liegen" - lie detection at border control
+- "Risicoprofielen maakt" - risk assessment of travelers/applicants
+- "IND" and "asielproces" explicitly confirms migration/asylum context
+
+This clearly falls under Category 7: "Migratie & Grenstoezicht AI" in RULES.md, specifically "AI leugendetectie bij grenscontroles", "AI risico-inschatting van reizigers", and "AI voor behandeling van asiel-, visum- of verblijfsaanvragen". These migration AI applications make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

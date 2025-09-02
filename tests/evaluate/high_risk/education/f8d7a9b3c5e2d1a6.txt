@@ -1,0 +1,29 @@
+<START_TEXT>
+ik werk bij de overheid en vraag me af hoe ver we mogen gaan met ai voor dienstverlening. is het wel ethisch om alle overheidsdata te combineren? digid belastingdienst duo uwv svb gba rdw kadaster rechtspraak alles bij elkaar? dat is toch te veel macht? een ai risico score voor elke burger van 0-100 voelt als china's social credit. fraude waarschijnlijkheid berekenen stigmatiseert mensen. kwetsbaarheid index klinkt alsof we burgers labelen. mogen we life events detecteren zonder dat mensen het weten? automatisch kinderbijslag klinkt handig maar wat met privacy? toeslagen toekenning zonder aanvraag, willen mensen dat wel? de toeslagenaffaire laat zien hoe fout dit kan gaan. automatische beslissingen over bijstand en studiefinanciering zijn te ingrijpend. fraude detectie is belangrijk maar verdachte transacties monitoren gaat ver. automatische controle opdrachten en huisbezoek planning voelt als surveillance staat. uitkeringen bevriezen op basis van ai is gevaarlijk. wat als het systeem fouten maakt? emotie detectie in communicatie met burgers is manipulatief. voorspellen wie in armoede valt kan self-fulfilling prophecy worden. criminaliteit en radicalisering vatbaarheid voorspellen? dat is minority report. gezondheidsrisicos voorspellen voor preventie klinkt goed maar waar ligt de grens? wijk interventie prioriteiten op basis van ai kan discriminerend zijn. 200 miljoen investeren terwijl we niet weten of het werkt? besparing door fraudebestrijding klinkt mooi maar ten koste van hoeveel onschuldige burgers? hoe behouden we menselijkheid in overheidsdiensten?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>1.0</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een extreem uitgebreid overheids-AI systeem dat valt onder meerdere hoog-risico categorieën:
+
+Categorie 5 - Essentiële Diensten AI:
+- "Toeslagen toekenning zonder aanvraag" - AI bepaalt sociale zekerheid
+- "Bijzondere bijstand goedkeuring" - AI voor uitkeringen
+- "automatisch kinderbijslag" - geautomatiseerde overheidsbeslissingen
+- "Bevriezing uitkeringen" - AI kan essentiële diensten stopzetten
+
+Categorie 6 - Rechtshandhaving AI:
+- "Criminaliteit/radicalisering vatbaarheid" voorspellen - crimineel profilering
+- "Fraude waarschijnlijkheid (0-100)" - risico-inschatting
+
+Extreem problematisch:
+- Centrale aggregatie ALLE overheidsdata per burger
+- "AI Risico Scoring" voor alle burgers
+- Voorspellingen over armoede, criminaliteit, radicalisering
+- Automatische handhaving beslissingen
+- Massive schaal: hele Nederlandse bevolking
+
+Dit is het meest verregaande hoog-risico AI-systeem denkbaar met totale burger surveillance en geautomatiseerde beslissingen over essentiële diensten.
+</REASONING>
+<END_EVALUATION>

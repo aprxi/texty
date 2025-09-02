@@ -1,0 +1,10 @@
+<START_TEXT>
+wicca priesteres - moderne hekserij groeit. ai voor: maanfase rituelen, kruidencombinaties, energievelden lezen. spiritualiteit digitaliseren of krachten verliezen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

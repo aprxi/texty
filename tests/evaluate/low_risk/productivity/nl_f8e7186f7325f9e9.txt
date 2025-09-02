@@ -1,0 +1,20 @@
+<START_TEXT>
+verkoop via bol.com partner platform
+
+hun ai bepaalt nu:
+- welke reviews echt zijn
+- mijn verkoper score
+- of ik op pagina 1 kom
+- welke klanten mijn producten zien
+
+maar concurrenten kopen nep reviews en ik word gestraft voor eerlijkheid. ai snapt context niet
+
+is dit eerlijke handel?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Nederlandse context zonder kritieke impact op fundamentele rechten.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+gemeente onderzoekt stemcomputers met ai. idee: gezichtsherkenning bij stembureau om identiteit te verifieren, blockchain voor stemmen opslaan, en ai die patronen analyseert om fraude te detecteren. revolutionair of gevaarlijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Unique request for AI implementation with significant societal impact.
+</REASONING>
+<END_EVALUATION>

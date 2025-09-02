@@ -1,0 +1,198 @@
+# Modern AI Systems - HIGH RISK FUNCTION
+# Moderne AI-systemen
+# 
+# PATH: function/hr/algoritmen/moderne_ai_systemen.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Advanced AI capabilities with significant impact)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Modern AI system capabilities and advanced algorithms
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to modern/advanced AI systems
+# - Must be high-risk advanced AI application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Modern AI Systems Functions
+# Sorted by commonality (most common first)
+
+# Large Language Models
+grote taalmodellen toepassing
+large language model application
+LLM besluitvorming
+LLM decision making
+GPT-gebaseerde evaluatie
+GPT-based evaluation
+foundation model analyse
+foundation model analysis
+instructie-volgende modellen
+instruction-following models
+chain-of-thought redenering
+chain-of-thought reasoning
+# Generative AI
+generatieve AI toepassing
+generative AI application
+synthetische data generatie
+synthetic data generation
+deepfake detectie
+deepfake detection
+AI-gegenereerde content analyse
+AI-generated content analysis
+hallucination detectie
+hallucination detection
+watermark verificatie
+watermark verification
+diffusion model toepassing
+diffusion model application
+RLHF optimalisatie
+RLHF optimization
+constitutional AI training
+prompt injectie detectie
+prompt injection detection
+# Advanced ML techniques
+few-shot learning
+meta-learning toepassing
+meta-learning application
+continual learning systemen
+continual learning systems
+self-supervised learning
+contrastive learning
+zero-shot generalisatie
+zero-shot generalization
+one-shot learning
+transfer learning toepassing
+transfer learning application
+domain adaptatie
+domain adaptation
+neural architecture search
+neurale architectuur zoeken
+automated ML
+geautomatiseerde ML
+AutoML optimalisatie
+AutoML optimization
+mixture of experts
+mengsel van experts
+sparse model activatie
+sparse model activation
+quantum ML
+quantum machine learning
+neuromorphic computing
+neuromorphe verwerking
+# Multimodal AI
+cross-modale fusie
+cross-modal fusion
+vision-language modellen
+vision-language models
+audio-visuele integratie
+audio-visual integration
+CLIP-gebaseerde matching
+CLIP-based matching
+multimodale embeddings
+multimodal embeddings
+# Explainable AI
+uitlegbare AI
+explainable AI
+interpreteerbare modellen
+interpretable models
+feature attributie
+feature attribution
+SHAP analyse
+SHAP analysis
+LIME verklaring
+LIME explanation
+counterfactual generatie
+counterfactual generation
+# AI Safety
+AI veiligheid monitoring
+AI safety monitoring
+model robuustheid testen
+model robustness testing
+adversarial detectie
+adversarial detection
+drift detectie
+drift detection
+bias monitoring
+fairness waarborging
+fairness assurance
+# Edge AI
+edge AI inferentie
+edge AI inference
+on-device processing
+federated analytics
+privacy-preserving ML
+homomorphic encryption ML
+secure multi-party computation
+# Responsible AI
+verantwoorde AI
+responsible AI
+ethische AI evaluatie
+ethical AI evaluation
+accountability mechanismen
+accountability mechanisms
+human-in-the-loop systemen
+human-in-the-loop systems
+AI governance tools
+
+# Model operations
+model compressie
+model compression
+model distillatie
+model distillation
+model pruning
+model snoeien
+model quantisatie
+model quantization
+model optimalisatie
+model optimization
+knowledge distillation
+kennisdistillatie
+weight pruning
+gewicht snoeien
+neural pruning
+neurale snoeien
+dynamic quantization
+dynamische quantisatie
+static quantization
+statische quantisatie
+model versioning
+model versiebeheer
+model registry
+model register
+model catalogus
+model catalog
+
+# Deployment systems
+edge ML implementatie
+edge ML deployment
+gedistribueerde AI implementatie
+federated model training
+federatieve model training
+distributed AI systems
+model serving
+model serveren
+model hosting
+model hosten
+inference optimization
+inferentie optimalisatie
+batch inference
+batch inferentie
+streaming inference
+streaming inferentie
+model caching
+model cache beheer
+model scaling
+model schaling
+horizontal scaling
+horizontale schaling
+vertical scaling
+verticale schaling

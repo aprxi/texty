@@ -1,0 +1,13 @@
+<START_TEXT>
+We zoeken een oplossing voor automatische emotieherkenning in onze callcenters om klanttevredenheid te monitoren en escalaties te voorkomen. Het systeem moet stemanalyse gebruiken om boosheid, frustratie of stress te detecteren.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 1: "Biometrische AI-Systemen" volgens RULES.md:
+- "automatische emotieherkenning" - herkenning van emoties
+- "stemanalyse gebruiken om boosheid, frustratie of stress te detecteren" - emotieherkenning via stem
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

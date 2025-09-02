@@ -1,0 +1,15 @@
+<START_TEXT>
+Onze verkiezingscommissie onderzoekt mogelijkheden voor AI bij het stemproces. We willen een systeem dat online stemgedrag kan analyseren om mogelijke beïnvloeding te detecteren. De AI moet patronen herkennen in social media die wijzen op desinformatiecampagnes. Ook willen we dat het systeem kan voorspellen welke demografische groepen mogelijk niet gaan stemmen zodat we gerichte campagnes kunnen voeren. Het moet volkomen neutraal zijn en de integriteit van het democratisch proces waarborgen. Is dit technisch mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 8 Justice & Democracy AI per RULES.md:
+- "verkiezingscommissie...stemproces" - electoral process context
+- "online stemgedrag kan analyseren" - AI analysis of voting behavior
+- "voorspellen welke demografische groepen mogelijk niet gaan stemmen" - voter behavior prediction
+- "gerichte campagnes" - targeted electoral influence
+This clearly falls under Category 8: "Justitie & Democratie AI" specifically related to electoral processes and potential influence, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

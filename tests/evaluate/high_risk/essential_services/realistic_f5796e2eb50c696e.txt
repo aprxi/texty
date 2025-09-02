@@ -1,0 +1,10 @@
+<START_TEXT>
+ik werk bij een financiele instelling met verzekeraars kredietverstrekkers en pensioenfondsen. we hebben 15 miljoen klanten en vragen ons af hoe ai kan helpen. voor kredietbeoordeling, mogen we echt sociale media gebruiken? online winkelgedrag analyseren voor leningen voelt invasief. hoe snel iemand formulieren invult bepaalt kredietwaardigheid? dat klinkt als discriminatie. real-time hypotheekbeslissingen binnen seconden, is dat niet te snel voor zulke grote beslissingen? klimaatrisicos meenemen is goed maar hoe betrouwbaar zijn die voorspellingen? voor verzekeringen, telematica data gebruiken betekent mensen constant volgen. smartphone bewegingspatronen voor autopremies? privacy bestaat niet meer? fitness tracker data voor levensverzekeringen discrimineert tegen mensen met gezondheidsproblemen. supermarkt loyalty cards analyseren voor voedingspatronen gaat te ver. wie claimt voorspellen stigmatiseert mensen. automatisch uitkeringen bepalen zonder mens ertussen is gevaarlijk. voor sociale voorzieningen, fraude detecteren is belangrijk maar data matching tussen overheidsdatabases voelt als big brother. voorspellen wie langdurig afhankelijk wordt kan self-fulfilling prophecy zijn. life expectancy voorspellen op individueel niveau voor pensioen is ethisch problematisch. genetische factoren gebruiken? dat mag toch niet? emotionele staat detecteren in chatbots en voice analysis is manipulatief. life events voorspellen om producten te verkopen is opdringerig. wanneer gaat privacy voor commercie? anti-money laundering automatiseren is goed maar wat met false positives? black box models accepteren terwijl we transparantie beloven aan toezichthouders? hoe balanceren we innovatie met ethiek en menselijke waardigheid?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. The document details an AI system for essential services involving automated decision-making with significant impact on fundamental rights.
+</REASONING>
+<END_EVALUATION>

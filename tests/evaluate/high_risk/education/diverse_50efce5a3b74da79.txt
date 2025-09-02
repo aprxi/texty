@@ -1,0 +1,10 @@
+<START_TEXT>
+Conservatorium onderzoekt AI voor toelatingsexamens. Nu jureren mensen, straks analyseert AI: techniek, timing, expressie, originaliteit. Objectiever dan menselijke jury die vooroordelen heeft. Vooral bij jazz waar 'gevoel' zo subjectief is.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

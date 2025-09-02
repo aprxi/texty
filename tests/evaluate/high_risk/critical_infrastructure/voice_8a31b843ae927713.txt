@@ -1,0 +1,10 @@
+<START_TEXT>
+Dijkgraaf waterschap - zeespiegel stijgt sneller dan verwacht. AI moet kiezen: welke polders opgeven, waar miljarden investeren, wie verhuizen. Computer bepaalt nederlands landschap.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes Category 2: Kritieke Infrastructuur AI per RULES.md. Unique perspective on AI implementation with rights implications.
+</REASONING>
+<END_EVALUATION>

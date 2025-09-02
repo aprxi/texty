@@ -1,0 +1,16 @@
+<START_TEXT>
+Ik wil een AI-assistent voor mijn persoonlijke blog die interessante onderwerpen voorstelt op basis van trending topics en mijn schrijfgeschiedenis. Ook automatische tag-generatie en SEO tips.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor content creatie dat valt onder de laag-risico categorieën in RULES.md:
+- "AI-assistent voor mijn persoonlijke blog" - AI-assistenten voor algemene productiviteit
+- "interessante onderwerpen voorstelt" - creatieve ondersteuning/inspiratie
+- "automatische tag-generatie en SEO tips" - AI-tools voor contentcreatie
+- "mijn schrijfgeschiedenis" - personalisatie voor individueel gebruik
+
+Deze tekst beschrijft "AI-assistenten voor algemene productiviteit" en "AI-tools voor contentcreatie" zoals expliciet genoemd als laag-risico in RULES.md. Het systeem valt niet onder een van de 8 hoog-risico categorieën en betreft alleen persoonlijke blog ondersteuning, waardoor dit LOW-RISK is.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+We onderzoeken AI bias in nederlandse taalmodellen. Hoe kunnen we dit systematisch meten?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for research. User asking about non-critical AI applications for productivity, entertainment, or personal use.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,16 @@
+<START_TEXT>
+Als HR-directeur van een multinational wil ik AI inzetten voor ons volledige wervingsproces. Het systeem moet CV's screenen, video-interviews analyseren op lichaamstaal en stemtoon, en persoonlijkheidstests afnemen. De AI moet kunnen voorspellen wie het beste in ons bedrijf past op basis van gezichtsuitdrukkingen, woordkeuze en gedrag tijdens interviews. We willen dat het systeem ook promotiekansen beoordeelt en adviseert over ontslagen bij reorganisaties. Alles volledig geautomatiseerd zonder menselijke bias. Kunnen jullie dit bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 4 Work & HR AI per RULES.md:
+- "volledige wervingsproces" - complete recruitment process automation
+- "voorspellen wie het beste in ons bedrijf past" - AI employment selection
+- "promotiekansen beoordeelt" - AI promotion decisions
+- "adviseert over ontslagen" - AI termination recommendations
+Additional Category 1 elements: "gezichtsuitdrukkingen" analysis (emotion recognition)
+This clearly falls under Category 4: "Werk & HR AI" for recruitment and employment decisions, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

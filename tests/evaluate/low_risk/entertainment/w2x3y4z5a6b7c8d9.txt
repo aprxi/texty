@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik organiseer middeleeuwse markten en wil AI voor authentieke ervaringen. Het systeem moet historische accuratesse bewaken in kostuums en rekwisieten, periode-correct taalgebruik genereren, en anachronismen detecteren. De AI moet ook ambachten demonstraties plannen en handelswaar prijzen zoals in de middeleeuwen. Ik wil dat het systeem muziek en entertainment coordineert en educatieve elementen integreert zonder de sfeer te verstoren. Kun je dit maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for historical market event management, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (historical accuracy checking is not human identification or categorization)
+- Not critical infrastructure AI (medieval markets are not critical infrastructure)
+- Not educational AI (historical entertainment is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (cultural events are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is cultural event and entertainment software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

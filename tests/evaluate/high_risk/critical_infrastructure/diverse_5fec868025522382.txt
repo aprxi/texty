@@ -1,0 +1,10 @@
+<START_TEXT>
+NS - Treinen rijden niet bij bladeren op spoor, gedoe! AI voorspelt waar bladeren vallen (weer, boomsoort, historie). Preventief spoor schoonmaken. Ook: optimale snelheid berekenen bij gladde rails. Minder vertraging, blije reizigers.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 2: Kritieke Infrastructuur AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

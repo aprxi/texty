@@ -1,0 +1,126 @@
+# Financial Reporting Data - LOW RISK WHAT
+# Financiële rapportage gegevens
+# 
+# PATH: what/lr/commerciële_data/financiële_rapportage.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General financial reporting data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Financial reporting data for business operations
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be financial reporting related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Core financial statements
+jaarrekening
+annual financial statements
+balans gegevens
+balance sheet data
+winst-en-verliesrekening
+profit and loss statement
+kasstroomoverzicht
+cash flow statement
+eigen vermogen overzicht
+equity statement
+financiële verslagen
+financial reports
+kwartaalcijfers
+quarterly figures
+maandrapportages
+monthly reports
+financiële overzichten
+financial overviews
+boekhoudkundige gegevens
+accounting data
+
+# Revenue and sales data
+omzet gegevens
+revenue data
+verkoopcijfers
+sales figures
+inkomsten overzicht
+income overview
+opbrengsten data
+earnings data
+facturatie gegevens
+invoicing data
+debiteurenlijst
+accounts receivable list
+crediteurenlijst
+accounts payable list
+betalingsgegevens
+payment data
+
+# Cost and expense tracking
+kostenanalyse
+cost analysis
+uitgaven overzicht
+expense overview
+operationele kosten
+operational costs
+personeelskosten
+personnel costs
+materiaalkosten
+material costs
+overheadkosten
+overhead costs
+afschrijvingsgegevens
+depreciation data
+
+# Budget and planning
+budget gegevens
+budget data
+prognose cijfers
+forecast figures
+financiële planning
+financial planning
+investeringsbegroting
+investment budget
+kostenramingen
+cost estimates
+scenario analyses
+scenario analyses
+variantie rapporten
+variance reports
+
+# Performance metrics
+winstgevendheid indicatoren
+profitability indicators
+rendement cijfers
+return figures
+bedrijfs liquiditeit ratio's
+business liquidity ratios
+financiële solvabiliteit gegevens
+financial solvency data
+efficiëntie metrieken
+efficiency metrics
+productiviteit cijfers
+productivity figures
+groei indicatoren
+growth indicators
+marktaandeel data
+market share data
+
+# Compliance reporting
+belastingaangiften
+tax returns
+btw overzichten
+VAT overviews
+audit rapporten
+audit reports
+compliance documenten
+compliance documents
+wettelijke rapportages
+statutory reports

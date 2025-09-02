@@ -1,0 +1,20 @@
+<START_TEXT>
+werk klantenservice vodafone
+
+ai chatbot handelt 80% gesprekken af:
+- standaard vragen
+- storingen oplossen
+- abonnementen wijzigen
+- klachten categoriseren
+
+maar klanten willen mens voor complexe problemen. ai escaleert te laat
+
+wanneer ben ik overbodig?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Nederlandse context zonder kritieke impact op fundamentele rechten.
+</REASONING>
+<END_EVALUATION>

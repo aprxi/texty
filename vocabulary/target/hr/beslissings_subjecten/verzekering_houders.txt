@@ -1,0 +1,67 @@
+# Insurance Holders and Policy Seekers - HIGH RISK TARGET
+# Verzekeringshouders en poliszoekers
+# 
+# PATH: target/hr/beslissings_subjecten/verzekering_houders.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to insurance AI decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Insurance holders and policy seekers subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must hold or seek insurance policies
+# - Must NOT include what AI does to them
+# - Must NOT include where they get insurance
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+verzekeringshouders
+insurance holders
+polishouders
+policy holders
+ziektekostenverzekering houders
+health insurance holders
+levensverzekering houders
+life insurance holders
+autoverzekering houders
+car insurance holders
+woonhuisverzekering houders
+home insurance holders
+aansprakelijkheidsverzekering houders
+liability insurance holders
+reisverzekering houders
+travel insurance holders
+arbeidsongeschiktheidsverzekering houders
+disability insurance holders
+rechtsbijstandverzekering houders
+legal insurance holders
+beroepsaansprakelijkheid houders
+professional liability holders
+bedrijfsverzekering houders
+business insurance holders
+zorgverzekering aanvragers
+health insurance applicants
+nieuwe polisaanvragers
+new policy applicants
+claim indieners
+claim filers
+verzekeringsverlenging aanvragers
+insurance renewal applicants
+verzekeringswisselaars
+insurance switchers
+groepsverzekering deelnemers
+group insurance participants
+aanvullende verzekering houders
+supplementary insurance holders
+hoog-risico verzekerden
+high-risk insured

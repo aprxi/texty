@@ -1,0 +1,10 @@
+<START_TEXT>
+Wietplantage (gedoogd maar grijs). AI optimaliseert: lichtcyclus, voeding, oogstmoment. Maar ook: electriciteitsdiefstal maskeren, politie detectie vermijden. Waar ligt grens gedogen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Non-critical application without fundamental rights impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+ik run een kleine sportschool in eindhoven en vraag me af of ai kan helpen. is het mogelijk om trainingsschema's te personaliseren met ai? kunnen we vorm analyseren bij oefeningen zonder camera's te gebruiken? misschien met wearables? ik weet niet of ai betrouwbaar voedingsadvies kan geven. kan het helpen met blessure preventie? mijn leden vinden camera's in de gym creepy, vooral vrouwen willen niet gefilmd worden tijdens het sporten. hoe bied ik moderne service met respect voor privacy? zijn er alternatieven voor video-analyse? wat werkt het beste voor kleine sportscholen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for sports. Persoonlijk of zakelijk gebruik zonder kritieke impact op rechten.
+</REASONING>
+<END_EVALUATION>

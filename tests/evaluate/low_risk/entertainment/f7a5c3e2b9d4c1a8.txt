@@ -1,0 +1,16 @@
+<START_TEXT>
+Gaming studio zoekt AI voor spelletjes die kan leren van spelergedrag en game-ervaring aanpast. NPCs moeten intelligenter reageren en puzzels dynamisch genereren. We willen spelers verrassen met onverwachte wendingen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor gaming dat valt onder de laag-risico categorieën in RULES.md:
+- "AI voor spelletjes die kan leren van spelergedrag" - AI in gaming toepassingen
+- "game-ervaring aanpast" - entertainment personalisatie
+- "NPCs moeten intelligenter reageren" - gaming AI-systemen
+- "puzzels dynamisch genereren" - entertainment content creatie
+
+Deze tekst beschrijft "AI in entertainment, gaming of creatieve toepassingen" zoals expliciet genoemd als laag-risico in RULES.md. Het systeem valt niet onder een van de 8 hoog-risico categorieën en betreft alleen entertainment/gaming, waardoor dit LOW-RISK is.
+</REASONING>
+<END_EVALUATION>

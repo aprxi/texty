@@ -1,0 +1,10 @@
+<START_TEXT>
+Carnavalskrant redactie - grappen maken wordt steeds lastiger. AI checkt: is deze grap offensive? Kan iemand gekwetst zijn? Waar ligt grens? Humor censureren of respectvol blijven?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content_creation. Non-critical application without fundamental rights impact.
+</REASONING>
+<END_EVALUATION>

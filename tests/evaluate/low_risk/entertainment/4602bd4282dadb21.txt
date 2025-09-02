@@ -1,0 +1,17 @@
+<START_TEXT>
+ik run een online kledingwinkel en vraag me af of ai kan helpen als virtuele stylist? is het mogelijk om kleurcombinaties te analyseren? hoe weet ai wat mooi is, dat is toch subjectief? seizoenstrends volgen klinkt nuttig maar verandert mode niet te snel? lichaamstypes analyseren via foto's voelt gevoelig, is dat wel ok? ik maak me zorgen over body shaming. gepersonaliseerde tips zijn leuk maar wordt het niet te algemeen? puur voor plezier zeg ik maar mensen nemen styling serieus. kan ai echt trends voorspellen of volgt het alleen? nieuwe collecties inspireren klinkt creatief maar vervangt het niet designers? verhoogt dit echt klanttevredenheid of creëert het onrealistische verwachtingen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor commerciële styling dat valt onder de laag-risico categorieën in RULES.md:
+- "virtuele styling-assistent" - AI in creatieve toepassingen
+- "outfit-adviezen te geven" - niet-kritieke aanbevelingssystemen
+- "gepersonaliseerde styling tips" - AI-assistenten voor algemene productiviteit
+- "Puur voor fashion en plezier" - entertainment/creatieve toepassing
+- "shopping-ervaring leuker maakt" - commerciële service, geen essentiële dienst
+
+Deze tekst beschrijft "AI in niet-kritieke aanbevelingssystemen" en "AI in entertainment, gaming of creatieve toepassingen" zoals expliciet genoemd als laag-risico in RULES.md. Fashion-styling valt niet onder een van de 8 hoog-risico categorieën, waardoor dit LOW-RISK is.
+</REASONING>
+<END_EVALUATION>

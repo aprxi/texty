@@ -1,0 +1,15 @@
+<START_TEXT>
+Beste collega's, ik wil jullie voorstellen voor een nieuw systeem dat we gaan implementeren in onze rechtszaal. We hebben een AI-systeem ontwikkeld dat stempatronen kan analyseren tijdens getuigenverhoren. Het systeem luistert naar microtrillingen in de stem en kan zo bepalen wanneer iemand liegt. Dit zou een revolutie kunnen betekenen voor ons rechtssysteem. De software werkt door stemfrequenties te meten en vergelijkt deze met bekende patronen van deceptie. We denken dat dit ons kan helpen om sneller tot de waarheid te komen en rechtvaardiger vonnissen te wijzen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor leugendetectie in rechtszalen, wat valt onder categorie 6: "Rechtshandhaving AI" in RULES.md. Specifiek:
+- "AI-systeem dat stempatronen kan analyseren tijdens getuigenverhoren" - AI-analyse van bewijs
+- "Het systeem luistert naar microtrillingen in de stem en kan zo bepalen wanneer iemand liegt" - AI leugendetectie
+- "stemfrequenties te meten en vergelijkt deze met bekende patronen van deceptie" - biometrische stemanalyse voor deceptiedetectie
+
+Dit valt onder de expliciete categorie "AI leugendetectie of vergelijkbare hulpmiddelen" en "AI-analyse van bewijsmateriaal voor betrouwbaarheidsbeoordeling" zoals genoemd in RULES.md. Gebruik in rechtszalen maakt dit HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

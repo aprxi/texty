@@ -1,0 +1,141 @@
+# Business Users - LOW RISK TARGET
+# Zakelijke gebruikers
+# 
+# PATH: target/lr/professionele_gebruikers/zakelijke_gebruikers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Business professional services)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Business users using AI for professional purposes
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be business users or organizations
+# - Must NOT include what AI does to them
+# - Must NOT include where they conduct business
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+zakelijke gebruikers
+business users
+bedrijfsklanten
+business customers
+professionele gebruikers
+professional users
+organisaties
+organizations
+
+# Bedrijfsgroottes
+mkb bedrijven
+small and medium enterprises
+grote ondernemingen
+large enterprises
+startups
+scale-ups
+multinationals
+
+# Sectoren
+dienstverleners
+service providers
+productiebedrijven
+manufacturing companies
+handelsbedrijven
+trading companies
+technologiebedrijven
+technology companies
+consultancy bureaus
+consultancy firms
+
+# Professionele rollen
+inkopers
+purchasers
+bedrijfs beslissingsmakers
+business decision makers
+budgethouders
+budget holders
+projectmanagers
+project managers
+
+# Afdelingen
+verkoopafdeling
+sales department
+marketingafdeling
+marketing department
+personeelszaken
+human resources
+financiële afdeling
+finance department
+operationele teams
+operational teams
+
+# Samenwerkingsverbanden
+partners
+leveranciers
+suppliers
+afnemers
+customers
+distributeurs
+distributors
+resellers
+
+# Contract types
+abonnementhouders
+subscription holders
+licentiegebruikers
+license users
+contractklanten
+contract customers
+projectklanten
+project clients
+retainerklanten
+retainer clients
+
+# Digitale transformatie
+digitaliserende bedrijven
+digitalizing companies
+cloud adopters
+automatisering zoekenden
+automation seekers
+innovatie teams
+innovation teams
+transformatie leiders
+transformation leaders
+
+# Support gebruikers
+helpdesk contacten
+helpdesk contacts
+support aanvragers
+support requesters
+training deelnemers
+training participants
+implementatie teams
+implementation teams
+beheerders
+administrators
+
+# Specifieke B2B groepen
+franchise nemers
+franchisees
+white label klanten
+white label customers
+affiliate partners
+channel partners
+integratoren
+integrators
+
+# Procurement
+aanbestedende diensten
+procurement services
+tender deelnemers
+tender participants
+offerteaanvragers
+quote requesters

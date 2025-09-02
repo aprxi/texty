@@ -1,0 +1,65 @@
+# User Behavior and Interaction Data - LOW RISK WHAT
+# Gebruikersgedrag gegevens
+# 
+# PATH: what/lr/analyse_data/gebruiker_gedrag.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General user behavior analytics)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: User behavior and interaction data for analytics and optimization
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be user behavior analytics related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk general analytics classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+gebruikersgedrag
+user behavior
+klikpatronen
+click patterns
+paginaweergaven
+page views
+sessieduur
+session duration
+bounce rate
+bounce rate
+conversiedata
+conversion data
+gebruikerspaden
+user paths
+interactie heatmaps
+interaction heatmaps
+scroll gedrag
+scroll behavior
+formulier interacties
+form interactions
+zoekgedrag
+search behavior
+navigatiepatronen
+navigation patterns
+apparaatgebruik
+device usage
+tijdbesteding
+time spent
+terugkeerfrequentie
+return frequency
+gebruikerssegmenten
+user segments
+engagement metrics
+engagement metrics
+afhaakpunten
+drop-off points
+feature gebruik
+feature usage
+A/B test resultaten
+A/B test results

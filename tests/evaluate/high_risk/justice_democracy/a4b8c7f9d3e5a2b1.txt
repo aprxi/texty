@@ -1,0 +1,38 @@
+<START_TEXT>
+Wij van de rechtbank zoeken een AI-oplossing ter ondersteuning van rechters bij het bepalen van strafmaten. Het systeem moet helpen bij consistentie in vonnissen.
+
+Gewenste functionaliteiten:
+- Analyse van duizenden eerdere vonnissen voor vergelijkbare zaken
+- Identificatie van relevante jurisprudentie
+- Strafmaat suggesties op basis van: delict ernst, recidive, persoonlijke omstandigheden
+- Voorspelling recidive kans voor straftoemeting
+- Consistentie check tussen rechters
+
+Input parameters:
+- Type delict en ernst
+- Verdachte profiel (leeftijd, geschiedenis, werk/gezinssituatie)
+- Slachtoffer impact statements
+- Proces-verbaal details
+
+Output:
+- Aanbevolen strafmaat range
+- Relevante precedenten
+- Motivering suggestie
+- Alternatieven (taakstraf vs gevangenis)
+
+Het blijft een hulpmiddel - rechter beslist. Maar moet objectiviteit vergroten.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor rechtspraak, Categorie 8: "Rechtsbedeling & Democratische Processen AI":
+
+- "ondersteuning van rechters bij het bepalen van strafmaten" - AI-ondersteuning voor juridische besluitvorming
+- "Strafmaat suggesties" - AI beïnvloedt rechtelijke uitspraken
+- "Voorspelling recidive kans voor straftoemeting" - combineert met Categorie 6 (rechtshandhaving)
+- "Aanbevolen strafmaat range" - directe impact op rechtsbeslissingen
+
+Ook al blijft de rechter beslissen, dit systeem valt onder hoog-risico omdat het rechtspraak direct beïnvloedt volgens EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

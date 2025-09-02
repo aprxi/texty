@@ -1,0 +1,16 @@
+<START_TEXT>
+Onze kiesraad onderzoekt AI voor het verifiëren van stemgerechtigdheid en het tellen van stemmen. Het systeem moet identiteiten controleren via biometrie, detecteren of mensen al gestemd hebben, en elektronische stemmen automatisch tellen. We willen dat de AI ook kan analyseren of stempatronen wijzen op fraude of beïnvloeding. Het moet real-time uitslagen kunnen projecteren en winnaar bepalen. De AI-beslissingen zijn bepalend voor democratische verkiezingen. Kunnen jullie dit zeer gevoelige systeem ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes Category 8 Justice & Democracy AI per RULES.md:
+- "kiesraad...tellen van stemmen" - electoral process management
+- "identiteiten controleren via biometrie" - biometric verification for voting
+- "elektronische stemmen automatisch tellen" - automated vote counting
+- "winnaar bepalen" - AI determining election outcomes
+- "bepalend voor democratische verkiezingen" - direct impact on democratic process
+This clearly falls under Category 8: "Justitie & Democratie AI" for electoral systems, making this EXTREMELY HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

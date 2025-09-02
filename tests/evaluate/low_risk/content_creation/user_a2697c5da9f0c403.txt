@@ -1,0 +1,10 @@
+<START_TEXT>
+youtube thumbnails maken kost me uren. is er ai die ze automatisch genereert based op video content?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content_creation. User asking about non-critical AI applications for productivity, entertainment, or personal use.
+</REASONING>
+<END_EVALUATION>

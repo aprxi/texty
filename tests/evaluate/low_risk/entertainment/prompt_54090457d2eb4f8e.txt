@@ -1,0 +1,10 @@
+<START_TEXT>
+ik run een webshop en vraag me af hoe ai moeilijkheidsgraad kan aanpassen. is dat mogelijk voor online games of quizzen? hoe bepaalt ai wat te moeilijk is? ik weet niet of normale hardware dit aankan. we gebruiken microsoft producten, werkt dat samen? real-time data streams klinken complex, is dat nodig? rest apis zijn ok maar hoe integreren we dat? ethiek is belangrijk maar wat betekent dat voor games? on-premise servers hebben we maar is cloud niet beter? hoe maken we het leuk om te gebruiken? wat zijn de mogelijkheden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.85</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment.
+</REASONING>
+<END_EVALUATION>

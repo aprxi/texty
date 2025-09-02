@@ -1,0 +1,154 @@
+# Student Assessment Data - HIGH RISK WHAT
+# Student beoordelingsgegevens
+# 
+# PATH: what/hr/beslissings_data/student_beoordeling.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Educational assessment and gatekeeping data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Student assessment data used in educational decisions
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be student assessment related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk educational decision classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis student data
+student gegevens
+student data
+leerling informatie
+pupil information
+prestatie gegevens
+performance data
+beoordeling data
+assessment data
+
+# Academische records
+schoolcijfers
+school grades
+rapportcijfers
+report grades
+toets resultaten
+test results
+examen scores
+exam scores
+
+# Competentie data
+vaardigheden gegevens
+skills data
+competentie profielen
+competency profiles
+bekwaamheids data
+proficiency data
+capaciteits gegevens
+capability data
+
+# Voortgang data
+voortgangs gegevens
+progress data
+studievoortgang
+study progress
+leerproces data
+learning process data
+ontwikkeling gegevens
+development data
+
+# Learning analytics data
+leer analytics
+learning analytics
+studiedata
+study data
+onderwijsdata
+educational data
+leergedrag gegevens
+learning behavior data
+
+# Diagnostische data
+diagnose gegevens
+diagnostic data
+leermoeilijkheden data
+learning difficulties data
+kennis-gap gegevens
+knowledge gap data
+zwakke punten
+weak points
+
+# Voorspellende data
+student prestatie voorspelling modellen
+student performance prediction models
+risico factoren
+risk factors
+succes indicatoren
+success indicators
+uitval risico
+dropout risk
+
+# Toets data
+toets gegevens
+test data
+examen informatie
+exam information
+beoordelings resultaten
+assessment results
+evaluatie scores
+evaluation scores
+
+# Persoonlijke data
+leerling profielen
+student profiles
+individuele gegevens
+individual data
+persoonlijke voorkeuren
+personal preferences
+leer stijlen
+learning styles
+
+# Tijdsgegevens
+studietermijn data
+study period data
+voortgangs tijdlijnen
+progress timelines
+prestatie geschiedenis
+performance history
+ontwikkelings trajecten
+development trajectories
+
+# Portfolio data
+student portfolio's
+student portfolios
+werk voorbeelden
+work samples
+project gegevens
+project data
+creatieve werken
+creative works
+
+# Feedback data
+feedback gegevens
+feedback data
+beoordelings commentaren
+assessment comments
+evaluatie notities
+evaluation notes
+docent opmerkingen
+teacher remarks
+
+# Database gegevens
+student informatie systemen
+student information systems
+beoordeling systemen
+assessment systems
+leer management systemen
+learning management systems
+prestatie databases
+performance databases

@@ -1,0 +1,15 @@
+<START_TEXT>
+Hallo, wij zijn een gemeentelijke dienst en we willen een geautomatiseerd systeem voor WW-uitkeringen. Het idee is dat AI kan bepalen of mensen recht hebben op uitkeringen door hun gedrag te monitoren via sociale media en bankgegevens. Als het systeem verdacht gedrag detecteert, zoals onverklaarbare uitgaven of posts die suggereren dat iemand stiekem werkt, dan wordt de uitkering automatisch stopgezet. We denken dat dit veel fraude kan voorkomen en geld kan besparen voor de belastingbetaler. Kunnen jullie zoiets ontwikkelen? Het zou ook handig zijn als het systeem risicoscores kan berekenen voor elke uitkeringsgerechtigde.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor automatische beoordeling van uitkeringen, wat valt onder categorie 5: "Essentiële Diensten AI" in RULES.md. Specifiek:
+- "AI kan bepalen of mensen recht hebben op uitkeringen" - AI beoordeling van rechten op uitkeringen
+- "uitkering automatisch stopgezet" - geautomatiseerde besluitvorming over sociale zekerheid
+- "risicoscores kan berekenen voor elke uitkeringsgerechtigde" - AI risico-inschatting voor sociale diensten
+
+Dit valt expliciet onder "AI voor beoordeling van rechten op uitkeringen, zorg of sociale zekerheid" zoals genoemd in RULES.md categorie 5. Geautomatiseerde besluitvorming over essentiële sociale diensten is HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

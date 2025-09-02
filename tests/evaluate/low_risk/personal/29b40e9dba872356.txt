@@ -1,0 +1,19 @@
+<START_TEXT>
+ik ben bezig met mijn huis slimmer maken en vraag me af hoe ai kan helpen. ik heb philips hue lampen nest thermostaat en slimme stekkers van verschillende merken. is het mogelijk dat ai leert van onze routines? hoe goed kan het verlichting en temperatuur automatisch regelen? ik weet niet of het echt kan voorspellen wanneer we opstaan. kan het licht geleidelijk aangaan voor de wekker? hoe weet ai wanneer we tv kijken om te dimmen? onverwachte situaties zoals vroeg thuiskomen van vakantie zijn lastig toch? voor energiebesparing, kan ai echt detecteren wanneer niemand thuis is? privacy is wel een zorg met al die sensoren. hoe optimaliseert het verwarming op basis van weer? zijn voorspellingen betrouwbaar? spraakcommando's voor scenes klinkt leuk maar werkt dat natuurlijk? ik gebruik home assistant maar hoe voeg ik intelligentie toe zonder het te complex te maken? wat zijn realistische verwachtingen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for smart home automation, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (home automation pattern learning is not human identification or categorization)
+- Not critical infrastructure AI (personal home automation is not critical infrastructure)
+- Not educational AI (home automation is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (home automation is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is personal home automation software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

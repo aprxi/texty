@@ -1,0 +1,15 @@
+<START_TEXT>
+Restaurant zoekt AI-chatbot voor klantservice die reserveringen kan maken, menu-vragen beantwoordt, en allergieën-informatie geeft. Gewoon een vriendelijke digitale medewerker voor onze gasten.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor klantservice dat valt onder de laag-risico categorieën in RULES.md:
+- "AI-chatbot voor klantservice" - AI-assistenten voor algemene productiviteit
+- "reserveringen kan maken, menu-vragen beantwoordt" - basis klantenservice automatisering
+- "vriendelijke digitale medewerker" - niet-kritieke service ondersteuning
+
+Deze tekst beschrijft "AI-assistenten voor algemene productiviteit of informatieverzameling" zoals expliciet genoemd als laag-risico in RULES.md. Klantenservice chatbots vallen niet onder een van de 8 hoog-risico categorieën en betreft alleen commerciële service, waardoor dit LOW-RISK is.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,117 @@
+# Voters in Electoral Context - HIGH RISK TARGET
+# Kiezers in electorale context
+# 
+# PATH: target/hr/beslissings_subjecten/kiezers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to electoral AI decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Voters subject to electoral AI systems
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be voters in electoral context
+# - Must NOT include what AI does to them
+# - Must NOT include where they vote
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+kiezers
+voters
+stemgerechtigden
+eligible voters
+geregistreerde kiezers
+registered voters
+electoraat
+electorate
+
+# Kwetsbare kiezersgroepen
+eerste keer stemmers
+first-time voters
+jonge kiezers
+young voters
+oudere kiezers
+elderly voters
+gehandicapte kiezers
+disabled voters
+taalminderheid kiezers
+language minority voters
+
+# Kiezersregistratie betrokkenen
+kiezerslijst leden
+voter roll members
+registratie aanvragers
+registration applicants
+stemrecht verificatie subjecten
+voting eligibility verification subjects
+identiteits verificatie subjecten
+identity verification subjects
+
+# Verkiezingsdeelnemers
+referendum deelnemers
+referendum participants
+gemeentelijke verkiezing kiezers
+municipal election voters
+nationale verkiezing kiezers
+national election voters
+europese verkiezing kiezers
+european election voters
+
+# Stemwijze gebruikers
+afwezige stemmers
+absentee voters
+poststemmen gebruikers
+mail-in voters
+elektronische stem gebruikers
+electronic voters
+stembureau bezoekers
+polling station visitors
+
+# Kiesdistricten betrokkenen
+kiesdistrict leden
+electoral district members
+herindelings getroffen kiezers
+redistricting affected voters
+gerrymandering slachtoffers
+gerrymandering victims
+
+# Verkiezingsintegriteit betrokkenen
+verkiezingswaarnemers
+election observers
+stemrecht onderdrukkings slachtoffers
+voting rights suppression victims
+verkiezingsfraude melders
+election fraud reporters
+hertelling aanvragers
+recount requesters
+
+# Stemrecht betrokkenen
+stemrecht houders
+voting rights holders
+ontrechte kiezers
+disenfranchised voters
+herstelde stemrecht houders
+restored voting rights holders
+stemrecht bescherming ontvangers
+voting rights protection recipients
+
+# Bijzondere stemgerechtigde groepen
+overzeese kiezers
+overseas voters
+militaire kiezers
+military voters
+thuisgebonden kiezers
+homebound voters
+gedetineerde kiezers
+incarcerated voters
+dakloze kiezers
+homeless voters

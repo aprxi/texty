@@ -1,0 +1,10 @@
+<START_TEXT>
+als beveiligingsmanager van een gamesstudio. We hebben een idee voor workflows stroomlijnen. De oplossing moet betaalbaar blijven kunnen, evenals makkelijk aan te passen zijn. We werken al met AWS. Het moet integreren met legacy software. We hebben toegang tot beperkte datasets. Kunnen we hierover in gesprek?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity.
+</REASONING>
+<END_EVALUATION>

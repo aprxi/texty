@@ -1,0 +1,166 @@
+# Business Operations Data - LOW RISK WHAT
+# Operationele gegevens
+# 
+# PATH: what/lr/commerciële_data/operationele_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General business operations data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Business operations data for general commercial activities
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be business operations related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Process metrics
+proces efficiëntie
+process efficiency
+doorlooptijden
+cycle times
+wachttijden
+waiting times
+verwerkings snelheid
+processing speed
+capaciteits benutting
+capacity utilization
+productiviteits cijfers
+productivity figures
+kwaliteits metrieken
+quality metrics
+foutpercentages
+error rates
+
+# Resource management
+resource planning
+resource planning
+personeels bezetting
+staffing levels
+apparatuur gebruik
+equipment usage
+faciliteiten data
+facilities data
+energie verbruik
+energy consumption
+materiaal verbruik
+material consumption
+hulpmiddelen toewijzing
+resource allocation
+werkplek optimalisatie
+workspace optimization
+
+# Workflow optimization
+taak toewijzing
+task assignment
+werkstroom analyse
+workflow analysis
+proces mapping
+process mapping
+bottleneck identificatie
+bottleneck identification
+automatisering kansen
+automation opportunities
+standaardisatie data
+standardization data
+best practices
+best practices
+verbeter initiatieven
+improvement initiatives
+
+# Performance tracking
+KPI metingen
+KPI measurements
+benchmark data
+benchmark data
+doel realisatie
+goal achievement
+variantie analyses
+variance analysis
+operationele trend analyses
+operational trend analysis
+rapportage metrics
+reporting metrics
+dashboard gegevens
+dashboard data
+
+# Quality control
+kwaliteits controles
+quality controls
+product inspectie resultaten
+product inspection results
+defect rates
+defect rates
+herwerk percentages
+rework percentages
+klanttevredenheid scores
+customer satisfaction scores
+service niveau
+service level
+compliance metingen
+compliance measurements
+audit bevindingen
+audit findings
+
+# Cost management
+operationele kosten
+operational costs
+kosten per eenheid
+cost per unit
+overhead verdeling
+overhead allocation
+budget tracking
+budget tracking
+kostenbesparingen
+cost savings
+efficiency winsten
+efficiency gains
+ROI berekeningen
+ROI calculations
+kostenanalyse
+cost analysis
+
+# Scheduling and planning
+productie planning
+production planning
+shift schema's
+shift schedules
+machine planning
+machine planning
+apparatuur onderhouds schema's
+equipment maintenance schedules
+project planning
+project planning
+deadline tracking
+deadline tracking
+capaciteits planning
+capacity planning
+resource schema's
+resource schedules
+
+# Communication and collaboration
+interne communicatie
+internal communication
+team samenwerking
+team collaboration
+project updates
+project updates
+status rapporten
+status reports
+vergader notities
+meeting notes
+besluitvorming data
+decision making data
+kennisdeling
+knowledge sharing
+feedback systemen
+feedback systems

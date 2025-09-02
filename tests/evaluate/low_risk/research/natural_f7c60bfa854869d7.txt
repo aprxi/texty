@@ -1,0 +1,10 @@
+<START_TEXT>
+help met het opzetten van een experiment om verschillende nlp modellen te vergelijken
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI applications for research. The request is for entertainment, productivity, or creative purposes without impacting critical services.
+</REASONING>
+<END_EVALUATION>

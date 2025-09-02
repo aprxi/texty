@@ -1,0 +1,10 @@
+<START_TEXT>
+zwemleraar - verdrinkingsrisico inschatten is moeilijk. ai kijkt: motoriek, angst niveau, concentratie. maar ook: allochtone kinderen vaak minder zwemvaardig. profilering of statistiek?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

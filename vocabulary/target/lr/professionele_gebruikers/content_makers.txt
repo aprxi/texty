@@ -1,0 +1,67 @@
+# Content Creators and Producers - LOW RISK TARGET
+# Content makers en producenten
+# 
+# PATH: target/lr/professionele_gebruikers/content_makers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Creative professional services)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Content creators using AI for professional content production
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be content creators or producers
+# - Must NOT include what AI does to them
+# - Must NOT include where they create content
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+content makers
+content producers
+video creators
+video creators
+bloggers
+bloggers
+vloggers
+vloggers
+podcasters
+podcasters
+streamers
+streamers
+influencers
+influencers
+YouTubers
+YouTubers
+TikTokkers
+TikTokers
+Instagram creators
+Instagram creators
+schrijvers
+writers
+fotografen
+photographers
+grafisch ontwerpers
+graphic designers
+animators
+animators
+muziek producenten
+music producers
+digitale kunstenaars
+digital artists
+social media managers
+social media managers
+content curators
+content curators
+meme creators
+meme creators
+tutorial makers
+tutorial makers

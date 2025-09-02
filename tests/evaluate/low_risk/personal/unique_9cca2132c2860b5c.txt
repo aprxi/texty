@@ -1,0 +1,10 @@
+<START_TEXT>
+fitness journey begonnen! zoek ai die mijn voortgang bijhoudt, workouts personaliseert op basis van resultaten, en me motiveert als ik lui word. liefst iets dat ook voeding tips geeft maar niet te streng is haha
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Request for AI assistance without critical impact on rights or safety.
+</REASONING>
+<END_EVALUATION>

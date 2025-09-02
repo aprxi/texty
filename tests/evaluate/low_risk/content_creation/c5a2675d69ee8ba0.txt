@@ -1,0 +1,19 @@
+<START_TEXT>
+We willen een AI-assistent maken die ons team kan helpen bij het schrijven van technische documentatie en gebruikershandleidingen. Het systeem moet complexe software features kunnen analyseren en daar begrijpelijke uitleg over kunnen schrijven voor verschillende doelgroepen. We willen dat de AI automatisch screenshots kan integreren en step-by-step guides kan maken voor nieuwe functionaliteiten. Het zou geweldig zijn als het systeem ook FAQ secties kan genereren gebaseerd op support tickets en gebruikersvragen die we krijgen. We denken aan een tool die verschillende formats kan produceren - online help, PDF manuals, video scripts, en interactive tutorials. De AI moet ook kunnen controleren of bestaande documentatie nog accuraat is wanneer we software updates doen. Het zou handig zijn als het systeem gebruiker feedback kan analyseren om te identificeren welke onderdelen van documentatie onduidelijk zijn en verbetering nodig hebben. We willen dat de AI ook kan helpen bij het vertalen van documentatie naar andere talen terwijl technische accuratesse behouden blijft. Het hele systeem moet ons helpen om betere user experiences te creëren door duidelijke, actuele documentatie die gebruikers echt helpt bij het gebruiken van onze producten.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for technical documentation creation, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (documentation creation is not human identification or categorization)
+- Not critical infrastructure AI (documentation tools are not critical infrastructure)
+- Not educational AI (technical documentation is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (documentation services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial technical writing automation software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

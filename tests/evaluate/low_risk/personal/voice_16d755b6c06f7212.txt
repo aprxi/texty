@@ -1,0 +1,10 @@
+<START_TEXT>
+Nabestaande - partner overleden, huis vol herinneringen. AI chatbot getraind op zijn WhatsApps, mails, posts. "Praat" met hem elke dag. Gezond of ziek?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

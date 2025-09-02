@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik run een online platform voor tweedehands boeken en wil AI gebruiken om de staat van boeken te beoordelen. Het systeem moet foto's van boeken kunnen analyseren en automatisch de conditie bepalen (nieuw, als nieuw, goed, redelijk, matig). De AI moet ook zeldzame uitgaven kunnen herkennen en waarschuwingen geven bij mogelijk waardevolle eerste drukken. Ik wil dat het systeem kan helpen met het schrijven van accurate beschrijvingen en het voorstellen van eerlijke prijzen op basis van staat, zeldzaamheid en markttrends. Kunnen jullie deze boeken-AI ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for book condition assessment and pricing, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (book analysis is not human identification or categorization)
+- Not critical infrastructure AI (book trading is not critical infrastructure)
+- Not educational AI (marketplace tools are not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (secondhand book sales are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial marketplace automation software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

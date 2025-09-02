@@ -1,0 +1,150 @@
+# Gait Pattern Analysis Data - HIGH RISK WHAT
+# Looppatroon analyse gegevens
+# 
+# PATH: what/hr/surveillance_data/loop_analyse.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Biometric gait identification data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Gait pattern data for biometric identification
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be gait pattern related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk biometric identification classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis looppatroon data
+looppatronen
+gait patterns
+gangpatronen
+walking patterns
+bewegingspatronen
+movement patterns
+stap patronen
+step patterns
+
+# Biometrische data
+looppatroon biometrie
+gait biometrics
+gang biometrie
+walking biometrics
+loop karakteristieken
+walking characteristics
+bewegingskenmerken
+movement characteristics
+
+# Stap data
+staplengte
+step length
+stapbreedte
+step width
+stapfrequentie
+step frequency
+staptijd
+step time
+paslengte
+stride length
+
+# Cyclus data
+gangcyclus
+gait cycle
+loop cyclus
+walking cycle
+stap cyclus
+step cycle
+bewegingscyclus
+movement cycle
+fase data
+phase data
+
+# Temporele kenmerken
+loopritme
+walking rhythm
+gang cadans
+gait cadence
+stap timing
+step timing
+bewegingstijd
+movement time
+loop snelheid
+walking speed
+
+# Ruimtelijke kenmerken
+loop geometrie
+walking geometry
+gang dimensies
+gait dimensions
+bewegingsruimte
+movement space
+stap geometrie
+step geometry
+
+# Silhouet data
+loop silhouet
+walking silhouette
+gang silhouet
+gait silhouette
+bewegingssilhouet
+movement silhouette
+lichaam contouren
+body contours
+
+# Gewricht data
+gewrichtshoeken
+joint angles
+been beweging
+leg movement
+arm beweging
+arm movement
+lichaamshoudingen
+body postures
+
+# Video data
+loop video
+walking video
+gang beelden
+gait images
+bewegingsbeelden
+movement images
+surveillance beelden
+surveillance footage
+
+# Sensor data
+bewegingssensor data
+motion sensor data
+accelerometer data
+accelerometer data
+gyroscoop data
+gyroscope data
+druk sensor data
+pressure sensor data
+
+# Database gegevens
+looppatroon database
+gait database
+gang database
+walking database
+bewegings database
+movement database
+loop archief
+walking archive
+
+# Metadata
+loop metadata
+walking metadata
+opname informatie
+recording information
+persoons-ID
+person ID
+tijdstempel
+timestamp

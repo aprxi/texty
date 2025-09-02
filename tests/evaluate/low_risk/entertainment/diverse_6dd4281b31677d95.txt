@@ -1,0 +1,10 @@
+<START_TEXT>
+Carnavals vereniging - AI voor praalwagen ontwerp: thema genereren, technische tekeningen, budget berekening. Creativiteit of computerkunst?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

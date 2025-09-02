@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor onze bibliotheek willen we een AI-assistent die bezoekers kan helpen boeken te vinden die ze leuk vinden. Het systeem moet kunnen vragen naar favoriete genres, auteurs en recent gelezen boeken om persoonlijke aanbevelingen te doen. We willen dat de AI ook kan helpen met onderzoeksvragen door relevante bronnen te suggereren uit onze collectie. Het moet rekening houden met leesniveau en taalvoorkeuren. Voor kinderen moet het systeem leuke, educatieve boeken kunnen aanraden op basis van leeftijd en interesses. Kun je deze bibliotheek-AI maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for library book recommendations, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (reading preferences are not human identification or categorization)
+- Not critical infrastructure AI (libraries are not critical infrastructure)
+- Not educational AI (book recommendations are not institutional assessment or formal education)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (library services are not essential services under the Act)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is public service recommendation software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

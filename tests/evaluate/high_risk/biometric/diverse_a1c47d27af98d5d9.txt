@@ -1,0 +1,14 @@
+<START_TEXT>
+Kinderdagverblijf zoekt veiligheidsoplossing. Ouders klagen dat iedereen zomaar naar binnen kan.
+    
+Wij denken aan gezichtsherkenning bij de deur. Alleen ouders/verzorgers krijgen toegang. Systeem moet ook alarmeren als een ouder komt die volgens de voogdijregeling geen toegang mag hebben.
+
+Extra wens: emotiedetectie bij kinderen. Als een kind heel verdrietig is, krijgt de juf een seintje. Voor de veiligheid natuurlijk.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

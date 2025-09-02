@@ -1,0 +1,10 @@
+<START_TEXT>
+Sportschool - AI personal trainer via app. Bewegingen checken met camera, vorm corrigeren, motivatie speeches. Goedkoper dan echte trainer maar minder persoonlijk.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

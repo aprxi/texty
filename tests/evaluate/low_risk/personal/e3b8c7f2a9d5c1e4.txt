@@ -1,0 +1,16 @@
+<START_TEXT>
+ik werk aan een yoga-app en vraag me af of ai yogahoudingen kan corrigeren via de camera? is realtime feedback over houding technisch mogelijk? hoe accuraat kan ai lichaamshoudingen herkennen? ik maak me zorgen dat verkeerde correcties tot blessures leiden. het is voor wellness maar waar ligt de grens met medisch advies? kunnen we echt veilige suggesties geven zonder yoga-expertise? ik weet niet of "rug rechter houden" genoeg is zonder context. hoe voorkom je dat mensen zich forceren? persoonlijke routines maken klinkt goed maar kent ai ieders beperkingen? flexibiliteit en ervaring inschatten via een camera lijkt me lastig. denk je dat dit haalbaar is zonder risico's? wat als mensen toch geblesseerd raken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor persoonlijke wellness dat valt onder de laag-risico categorieën in RULES.md:
+- "yoga-app waarin AI yogahoudingen corrigeert" - AI-assistenten voor algemene productiviteit/wellness
+- "wellness en persoonlijke gezondheid, niet om professionele beoordeling" - expliciet niet-professioneel gebruik
+- "vriendelijke suggesties" en "mensen helpen om thuis veilig yoga te doen" - persoonlijke ondersteuning
+- "persoonlijke yoga-routines kan samenstellen" - niet-kritieke personalisatie
+
+Deze tekst beschrijft "AI-assistenten voor algemene productiviteit" voor persoonlijk gebruik zoals genoemd als laag-risico in RULES.md. Het betreft geen formele medische beoordeling, werkevaluatie, of andere gevoelige domeinen. Persoonlijke wellness-AI valt niet onder een van de 8 hoog-risico categorieën, waardoor dit LOW-RISK is.
+</REASONING>
+<END_EVALUATION>

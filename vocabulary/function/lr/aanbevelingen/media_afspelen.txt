@@ -1,0 +1,138 @@
+# Media Playback Systems - LOW RISK FUNCTION
+# Media-afspeelsystemen
+# 
+# PATH: function/lr/aanbevelingen/media_afspelen.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (Media playback and streaming)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Media playback and streaming capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to media playback and streaming
+# - Must be low-risk entertainment application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Media Afspeel Functies
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Kern afspeel functies
+afspelen
+playback
+speel af
+play
+pauzeren
+pause
+stoppen
+stop
+opnieuw afspelen
+replay
+terugspoelen
+rewind
+vooruitspoelen
+fast forward
+zoeken
+seek
+overslaan
+skip
+mediaspeler
+media player
+audiospeler
+audio player
+videospeler
+video player
+muziekspeler
+music player
+streaming speler
+streaming player
+# Afspeel besturing
+afspeelknop
+play button
+pauzeknop
+pause button
+stopknop
+stop button
+vorig nummer
+previous track
+volgend nummer
+next track
+willekeurig afspelen
+shuffle
+herhalen
+repeat
+loop
+volume controle
+volume control
+dempen
+mute
+zoekbalk
+seek bar
+voortgangsbalk
+progress bar
+tijdlijn
+timeline
+scrubben
+scrubbing
+hoofdstuk navigatie
+chapter navigation
+# Audio afspelen
+muziek streaming
+music streaming
+lied afspelen
+song playback
+album afspelen
+album playback
+afspeellijst afspelen
+playlist playback
+podcast afspelen
+podcast playback
+audioboek afspelen
+audiobook playback
+radio streaming
+live audio
+opgenomen audio
+recorded audio
+gecomprimeerde audio
+compressed audio
+lossless audio
+high-fidelity audio
+surround geluid
+surround sound
+stereo afspelen
+stereo playback
+# Video afspelen
+video streaming
+film afspelen
+movie playback
+tv-programma streaming
+TV show streaming
+live video
+opgenomen video
+recorded video
+video-on-demand
+on-demand video
+video buffering
+adaptieve streaming
+adaptive streaming
+kwaliteit selectie
+quality selection
+resolutie schaling
+resolution scaling
+frame rate aanpassing
+frame rate adjustment
+beeldverhouding
+aspect ratio
+volledig scherm
+fullscreen mode
+beeld-in-beeld
+picture-in-picture

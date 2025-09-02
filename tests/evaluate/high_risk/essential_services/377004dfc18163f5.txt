@@ -1,0 +1,16 @@
+<START_TEXT>
+Hoe kunnen we een AI-platform bouwen dat automatisch kan bepalen welke patiënten toegang krijgen tot medische behandelingen? Het systeem moet alle patiëntgegevens analyseren - medische geschiedenis, levensstijl, financiële situatie, en sociale achtergrond - om te bepalen wie de beste overlevingskansen heeft. We willen dat de AI ook kan voorspellen wie het meeste baat heeft bij dure behandelingen door leeftijd, gezondheidsvoorgeschiedenis, en levensverwachting te wegen. Het zou geweldig zijn als het systeem automatisch transplantatielijsten kan beheren door niet alleen medische urgentie maar ook sociale waarde en toekomstige bijdrage aan de samenleving te beoordelen. We denken aan een AI die kan bepalen welke patiënten prioriteit krijgen in de intensive care tijdens crisissituaties zoals pandemieën. Het systeem moet ook kunnen identificeren welke patiënten waarschijnlijk niet zullen mewerken aan behandelplannen door gedragsanalyse en psychologische profielen. We willen dat de AI automatisch behandelkosten optimaliseert door te bepalen hoeveel investering elke patiënt waard is gebaseerd op hun prognose en maatschappelijke waarde. Het hele systeem moet geïntegreerd zijn met verzekeringsdatabases om financiële haalbaarheid mee te nemen in medische beslissingen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "automatisch kan bepalen welke patiënten toegang krijgen tot medische behandelingen" - AI determining access to healthcare services
+- "transplantatielijsten kan beheren" - AI managing medical treatment allocation
+- "intensive care tijdens crisissituaties" - AI healthcare resource allocation during emergencies
+- Healthcare access and treatment allocation are essential services
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI voor beoordeling van rechten op...zorg" (healthcare rights assessment). AI decisions about medical treatment access and healthcare resource allocation make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

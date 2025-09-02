@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor ons restaurant willen we een AI-systeem dat automatisch menu's kan optimaliseren gebaseerd op seizoen, ingrediënten beschikbaarheid, en klantvoorkeuren. Het systeem moet kunnen voorspellen welke gerechten populair zullen zijn op verschillende dagen en tijdstippen zodat we beter kunnen inkopen en minder voedsel verspillen. We willen dat de AI ook rekening houdt met allergieën en dieetwensen van klanten door hun bestelgeschiedenis te analyseren. Het zou geweldig zijn als het systeem automatisch nieuwe gerechten kan suggereren gebaseerd op trending ingrediënten en kooktechnieken. We denken aan integratie met onze POS systemen en online bestelling platforms om real-time data te verzamelen over wat goed verkoopt. De AI moet ook kunnen helpen bij prijsstelling door kosten van ingrediënten, populariteit, en winstmarges te analyseren. Het zou handig zijn als het systeem kan waarschuwen wanneer bepaalde ingrediënten bijna op zijn of wanneer leveranciers betere deals aanbieden. We willen dat de AI ook seizoensmenu's kan samenstellen die gebruik maken van lokale producten en duurzame ingrediënten. Het doel is om onze keuken efficiënter te maken en klanten betere dining ervaringen te bieden.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for restaurant menu optimization and inventory management, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (menu optimization is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (restaurant management is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions, just business operations)
+- Not essential services AI (restaurant services are not essential services like healthcare/insurance)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a business optimization tool for restaurant operations and customer service, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

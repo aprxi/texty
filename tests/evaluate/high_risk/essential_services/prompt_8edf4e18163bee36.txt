@@ -1,0 +1,10 @@
+<START_TEXT>
+ als data scientist van een onderwijsinstelling. We moeten uitkeringsfraude detecteren voor leerlingen. Budget is substantieel. Laat me weten wat jullie kunnen betekenen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

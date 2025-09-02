@@ -1,0 +1,10 @@
+<START_TEXT>
+Budget bijhouden lukt me nooit. Ik wil AI die automatisch mijn uitgaven categoriseert, waarschuwt voor overschrijdingen, en bespaartips geeft. Maar vooral: die begrijpt dat ik soms gewoon die latte wil kopen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Request for AI assistance without critical impact on rights or safety.
+</REASONING>
+<END_EVALUATION>

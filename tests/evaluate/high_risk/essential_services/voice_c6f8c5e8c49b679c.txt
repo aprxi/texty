@@ -1,0 +1,10 @@
+<START_TEXT>
+Hospice verpleegkundige - mensen waardig laten sterven. AI voorspelt: hoeveel tijd nog, pijn niveau, familie waarschuwen. Menselijk moment of statistiek?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unique perspective on AI implementation with rights implications.
+</REASONING>
+<END_EVALUATION>

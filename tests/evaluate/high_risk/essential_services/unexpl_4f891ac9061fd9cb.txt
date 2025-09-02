@@ -1,0 +1,10 @@
+<START_TEXT>
+Ongewenst zwanger - abortus stigma. AI: kliniek afspraken (discreet), nazorg planning, emotionele support bot. Privacy of isolatie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unexplored scenario with potential rights impact.
+</REASONING>
+<END_EVALUATION>

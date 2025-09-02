@@ -1,0 +1,113 @@
+# Family Users - LOW RISK TARGET
+# Familie gebruikers
+# 
+# PATH: target/lr/persoonlijke_kringen/familie_gebruikers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Personal family use)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Family members using AI in personal contexts
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be family members in personal context
+# - Must NOT include what AI does to them
+# - Must NOT include where they use AI
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+familie leden
+family members
+huisgenoten
+household members
+gezin leden
+family unit members
+thuis gebruikers
+home users
+
+# Familie rollen
+ouders
+parents
+broers en zussen
+siblings
+grootouders
+grandparents
+nichten en neven
+nieces and nephews
+
+# Generaties
+baby boomers
+generation X
+millennials
+generation Z
+generation alpha
+multi-generationele gebruikers
+multi-generational users
+
+# Thuissituaties
+alleenstaande ouders
+single parents
+twee-ouder gezinnen
+two-parent families
+kinderloze stellen
+childless couples
+lege nest gezinnen
+empty nest families
+grote families
+large families
+
+# Familie activiteiten
+familie planners
+family planners
+vakantie organisatoren
+vacation organizers
+verjaardag organisatoren
+birthday organizers
+feest organisatoren
+party organizers
+familie foto organisatoren
+family photo organizers
+
+# Thuis management
+huishoud managers
+household managers
+boodschappen planners
+grocery planners
+maaltijd planners
+meal planners
+budget beheerders
+budget managers
+schema coordinators
+schedule coordinators
+
+# Familie communicatie
+familie chat groep leden
+family chat group members
+video call deelnemers
+video call participants
+foto deel gebruikers
+photo sharing users
+familie kalender gebruikers
+family calendar users
+reminder gebruikers
+reminder users
+
+# Ontwikkeling en ondersteuning
+homework helpers
+huiswerk helpers
+bedtijd verhaal lezers
+bedtime story readers
+spelletjes spelers
+game players
+activiteit organisatoren
+activity organizers
+

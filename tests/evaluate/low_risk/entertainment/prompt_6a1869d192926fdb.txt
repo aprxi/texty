@@ -1,0 +1,10 @@
+<START_TEXT>
+ik heb een content agency en vraag me af hoe ai kan helpen met procedurele levels genereren voor games. is het mogelijk om dit op normale hardware te laten draaien? ik weet niet precies welke technieken het beste zijn voor level generatie. kunnen we edge computing gebruiken of is cloud beter? hoe maken we het leuk en verrassend voor spelers? privacy is voor gaming minder belangrijk maar ethiek wel, hoe balanceren we dat? wat zijn de mogelijkheden en beperkingen? kun je me adviseren over de beste aanpak?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment.
+</REASONING>
+<END_EVALUATION>

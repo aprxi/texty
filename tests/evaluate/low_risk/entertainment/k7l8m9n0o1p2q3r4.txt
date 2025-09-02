@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik organiseer pubquizzen en wil AI gebruiken om betere vragen te maken. Het systeem moet kunnen helpen met het balanceren van moeilijkheidsgraden en het zorgen voor variatie in categorieën. De AI moet ook kunnen checken of vragen niet te obscuur of juist te makkelijk zijn voor het doelpubliek. Ik wil dat het systeem thematische quizzen kan genereren en interessante feitjes kan toevoegen bij de antwoorden. Het moet ook kunnen helpen met het maken van picture rounds en muziekrondes. Is het mogelijk om zo'n quiz-AI te bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for pub quiz creation and entertainment content, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (quiz generation is not human identification or categorization)
+- Not critical infrastructure AI (pub entertainment is not critical infrastructure)
+- Not educational AI (trivia games are not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (entertainment is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is entertainment content creation software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

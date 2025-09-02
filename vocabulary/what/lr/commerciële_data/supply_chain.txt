@@ -1,0 +1,158 @@
+# Supply Chain Data - LOW RISK WHAT
+# Supply chain gegevens
+# 
+# PATH: what/lr/commerciële_data/supply_chain.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General supply chain logistics data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Supply chain logistics and operations data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be supply chain related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial logistics classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Logistics and transportation
+transport gegevens
+transportation data
+verzend informatie
+shipping information
+levering status
+delivery status
+route planning
+route planning
+vrachtbrieven
+freight documents
+pakbon gegevens
+packing slip data
+track en trace
+track and trace
+aflever bewijzen
+proof of delivery
+
+# Supplier management
+leverancier prestaties
+supplier performance
+inkoop contracten
+purchase contracts
+leveringsvoorwaarden
+delivery terms
+prijs afspraken
+price agreements
+leverancier ratings
+supplier ratings
+vendor catalogus
+vendor catalog
+inkoop historie
+purchase history
+raamcontracten
+framework agreements
+
+# Order processing
+bestelling gegevens
+order data
+order status
+order status
+bestel historie
+order history
+order bevestigingen
+order confirmations
+backorder informatie
+backorder information
+order prioriteiten
+order priorities
+verzamel lijsten
+pick lists
+paklijsten
+packing lists
+
+# Distribution network
+distributie centra
+distribution centers
+hub locaties
+hub locations
+netwerk kaarten
+network maps
+transport modaliteiten
+transport modalities
+overslagpunten
+transshipment points
+eindbestemming data
+final destination data
+distributie routes
+distribution routes
+
+# Customs and compliance
+douane documenten
+customs documents
+invoer rechten
+import duties
+uitvoer licenties
+export licenses
+oorsprong certificaten
+origin certificates
+handels documenten
+trade documents
+vrije zone data
+free zone data
+AEO status
+AEO status
+compliance certificaten
+compliance certificates
+
+# Planning and optimization
+transport capaciteits data
+transport capacity data
+doorvoer tijden
+throughput times
+bottleneck analyse
+bottleneck analysis
+netwerk optimalisatie
+network optimization
+scenario planning
+scenario planning
+supply chain risico assessments
+supply chain risk assessments
+continuïteits plannen
+continuity plans
+
+# Performance tracking
+KPI dashboards
+KPI dashboards
+service levels
+service levels
+leverbetrouwbaarheid
+delivery reliability
+doorlooptijd metingen
+lead time measurements
+kosten per eenheid
+cost per unit
+CO2 voetafdruk
+carbon footprint
+duurzaamheids metrics
+sustainability metrics
+
+# Collaboration data
+EDI berichten
+EDI messages
+API integraties
+API integrations
+partner portals
+partner portals
+gezamenlijke planning
+collaborative planning
+informatie uitwisseling
+information exchange
+real-time updates
+real-time updates

@@ -1,0 +1,24 @@
+<START_TEXT>
+ik werk bij een verzekeringsgroep en vraag me af of ai alle verzekeringsproducten kan automatiseren. voor autoverzekering, kunnen we rijgedrag analyseren via een app? is het legaal om acceleratie en telefoongebruik te monitoren? mag je social media scannen voor roekeloos rijgedrag? ik weet niet of automatische premie aanpassingen eerlijk zijn. kunnen we fraude detecteren via foto's zonder privacy te schenden? bij woonverzekeringen, is postcode analyse niet discriminerend? mag je google street view gebruiken voor onderhoudsstatus? hoe bepaal je automatisch dekking zonder menselijk oordeel? voor levensverzekering vraag ik me af of lifestyle detectie via social media ethisch is. mogen we fitness tracker data gebruiken? genetische risico berekeningen klinken gevaarlijk, is dat wel toegestaan? kunnen we overlijdensrisico echt voorspellen? bij arbeidsongeschiktheid, hoe analyseer je psychologische risico's via taalgebruik? is dat betrouwbaar? mag ai uitkeringshoogte bepalen? voor rechtsbijstand, wat is een conflictgeneigdheid score? kunnen we succeskans echt inschatten? bij claims, is instant beslissing wel zorgvuldig? hoe voorkomen we dat ai onterecht claims afwijst? qua compliance, detecteert ai echt discriminatie in eigen beslissingen? we hebben 2 miljoen polissen, kan ai dit volume aan? is 15 seconden beslissingstijd niet te snel voor complexe gevallen? wat zijn de risico's van volledige automatisering?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een zeer uitgebreid AI-systeem voor verzekeringen dat valt onder Categorie 5: "Essentiële Diensten AI":
+
+Verzekeringsbeslissingen:
+- "Automatische premie en dekking bepaling" - AI bepaalt verzekeringenrechten
+- "Instant claim beslissing" - AI voor uitkeringsbeslissingen
+- "Uitkeringshoogte en duur bepaling" - AI bepaalt arbeidsongeschiktheidsrechten
+- "Overlijdensrisico predictie voor pricing" - levensverzekering risico-inschatting
+
+Problematische aspecten:
+- "Social media scan voor roekeloos rijgedrag" - privacy schending voor premies
+- "Lifestyle risico detectie via social media" - discriminatoire profilering
+- "Genetische risico calculatie" - mogelijk genetische discriminatie
+- "Psychologische risico indicatoren via taalgebruik" - mentale gezondheid profilering
+
+Dit systeem automatiseert volledig de toegang tot essentiële verzekeringsdiensten voor 2 miljoen polissen met verregaande privacy inbreuken en discriminatoire praktijken.
+</REASONING>
+<END_EVALUATION>

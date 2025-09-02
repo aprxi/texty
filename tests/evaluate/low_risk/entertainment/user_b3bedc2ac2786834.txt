@@ -1,0 +1,10 @@
+<START_TEXT>
+We maken een VR escape room. De AI moet hints geven als mensen vastzitten maar niet te snel. Tips voor balancing?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment. User asking about non-critical AI applications for productivity, entertainment, or personal use.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,15 @@
+<START_TEXT>
+Ik ben schooldirecteur van een middelbare school in Rotterdam. We overwegen een AI-systeem aan te schaffen dat de emoties van leerlingen kan herkennen tijdens toetsen en examens. Het doel is om stress, angst of verdacht gedrag te detecteren dat kan wijzen op fraude. Kunnen jullie 
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes multiple high-risk AI systems per RULES.md:
+1. **Category 3 Education AI**: "toetsen en examens" - AI fraud detection during exams
+2. **Category 1 Biometric AI**: "emoties van leerlingen kan herkennen" - emotion recognition via biometric analysis
+3. The system monitors students during formal educational assessments
+
+This clearly falls under Category 3: "Onderwijs & Opleidingen AI" in RULES.md, specifically "AI-fraudedetectie tijdens examens", combined with Category 1 biometric emotion recognition. Educational exam monitoring with emotion detection makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

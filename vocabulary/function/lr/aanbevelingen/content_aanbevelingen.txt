@@ -1,0 +1,111 @@
+# Content Recommendation Systems - LOW RISK FUNCTION
+# Contentaanbevelingssystemen
+# 
+# PATH: function/lr/aanbevelingen/content_aanbevelingen.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (Entertainment content suggestions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Content recommendation and entertainment suggestion capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to content recommendation and entertainment
+# - Must be low-risk entertainment application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Entertainment Content Recommendation Functions
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+content aanbevelingen
+content recommendations
+media suggesties
+media suggestions
+gepersonaliseerde content
+personalized content
+aanbeveling engines
+recommendation engines
+# Entertainment recommendation methods
+content suggestie generatie
+content suggestion generation
+media matching algoritmes
+media matching algorithms
+aanbeveling berekening
+recommendation calculation
+content personalisatie
+content personalization
+# Gaming recommendation functions
+spel aanbevelingen
+game recommendations
+level suggesties
+level suggestions
+in-game aanbevelingen
+in-game recommendations
+speler-match suggesties
+player-match suggestions
+# Content curatie
+content curatie
+content curation
+media matching
+content filtratie
+content filtering
+gepersonaliseerde feeds
+personalized feeds
+# Zoek functies
+media zoeken
+media search
+content ontdekking
+content discovery
+entertainment zoeken
+entertainment search
+multimedia zoeken
+multimedia search
+# Spel AI
+spel AI
+game AI
+AI tegenstanders
+AI opponents
+procedurele generatie
+procedural generation
+spel balancering
+# Filter effecten
+filter effecten
+filter effects
+foto filters
+photo filters
+video effecten
+video effects
+beeld verwerking
+image processing
+# Muziek aanbevelingen
+muziek aanbevelingen
+playlist generatie
+muziek ontdekking
+audio aanbevelingen
+
+# Entertainment process functions (from context activities)
+aanbevelen films
+aanbevelen muziek
+personaliseren content
+suggereren videos
+matchen spelers
+genereren spelinhoud
+balanceren gameplay
+creëren avatars
+streamen content
+mixen muziek
+bewerken foto's
+editten videos
+cureren berichten
+modereren comments
+taggen vrienden
+delen content

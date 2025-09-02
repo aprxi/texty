@@ -1,0 +1,67 @@
+# Audio Generation Systems - LOW RISK FUNCTION
+# Audiogeneratiesystemen
+# 
+# PATH: function/lr/generatie/audio_generatie.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (entertainment and creative content generation)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Audio generation and synthesis capabilities for creative content
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to audio generation and synthesis
+# - Must be low-risk entertainment and creative application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+audiogeneratie
+audio generation
+spraaksynthese
+speech synthesis
+muziekgeneratie
+music generation
+geluidssynthese
+sound synthesis
+stem klonen
+voice cloning
+tekst-naar-spraak
+text-to-speech
+muziekcompositie AI
+AI music composition
+geluidseffectengeneratie
+sound effect generation
+podcastgeneratie
+podcast generation
+audiobooknaratie
+audiobook narration
+stemmodulatie
+voice modulation
+melodiegeneratie
+melody generation
+beatcreatie
+beat creation
+instrumentale generatie
+instrumental generation
+audiomixing AI
+AI audio mixing
+stemverbetering
+voice enhancement
+achtergrondmuziek generatie
+background music generation
+jingle creatie
+jingle creation
+audio-restauratie
+audio restoration
+real-time spraakgeneratie
+real-time speech generation

@@ -1,0 +1,14 @@
+<START_TEXT>
+Voor het waterschap hebben we een systeem nodig dat de waterkwaliteit en waterstand bewaakt. Het moet voorspellen wanneer pompen aan moeten om overstromingen te voorkomen. Ook moet het kunnen bepalen wanneer sluizen open of dicht moeten bij extreem weer. De AI moet rekening houden met weersverwachtingen, getijden en historische data. Bij kritieke situaties moet het automatisch waarschuwingen versturen. Is machine learning geschikt voor dit soort voorspellingen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor waterbeheer, wat valt onder Categorie 2: "Kritieke Infrastructuur AI" volgens RULES.md. Specifiek:
+- "bewaakt" waterkwaliteit en waterstand - AI-bewaking van kritieke infrastructuur
+- "voorspellen wanneer pompen aan moeten" - AI-ondersteuning bij beheer van nutsvoorzieningen (water)
+- "bepalen wanneer sluizen open of dicht moeten" - AI voor kritieke infrastructuurbeslissingen
+Dit is een hoog-risico AI-systeem voor essentiële waterinfrastructuur.
+</REASONING>
+<END_EVALUATION>

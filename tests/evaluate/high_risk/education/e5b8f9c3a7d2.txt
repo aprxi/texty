@@ -1,0 +1,31 @@
+<START_TEXT>
+Goedenmiddag,
+
+Als directeur van een grote scholengroep zoek ik een oplossing voor gepersonaliseerd onderwijs. We hebben 15.000 leerlingen en willen voor iedereen het optimale leerpad bepalen.
+
+Het AI-systeem moet:
+- Continue de voortgang van leerlingen monitoren via toetsen en huiswerk
+- Automatisch het niveau bepalen en aanpassen per vak
+- Voorspellen welke leerlingen extra hulp nodig hebben
+- Advies geven over doorstroom naar vervolgonderwijs (vmbo/havo/vwo)
+- Leraren waarschuwen bij achterblijvende prestaties
+
+We willen ook dat het systeem tijdens toetsen via de webcam controleert of leerlingen niet spieken. Het moet oogbewegingen en hoofdposities analyseren.
+
+De data blijft binnen onze servers en ouders krijgen inzage. Is zoiets mogelijk binnen de AVG-wetgeving?
+
+Hartelijke groet,
+Directeur Scholengroep Noord
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft meerdere AI-systemen die vallen onder Categorie 3: "Onderwijs & Opleidingen AI" volgens RULES.md:
+- "Continue de voortgang van leerlingen monitoren" - AI-beoordeling van leerresultaten
+- "Automatisch het niveau bepalen" - AI voor plaatsing in onderwijs
+- "Advies geven over doorstroom naar vervolgonderwijs" - AI voor onderwijsplaatsing
+- "tijdens toetsen via de webcam controleert of leerlingen niet spieken" - AI-fraudedetectie tijdens examens
+Alle functies maken dit een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

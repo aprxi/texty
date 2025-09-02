@@ -1,0 +1,160 @@
+# Critical Water Infrastructure Data - HIGH RISK WHAT
+# Kritieke water infrastructuur gegevens
+# 
+# PATH: what/hr/infrastructuur_data/water_systemen.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Critical water infrastructure data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Critical water infrastructure monitoring and control data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be water infrastructure related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk critical infrastructure classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Water quality monitoring data
+waterkwaliteit metingen
+water quality measurements
+chemische samenstelling
+chemical composition
+bacteriologische tests
+bacteriological tests
+verontreiniging niveaus
+contamination levels
+pH waarden
+pH values
+
+# Water consumption and flow data
+waterverbruik gegevens
+water consumption data
+debiet metingen
+flow rate measurements
+druk metingen
+pressure measurements
+lekkage detectie data
+leak detection data
+volume statistieken
+volume statistics
+
+# SCADA operational data
+SCADA systeemdata
+SCADA system data
+pomp status logs
+pump status logs
+klep posities
+valve positions
+alarm meldingen
+alarm notifications
+systeem telemetrie
+system telemetry
+
+# Treatment process data
+zuivering proces data
+treatment process data
+chemicaliën dosering
+chemical dosing
+filtratie efficiëntie
+filtration efficiency
+slib productie
+sludge production
+desinfectie logs
+disinfection logs
+
+# Water source monitoring
+bron kwaliteit data
+source quality data
+grondwater niveaus
+groundwater levels
+reservoir capaciteit
+reservoir capacity
+neerslag data
+precipitation data
+vervuiling indicatoren
+pollution indicators
+
+# Distribution network data
+netwerk druk data
+network pressure data
+storing meldingen
+failure reports
+onderhoud records
+maintenance records
+leidingbreuken
+pipe burst data
+service onderbreking logs
+service interruption logs
+
+# Emergency response data
+noodvoorziening activaties
+emergency supply activations
+contaminatie waarschuwingen
+contamination alerts
+evacuatie meldingen
+evacuation notices
+kritieke gebruikers lijst
+critical users list
+
+# Regulatory compliance data
+kwaliteitsnormen rapporten
+quality standard reports
+test certificaten
+test certificates
+water systeem inspectie resultaten
+water system inspection results
+compliance audits
+compliance audits
+
+# Drinkwater veiligheid crisis
+bacteriële besmetting niveaus
+bacterial contamination levels
+chemische vergiftiging detectie
+chemical poisoning detection
+terrorisme dreiging indicatoren
+terrorism threat indicators
+sabotage detectie alarmen
+sabotage detection alarms
+massa vergiftiging risico's
+mass poisoning risks
+
+# Kritieke water distributie
+ziekenhuis water prioriteit
+hospital water priority
+dialyse centrum voorziening
+dialysis center supply
+brandweer hydrant druk
+fire hydrant pressure
+nucleaire koeling water
+nuclear cooling water
+farmaceutische productie water
+pharmaceutical production water
+
+# Overstromings beheersing
+dijkbreuk voorspellingen
+levee breach predictions
+evacuatie zone bepaling
+evacuation zone determination
+kritieke infrastructuur risico
+critical infrastructure risk
+stedelijke overstroming modellen
+urban flooding models
+
+# Water schaarste crisis
+rantsoenering beslissingen
+rationing decisions
+vitale diensten prioritering
+vital services prioritization
+landbouw water toewijzing
+agricultural water allocation
+industrie water restricties
+industrial water restrictions

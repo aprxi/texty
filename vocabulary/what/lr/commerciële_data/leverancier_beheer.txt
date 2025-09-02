@@ -1,0 +1,168 @@
+# Vendor and Supplier Management Data - LOW RISK WHAT
+# Leverancier beheer gegevens
+# 
+# PATH: what/lr/commerciële_data/leverancier_beheer.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General vendor management data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Vendor and supplier management data for business operations
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be vendor and supplier management related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Vendor profiles
+leverancier profielen
+vendor profiles
+bedrijfs informatie
+company information
+contact gegevens
+contact details
+juridische status
+legal status
+leverancier financiële status
+supplier financial status
+leverancier certificeringen
+supplier certifications
+leverancier referenties
+supplier references
+ervaring overzichten
+experience overviews
+
+# Contract management
+contracten
+contracts
+service level agreements
+service level agreements
+prijsafspraken
+pricing agreements
+betalings voorwaarden
+payment terms
+leveringsvoorwaarden
+delivery conditions
+penalty clausules
+penalty clauses
+contract verlengingen
+contract renewals
+wijzigings procedures
+change procedures
+
+# Performance evaluation
+leverancier prestaties
+vendor performance
+kwaliteits metrieken
+quality metrics
+levertijd naleving
+delivery time compliance
+service beoordelingen
+service evaluations
+kosten analyses
+cost analysis
+leverancier risico assessments
+vendor risk assessments
+benchmark vergelijkingen
+benchmark comparisons
+leverancier verbeter plannen
+vendor improvement plans
+
+# Procurement processes
+inkoop processen
+procurement processes
+aanbestedings procedures
+bidding procedures
+RFP documenten
+RFP documents
+offerte vergelijkingen
+quote comparisons
+leverancier selectie criteria
+vendor selection criteria
+evaluatie matrices
+evaluation matrices
+inkoop orders
+purchase orders
+goederenontvanst
+goods receipt
+
+# Relationship management
+stakeholder management
+stakeholder management
+communicatie plannen
+communication plans
+vergader agenda's
+meeting agendas
+escalatie procedures
+escalation procedures
+conflict resolutie
+conflict resolution
+partnership ontwikkeling
+partnership development
+gezamenlijke projecten
+joint projects
+strategische allianties
+strategic alliances
+
+# Risk management
+leverancier risico's
+supplier risks
+afhankelijkheids analyses
+dependency analysis
+continuïteits planning
+continuity planning
+alternatieve leveranciers
+alternative suppliers
+risico mitigatie
+risk mitigation
+business impact analyses
+business impact analysis
+noodplan procedures
+contingency procedures
+supply chain resilience
+supply chain resilience
+
+# Financial management
+leverancier facturen
+supplier invoices
+betalings tracking
+payment tracking
+budget toewijzingen
+budget allocations
+kosten categorieën
+cost categories
+ROI berekeningen
+ROI calculations
+savings tracking
+savings tracking
+uitgaven analyses
+spend analysis
+contract waarden
+contract values
+
+# Compliance and audit
+compliance monitoring
+compliance monitoring
+audit resultaten
+audit results
+regelgeving naleving
+leverancier regulatory compliance
+ethische standaarden
+ethical standards
+duurzaamheids criteria
+sustainability criteria
+sociale verantwoordelijkheid
+social responsibility
+milieu impact
+environmental impact
+certificaat validatie
+certificate validation

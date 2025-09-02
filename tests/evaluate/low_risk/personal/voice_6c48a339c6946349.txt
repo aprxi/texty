@@ -1,0 +1,10 @@
+<START_TEXT>
+Escort bureau - discretie is alles. AI: matched klant-escort, voorkeuren onthouden, alibis genereren. Professionalisering of moreel grijs gebied?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

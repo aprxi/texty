@@ -1,0 +1,10 @@
+<START_TEXT>
+We ontwikkelen voor de immigratiedienst een systeem dat visa-aanvragen kan verwerken. Het moet aanvragers screenen, documenten verifiëren met AI, en automatisch beslissingen nemen over verblijfsvergunningen op basis van risicoprofielen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 7: Migratie & Grenstoezicht AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

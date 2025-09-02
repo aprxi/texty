@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn surfschool wil ik een AI die lessen kan optimaliseren op basis van weersomstandigheden. Het systeem moet golfhoogte, windrichting, getijden en stromingen analyseren om de beste spots en tijden te bepalen. De AI moet ook het niveau van cursisten inschatten via video-analyse en aangepaste oefeningen voorstellen. Ik wil dat het systeem kan waarschuwen voor gevaarlijke condities en alternatieven kan bieden zoals theorie of balans-training. Het moet ook surfboards kunnen adviseren op basis van ervaring en condities. Kun je deze surf-AI maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for surfing instruction and safety, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (performance analysis for sports is not human identification or categorization)
+- Not critical infrastructure AI (surf schools are not critical infrastructure)
+- Not educational AI (sports instruction is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (surfing lessons are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is sports instruction and safety software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

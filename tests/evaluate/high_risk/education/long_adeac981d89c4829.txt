@@ -1,0 +1,10 @@
+<START_TEXT>
+ik ben IT-manager van een grote onderwijsinstelling en vraag me af of AI kan helpen met studentenbegeleiding. is het mogelijk om AI te gebruiken voor toelatingsprocessen? kunnen aanmeldingen automatisch beoordeeld worden? ik weet niet of we mogen voorspellen welke studenten succesvol zullen zijn. kan het leerresultaten analyseren en bepalen wie doorstroomt? is dat wel eerlijk? fraudedetectie tijdens examens is belangrijk maar hoe betrouwbaar is het? kan ai echt onregelmatigheden detecteren en plagiaat herkennen? mag de ai automatisch cijfers toekennen voor opdrachten? ik maak me zorgen over bias. kunnen we gepersonaliseerde leertrajecten maken zonder privacy te schenden? continue monitoring voelt als big brother. we hebben 20 jaar historische data maar is die wel representatief? wat zijn de ethische risico's? kunnen studenten bezwaar maken tegen ai-beslissingen? is 6 maanden realistisch voor implementatie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. The system involves AI-based assessment, automated decision-making, and significant impact on individuals' opportunities and rights.
+</REASONING>
+<END_EVALUATION>

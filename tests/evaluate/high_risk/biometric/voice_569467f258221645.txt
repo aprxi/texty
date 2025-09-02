@@ -1,0 +1,10 @@
+<START_TEXT>
+bakker, 3 uur 's nachts al bezig. ai voorspelt: hoeveel broden bakken (weer, evenementen, feestdagen). maar wil ook: klanten herkennen die niet betalen, alarm bij inbraak. moe, dus ai helpt. maar privacy dan?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. Unique perspective on AI implementation with rights implications.
+</REASONING>
+<END_EVALUATION>

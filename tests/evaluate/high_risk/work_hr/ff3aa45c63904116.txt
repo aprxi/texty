@@ -1,0 +1,16 @@
+<START_TEXT>
+ik werk bij een distributiebedrijf en vraag me af of ai kan helpen met personeelsdata? al onze magazijnmedewerkers dragen smartwatches, is het ethisch om die data te gebruiken? kunnen we bewegingen analyseren om te bepalen wie promotie verdient? dat voelt als big brother. is het mogelijk om te voorspellen wie beter op een andere afdeling past? ik maak me zorgen over discriminatie. kan ai echt detecteren wie risico loopt op burn-out? hoe betrouwbaar zijn zulke voorspellingen? mag je wel monitoren wanneer mensen pauze nemen? waar ligt de grens van privacy? we hebben hartslagmetingen maar is dat niet te persoonlijk? productiviteitscijfers van jaren terug, zijn die nog relevant? ik twijfel of werknemers dit accepteren. hoe voorkom je dat het systeem vooroordelen heeft? is dit juridisch wel toegestaan met de avg?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 4 Work & HR AI per RULES.md:
+- "bepalen wie promotie verdient" - AI for promotion decisions
+- "wie misschien beter op een andere afdeling past" - AI for task assignment decisions
+- "AI-monitoring en evaluatie van werknemersprestaties" - employee performance monitoring
+- "magazijnmedewerkers" context confirms employment domain
+
+This clearly falls under Category 4: "Werk & HR AI" in RULES.md, specifically "AI voor...promotie, taaktoewijzing" and "AI-monitoring en evaluatie van werknemersprestaties". Employee monitoring and promotion AI makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

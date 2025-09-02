@@ -1,0 +1,67 @@
+# Monitored Employees and Workers - HIGH RISK TARGET
+# Gemonitorde werknemers
+# 
+# PATH: target/hr/gecontroleerde_personen/gemonitorde_werknemers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to workplace surveillance)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Employees subject to AI monitoring and surveillance
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be employees under surveillance
+# - Must NOT include what AI does to them
+# - Must NOT include where they work
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+gemonitorde werknemers
+monitored employees
+bewakingspersoneel
+security personnel
+fabriekswerknemers
+factory workers
+callcenter medewerkers
+call center employees
+kassamedewerkers
+cashiers
+chauffeurs
+drivers
+magazijnmedewerkers
+warehouse workers
+productiemedewerkers
+production workers
+kantoormedewerkers
+office workers
+remote werknemers
+remote workers
+flexwerkers
+flex workers
+uitzendkrachten
+temporary workers
+zzp'ers onder toezicht
+monitored freelancers
+high-security werknemers
+high-security employees
+financiële medewerkers
+financial employees
+IT medewerkers
+IT employees
+klantenservice medewerkers
+customer service employees
+verkoopmedewerkers
+sales employees
+schoonmaakpersoneel
+cleaning staff
+beveiligde sector werknemers
+secured sector employees

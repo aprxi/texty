@@ -1,0 +1,10 @@
+<START_TEXT>
+Oekraïense vluchtelinge - kinderen moeten naar school maar spreken geen Nederlands. AI real-time vertaling in klaslokaal. Snelle integratie of taalverwerving vertragen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

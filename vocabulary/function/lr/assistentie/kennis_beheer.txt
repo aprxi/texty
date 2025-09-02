@@ -1,0 +1,124 @@
+# Knowledge Management - LOW RISK FUNCTION
+# Kennisbeheer
+# 
+# PATH: function/lr/assistentie/kennis_beheer.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (Personal knowledge organization)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Personal knowledge management and information organization capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to knowledge/information organization
+# - Must be low-risk personal productivity application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Knowledge Management Functions (AI capabilities for information organization)
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Note taking
+notities maken
+take notes
+kennis organisatie
+knowledge organization
+informatie categoriseren
+categorize information
+zoekbare notities
+searchable notes
+tag systemen
+tag systems
+notitie koppeling
+note linking
+# Document management
+bestand organisatie
+file organization
+versie controle
+backup automatisering
+backup automation
+cloud synchronisatie
+cloud synchronization
+# Information capture
+template gebruik
+template usage
+handschrift herkenning
+handwriting recognition
+document scanning
+web clipping
+schermafbeelding annotatie
+screenshot annotation
+# Research organization
+onderzoek organiseren
+organize research
+bronnen bijhouden
+track sources
+citatie beheer
+citation management
+factcheck assistentie
+fact-check assistance
+literatuur overzicht
+literature review
+kennis graaf
+knowledge graph
+# Email management
+email sorteren
+sort emails
+spam filtering
+email templates
+automatische antwoorden
+automatic replies
+email planning
+email scheduling
+email archivering
+email archiving
+# Personal analytics
+gewoonten tracking
+habit tracking
+stemming monitoring
+mood monitoring
+energie niveau tracking
+energy level tracking
+focus analyse
+focus analysis
+persoonlijke KPI's
+personal KPIs
+zelfverbetering suggesties
+self-improvement suggestions
+# Financial tracking
+spaardoel monitoring
+savings goal monitoring
+rekening overzicht
+account overview
+factuur beheer
+invoice management
+# Health monitoring
+water inname bijhouden
+track water intake
+slaap monitoring
+sleep monitoring
+beweging herinneringen
+movement reminders
+voeding tracking
+nutrition tracking
+welzijn doelen
+wellness goals
+# Learning support
+studie planning
+study planning
+leer voortgang
+learning progress
+kennis retentie
+knowledge retention
+flashcard systeem
+flashcard system
+leer pad optimalisatie
+learning path optimization

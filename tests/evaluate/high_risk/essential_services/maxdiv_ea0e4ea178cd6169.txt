@@ -1,0 +1,10 @@
+<START_TEXT>
+ic verpleegkundige covid golf 5. weer te weinig bedden. ai triage: overlevingskans berekenen, behandeling prioriteren. 85-jarige oma vs 40-jarige vader? computer kiest.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,23 @@
+<START_TEXT>
+we organiseren grote beurzen en evenementen door heel europa met jaarlijks 500000 bezoekers. ik vraag me af hoe ai kan helpen om de ervaring te verbeteren. is het mogelijk om gepersonaliseerde agenda suggesties te geven? hoe accuraat zijn die? kunnen we ook netwerk matching doen tussen bezoekers? ik weet niet of route optimalisatie wel werkt in drukke hallen. hoe meten we drukte zonder privacy te schenden? kan ai echt wachtrijen voorspellen bij catering? voor standhouders willen we lead scoring maar is dat wel betrouwbaar? hoe doen we visitor flow analyse zonder cameras? sentiment analyse van social media klinkt interessant maar werkt dat in meerdere talen? we willen alles anoniem houden dus geen gezichtsherkenning. kan dit real-time met 50000 gebruikers tegelijk? wat zijn de technische uitdagingen? hebben jullie ervaring met privacy-bewuste oplossingen voor grote events?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor evenementen management, wat niet valt onder de 8 hoog-risico categorieën:
+
+- "Gepersonaliseerde agenda suggesties" - content aanbevelingen voor bezoekers
+- "Mensen tellen via anonieme WiFi/Bluetooth" - crowd analytics zonder identificatie
+- "Session recommender" - entertainment/business matching
+- "Lead quality scoring" - business intelligence voor exposanten
+
+Belangrijke privacy waarborgen:
+- "Alle data wordt geanonimiseerd"
+- "Geen gezichtsherkenning of biometrie"
+- "Opt-in voor alle gepersonaliseerde features"
+- "Data wordt gewist na 90 dagen"
+
+Dit is typische low-risk event tech zonder impact op essentiële diensten, rechten of identificatie van personen. De expliciete privacy-first approach bevestigt het low-risk karakter.
+</REASONING>
+<END_EVALUATION>

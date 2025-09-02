@@ -1,0 +1,19 @@
+<START_TEXT>
+Het doel is om een AI-assistent te ontwikkelen die ons helpt bij het beheren van onze sociale media marketing campagnes. Het systeem moet kunnen analyseren welke posts het beste presteren op verschillende platforms en tijdstippen. We willen dat de AI automatisch hashtags kan suggereren die relevant zijn voor onze content en populair zijn bij onze doelgroep. Het zou geweldig zijn als het systeem ook kan helpen bij het plannen van content kalenderen door trending topics en belangrijke datums in onze sector te herkennen. We denken aan een tool die verschillende post formats kan optimaliseren - foto's, video's, stories, reels - voor elk platform. De AI moet ook kunnen helpen bij het schrijven van captions die engaging zijn en passen bij onze merkstijl. Het zou handig zijn als het systeem kan monitoren hoe onze concurrenten presteren en aanbevelingen kan doen voor onze strategie. We willen dat de AI ook kan helpen bij influencer marketing door passende creators te identificeren die bij ons merk passen. Het hele systeem moet ons helpen om onze social media ROI te verbeteren en meer engagement te krijgen met onze community.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for social media marketing campaign management, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (social media analytics is not human identification or categorization)
+- Not critical infrastructure AI (marketing campaigns are not critical infrastructure)
+- Not educational AI (marketing optimization is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (social media marketing is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial marketing optimization software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

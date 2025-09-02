@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik heb een zero-waste winkel en wil AI voor verpakkingsoptimalisatie. Het systeem moet productvolumes analyseren, herbruikbare containers tracken, en retourpercentages voorspellen. De AI moet ook kunnen adviseren over bulk-inkoop en voorraadrotatie om verspilling te minimaliseren. Ik wil dat het systeem klantgedrag analyseert om verpakkingsvrije alternatieven te promoten. Het moet ook CO2-voetafdruk kunnen berekenen. Kun je dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for sustainable retail and packaging optimization, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (inventory tracking is not human identification or categorization)
+- Not critical infrastructure AI (zero-waste shops are not critical infrastructure)
+- Not educational AI (sustainability advice is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (eco-friendly retail is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is sustainable retail management software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

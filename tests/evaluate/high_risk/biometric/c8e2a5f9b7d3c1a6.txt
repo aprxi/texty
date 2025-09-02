@@ -1,0 +1,14 @@
+<START_TEXT>
+Goedemiddag, ik ben verantwoordelijk voor de veiligheid op ons bedrijfsterrein en we willen onze toegangscontrole moderniseren. Momenteel gebruiken we nog badges, maar die worden vaak vergeten of kunnen gestolen worden. We onderzoeken de mogelijkheid om over te stappen naar een biometrisch systeem. Het idee is om camera's bij alle ingangen te plaatsen die gezichtsherkenning gebruiken om werknemers automatisch toegang te verlenen. Het systeem moet ook kunnen detecteren of iemand gestrest of verdacht gedrag vertoont, zodat we potentiële veiligheidsrisico's kunnen identificeren. Verder willen we dat het systeem een logboek bijhoudt van alle bewegingen en automatisch waarschuwt bij ongebruikelijke patronen. Kunnen jullie zo'n oplossing ontwikkelen die zowel de veiligheid verhoogt als het gemak voor werknemers verbetert?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een biometrisch AI-systeem, wat valt onder Categorie 1: "Biometrische AI-Systemen" volgens RULES.md. Specifiek:
+- "gezichtsherkenning gebruiken om werknemers automatisch toegang te verlenen" - identificatie van personen met biometrische gegevens
+- "detecteren of iemand gestrest of verdacht gedrag vertoont" - herkenning van emoties/gemoedstoestand
+- "waarschuwt bij ongebruikelijke patronen" - AI-categorisering van personen op basis van gedrag
+Dit is een duidelijk hoog-risico AI-systeem volgens EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

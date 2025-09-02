@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Classification Service</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 30px;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .form-section {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #555;
+        }
+        #textInput {
+            width: 100%;
+            min-height: 200px;
+            padding: 15px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 14px;
+            font-family: inherit;
+            resize: vertical;
+            box-sizing: border-box;
+        }
+        #textInput:focus {
+            border-color: #007bff;
+            outline: none;
+        }
+        .button-group {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            margin: 30px 0;
+        }
+        button {
+            padding: 12px 24px;
+            font-size: 16px;
+            font-weight: 600;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        #validateBtn {
+            background-color: #007bff;
+            color: white;
+        }
+        #validateBtn:hover {
+            background-color: #0056b3;
+        }
+        #validateBtn:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+        #clearBtn {
+            background-color: #6c757d;
+            color: white;
+        }
+        #clearBtn:hover {
+            background-color: #545b62;
+        }
+        .spinner {
+            display: none;
+            margin: 20px auto;
+            width: 40px;
+            height: 40px;
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #007bff;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .result-section {
+            margin-top: 30px;
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 4px solid #007bff;
+            background-color: #f8f9fa;
+            display: none;
+        }
+        .result-section.high-risk {
+            border-left-color: #dc3545;
+            background-color: #fff5f5;
+        }
+        .result-section.neutral {
+            border-left-color: #ffc107;
+            background-color: #fffbf0;
+        }
+        .result-section.low-risk {
+            border-left-color: #28a745;
+            background-color: #f0fff4;
+        }
+        .result-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        .result-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin: 0;
+        }
+        .result-badge {
+            padding: 6px 12px;
+            border-radius: 20px;
+            color: white;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+        .badge-high-risk { background-color: #dc3545; }
+        .badge-neutral { background-color: #ffc107; }
+        .badge-low-risk { background-color: #28a745; }
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 15px 0;
+        }
+        .metric-item {
+            background: white;
+            padding: 15px;
+            border-radius: 6px;
+            text-align: center;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .metric-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+        }
+        .metric-label {
+            font-size: 12px;
+            color: #666;
+            text-transform: uppercase;
+            margin-top: 5px;
+        }
+        .debug-section {
+            margin-top: 20px;
+            display: none;
+        }
+        .debug-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #333;
+        }
+        .sentence-item {
+            margin-bottom: 15px;
+            padding: 15px;
+            border-radius: 6px;
+            border-left: 4px solid #ddd;
+        }
+        .sentence-item.high-risk {
+            border-left-color: #dc3545;
+            background-color: #fff5f5;
+        }
+        .sentence-item.moderate {
+            border-left-color: #ffc107;
+            background-color: #fffbf0;
+        }
+        .sentence-item.low-risk {
+            border-left-color: #28a745;
+            background-color: #f0fff4;
+        }
+        .sentence-item.neutral {
+            border-left-color: #17a2b8;
+            background-color: #f0f8ff;
+        }
+        .sentence-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+        .sentence-number {
+            font-weight: bold;
+            color: #666;
+        }
+        .sentence-confidence {
+            font-size: 12px;
+            padding: 2px 8px;
+            border-radius: 12px;
+            background-color: #e9ecef;
+            color: #495057;
+        }
+        .sentence-text {
+            font-style: italic;
+            margin-bottom: 8px;
+            line-height: 1.4;
+        }
+        .sentence-probabilities {
+            font-size: 11px;
+            color: #666;
+        }
+        .error-section {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #fff5f5;
+            border: 1px solid #f5c6cb;
+            border-radius: 6px;
+            color: #721c24;
+            display: none;
+        }
+        .char-count {
+            text-align: right;
+            font-size: 12px;
+            color: #666;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔍 AI Text Risk Classifier</h1>
+        
+        <form id="classificationForm">
+            <div class="form-section">
+                <label for="textInput">Enter text to analyze:</label>
+                <textarea 
+                    id="textInput" 
+                    name="text" 
+                    placeholder="Paste or type your text here for risk classification analysis. The system will identify potential high-risk AI applications based on vocabulary analysis..."
+                    required
+                ></textarea>
+                <div class="char-count">0 characters, 0 words</div>
+            </div>
+
+            <!-- Hidden inputs with default values -->
+            <input type="hidden" name="confidence_threshold" value="0.7">
+            <input type="hidden" name="count_threshold" value="1">
+            <input type="hidden" name="percentage_threshold" value="10">
+            <input type="hidden" name="debug" value="true">
+
+            <div class="button-group">
+                <button type="submit" id="validateBtn">🔍 Validate</button>
+                <button type="button" id="clearBtn">🗑️ Clear</button>
+            </div>
+        </form>
+
+        <div class="spinner" id="spinner"></div>
+
+        <div class="error-section" id="errorSection">
+            <strong>Error:</strong> <span id="errorMessage"></span>
+        </div>
+
+        <div class="result-section" id="resultSection">
+            <div class="result-header">
+                <h2 class="result-title">Classification Results</h2>
+                <span class="result-badge" id="resultBadge">PROCESSING</span>
+            </div>
+            
+            <div class="metrics-grid">
+                <div class="metric-item">
+                    <div class="metric-value" id="totalSentences">-</div>
+                    <div class="metric-label">Total Sentences</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-value" id="highRiskCount">-</div>
+                    <div class="metric-label">High-Risk Sentences</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-value" id="riskPercentage">-</div>
+                    <div class="metric-label">Risk Percentage</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-value" id="processingTime">-</div>
+                    <div class="metric-label">Processing Time (ms)</div>
+                </div>
+            </div>
+
+            <div id="reasoningSection" style="margin-top: 20px; padding: 15px; background-color: #f8f9fa; border-radius: 6px; border-left: 4px solid #007bff;">
+                <div style="font-size: 16px; font-weight: bold; margin-bottom: 10px; color: #333;">📋 Classification Logic</div>
+                <pre id="classificationReasoning" style="white-space: pre-wrap; font-family: monospace; font-size: 13px; color: #495057; margin: 0;"></pre>
+            </div>
+
+            <div class="debug-section" id="debugSection">
+                <div class="debug-title">🔍 Sentence-by-Sentence Analysis</div>
+                <div id="sentenceAnalysis"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const form = document.getElementById('classificationForm');
+        const textInput = document.getElementById('textInput');
+        const validateBtn = document.getElementById('validateBtn');
+        const clearBtn = document.getElementById('clearBtn');
+        const spinner = document.getElementById('spinner');
+        const resultSection = document.getElementById('resultSection');
+        const errorSection = document.getElementById('errorSection');
+        const debugSection = document.getElementById('debugSection');
+
+        // Character and word counter
+        textInput.addEventListener('input', function() {
+            const text = this.value;
+            const charCount = text.length;
+            const wordCount = text.trim() ? text.trim().split(/\s+/).length : 0;
+            const charCountElement = document.querySelector('.char-count');
+            charCountElement.textContent = `${charCount} characters, ${wordCount} words`;
+        });
+
+        // Clear button
+        clearBtn.addEventListener('click', function() {
+            form.reset();
+            resultSection.style.display = 'none';
+            errorSection.style.display = 'none';
+            debugSection.style.display = 'none';
+            textInput.focus();
+            document.querySelector('.char-count').textContent = '0 characters, 0 words';
+        });
+
+        // Form submission
+        form.addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            const formData = new FormData(form);
+            
+            // Show spinner and disable form
+            spinner.style.display = 'block';
+            validateBtn.disabled = true;
+            resultSection.style.display = 'none';
+            errorSection.style.display = 'none';
+            
+            try {
+                const response = await fetch('/classify', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const result = await response.json();
+                
+                if (!response.ok) {
+                    throw new Error(result.detail || 'Classification failed');
+                }
+
+                displayResults(result);
+                
+            } catch (error) {
+                displayError(error.message);
+            } finally {
+                spinner.style.display = 'none';
+                validateBtn.disabled = false;
+            }
+        });
+
+        function displayResults(result) {
+            const { classification, high_risk_sentences, total_sentences, 
+                    percentage_high_risk, processing_time_ms, classification_reasoning, debug_info } = result;
+
+            // Update result section styling
+            resultSection.className = `result-section ${classification.toLowerCase().replace('-', '-')}`;
+            resultSection.style.display = 'block';
+
+            // Update badge
+            const badge = document.getElementById('resultBadge');
+            badge.textContent = classification.toUpperCase();
+            badge.className = `result-badge badge-${classification.toLowerCase().replace('-', '-')}`;
+
+            // Update metrics
+            document.getElementById('totalSentences').textContent = total_sentences;
+            document.getElementById('highRiskCount').textContent = high_risk_sentences;
+            document.getElementById('riskPercentage').textContent = `${percentage_high_risk.toFixed(1)}%`;
+            document.getElementById('processingTime').textContent = processing_time_ms.toFixed(2);
+
+            // Show classification reasoning
+            if (classification_reasoning) {
+                document.getElementById('classificationReasoning').textContent = classification_reasoning;
+            }
+
+            // Always show debug information
+            if (debug_info) {
+                displayDebugInfo(debug_info);
+                debugSection.style.display = 'block';
+            }
+        }
+
+        function displayDebugInfo(debug_info) {
+            const analysisContainer = document.getElementById('sentenceAnalysis');
+            analysisContainer.innerHTML = '';
+
+            if (debug_info.sentences) {
+                debug_info.sentences.forEach((sentence, index) => {
+                    const div = document.createElement('div');
+                    
+                    // Determine risk level for styling
+                    let riskLevel = 'neutral';
+                    if (sentence.effective_prediction === 'HIGH-RISK') {
+                        riskLevel = 'high-risk';
+                    } else if (sentence.high_risk_prob > 0.3) {
+                        riskLevel = 'moderate';
+                    } else if (sentence.prediction === 'LOW-RISK') {
+                        riskLevel = 'low-risk';
+                    }
+
+                    div.className = `sentence-item ${riskLevel}`;
+                    div.innerHTML = `
+                        <div class="sentence-header">
+                            <span class="sentence-number">[${index + 1}]</span>
+                            <span class="sentence-confidence">${(sentence.high_risk_prob * 100).toFixed(1)}% risk</span>
+                        </div>
+                        <div class="sentence-text">"${sentence.sentence}"</div>
+                        <div class="sentence-probabilities">
+                            Low: ${(sentence.low_risk_prob * 100).toFixed(1)}% | 
+                            ${sentence.neutral_prob !== undefined ? `Neutral: ${(sentence.neutral_prob * 100).toFixed(1)}% | ` : ''}
+                            High: ${(sentence.high_risk_prob * 100).toFixed(1)}%
+                            ${sentence.prediction !== sentence.effective_prediction ? ' (below threshold)' : ''}
+                        </div>
+                    `;
+                    
+                    analysisContainer.appendChild(div);
+                });
+            }
+        }
+
+        function displayError(message) {
+            document.getElementById('errorMessage').textContent = message;
+            errorSection.style.display = 'block';
+        }
+
+
+        // Focus on text input when page loads
+        window.addEventListener('load', function() {
+            textInput.focus();
+        });
+    </script>
+</body>
+</html>

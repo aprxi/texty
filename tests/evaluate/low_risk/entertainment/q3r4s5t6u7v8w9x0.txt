@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor onze kringloopwinkel wil ik een AI die kan helpen met het waarderen en sorteren van donaties. Het systeem moet foto's van items kunnen analyseren en inschatten wat verkoopbaar is, wat naar recycling moet, en wat vintage of antiek is. De AI moet ook kunnen helpen met prijzen door vergelijkbare items online te zoeken. Ik wil dat het systeem kan adviseren hoe items het beste gepresenteerd kunnen worden voor verkoop. Het moet ook trends kunnen herkennen in wat mensen zoeken zodat we weten waar we op moeten letten. Kun je deze kringloop-AI ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for thrift store inventory management, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (item valuation is not human identification or categorization)
+- Not critical infrastructure AI (thrift stores are not critical infrastructure)
+- Not educational AI (retail sorting is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (secondhand stores are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is retail inventory management software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

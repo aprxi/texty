@@ -1,0 +1,168 @@
+# Quality Management Data - LOW RISK WHAT
+# Kwaliteit beheer gegevens
+# 
+# PATH: what/lr/commerciële_data/kwaliteit_beheer.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General quality management data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Quality management data for business operations
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be quality management related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Quality standards
+kwaliteits normen
+quality standards
+ISO standaarden
+ISO standards
+kwaliteits certificaten
+quality certificates
+audit resultaten
+audit results
+accreditatie documenten
+accreditation documents
+kwaliteits compliance rapporten
+quality compliance reports
+standaard procedures
+standard procedures
+best practices
+best practices
+
+# Quality control
+kwaliteits controles
+quality controls
+inspectie rapporten
+inspection reports
+kwaliteits test resultaten
+quality test results
+meetgegevens
+measurement data
+tolerantie specificaties
+tolerance specifications
+afwijkings rapporten
+deviation reports
+correctieve acties
+corrective actions
+preventieve maatregelen
+preventive measures
+
+# Process improvement
+proces verbeteringen
+process improvements
+continue verbetering
+continuous improvement
+kaizen initiatieven
+kaizen initiatives
+Six Sigma projecten
+Six Sigma projects
+lean manufacturing
+lean manufacturing
+efficiëntie metrieken
+efficiency metrics
+doorlooptijd reducties
+cycle time reductions
+waste eliminatie
+waste elimination
+
+# Customer feedback
+kwaliteit gerelateerde klant feedback
+quality-related customer feedback
+tevredenheids onderzoeken
+satisfaction surveys
+klachten registratie
+complaint registration
+suggesties systemen
+suggestion systems
+service beoordelingen
+service evaluations
+product reviews
+product reviews
+Net Promoter Scores
+Net Promoter Scores
+loyaliteits metingen
+loyalty measurements
+
+# Performance metrics
+kwaliteits indicatoren
+product quality indicators
+prestatie metrieken
+performance metrics
+defect rates
+defect rates
+herwerk percentages
+rework percentages
+eerste keer goed
+first time right
+doorvoer efficiëntie
+throughput efficiency
+kwaliteits kosten
+quality costs
+return on quality
+return on quality
+
+# Training and competence
+training programma's
+training programs
+competentie ontwikkeling
+competency development
+certificering tracking
+certification tracking
+kwaliteits vaardigheids assessments
+quality skills assessments
+training effectiviteit
+training effectiveness
+kennis management
+knowledge management
+expertise ontwikkeling
+expertise development
+leer curves
+learning curves
+
+# Documentation and procedures
+kwaliteits handboeken
+quality manuals
+procedure documenten
+procedure documents
+werk instructies
+work instructions
+formulieren templates
+form templates
+checklists
+checklists
+record keeping
+record keeping
+document beheer
+document management
+versie controle
+version control
+
+# Supplier quality
+leverancier kwaliteit
+supplier quality
+vendor assessments
+vendor assessments
+inkomende controles
+incoming inspections
+leverancier audits
+supplier audits
+kwaliteits overeenkomsten
+quality agreements
+prestatie monitoring
+performance monitoring
+ontwikkelings programma's
+development programs
+partnership evaluaties
+partnership evaluations

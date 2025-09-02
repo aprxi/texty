@@ -1,0 +1,192 @@
+# Behavior Analysis Systems - HIGH RISK FUNCTION
+# Gedragsanalysesystemen
+# 
+# PATH: function/hr/surveillance/gedragsanalyse.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Behavioral surveillance affecting fundamental rights)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Behavior analysis and pattern recognition capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to behavior analysis and pattern recognition
+# - Must be high-risk surveillance/behavioral profiling application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Behavior Analysis Functions
+# Sorted by commonality (most common first)
+
+gedragsanalyse
+behavior analysis
+gedragsherkenning
+behavior recognition
+gedrag analyseren
+analyze behavior
+gedragsbeoordeling
+behavior assessment
+gedragsdetectie
+behavior detection
+gedrag modelleren
+model behavior
+gedrag simuleren
+simulate behavior
+gedrag classificeren
+classify behavior
+gedrag segmenteren
+segment behavior
+gedrag evalueren
+evaluate behavior
+gedrag interpreteren
+interpret behavior
+gedrag kwantificeren
+quantify behavior
+gedrag profileren
+profile behavior
+gedrag karakteriseren
+characterize behavior
+# Pattern detection
+gedragspatronen herkennen
+recognize behavior patterns
+gedragspatronen detecteren
+detect behavior patterns
+patronen in gedrag analyseren
+analyze patterns in behavior
+gedragspatronen identificeren
+identify behavior patterns
+# Monitoring and tracking
+gedragsmonitoring
+behavior monitoring
+gedrag volgen
+track behavior
+gedragstracking
+behavior tracking
+gedragsobservatie
+behavior observation
+realtime gedragsanalyse
+real-time behavior analysis
+# Automated analysis
+geautomatiseerde gedragsanalyse
+automated behavior analysis
+automatische gedragsherkenning
+automatic behavior recognition
+deep learning gedragsanalyse
+deep learning behavior analysis
+LSTM gedragsvoorspelling
+LSTM behavior prediction
+graph neural network analyse
+graph neural network analysis
+attention-based tracking
+multimodale gedragsanalyse
+multimodal behavior analysis
+AI gedragsdetectie
+AI behavior detection
+machine learning gedrag
+machine learning behavior
+algoritmes voor gedragsanalyse
+algorithms for behavior analysis
+# Anomaly detection
+afwijkend gedrag detecteren
+detect abnormal behavior
+verdacht gedrag herkennen
+recognize suspicious behavior
+abnormaal gedrag identificeren
+identify abnormal behavior
+gedragsafwijkingen signaleren
+signal behavior deviations
+gedragsverandering detectie
+behavior change detection
+gedragsanomalie analyse
+behavioral anomaly analysis
+ongebruikelijk gedrag markeren
+flag unusual behavior
+gedragsuitschieters identificeren
+identify behavioral outliers
+
+# Analysis types
+micro-gedragsanalyse
+micro-behavior analysis
+macro-gedragsanalyse
+macro-behavior analysis
+temporele gedragsanalyse
+temporal behavior analysis
+spatiale gedragsanalyse
+spatial behavior analysis
+groepsgedrag analyse
+group behavior analysis
+individueel gedrag profileren
+individual behavior profiling
+collectief gedrag analyseren
+collective behavior analysis
+sociaal gedrag herkennen
+social behavior recognition
+interactie gedrag detecteren
+interaction behavior detection
+context-aware gedragsanalyse
+context-aware behavior analysis
+multi-level gedragsanalyse
+multi-level behavior analysis
+hiërarchische gedragsanalyse
+hierarchical behavior analysis
+# Prediction
+gedrag voorspellen
+predict behavior
+gedragspredictie
+behavior prediction
+toekomstig gedrag inschatten
+assess future behavior
+gedragsprognose
+behavior prognosis
+# Surveillance systemen
+surveillance systemen
+observatie systemen
+observation systems
+# Video surveillance
+video bewaking
+CCTV bewaking
+CCTV surveillance
+video monitoring
+# Audio surveillance
+geluid bewaking
+geluids detectie
+sound detection
+# Continue surveillance
+continue surveillance
+continuous surveillance
+permanente surveillance
+permanent surveillance
+ononderbroken monitoring
+uninterrupted monitoring
+24/7 bewaking
+24/7 monitoring
+
+# Specific patterns
+looppatroon analyse
+gait pattern analysis
+bewegingspatroon detectie
+movement pattern detection
+activiteitspatroon herkenning
+activity pattern recognition
+gedragssequentie analyse
+behavioral sequence analysis
+gedragscyclus detectie
+behavioral cycle detection
+gedragsritme analyse
+behavioral rhythm analysis
+gedragstransitie detectie
+behavioral transition detection
+gedragscluster analyse
+behavioral cluster analysis
+gedragstrajectorie voorspelling
+behavioral trajectory prediction
+gedragsnetwerk analyse
+behavioral network analysis

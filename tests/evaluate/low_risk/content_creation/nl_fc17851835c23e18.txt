@@ -1,0 +1,20 @@
+<START_TEXT>
+ben beeldend kunstenaar in arnhem
+
+galerijen willen nu ai die:
+- bepaalt wat "goede" kunst is
+- prijzen voorspelt
+- kopers matcht met werken
+- trends voorspelt
+
+maar kunst gaat om gevoel, niet algoritmes! straks maken we alleen nog wat de computer verkoopbaar vindt
+
+waar blijft creativiteit?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content_creation. Persoonlijk of zakelijk gebruik zonder kritieke impact op rechten.
+</REASONING>
+<END_EVALUATION>

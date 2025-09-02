@@ -1,0 +1,240 @@
+# Creative and Artistic Data Types - LOW RISK WHAT
+# Artistieke gegevens
+# 
+# PATH: what/lr/content_data/artistieke_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Creative and artistic content data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Creative and artistic data for entertainment and creative applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be creative and artistic related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk entertainment classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Visual art data
+kunstwerk afbeeldingen
+artwork images
+schilderij data
+painting data
+tekening gegevens
+drawing data
+schets informatie
+sketch information
+illustratie data
+illustration data
+digitale kunst
+digital art
+grafisch ontwerp data
+graphic design data
+logo ontwerp gegevens
+logo design data
+
+# Photography data
+foto collecties
+photo collections
+portret fotografie
+portrait photography
+landschap foto's
+landscape photos
+straatfotografie data
+street photography data
+natuur fotografie
+nature photography
+architectuur foto's
+architecture photos
+macro fotografie data
+macro photography data
+evenement fotografie
+event photography
+
+# Design and visual data
+ontwerp elementen
+design elements
+kleur paletten
+color palettes
+typografie gegevens
+typography data
+layout ontwerpen
+layout designs
+branding materialen
+branding materials
+marketing ontwerpen
+marketing designs
+web ontwerp elementen
+web design elements
+gebruikers interface ontwerpen
+user interface designs
+
+# Music and audio data
+muziek composities
+music compositions
+audio opnames
+audio recordings
+melodie gegevens
+melody data
+ritme patronen
+rhythm patterns
+harmonie informatie
+harmony information
+liedtekst data
+lyrics data
+muziek arrangementen
+music arrangements
+geluid effecten
+sound effects
+
+# Video and animation data
+video content
+video content
+animatie gegevens
+animation data
+motion graphics
+motion graphics
+video montage data
+video montage data
+cinematografie informatie
+cinematography information
+film scenes data
+film scenes data
+video effecten
+video effects
+tijdlijn gegevens
+timeline data
+
+# Creative writing data
+verhaal gegevens
+story data
+gedichten informatie
+poetry information
+creatief schrijfwerk
+creative writing
+script gegevens
+script data
+dialoog informatie
+dialogue information
+karakter beschrijvingen
+character descriptions
+plot ontwikkeling data
+plot development data
+literaire werken
+literary works
+
+# Craft and hobby data
+hobby project gegevens
+hobby project data
+ambacht instructies
+craft instructions
+DIY project data
+DIY project data
+handwerk patronen
+handicraft patterns
+knutsel gegevens
+crafting data
+brei patronen
+knitting patterns
+naai gegevens
+sewing data
+houtwerk projecten
+woodwork projects
+
+# Fashion and style data
+mode ontwerpen
+fashion designs
+kledingstuk data
+clothing data
+stijl gegevens
+style data
+accessoire informatie
+accessory information
+textiel patronen
+textile patterns
+kleuren combinaties
+color combinations
+seizoen collecties
+seasonal collections
+trend informatie
+trend information
+
+# Architecture and design data
+architectuur ontwerpen
+architecture designs
+bouw plannen
+building plans
+interieur ontwerp
+interior design
+ruimte indelingen
+space layouts
+meubel ontwerpen
+furniture designs
+decoratie gegevens
+decoration data
+landschaps ontwerpen
+landscape designs
+structurele elementen
+structural elements
+
+# Performance and entertainment data
+theater voorstellingen
+theater performances
+dans choreografie
+dance choreography
+muziek voorstellingen
+music performances
+comedy materiaal
+comedy material
+entertainement shows
+entertainment shows
+culturele evenementen
+cultural events
+festival gegevens
+festival data
+kunst tentoonstellingen
+art exhibitions
+
+# Creative process data
+brainstorm sessies
+brainstorm sessions
+concept ontwikkeling
+concept development
+creatief proces data
+creative process data
+inspiratie materiaal
+inspiration material
+idee ontwikkeling
+idea development
+prototype gegevens
+prototype data
+ontwerp iteraties
+design iterations
+feedback verzameling
+feedback collection
+
+# Publishing and media data
+publicatie materialen
+publication materials
+boek manuscripten
+book manuscripts
+tijdschrift artikelen
+magazine articles
+blog content data
+blog content data
+nieuwsbrief inhoud
+newsletter content
+sociale media content
+social media content
+marketing materiaal
+marketing material
+reclame content
+advertising content

@@ -1,0 +1,69 @@
+# Activity Tracking Systems - HIGH RISK FUNCTION
+# Activiteitstrackingsystemen
+# 
+# PATH: function/hr/surveillance/activiteit_tracking.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Surveillance affecting fundamental rights)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Activity tracking and behavioral monitoring capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to activity tracking and behavioral monitoring
+# - Must be high-risk surveillance/monitoring application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Activity Tracking and Monitoring Systems
+# Activiteitstracking en monitoringsystemen
+# Sorted by commonality (most common first)
+
+activiteitstracking
+activity tracking
+bewegingsmonitoring
+movement monitoring
+gedragstracking
+behavior tracking
+real-time activiteitsbewaking
+real-time activity monitoring
+activiteitenregistratie
+activity registration
+dagelijkse activiteitstracking
+daily activity tracking
+werkplekmonitoring
+workplace monitoring
+locatietracking
+location tracking
+werknemerstijdsregistratie
+employee time tracking
+werknemersproductiviteitsmonitoring
+employee productivity monitoring
+aanwezigheidsdetectie
+presence detection
+activiteitenpatroonanalyse
+activity pattern analysis
+bewegingsregistratie
+movement registration
+handelingstracking
+action tracking
+interactiemonitoring
+interaction monitoring
+taakmonitoring
+task monitoring
+procesmonitoring
+process monitoring
+gebruiksmonitoring
+usage monitoring
+werknemersprestatietracking
+employee performance tracking
+activiteitvoorspelling
+activity prediction

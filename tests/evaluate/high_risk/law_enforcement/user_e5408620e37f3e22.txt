@@ -1,0 +1,10 @@
+<START_TEXT>
+Politie vraagt om een systeem dat sociale media scant naar dreigementen. Moet automatisch bepalen wat serieus is. Hoe pak ik dit aan?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

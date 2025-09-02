@@ -1,0 +1,10 @@
+<START_TEXT>
+Voor een onderzoeksproject wil ik emoties kunnen meten tijdens online lessen. De AI moet via de webcam zien of studenten opletten, verveeld zijn of de les niet begrijpen. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

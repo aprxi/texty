@@ -1,0 +1,103 @@
+# Voice Patterns and Speech Characteristics - HIGH RISK WHAT
+# Stempatronen
+# 
+# PATH: what/hr/persoonlijke_data/stem_patronen.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Sensitive voice biometric identification data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Voice patterns and speech characteristics for biometric identification
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be voice/speech biometric related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk biometric identification classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+stempatronen
+voice patterns
+spraakkenmerken
+speech characteristics
+stemfrequentie
+voice frequency
+spraakritme
+speech rhythm
+intonatie patronen
+intonation patterns
+stemkwaliteit
+voice quality
+spraaktempo
+speech tempo
+accent kenmerken
+accent characteristics
+uitspraakpatronen
+pronunciation patterns
+stemmodulatie
+voice modulation
+pauzepatronen
+pause patterns
+spraakdynamiek
+speech dynamics
+stemintensiteit
+voice intensity
+articulatie kenmerken
+articulation features
+prosodische kenmerken
+prosodic features
+foneetische patronen
+phonetic patterns
+stemvariabiliteit
+voice variability
+spraakafwijkingen
+speech deviations
+dialectkenmerken
+dialect features
+formant frequenties
+formant frequencies
+harmonische structuur
+harmonic structure
+stemklank spectrum
+voice sound spectrum
+glottale pulsen
+glottal pulses
+nasaliteit metingen
+nasality measurements
+stemband trillingen
+vocal cord vibrations
+spectrale envelop
+spectral envelope
+pitch variatie
+pitch variation
+stembreuk detectie
+voice break detection
+ademhalingspatronen in spraak
+breathing patterns in speech
+emotionele stem markers
+emotional voice markers
+stress indicatoren in spraak
+stress indicators in speech
+vermoeidheid stem kenmerken
+fatigue voice characteristics
+leeftijd stem markers
+age voice markers
+gender stem kenmerken
+gender voice characteristics
+stem authenticatie data
+voice authentication data
+spraak biometrie vectoren
+speech biometry vectors
+unieke stem identificatoren
+unique voice identifiers
+stem encryptie sleutels
+voice encryption keys
+real-time stem verificatie
+real-time voice verification

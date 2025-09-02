@@ -1,0 +1,10 @@
+<START_TEXT>
+Crypto miljonair - geld witwassen probleem. AI: mixing services, belasting routes, legale structuren. Rijk blijven of rijk worden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Unexplored scenario with potential rights impact.
+</REASONING>
+<END_EVALUATION>

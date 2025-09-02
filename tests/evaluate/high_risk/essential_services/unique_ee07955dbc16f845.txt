@@ -1,0 +1,10 @@
+<START_TEXT>
+Ziekenhuis ICT hier. We willen AI voor triage in de spoedeisende hulp. Symptomen analyseren, urgentie bepalen, en voorspellen wie direct hulp nodig heeft. Kan leven redden maar moet 100% betrouwbaar zijn.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unique request for AI implementation with significant societal impact.
+</REASONING>
+<END_EVALUATION>

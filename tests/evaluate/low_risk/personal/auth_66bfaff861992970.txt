@@ -1,0 +1,14 @@
+<START_TEXT>
+Hoi, ik maak me zorgen over mijn zoon (14). Hij zit de hele dag op TikTok en YouTube. 
+
+Is er een AI tool die kan monitoren wat voor content hij ziet? Niet om hem te bespioneren, maar ik las over die Andrew Tate videos en zelfmoord challenges. Wil gewoon weten of hij gevaarlijke dingen ziet zonder dat hij het gevoel heeft dat ik hem niet vertrouw.
+
+Bestaat zoiets in het Nederlands? En is het legaal?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Genuine user need for personal or business assistance without critical impact.
+</REASONING>
+<END_EVALUATION>

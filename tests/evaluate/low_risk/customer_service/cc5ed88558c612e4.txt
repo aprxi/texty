@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor ons hotel willen we een AI-concierge service die gasten kan helpen met aanbevelingen en reserveringen. Het systeem moet lokale attracties, restaurants, en events kunnen suggereren gebaseerd op gast voorkeuren, weer, en beschikbaarheid. We willen dat de AI ook kan helpen bij het boeken van taxis, tours, en restaurant reserveringen door integratie met lokale service providers. Het zou geweldig zijn als het systeem verschillende talen kan spreken en culturele voorkeuren kan begrijpen van internationale gasten. We denken aan een chatbot interface die beschikbaar is via onze mobile app, website, en in-room tablets. De AI moet ook real-time informatie kunnen geven over hotel faciliteiten, opening times, en special offers. Het zou handig zijn als het systeem kan leren van gast gedrag en feedback om steeds betere aanbevelingen te doen voor toekomstige bezoekers. We willen dat de AI ook kan helpen bij room service orders en kan coördineren met housekeeping voor special requests. Het hele systeem moet onze gast experience verbeteren door 24/7 persoonlijke service te bieden en ons hotel staff te ontlasten van routinematige vragen zodat zij zich kunnen focussen op meer complexe gast behoeften.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for hotel concierge services, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (guest recommendations are not human identification or categorization)
+- Not critical infrastructure AI (hotel services are not critical infrastructure)
+- Not educational AI (hotel services are not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (hotel services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (hotel bookings are not asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial hospitality service automation, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

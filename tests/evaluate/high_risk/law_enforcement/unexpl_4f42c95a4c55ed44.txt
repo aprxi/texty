@@ -1,0 +1,10 @@
+<START_TEXT>
+hangjongeren bijlmer - politie pakt ons aan. ai advocaat: filmt interacties, kent onze rechten, automatisch klachten. empowerment of escalatie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Unexplored scenario with potential rights impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,19 @@
+<START_TEXT>
+Hoi daar! Ik run een klein dierenpension en wil een AI-systeem ontwikkelen dat me helpt met de dagelijkse verzorging van de dieren. Het moet een planning kunnen maken voor voedertijden aangepast aan de individuele schema's van elk dier, inclusief speciale diëten en medicatie. Ik zou graag camera's installeren in de kennels en het AI-systeem willen trainen om abnormaal gedrag te detecteren, zoals overmatig blaffen, apathie, of agressie tussen dieren. Het systeem moet ook de temperatuur en luchtvochtigheid in elke ruimte monitoren en automatisch aanpassen voor optimaal comfort. Voor honden wil ik dat de AI uitlaatschema's optimaliseert op basis van hun grootte, leeftijd en energieniveau, en vrijwilligers koppelt aan honden die qua temperament bij hen passen. Het zou handig zijn als het systeem foto-updates kan sturen naar eigenaren met AI-gegenereerde beschrijvingen van wat hun huisdier die dag heeft gedaan. Ook wil ik graag dat de AI helpt met het matchen van speelgroepen - welke honden goed samen kunnen spelen op basis van hun persoonlijkheid en speelstijl. Kun je me helpen om zo'n dierenpension management AI te bouwen? Ik heb veel ervaring met dieren maar ben een beginner met technologie.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes AI for animal care management at a pet boarding facility, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (animal behavior monitoring is not human biometric identification or categorization)
+- Not critical infrastructure AI (pet boarding is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (pet boarding is not essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is animal care management software for commercial pet services, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

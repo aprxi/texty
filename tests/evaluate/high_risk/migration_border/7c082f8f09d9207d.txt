@@ -1,0 +1,17 @@
+<START_TEXT>
+Hoi, we zijn van de IND en zoeken hulp met een nieuw systeem voor asielaanvragen. We willen AI gebruiken om aanvragen te screenen, inconsistenties in verhalen te detecteren en risico's in te schatten. Het moet documenten in verschillende talen kunnen analyseren en kruisverwijzingen maken met internationale databases. Is dit iets wat jullie kunnen ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 7 Migration & Border Control AI per RULES.md:
+- "IND" - Dutch Immigration and Naturalization Service
+- "asielaanvragen" - asylum application processing
+- "aanvragen te screenen" - AI screening of visa/asylum applications
+- "risico's in te schatten" - AI risk assessment of travelers/applicants
+- The system processes asylum applications and makes risk assessments
+
+This clearly falls under Category 7: "Migratie & Grenstoezicht AI" in RULES.md, specifically "AI voor behandeling van asiel-, visum- of verblijfsaanvragen". AI processing of asylum applications makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

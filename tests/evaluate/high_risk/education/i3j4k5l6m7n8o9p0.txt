@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor het UWV wil ik AI die arbeidsongeschiktheid beoordeelt en WIA-uitkeringen bepaalt. Het systeem moet medische rapporten analyseren, restcapaciteit inschatten, en passende arbeid identificeren. De AI moet ook re-integratiekansen voorspellen en trajecten monitoren. Ik wil dat het systeem fraudesignalen herkent en controles plant. Het moet ook bezwaarschriften kunnen voorbereiden met juridische onderbouwing. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes AI for disability assessment and social insurance benefits, which falls under Category 5: "Essentiële diensten AI" in RULES.md. Specifically:
+- "arbeidsongeschiktheid beoordeelt en WIA-uitkeringen bepaalt" - assessing work disability and determining benefits
+- "restcapaciteit inschatten" - assessing remaining work capacity
+- "fraudesignalen herkent" - recognizing fraud signals
+- Direct decisions about access to disability benefits
+Work disability insurance (WIA) is an essential public service in the Netherlands, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

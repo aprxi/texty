@@ -1,0 +1,10 @@
+<START_TEXT>
+reddingsbrigade knrm - ai voorspelt waar drenkelingen aanspoelen op basis van stroming, wind, tijd in water. zoekgebied verkleinen, levens redden. maar familie false hope geven als ai fout zit?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

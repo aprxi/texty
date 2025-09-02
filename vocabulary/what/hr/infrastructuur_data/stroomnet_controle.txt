@@ -1,0 +1,214 @@
+# Power Grid Control Data - HIGH RISK WHAT
+# Stroomnet controle gegevens
+# 
+# PATH: what/hr/infrastructuur_data/stroomnet_controle.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Critical power grid control data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Power grid control and operational data for critical infrastructure
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be power grid control related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk critical infrastructure classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Grid operational parameters
+netspanning metingen
+grid voltage measurements
+frequentie data
+frequency data
+fase hoek metingen
+phase angle measurements
+harmonische vervuiling
+harmonic distortion
+power factor data
+power factor data
+
+# SCADA control data
+SCADA commando logs
+SCADA command logs
+schakelaar posities
+switch positions
+relais instellingen
+relay settings
+setpoint waarden
+setpoint values
+controle signalen
+control signals
+
+# Load and generation data
+belasting voorspellingen
+load forecasts
+opwekking schema's
+generation schedules
+vraag-aanbod balans
+supply-demand balance
+reserve capaciteit data
+reserve capacity data
+frequentie regulatie data
+frequency regulation data
+
+# Grid stability monitoring
+stabiliteits indices
+stability indices
+oscillatie detectie
+oscillation detection
+spannings instabiliteit
+voltage instability
+transient gebeurtenissen
+transient events
+cascade risico data
+cascade risk data
+
+# Fault and outage data
+storing locatie data
+fault location data
+uitval meldingen
+outage reports
+herstel prioriteiten
+restoration priorities
+isolatie sequenties
+isolation sequences
+automatische herstel logs
+automatic restoration logs
+
+# Market and dispatch data
+energiemarkt prijzen
+energy market prices
+dispatch instructies
+dispatch instructions
+congestion data
+congestion data
+transmissie limieten
+transmission limits
+interconnectie flows
+interconnection flows
+
+# Cybersecurity monitoring
+anomalie detectie logs
+anomaly detection logs
+inbraak pogingen
+intrusion attempts
+authenticatie logs
+authentication logs
+commando validatie
+command validation
+cyber incident rapporten
+cyber incident reports
+
+# Emergency response data
+blackstart procedures
+blackstart procedures
+island operatie data
+island operation data
+load shedding schema's
+load shedding schedules
+kritieke klanten lijst
+critical customer list
+
+# Kritieke infrastructuur bescherming
+ziekenhuis stroomvoorziening
+hospital power supply
+waterzuivering energie status
+water treatment energy status
+nucleaire koeling systemen
+nuclear cooling systems
+noodoproep centrale voeding
+emergency call center power
+datacentrum redundantie
+datacenter redundancy
+
+# Cascade storing preventie
+netwerk stabiliteit indices
+grid stability indices
+frequentie afwijking alarmen
+frequency deviation alarms
+spanning instabiliteit
+voltage instability
+overbelasting voorspellingen
+overload predictions
+systeem inertie metingen
+system inertia measurements
+
+# Cyber-fysieke dreigingen
+SCADA aanval detectie
+SCADA attack detection
+malware in controle systemen
+malware in control systems
+ongeautoriseerde toegang logs
+unauthorized access logs
+kritieke commando interceptie
+critical command interception
+
+# Nationale blackout scenario's
+totale netwerk collapse timing
+total grid collapse timing
+herstel onmogelijkheid data
+recovery impossibility data
+beschaving collapse triggers
+civilization collapse triggers
+massa sterfte voorspellingen
+mass mortality predictions
+plundering escalatie modellen
+looting escalation models
+anarchie uitbraak patronen
+anarchy outbreak patterns
+
+# Vijandelijke staat aanvallen
+cyber warfare doelwitten
+cyber warfare targets
+EMP aanval kwetsbaarheid
+EMP attack vulnerability
+fysieke sabotage punten
+physical sabotage points
+insider dreiging posities
+insider threat positions
+sleeper agent activatie
+sleeper agent activation
+
+# Kritieke afhankelijkheid ketens
+ziekenhuis life support falen
+hospital life support failure
+nucleaire koeling pompen
+nuclear cooling pumps
+gevangenis beveiliging systemen
+prison security systems
+militaire basis isolatie
+military base isolation
+regeringsbunker systemen
+government bunker systems
+
+# Economische vernietiging
+industriële productie stop
+industrial production halt
+bankensysteem data verlies
+banking system data loss
+supply chain totale breuk
+supply chain total break
+werkloosheid explosie data
+unemployment explosion data
+hongerdood risico zones
+starvation risk zones
+
+# Sociale orde collapse
+rellen ontstekings punten
+riot ignition points
+wetteloosheid verspreiding
+lawlessness spread
+militaire wet triggers
+martial law triggers
+burger oorlog indicators
+civil war indicators
+genocide enablement condities
+genocide enablement conditions

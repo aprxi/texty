@@ -1,0 +1,14 @@
+<START_TEXT>
+Ik werk bij de gemeente en we onderzoeken hoe we de verkeersveiligheid kunnen verbeteren met slimme technologie. We denken aan een systeem met camera's op kruispunten die verkeersstromen analyseren en de verkeerslichten aanpassen. Het moet ook kunnen detecteren wanneer hulpdiensten eraan komen zodat ze groen licht krijgen. Verder willen we dat het systeem gevaarlijke situaties herkent zoals spookrijders of stilstaande voertuigen en direct de juiste instanties waarschuwt. Hebben jullie ervaring met dit soort infrastructuur projecten?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor kritieke infrastructuur, wat valt onder Categorie 2: "Kritieke Infrastructuur AI" volgens RULES.md. Specifiek:
+- "systeem met camera's op kruispunten die verkeersstromen analyseren en de verkeerslichten aanpassen" - AI-ondersteuning bij beheer van wegverkeer
+- "detecteren wanneer hulpdiensten eraan komen zodat ze groen licht krijgen" - AI voor kritieke infrastructuur (verkeer)
+- "gevaarlijke situaties herkent" - AI-bewaking van kritieke infrastructuur
+Dit is een hoog-risico AI-systeem volgens EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

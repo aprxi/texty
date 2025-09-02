@@ -1,0 +1,13 @@
+<START_TEXT>
+Voor een onderwijsinstelling ontwikkelen we een systeem dat studievoortgang bewaakt en automatisch interventies voorstelt wanneer studenten achterlopen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 3: "Onderwijs & Opleidingen AI" volgens RULES.md:
+- "systeem dat studievoortgang bewaakt" - AI-beoordeling van leerresultaten
+- "automatisch interventies voorstelt" - AI die educatieve beslissingen beïnvloedt
+Dit betreft AI voor monitoring en beoordeling in onderwijscontext, wat het een HOOG-RISICO systeem maakt.
+</REASONING>
+<END_EVALUATION>

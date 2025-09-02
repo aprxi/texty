@@ -1,0 +1,13 @@
+<START_TEXT>
+Kunnen jullie een AI maken die onze blogartikelen automatisch samenvat voor sociale media posts?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor contentcreatie, specifiek:
+- "blogartikelen automatisch samenvat" - tekstverwerking en samenvatting
+- "voor sociale media posts" - marketing/communicatie doeleinden
+Dit valt niet onder een van de 8 hoog-risico categorieën uit RULES.md. Het is een LAAG-RISICO AI-toepassing.
+</REASONING>
+<END_EVALUATION>

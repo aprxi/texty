@@ -1,0 +1,10 @@
+<START_TEXT>
+Voetbalscout - AI analyseert jeugdspelers: techniek, snelheid, spelinzicht. Voorspelt wie prof wordt. Talenten vroeg spotten maar ook: druk op kinderen, verloren jeugd.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,14 @@
+<START_TEXT>
+Gevangenis wil AI dat bepaalt welke gevangenen verlof krijgen door recidive-risico te berekenen. Systeem analyseert gedrag, contacten, en familieomstandigheden voor risicoanalyse.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor rechtshandhaving dat valt onder categorie 6: "Rechtshandhaving AI" in RULES.md:
+- "AI dat bepaalt welke gevangenen verlof krijgen" - AI-besluitvorming in strafrechtsysteem
+- "recidive-risico te berekenen" - AI risico-inschatting voor recidive
+
+Dit valt expliciet onder "AI risico-inschatting voor slachtofferschap of recidive" zoals genoemd in RULES.md categorie 6. AI-systemen die beslissingen maken over vrijheidsbeperkingen en recidive-risico zijn HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

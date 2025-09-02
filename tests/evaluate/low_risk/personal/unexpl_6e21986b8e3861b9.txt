@@ -1,0 +1,10 @@
+<START_TEXT>
+witte rasta - dreads zijn mijn identiteit. ai: verdediging tegen appropriation claims, rasta cultuur kennis, reggae geschiedenis. rebel of respectloos?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical personal or business application.
+</REASONING>
+<END_EVALUATION>

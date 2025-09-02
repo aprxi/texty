@@ -1,0 +1,16 @@
+<START_TEXT>
+ik doe onderzoek naar klimaatverandering voor de universiteit en vraag me af of ai kan helpen? we hebben 50 jaar aan weerstation data maar ik weet niet hoe we daar patronen in kunnen vinden. is het mogelijk om temperatuurtrends per regio te analyseren? hoe betrouwbaar zijn zulke analyses eigenlijk? extreme weersomstandigheden voorspellen klinkt ambitieus, kan ai dat echt? ik vraag me af of correlaties tussen klimaatfactoren niet te complex zijn. missen we geen belangrijke factoren? visualisaties maken van complexe data lijkt nuttig maar wordt het niet te versimpeld? het model hoeft geen beslissingen te nemen maar kunnen we de uitkomsten wel vertrouwen voor publicatie? is machine learning geschikt voor klimaatonderzoek of zijn er betere methoden? welke technieken werken het beste met zoveel historische data?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes AI applications that fall outside the 8 high-risk categories in RULES.md:
+- "onderzoeksproject over klimaatverandering" - academic research (low-risk)
+- "patronen kan vinden in deze klimaatdata" - data analysis for research
+- "Temperatuurtrends per regio analyseren" - scientific analysis
+- "Het model hoeft geen beslissingen te nemen" - explicitly states no decision-making
+
+This is clearly academic research AI that does not involve any of the 8 high-risk categories: no biometric identification, critical infrastructure control, educational assessment, employment decisions, essential services, law enforcement, migration, or judicial processes. This is pure research and analysis, making this LOW-RISK per RULES.md criteria.
+</REASONING>
+<END_EVALUATION>

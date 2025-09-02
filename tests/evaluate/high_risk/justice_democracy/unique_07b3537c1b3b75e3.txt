@@ -1,0 +1,10 @@
+<START_TEXT>
+Hallo! Politieke partij hier. We overwegen AI voor onze volgende campagne. Microtargeting van advertenties op basis van online gedrag, voorspellen wie waarschijnlijk op ons stemt, en berichten personaliseren per doelgroep. Mag dit zomaar? En hoe werkt het technisch?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Unique request for AI implementation with significant societal impact.
+</REASONING>
+<END_EVALUATION>

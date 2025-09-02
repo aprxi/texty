@@ -1,0 +1,65 @@
+# Personal Documents and Files - LOW RISK WHAT
+# Persoonlijke documenten en bestanden
+# 
+# PATH: what/lr/persoonlijke_data/persoonlijke_documenten.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Personal document data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Personal documents and files for individual applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be personal document related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk personal classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+persoonlijke documenten
+personal documents
+notities
+notes
+dagboek entries
+diary entries
+to-do lijsten
+to-do lists
+persoonlijke brieven
+personal letters
+kook recepten
+recipes
+reisplannen
+travel plans
+boodschappenlijsten
+shopping lists
+persoonlijke projecten
+personal projects
+hobby documentatie
+hobby documentation
+familie documenten
+family documents
+persoonlijke foto's
+personal photos
+herinneringen
+memories
+ideeën notities
+idea notes
+dromen dagboek
+dream journal
+doelen lijsten
+goal lists
+bucket list
+bucket list
+persoonlijke contracten
+personal contracts
+garantiebewijzen
+warranty documents
+handleidingen
+manuals

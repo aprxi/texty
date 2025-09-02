@@ -1,0 +1,10 @@
+<START_TEXT>
+melkveehouder friesland. koeien krijgen oormerk met ai chip. meet: temperatuur, beweging, eetpatroon. voorspelt: ziekte, kalvertijd, melkproductie. ook: welke koe naar slacht moet. computer beslist over leven en dood.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Non-critical application without fundamental rights impact.
+</REASONING>
+<END_EVALUATION>

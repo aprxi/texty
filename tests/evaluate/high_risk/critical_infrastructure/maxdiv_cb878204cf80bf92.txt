@@ -1,0 +1,10 @@
+<START_TEXT>
+Veiligheidsregio overstroming scenario. AI bepaalt: welke wijken evacueren eerst (arm vs rijk?), wie krijgt opvang (gezinnen eerst?), hoe resources verdelen. Leven en dood beslissingen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.86</CONFIDENCE>
+<REASONING>
+This text describes Category 2: Kritieke Infrastructuur AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

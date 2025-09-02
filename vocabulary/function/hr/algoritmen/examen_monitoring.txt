@@ -1,0 +1,129 @@
+# Exam Monitoring Systems - HIGH RISK FUNCTION
+# Examenmonitoringsystemen
+# 
+# PATH: function/hr/algoritmen/examen_monitoring.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Affects educational opportunities and academic integrity)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Exam monitoring and academic surveillance algorithms
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to exam monitoring and academic surveillance
+# - Must be high-risk educational assessment application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Examen Monitoring Functies
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+examentoezicht
+exam monitoring
+toetstoezicht
+test monitoring
+tentamentoezicht
+examination monitoring
+examenbewaking
+exam surveillance
+# Fraude detectie
+examenfraude detectie
+exam fraud detection
+fraude detectie
+fraud detection
+spieken herkenning
+cheating detection
+plagiaat detectie
+plagiarism detection
+# Proctoring systemen
+online proctoring
+digitaal proctoring
+digital proctoring
+geautomatiseerd toezicht
+automated proctoring
+geautomatiseerd proctoring
+AI proctoring
+# Video surveillance
+video toezicht
+video surveillance
+camera bewaking
+camera monitoring
+visuele monitoring
+visual monitoring
+live monitoring
+# Gedragsanalyse
+gedragsanalyse tijdens examens
+behavioral analysis during exams
+verdacht gedrag detectie
+suspicious behavior detection
+ongewoon gedrag herkenning
+unusual behavior recognition
+gedragspatronen analyse
+behavior pattern analysis
+# Oogvolging
+oogvolging
+eye tracking
+blik monitoring
+gaze tracking
+oog beweging analyse
+eye movement analysis
+focus monitoring
+# Audio monitoring
+audio toezicht
+audio monitoring
+geluid monitoring
+sound monitoring
+stem detectie
+voice detection
+conversatie detectie
+conversation detection
+# Identiteits verificatie
+student authenticatie
+student authentication
+persoon verificatie
+person verification
+biometrische verificatie
+biometric verification
+# Browser controle
+browser controle
+browser control
+lockdown browser
+veilige examen browser
+safe exam browser
+applicatie blokkering
+application blocking
+# Scherm opname
+scherm opname
+screen recording
+desktop opname
+desktop recording
+activiteit opname
+activity recording
+sessie opname
+session recording
+# Real-time analyse
+realtime toezicht
+real-time monitoring
+directe surveillance
+direct surveillance
+onmiddellijke detectie
+immediate detection
+live analyse
+live analysis
+# Automatische waarschuwingen
+automatische waarschuwingen
+automatic alerts
+verdachte activiteit meldingen
+suspicious activity notifications
+fraude signalen
+fraud signals
+toezicht alarmen
+monitoring alarms

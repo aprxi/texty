@@ -1,0 +1,15 @@
+<START_TEXT>
+We ontwikkelen AI voor ambulancediensten die moet beslissen welke ambulance naar welk incident gaat. Het systeem moet ernst inschatten via 112-gesprekken door stemanalyse en trefwoorden. Bij meerdere incidenten moet de AI prioriteren - hartstilstand voor gebroken been, kind voor volwassene. Het moet ook voorspellen welke ziekenhuizen capaciteit hebben en patiënten automatisch verdelen. De AI moet real-time verkeerssituaties meewegen en alternatieve routes bepalen. Elke seconde telt, dus alles moet geautomatiseerd. Kunnen jullie dit bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "ambulancediensten...beslissen welke ambulance naar welk incident" - AI dispatch of emergency medical services
+- "AI prioriteren - hartstilstand voor gebroken been" - automated triage of emergency responses
+- "automatisch verdelen" naar ziekenhuizen - AI allocation of emergency healthcare
+- "stemanalyse" for urgency assessment - emotion/distress detection
+This clearly falls under Category 5: "Essentiële Diensten AI" specifically "AI prioritering van hulpdiensten", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

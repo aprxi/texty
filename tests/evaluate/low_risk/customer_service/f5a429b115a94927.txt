@@ -1,0 +1,19 @@
+<START_TEXT>
+Goedemiddag, ik werk als personal stylist en wil een AI-tool ontwikkelen die me kan helpen met het samenstellen van outfits voor mijn klanten. Het systeem moet rekening kunnen houden met lichaamstypes, huidskleur, persoonlijke stijl en budget. Ik zou graag foto's van kledingstukken kunnen uploaden en de AI laten analyseren welke items goed bij elkaar passen qua kleur, stijl en gelegenheid. Het moet ook trends kunnen volgen maar tegelijkertijd tijdloze combinaties kunnen voorstellen. Voor elke klant wil ik een digitale garderobe kunnen aanmaken waarin de AI kan zien wat ze al hebben en suggesties kan doen voor nieuwe aankopen die hun collectie goed aanvullen. Het systeem moet ook rekening houden met het seizoen en praktische aspecten zoals wasvoorschriften en onderhoudsgemak. Ik zou graag willen dat de AI kan leren van de voorkeuren van individuele klanten en steeds betere suggesties doet. Ook wil ik dat het systeem duurzame modeopties kan aanbevelen en second-hand alternatieven kan voorstellen. Kun je me helpen met het ontwikkelen van zo'n mode AI-assistent? Ik heb veel kennis van mode maar weinig van technologie, dus het moet gebruiksvriendelijk zijn.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for fashion styling and personal wardrobe assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (fashion styling is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (fashion advice is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions, just personal styling services)
+- Not essential services AI (fashion styling is not essential services like healthcare/insurance)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a personal service application for fashion and style advice, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

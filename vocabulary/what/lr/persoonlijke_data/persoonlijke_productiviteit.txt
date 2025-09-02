@@ -1,0 +1,215 @@
+# Personal Productivity Data Types - LOW RISK WHAT
+# Persoonlijke productiviteit gegevens
+# 
+# PATH: what/lr/persoonlijke_data/persoonlijke_productiviteit.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Personal productivity data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Personal productivity data for individual applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be personal productivity related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk personal classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Agenda en planning data
+agenda gegevens
+calendar data
+afspraak data
+appointment data
+evenement gegevens
+event data
+vergader informatie
+meeting information
+taak deadlines
+task deadlines
+persoonlijke schema data
+personal schedule data
+tijdslot informatie
+time slot information
+beschikbaarheid gegevens
+availability data
+
+# Taak en project beheer
+taak gegevens
+task data
+project informatie
+project information
+to-do lijst data
+to-do list data
+project mijlpalen
+project milestones
+voortgangs tracking
+progress tracking
+taak prioriteiten
+task priorities
+project tijdlijnen
+project timelines
+werkstroom data
+workflow data
+
+# Persoonlijke doelen en gewoontes
+doel tracking data
+goal tracking data
+habit monitoring data
+persoonlijke metrieken
+personal metrics
+persoonlijke prestatie data
+personal performance data
+voortgangs statistieken
+progress statistics
+gewoontes data
+habits data
+zelfverbetering data
+self-improvement data
+persoonlijke doelen
+personal objectives
+
+# Tijd en productiviteit beheer
+tijd beheer data
+time management data
+productiviteit metrieken
+productivity metrics
+taak prioritering
+task prioritization
+schema optimalisatie
+schedule optimization
+efficiëntie statistieken
+efficiency statistics
+tijd tracking
+time tracking
+pauze patronen
+break patterns
+
+# Persoonlijke financiën
+persoonlijke uitgaven tracking
+personal expense tracking
+budget planning
+spaar doelen
+savings goals
+persoonlijke rekening balansen
+personal account balances
+financiële doelen
+financial goals
+persoonlijke beleggingen
+personal investments
+uitgaven categorieën
+expense categories
+inkomen tracking
+income tracking
+
+# Gezondheid en wellness tracking
+gezondheids gegevens
+health data
+fitness statistieken
+fitness statistics
+activiteit tracking
+activity tracking
+stappen teller data
+step counter data
+fitness hartslag data
+fitness heart rate data
+persoonlijke slaap patronen
+personal sleep patterns
+gewicht tracking
+weight tracking
+voeding gegevens
+nutrition data
+
+# Notities en documentatie
+notitie gegevens
+note data
+document drafts
+tekst fragmenten
+text snippets
+brainstorm data
+idee collecties
+idea collections
+onderzoek notities
+research notes
+meeting notities
+meeting notes
+persoonlijke memo's
+personal memos
+
+# Contact en communicatie
+contact gegevens
+contact information
+adres boek data
+address book data
+telefoon nummers
+phone numbers
+email adressen
+email addresses
+sociale contacten
+social contacts
+professionele contacten
+professional contacts
+netwerk informatie
+network information
+communicatie geschiedenis
+communication history
+
+# Bestand en document organisatie
+bestand metadata
+file metadata
+document categorieën
+document categories
+tag informatie
+tag information
+bestand organisatie
+file organization
+map structuren
+folder structures
+document versies
+document versions
+bestand eigenschappen
+file properties
+opslag locaties
+storage locations
+
+# Entertainment voorkeuren
+entertainment voorkeuren
+entertainment preferences
+film keuzes
+movie choices
+muziek smaak
+music taste
+boek voorkeuren
+book preferences
+hobby interesse
+hobby interests
+vrijetijd activiteiten
+leisure activities
+recreatie gegevens
+recreation data
+ontspannings voorkeuren
+relaxation preferences
+
+# Leren en ontwikkeling
+leer voortgang
+learning progress
+cursus gegevens
+course data
+vaardigheids ontwikkeling
+skill development
+training records
+certificering data
+certification data
+studieplan gegevens
+study plan data
+leer doelen
+learning objectives
+kennis database
+knowledge database

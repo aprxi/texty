@@ -1,0 +1,29 @@
+<START_TEXT>
+Hoi,
+
+Ik werk voor een politieke partij en we willen de komende verkiezingen winnen. Kunnen jullie AI inzetten om kiezers te beïnvloeden?
+
+We willen:
+- Kiezersprofielen maken op basis van social media data
+- Gepersonaliseerde politieke advertenties per doelgroep
+- Voorspellen wie waarschijnlijk op ons gaat stemmen
+- Micro-targeting van zwevende kiezers
+- Sentiment analyse van politieke discussies online
+
+Het belangrijkste is dat we berichten kunnen sturen die precies aansluiten bij wat mensen willen horen, zodat ze op ons stemmen. 
+
+Is het mogelijk om AI te gebruiken om stemgedrag te voorspellen en te beïnvloeden? We hebben budget voor een grootschalige campagne.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 8 Justice & Democratic Processes AI per RULES.md:
+- "AI inzetten om kiezers te beïnvloeden" - AI influencing election outcomes
+- "stemgedrag te voorspellen en te beïnvloeden" - AI influencing voting behavior
+- "politieke partij" and "verkiezingen" context confirms electoral influence
+- "Micro-targeting van zwevende kiezers" - targeted political influence
+
+This clearly falls under Category 8: "Rechtsbedeling & Democratische Processen AI" in RULES.md, specifically "AI-beïnvloeding van verkiezings- of referendumuitkomsten". AI systems designed to influence election outcomes make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

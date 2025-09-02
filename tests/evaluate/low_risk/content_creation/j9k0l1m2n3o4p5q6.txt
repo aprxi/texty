@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik organiseer poeziewedstrijden en wil AI voor het analyseren van versvormen. Het systeem moet rijmschema's herkennen, metriek evalueren, en stilistische invloeden identificeren. De AI moet ook thematische verbanden leggen en originaliteit beoordelen zonder winnaar te selecteren. Ik wil dat het systeem kan helpen met het genereren van schrijfprompts en feedback geeft op techniek. Het is puur voor artistieke ontwikkeling. Kun je dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes AI for poetry analysis and artistic development, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (poetry analysis is not human identification or categorization)
+- Not critical infrastructure AI (poetry competitions are not critical infrastructure)
+- Not educational AI (artistic feedback without winner selection is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (poetry events are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+Explicitly states "zonder winnaar te selecteren" and "puur voor artistieke ontwikkeling". This is artistic development software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

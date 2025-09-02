@@ -1,0 +1,14 @@
+<START_TEXT>
+Ontwikkel voor ons een AI die het gedrag van werknemers op de werkvloer analyseert om hun productiviteit en betrokkenheid te scoren. We willen camera's en sensoren gebruiken om bewegingspatronen, interacties met collega's en werkritme te monitoren. Het systeem moet managers waarschuwen bij afwijkend gedrag en input geven voor functioneringsgesprekken.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 4: "Werk & HR AI" volgens RULES.md:
+- "gedrag van werknemers op de werkvloer analyseert" - AI-monitoring van werknemers
+- "productiviteit en betrokkenheid te scoren" - AI-evaluatie van werknemersprestaties
+- "input geven voor functioneringsgesprekken" - AI die arbeidsvoorwaarden kan beïnvloeden
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

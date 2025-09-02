@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn bordspellencafé wil ik een AI die kan helpen met het kiezen van het perfecte spel. Het systeem moet groepsgrootte, ervaring met bordspellen, beschikbare tijd en stemming analyseren om suggesties te doen. De AI moet ook spelregels kunnen uitleggen op verschillende niveaus - van quick-start tot volledig. Ik wil dat het systeem kan waarschuwen voor spellen die te complex zijn voor beginners of te simpel voor ervaren spelers. Het moet ook thematische avonden kunnen samenstellen. Kun je deze bordspel-AI ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for board game recommendations and entertainment, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (game selection is not human identification or categorization)
+- Not critical infrastructure AI (board game cafés are not critical infrastructure)
+- Not educational AI (game recommendations are not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (board game entertainment is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is entertainment and hospitality software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

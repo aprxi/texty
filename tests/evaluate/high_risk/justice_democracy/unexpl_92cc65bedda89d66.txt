@@ -1,0 +1,10 @@
+<START_TEXT>
+Gentrificatie Indische buurt - yuppen nemen over. AI: voorspelt huizenprijzen, waarschuwt voor uitkoop, organiseert verzet. Gemeenschap beschermen of vooruitgang tegenhouden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Unexplored scenario with potential rights impact.
+</REASONING>
+<END_EVALUATION>

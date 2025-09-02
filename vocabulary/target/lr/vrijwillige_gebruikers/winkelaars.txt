@@ -1,0 +1,98 @@
+# Shoppers and Retail Customers - LOW RISK TARGET
+# Winkel klanten en shoppers
+# 
+# PATH: target/lr/vrijwillige_gebruikers/winkelaars.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary retail shopping)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Shoppers and retail customers using AI for purchasing
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be voluntary shoppers or retail customers
+# - Must NOT include what AI does to them
+# - Must NOT include where they shop
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+winkelend publiek
+shopping public
+shoppers
+winkel klanten
+store customers
+koopjesjagers
+bargain hunters
+window shoppers
+
+# Online shoppers
+online shoppers
+webshop bezoekers
+webshop visitors
+e-commerce klanten
+e-commerce customers
+digitale kopers
+digital buyers
+app shoppers
+
+# Winkel types
+supermarkt klanten
+supermarket customers
+warenhuis bezoekers
+department store visitors
+boetiek klanten
+boutique customers
+
+# Koopgedrag
+impuls kopers
+impulse buyers
+vergelijkende shoppers
+comparison shoppers
+loyale klanten
+loyal customers
+seizoen shoppers
+seasonal shoppers
+
+# Tijd gebaseerd
+weekend shoppers
+avond winkelaars
+evening shoppers
+lunch shoppers
+sale shoppers
+
+# Demografie
+familie shoppers
+family shoppers
+millennial kopers
+millennial buyers
+generatie Z shoppers
+gen Z shoppers
+senioren shoppers
+senior shoppers
+
+# Shopping voorkeuren
+duurzame kopers
+sustainable shoppers
+merkbewuste klanten
+brand conscious customers
+prijsbewuste shoppers
+price conscious shoppers
+kwaliteit zoekers
+quality seekers
+
+# Specifieke retail
+mode shoppers
+fashion shoppers
+voedsel kopers
+food shoppers
+elektronica klanten
+electronics customers

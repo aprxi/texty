@@ -1,0 +1,15 @@
+<START_TEXT>
+Onze telecommunicatie infrastructuur heeft AI nodig voor netwerkbeheer en noodcommunicatie. Het systeem moet automatisch netwerkverkeer kunnen routeren en bij overbelasting beslissen welke diensten prioriteit krijgen - nooddiensten eerst, dan essentiële communicatie, dan consumenten. Bij grote storingen moet de AI autonoom kunnen beslissen welke gebieden connectiviteit behouden. We willen dat het systeem ook cyberdreigingen kan detecteren en automatisch delen van het netwerk kan isoleren. Alles moet milliseconden snel werken. Kunnen jullie dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "telecommunicatie infrastructuur" - telecommunications infrastructure
+- "beslissen welke diensten prioriteit krijgen" - AI prioritization of critical communications
+- "nooddiensten eerst" - emergency services communications priority
+- "autonoom kunnen beslissen" - autonomous critical infrastructure decisions
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" for telecommunications infrastructure management, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

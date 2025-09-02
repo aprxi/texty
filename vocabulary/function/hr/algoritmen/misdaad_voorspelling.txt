@@ -1,0 +1,128 @@
+# Crime Prediction Systems - HIGH RISK FUNCTION
+# Misdaadvoorspellingssystemen
+# 
+# PATH: function/hr/algoritmen/misdaad_voorspelling.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Affects justice and law enforcement decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Crime prediction and law enforcement algorithms
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to crime prediction and law enforcement
+# - Must be high-risk justice/police application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Misdaad Voorspelling Functies
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+misdaad voorspelling
+crime prediction
+criminaliteits voorspelling
+criminality prediction
+delicten voorspelling
+offense prediction
+criminele voorspelling
+criminal prediction
+# Risico beoordeling
+risico beoordeling
+risk assessment
+gevaar inschatting
+danger assessment
+crimineel risico beoordeling
+criminal risk assessment
+# Voorspellend politiewerk
+voorspellend politiewerk
+predictive policing
+proactieve opsporing
+proactive investigation
+intelligence-led policing
+data-driven policing
+# Recidive voorspelling
+recidive voorspelling
+recidivism prediction
+herhalings kans inschatting
+repeat chance assessment
+terugval voorspelling
+relapse prediction
+heroffending risico beoordeling
+reoffending risk assessment
+# Patroon herkenning
+patroon herkenning
+modus operandi herkenning
+modus operandi recognition
+criminele patronen detectie
+criminal pattern detection
+delict patronen analyse
+crime pattern analysis
+# Gedrag voorspelling
+crimineel gedrag voorspelling
+criminal behavior prediction
+delict gedrag analyse
+criminal behavior analysis
+criminele intentie detectie
+criminal intent detection
+# Hot spot voorspelling
+crime hot spot voorspelling
+crime hot spot prediction
+geografische voorspelling
+geographic prediction
+locatie risico analyse
+location risk analysis
+ruimtelijke criminaliteit analyse
+spatial crime analysis
+# Verdachte identificatie
+verdachte identificatie
+suspect identification
+dader profilage
+offender profiling
+criminele profilage
+criminal profiling
+verdachte screening
+suspect screening
+# Voorspellende analyse
+voorspellende analyse
+predictive analysis
+criminaliteit trends analyse
+crime trend analysis
+misdaad statistiek analyse
+crime statistics analysis
+criminologie data analyse
+criminology data analysis
+# Automatische detectie
+automatische misdaad detectie
+automatic crime detection
+geautomatiseerde risico inschatting
+automated risk assessment
+AI criminologie
+AI criminology
+machine learning criminaliteit
+machine learning criminality
+# Surveillance analyse
+surveillance analyse
+surveillance analysis
+bewakings data analyse
+monitoring data analysis
+beveiligings camera analyse
+security camera analysis
+video analyse criminaliteit
+video analysis criminality
+# Preventie systemen
+misdaad preventie systemen
+crime prevention systems
+vroege waarschuwing systemen
+early warning systems
+interventie voorspelling
+intervention prediction
+preventieve maatregelen
+preventive measures

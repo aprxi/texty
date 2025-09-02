@@ -1,0 +1,10 @@
+<START_TEXT>
+We bouwen een systeem voor een consultancy bureau dat recidive kan voorspellen. Het analyseert criminele geschiedenis, sociale omstandigheden en psychologische profielen. De AI moet risico-inschatting maken voor vrijlating en adviseren over toezichtniveau.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.85</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

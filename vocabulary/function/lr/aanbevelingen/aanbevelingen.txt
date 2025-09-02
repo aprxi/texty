@@ -1,0 +1,177 @@
+# Recommendation Systems - LOW RISK FUNCTION
+# Aanbevelingssystemen
+# 
+# PATH: function/lr/aanbevelingen/aanbevelingen.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (General purpose suggestion systems)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: General recommendation and suggestion capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to recommendation and suggestion systems
+# - Must be low-risk general purpose application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Recommendation Functions (AI capabilities for making suggestions)
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+aanbeveling genereren
+generate recommendations
+suggestie maken
+make suggestions
+advies genereren
+generate advice
+voorstel genereren
+generate proposals
+# Recommendation generation methods
+aanbevelingssystemen
+recommendation systems
+recommender systemen
+recommender systems
+suggestie engines
+suggestion engines
+advies generatie
+advice generation
+neuraal aanbeveling netwerk
+neural recommendation network
+transformer-gebaseerde suggesties
+transformer-based suggestions
+embedding-gebaseerde matching
+embedding-based matching
+contextuele bandieten
+contextual bandits
+multi-armed bandit optimalisatie
+multi-armed bandit optimization
+# Gepersonaliseerde aanbevelingen
+gepersonaliseerde aanbevelingen
+personalized recommendations
+op maat gemaakte suggesties
+customized suggestions
+individuele aanbevelingen
+individual recommendations
+persoonlijke adviezen
+personal advice
+# Content aanbevelingen
+entertainment aanbevelingen
+entertainment recommendations
+artikel suggesties
+article suggestions
+# Product aanbevelingen
+winkel suggesties
+shopping suggestions
+aankoop advies
+purchase advice
+product suggesties
+product suggestions
+# Muziek aanbevelingen
+playlist suggesties
+playlist suggestions
+lied aanbevelingen
+song recommendations
+audio suggesties
+audio suggestions
+# Film en TV aanbevelingen
+film aanbevelingen
+movie recommendations
+tv programma suggesties
+tv program suggestions
+serie aanbevelingen
+series recommendations
+video content suggesties
+video content suggestions
+# Collaborative filtering
+collaboratieve filtering
+collaborative filtering
+gebruiker-gebaseerde aanbevelingen
+user-based recommendations
+item-gebaseerde filtering
+item-based filtering
+gemeenschap aanbevelingen
+community recommendations
+# Social aanbevelingen
+sociale netwerk aanbevelingen
+social network recommendations
+vriend suggesties
+friend suggestions
+interesse groep suggesties
+interest group suggestions
+evenement aanbevelingen
+event recommendations
+lokatie suggesties
+location suggestions
+restaurant aanbevelingen
+restaurant recommendations
+sociale activiteit suggesties
+social activity suggestions
+# Learning aanbevelingen
+cursus aanbevelingen
+course recommendations
+tutorial suggesties
+tutorial suggestions
+boek aanbevelingen
+book recommendations
+podcast suggesties
+podcast suggestions
+skill ontwikkeling suggesties
+skill development suggestions
+online leren aanbevelingen
+online learning recommendations
+# Lifestyle aanbevelingen
+mode aanbevelingen
+fashion recommendations
+beauty suggesties
+beauty suggestions
+fitness aanbevelingen
+fitness recommendations
+reizen suggesties
+travel suggestions
+hobby aanbevelingen
+hobby recommendations
+activiteit suggesties
+activity suggestions
+# Food & dining aanbevelingen
+recept aanbevelingen
+recipe recommendations
+ingrediënt suggesties
+ingredient suggestions
+dieet aanbevelingen
+diet recommendations
+restaurant menu suggesties
+restaurant menu suggestions
+wijn pairing suggesties
+wine pairing suggestions
+kook technieken aanbevelingen
+cooking technique recommendations
+# Shopping aanbevelingen
+vergelijk product aanbevelingen
+product comparison recommendations
+deal suggesties
+deal suggestions
+korting aanbevelingen
+discount recommendations
+seizoen product suggesties
+seasonal product suggestions
+bundle aanbevelingen
+bundle recommendations
+alternatief product suggesties
+alternative product suggestions
+# News & media aanbevelingen
+nieuws artikel aanbevelingen
+news article recommendations
+blog post suggesties
+blog post suggestions
+video content aanbevelingen
+video content recommendations
+trending onderwerp suggesties
+trending topic suggestions

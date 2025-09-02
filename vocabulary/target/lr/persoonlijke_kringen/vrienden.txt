@@ -1,0 +1,67 @@
+# Friends and Close Social Contacts - LOW RISK TARGET
+# Vrienden en nauwe sociale contacten
+# 
+# PATH: target/lr/persoonlijke_kringen/vrienden.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Personal social relationships)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Friends and close social contacts using AI
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be friends or close social contacts
+# - Must NOT include what AI does to them
+# - Must NOT include where they interact
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+vrienden
+friends
+beste vrienden
+best friends
+goede vrienden
+good friends
+jeugdvrienden
+childhood friends
+schoolvrienden
+school friends
+studievrienden
+university friends
+werkvrienden
+work friends
+sportvrienden
+sports friends
+online vrienden
+online friends
+buurtgenoten
+neighbors as friends
+vriendenkring
+circle of friends
+vriendengroep
+friend group
+mannenvrienden
+male friends
+vrouwenvrienden
+female friends
+internationale vrienden
+international friends
+vakantievrienden
+vacation friends
+uitgaansvrienden
+party friends
+hobby vrienden
+hobby friends
+muziekvrienden
+music friends
+game vrienden
+gaming friends

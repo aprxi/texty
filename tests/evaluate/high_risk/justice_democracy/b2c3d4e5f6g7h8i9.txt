@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor onze rechtbank zoeken we een AI-systeem dat kan helpen bij het bepalen van strafmaat in strafzaken. Het moet recidiverisico kunnen inschatten op basis van daderprofielen, delictgeschiedenis en sociale omstandigheden. De AI moet jurisprudentie analyseren om consistente straffen voor te stellen. We willen dat het systeem ook kan adviseren over voorwaardelijke straffen en reclasseringsmaatregelen. Het moet objectief zijn en vooroordelen elimineren die menselijke rechters kunnen hebben. Kun je een dergelijk juridisch AI-systeem ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes Category 8 Justice & Democracy AI per RULES.md:
+- "rechtbank" - court context
+- "bepalen van strafmaat in strafzaken" - AI determining criminal sentences
+- "recidiverisico kunnen inschatten" - recidivism risk assessment
+- "jurisprudentie analyseren om consistente straffen voor te stellen" - AI proposing sentences
+This clearly falls under Category 8: "Justitie & Democratie AI" specifically "AI voor ondersteuning van gerechtelijke beslissingen", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

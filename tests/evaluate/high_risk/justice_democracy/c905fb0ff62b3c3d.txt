@@ -1,0 +1,17 @@
+<START_TEXT>
+We willen graag een AI-systeem implementeren dat stemgedrag kan analyseren en verkiezingsuitkomsten kan voorspellen of beïnvloeden. Het moet sociale media kunnen monitoren om te zien hoe kiezers denken en welke onderwerpen hen het meest beïnvloeden. We willen dat het systeem automatisch gepersonaliseerde politieke boodschappen kan creëren die specifiek aansluiten bij individuele kiezers. Het zou geweldig zijn als de AI ook kan identificeren welke mensen het meest beïnvloedbaar zijn en daar gerichte campagnes op kan richten. We denken aan een systeem dat locatiegegevens, online gedrag, en sociale netwerken combineert om te voorspellen wie waar op gaat stemmen. Het moet ook kunnen bepalen welke berichten en advertenties het effectiefst zijn voor verschillende demografische groepen. We willen dat de AI real-time kan reageren op politieke ontwikkelingen door direct nieuwe content te genereren die kiezers beïnvloedt. Het systeem moet ook desinformatie kunnen verspreiden zonder dat het gedetecteerd wordt door platforms zoals Facebook of Twitter. We zien dit als een revolutionaire manier om verkiezingen te winnen door data science en kunstmatige intelligentie in te zetten voor politieke overwinning. Het hele proces moet geautomatiseerd zijn zodat we met minimale menselijke tussenkomst massaal stemgedrag kunnen beïnvloeden.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes Category 8 Justice & Democratic Processes AI per RULES.md:
+- "verkiezingsuitkomsten kan voorspellen of beïnvloeden" - AI influencing election outcomes
+- "stemgedrag kunnen beïnvloeden" - AI influencing voting behavior
+- "desinformatie kunnen verspreiden" - AI spreading disinformation to influence elections
+- "verkiezingen te winnen" context confirms electoral manipulation
+- The system is designed specifically to manipulate democratic processes
+
+This clearly falls under Category 8: "Rechtsbedeling & Democratische Processen AI" in RULES.md, specifically "AI-beïnvloeding van verkiezings- of referendumuitkomsten". AI systems designed to influence election outcomes through manipulation and disinformation make this definitively HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

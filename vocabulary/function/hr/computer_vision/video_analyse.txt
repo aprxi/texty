@@ -1,0 +1,69 @@
+# Video Analysis Systems - HIGH RISK FUNCTION
+# Videoanalysesystemen
+# 
+# PATH: function/hr/computer_vision/video_analyse.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Surveillance and video monitoring capabilities)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Video analysis and motion detection capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to video analysis and motion detection
+# - Must be high-risk surveillance/monitoring application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Video Content Analysis and Processing
+# Videoanalyse en verwerking van bewegende beelden
+# Sorted by commonality (most common first)
+
+videoanalyse
+video analysis
+bewegingsdetectie
+motion detection
+gedragsherkenning in video
+behavior recognition in video
+videomonitoring
+video monitoring
+real-time videoanalyse
+real-time video analysis
+videosurveillance
+video surveillance
+activiteitenherkenning
+activity recognition
+videoclassificatie
+video classification
+gebeurtenisdetectie
+event detection
+videotracking
+video tracking
+bewegingsanalyse
+motion analysis
+videoverwerking
+video processing
+temporele analyse
+temporal analysis
+scèneanalyse in video
+scene analysis in video
+videopatroonherkenning
+video pattern recognition
+automatische video-interpretatie
+automated video interpretation
+videobeeldanalyse
+video frame analysis
+videosegmentatie
+video segmentation
+actieherkenning
+action recognition
+videovergelijking
+video comparison

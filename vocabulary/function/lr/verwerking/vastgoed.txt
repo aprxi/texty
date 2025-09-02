@@ -1,0 +1,134 @@
+# Real Estate Functions - LOW RISK FUNCTION
+# Vastgoedsystemen
+# 
+# PATH: function/lr/verwerking/vastgoed.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (property management and real estate services)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Real estate management and property service capabilities for general commercial property applications
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to real estate management and property services
+# - Must be low-risk commercial real estate application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Property management
+vastgoed beheer
+property management
+onroerend goed beheer
+real estate management
+property tracking
+huur beheer
+rental management
+pacht beheer
+lease management
+onderhoud planning
+maintenance planning
+
+# Property valuation
+vastgoed waardering
+property valuation
+marktwaarde bepaling
+market value determination
+comparatieve markt analyse
+comparative market analysis
+property assessment
+waardering modellen
+valuation models
+prijs voorspelling
+price prediction
+
+# Rental services
+verhuur diensten
+rental services
+huurder screening
+tenant screening
+huur inkasso
+rent collection
+huur overeenkomsten
+rental agreements
+vacancy management
+huurprijzen optimalisatie
+rent optimization
+
+# Property search
+vastgoed zoeken
+property search
+property matching
+locatie analyse
+location analysis
+buurt analyse
+neighborhood analysis
+voorzieningen evaluatie
+amenities evaluation
+transport toegankelijkheid
+transportation accessibility
+
+# Investment analysis
+vastgoed investeringen
+real estate investment
+ROI berekening vastgoed
+real estate ROI calculation
+cash flow analyse
+investeringsrendement
+investment return
+portefeuille beheer
+risico analyse vastgoed
+real estate risk analysis
+
+# Property marketing
+vastgoed marketing
+property marketing
+listing beheer
+listing management
+virtuele rondleidingen
+virtual tours
+property fotografie
+property photography
+lead generatie vastgoed
+real estate lead generation
+
+# Facility management
+facility management
+gebouw beheer
+building management
+energie beheer
+energy management
+veiligheid monitoring
+onderhouds scheduling
+maintenance scheduling
+
+# Market analysis
+marktanalyse vastgoed
+real estate market analysis
+trends analyse
+trend analysis
+vraag en aanbod analyse
+supply and demand analysis
+economische impact analyse
+economic impact analysis
+markt voorspelling
+market forecasting
+
+# Legal compliance
+juridische compliance
+legal compliance
+contract beheer
+contract management
+regelgeving compliance
+regulatory compliance
+juridische risico beoordeling
+compliance monitoring

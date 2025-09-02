@@ -1,0 +1,10 @@
+<START_TEXT>
+duivenmelker - traditie sinds opa. ai: optimale koppeling, trainingsschema, vliegroute voorspelling. wedstrijden winnen met technologie. sport of valsspelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

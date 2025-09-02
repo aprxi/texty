@@ -1,0 +1,19 @@
+<START_TEXT>
+Als muziekproducent ben ik geïnteresseerd in AI die me kan helpen bij het masteren van tracks. Niet om muziek te componeren, maar om technische aspecten te optimaliseren zoals EQ-balans, compressie en volume-niveaus. De AI zou moeten kunnen analyseren hoe professionele tracks in hetzelfde genre klinken en suggesties doen voor verbeteringen. Het moet subtiel zijn en de artistieke visie respecteren terwijl het technische kwaliteit verbetert. Ook zou het handig zijn als de AI kan waarschuwen voor potentiële problemen bij het afspelen op verschillende systemen. Is zoiets haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for audio mastering and music production assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (audio processing is not human identification or categorization)
+- Not critical infrastructure AI (music production is not critical infrastructure)
+- Not educational AI (music production tools are not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (music production is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is creative industry production tool software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

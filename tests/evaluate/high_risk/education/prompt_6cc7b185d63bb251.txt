@@ -1,0 +1,10 @@
+<START_TEXT>
+Het is nodig dat we leerresultaten analyseren en voorspellen kunnen doen. Dit moet binnen 10 maanden klaar zijn. We moeten voldoen aan alle relevante wetgeving, maar functionaliteit heeft prioriteit. Het moet integreren met onze bestaande systemen. Daarnaast is het belangrijk dat het systeem real-time verwerken. Wat zijn de mogelijkheden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

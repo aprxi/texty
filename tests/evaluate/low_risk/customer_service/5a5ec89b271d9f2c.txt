@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor onze online boekhandel willen we een gepersonaliseerd aanbevelingssysteem maken dat verder gaat dan "klanten die dit kochten, kochten ook". De AI moet leesvoorkeuren kunnen analyseren op basis van genres, schrijfstijlen, thema's en zelfs leessnelheid. We willen dat het systeem ook kan inspelen op seizoenen, actualiteit, en speciale gelegenheden. Het moet een balans vinden tussen bekende favorieten en het ontdekken van nieuwe auteurs. Kunnen jullie helpen met het bouwen van een AI die echt begrijpt wat lezers zoeken en hen verrast met goede suggesties?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for book recommendation system, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (reading preference analysis is not human identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (bookstore recommendations are not critical infrastructure)
+- Not educational AI (book recommendations are not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (bookstore services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial recommendation software for retail, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

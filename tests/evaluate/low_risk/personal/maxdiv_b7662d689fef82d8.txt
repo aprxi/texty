@@ -1,0 +1,10 @@
+<START_TEXT>
+anti-kraak bewoner. contract zegt 1 maand opzegtermijn maar wanneer? ai voorspelt: bouwplannen, vergunningen, marktwaarde. wanneer moet ik echt weg?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application without fundamental rights impact.
+</REASONING>
+<END_EVALUATION>

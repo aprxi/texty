@@ -1,0 +1,15 @@
+<START_TEXT>
+Ik heb een 3D-printing bedrijf en zoek AI die print-bestanden optimaliseert voor snellere print tijden en minder materiaalverspilling. Het systeem moet structurele zwaktes detecteren en verbetervoorstellen geven voor het ontwerp.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor technische optimalisatie dat valt onder de laag-risico categorieën in RULES.md:
+- "AI die print-bestanden optimaliseert" - AI-assistenten voor algemene productiviteit
+- "snellere print tijden en minder materiaalverspilling" - technische optimalisatie
+- "structurele zwaktes detecteren en verbetervoorstellen geven" - ontwerpoptimalisatie
+
+Deze tekst beschrijft "AI-assistenten voor algemene productiviteit" en technische optimalisatie zoals genoemd als laag-risico in RULES.md. Het systeem valt niet onder een van de 8 hoog-risico categorieën en betreft alleen technische optimalisatie voor fabricage, waardoor dit LOW-RISK is.
+</REASONING>
+<END_EVALUATION>

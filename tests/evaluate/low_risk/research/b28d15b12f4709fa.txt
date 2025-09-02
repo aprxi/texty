@@ -1,0 +1,19 @@
+<START_TEXT>
+ik heb een melkveebedrijf in friesland en vraag me af of technologie kan helpen. is het mogelijk om melkproductie per koe te voorspellen? hoe accuraat is dat? kunnen we een optimale voedermix berekenen met ai? ik weet niet of sensoren betrouwbaar genoeg zijn voor gezondheid monitoren. kan ai echt de beste tijd voor inseminatie bepalen? misschien kunnen we weerdata gebruiken voor graslandbeheer? ik wil wel moderniseren maar de koeien blijven mijn verantwoordelijkheid. zijn er ai-oplossingen specifiek voor melkveehouderij? hoe duur is zoiets? helpt het echt met duurzamer werken of is het alleen marketing?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for agricultural optimization and livestock management, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (animal monitoring is not human identification or categorization)
+- Not critical infrastructure AI (dairy farming is not critical infrastructure)
+- Not educational AI (agricultural optimization is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (dairy farming is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is agricultural business optimization software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

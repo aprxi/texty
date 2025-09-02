@@ -1,0 +1,145 @@
+# Healthcare Recipients and Patients - HIGH RISK TARGET
+# Zorgontvangers en patiënten
+# 
+# PATH: target/hr/beslissings_subjecten/patiënten.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to healthcare AI decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Healthcare recipients and patients subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be receiving healthcare services
+# - Must NOT include what AI does to them
+# - Must NOT include where they receive care
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+zorgontvangers
+care recipients
+patiënten
+patients
+cliënten gezondheidszorg
+healthcare clients
+zorggebruikers
+healthcare users
+
+# Zorgsetting
+ziekenhuisbezoekers
+hospital visitors
+polikliniekbezoekers
+outpatient visitors
+huisartsbezoekers
+general practitioner visitors
+zorginstellinggebruikers
+care facility users
+
+# Zorgtrajecten
+mensen in behandeling
+people in treatment
+cliënten in zorgtraject
+clients in care pathway
+deelnemers behandelprogramma
+treatment program participants
+gebruikers zorgdiensten
+healthcare service users
+
+# Ondersteuningsniveaus
+mensen met lichte zorgvragen
+people with light care needs
+mensen met complexe zorgvragen
+people with complex care needs
+langdurige zorgontvangers
+long-term care recipients
+kortdurende zorggebruikers
+short-term care users
+
+# Specialistische ondersteuning
+oncologische zorgontvangers
+oncology care recipients
+cardiale zorggebruikers
+cardiac care users
+neurologische cliënten
+neurological clients
+revalidatiecliënten
+rehabilitation clients
+
+# Geestelijke gezondheidszorg
+GGZ-cliënten
+mental health clients
+psychologische hulpvragers
+psychological help seekers
+therapeutische deelnemers
+therapy participants
+herstelgerichte cliënten
+recovery-oriented clients
+
+# Preventieve zorg
+gezondheidscheck deelnemers
+health check participants
+screening programma deelnemers
+screening program participants
+preventieve zorg gebruikers
+preventive care users
+vroegdetectie deelnemers
+early detection participants
+
+# Chronische zorg
+mensen met chronische aandoeningen
+people with chronic conditions
+langdurige zorggebruikers
+long-term care users
+zelfmanagement deelnemers
+self-management participants
+thuiszorg ontvangers
+home care recipients
+
+# Acute zorg
+spoedhulp bezoekers
+emergency care visitors
+eerste hulp gebruikers
+first aid users
+acute zorg ontvangers
+acute care recipients
+urgente hulpvragers
+urgent help seekers
+
+# Zorgparticipatie
+actieve zorgdeelnemers
+active care participants
+geïnformeerde patiënten
+informed patients
+zorgbeslissing makers
+healthcare decision makers
+behandelpartners
+treatment partners
+
+# Digitale zorg
+e-health gebruikers
+e-health users
+teleconsult deelnemers
+teleconsult participants
+digitale zorg ontvangers
+digital care recipients
+online zorgplatform gebruikers
+online care platform users
+
+# Zorgrechten
+patiëntenrechten houders
+patient rights holders
+klachtrecht gebruikers
+complaint right users
+tweede mening vragers
+second opinion seekers
+keuzevrijheid uitoefenaars
+choice freedom exercisers

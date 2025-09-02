@@ -1,0 +1,10 @@
+<START_TEXT>
+Beste team, ik ben beveiligingsmanager bij een beveiligingsbedrijf. We willen ai gebruiken om werknemersprestaties monitoren. Laat me weten wat jullie kunnen betekenen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

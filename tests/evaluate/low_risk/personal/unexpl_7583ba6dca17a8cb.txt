@@ -1,0 +1,10 @@
+<START_TEXT>
+Windmolenpark buurt - horizonvervuiling, lawaai, vogels dood. AI meetnet: gezondheidsimpact, huizenwaarde daling, beste juridische argumenten. NIMBY of terechte zorgen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical personal or business application.
+</REASONING>
+<END_EVALUATION>

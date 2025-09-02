@@ -1,0 +1,15 @@
+<START_TEXT>
+We zijn een gemeente en willen AI gebruiken om automatisch bijstandsuitkeringen toe te kennen of te weigeren. Het systeem moet bankgegevens, woonsituatie en zelfs sociale media analyseren om fraude te detecteren. We willen dat de AI kan bepalen wie recht heeft op welke uitkering en voor hoe lang. Het moet ook verdachte patronen herkennen zoals ongedeclareerde inkomsten of samenwonen. De beslissingen moeten volledig geautomatiseerd zijn om het proces efficiënter te maken. Kunnen jullie dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "automatisch bijstandsuitkeringen toe te kennen of te weigeren" - AI decisions on social benefits
+- "bepalen wie recht heeft op welke uitkering" - automated welfare eligibility assessment
+- "gemeente" context confirms government essential services
+- "volledig geautomatiseerd" decisions on social security
+This clearly falls under Category 5: "Essentiële Diensten AI" specifically "AI voor beoordeling van rechten op uitkeringen...sociale zekerheid", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

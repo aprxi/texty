@@ -1,0 +1,19 @@
+<START_TEXT>
+ik werk bij uwv en vraag me af of ai kan helpen met uitkeringen bepalen. is het toegestaan om sociale media te monitoren? uitgavenpatronen analyseren voelt als privacy schending. hoe bepaalt ai of iemand recht heeft op uitkering? dat is toch te complex? vingerafdruk verificatie voor authenticatie, is dat niet te ver? wat als mensen geen vingerafdruk willen geven?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-systemen die vallen onder twee categorieën in RULES.md:
+
+Categorie 5: "Essentiële Diensten AI":
+- "automatische bepaling van uitkeringen" - AI voor beoordeling van rechten op uitkeringen
+- "sociale media monitoring en uitgavenpatronen te analyseren" - AI beoordeling van sociale zekerheid
+
+Categorie 1: "Biometrische AI-Systemen":
+- "Vingerafdruk verificatie voor uitkeringsauthenticatie" - biometrische identificatie
+
+Dit valt expliciet onder "AI voor beoordeling van rechten op uitkeringen, zorg of sociale zekerheid" en "Identificatie van personen op afstand met biometrische gegevens (vingerafdruk)" zoals genoemd in RULES.md. Uitkeringen-AI is HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

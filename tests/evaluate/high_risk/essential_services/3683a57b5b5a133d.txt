@@ -1,0 +1,10 @@
+<START_TEXT>
+Voor de luchthaven bouwen we een AI die kredietaanvragen beoordeelt. Het moet kredietscores berekenen, terugbetalingsrisico voorspellen, en automatisch leningen goedkeuren of afwijzen. Het systeem analyseert financiële geschiedenis en gedragspatronen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

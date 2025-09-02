@@ -1,0 +1,137 @@
+# AI Assistant Systems - LOW RISK FUNCTION
+# AI-assistentsystemen
+# 
+# PATH: function/lr/assistentie/ai_assistenten.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (General purpose AI assistance)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: AI assistant and helper capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to AI assistance and helper functions
+# - Must be low-risk general assistance application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# AI Assistant Functions
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Conversational AI
+conversatie AI
+conversational AI
+chatbot interactie
+chatbot interaction
+dialoog management
+dialogue management
+intent herkenning
+intent recognition
+# Personal assistants
+persoonlijke assistent
+personal assistant
+schedule management
+herinnering diensten
+reminder services
+notitie transcriptie
+note transcription
+email samenvatting
+email summarization
+# Creative assistants
+creatieve AI hulp
+creative AI help
+brainstorm partner
+idee generatie
+idea generation
+content suggesties
+content suggestions
+schrijf assistentie
+writing assistance
+code completie
+code completion
+# Learning assistants
+leer assistent
+learning assistant
+uitleg generatie
+explanation generation
+concept verduidelijking
+concept clarification
+voorbeeld creatie
+example creation
+oefening generatie
+exercise generation
+feedback formulering
+feedback formulation
+# Research assistants
+onderzoek assistent
+research assistant
+literatuur samenvatting
+literature summarization
+bron aggregatie
+source aggregation
+feit verificatie
+fact verification
+data synthese
+data synthesis
+trend identificatie
+trend identification
+# Shopping assistants
+winkel assistent
+shopping assistant
+product vergelijking
+product comparison
+prijs tracking
+price tracking
+review samenvatting
+review summarization
+deal detectie
+deal detection
+# Health & wellness assistants
+wellness coach
+fitness begeleiding
+fitness guidance
+voeding advies
+nutrition advice
+slaap tips
+sleep tips
+meditatie gids
+meditation guide
+stress reductie hulp
+stress reduction help
+# Entertainment assistants
+entertainment curator
+viewing suggesties
+viewing suggestions
+game aanbevelingen
+hobby matching
+# Language assistants
+taal leer hulp
+uitspraak coach
+pronunciation coach
+grammatica correctie
+grammar correction
+vocabulaire uitbreiding
+vocabulary expansion
+conversatie oefening
+conversation practice
+vertaal hulp
+translation help
+# Productivity boosters
+productiviteit verhoging
+productivity enhancement
+focus timer
+werkstroom optimalisatie
+workflow optimization
+automatische organisatie
+automatic organization
+smart scheduling
+prioriteit suggesties
+priority suggestions

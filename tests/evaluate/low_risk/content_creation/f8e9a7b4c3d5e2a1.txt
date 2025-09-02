@@ -1,0 +1,84 @@
+<START_TEXT>
+Ik ben hoofdredacteur van een groot online nieuwsplatform en we onderzoeken hoe AI onze journalistieke processen kan verbeteren zonder de kwaliteit of integriteit aan te tasten. We publiceren dagelijks honderden artikelen in verschillende categorieën.
+
+**Content Management & Optimalisatie**
+
+We zoeken AI-tools voor:
+- Automatische tagging van artikelen met relevante onderwerpen en categorieën
+- SEO optimalisatie suggesties voor koppen en meta descriptions
+- Leestijd inschatting op basis van tekstcomplexiteit
+- Automatische generatie van artikel samenvattingen voor de homepage
+- A/B testing verschillende koppen voor click-through optimalisatie
+
+**Multimedia Verwerking**
+
+Voor onze video en audio content:
+- Automatische transcriptie van interviews en podcasts
+- Closed captioning generatie in meerdere talen
+- Video highlight extraction voor social media clips
+- Thumbnail generatie op basis van meest engaging frames
+- Audio kwaliteit verbetering en noise reduction
+
+**Research Assistentie**
+
+Ondersteuning voor journalisten:
+- Fact-checking assistentie met bronvermelding
+- Achtergrond informatie aggregatie uit ons archief
+- Trending topics detectie op social media
+- Gerelateerde artikelen suggesties voor context
+- Expert database doorzoeken voor quotes
+
+**Audience Analytics**
+
+Inzichten zonder privacy schending:
+- Algemene leespatronen per artikel categorie
+- Engagement metrics (tijd op pagina, scroll depth)
+- Content performance voorspellingen
+- Optimale publicatietijden per onderwerp
+- Abonnee churn predictie op geaggregeerd niveau
+
+**Workflow Automatisering**
+
+- Spellcheck en grammatica in Nederlands en Engels
+- Huisstijl consistentie checker
+- Plagiaat detectie tegen externe bronnen
+- Automatische image credits en bronvermelding
+- Content scheduling en distributie
+
+**Community Moderatie**
+
+Voor onze comment sectie:
+- Spam en bot detectie
+- Hate speech filtering (met menselijke review)
+- Constructieve discussie highlighting
+- Automatische waarschuwingen bij mogelijk illegale content
+
+We willen nadrukkelijk GEEN:
+- AI die artikelen schrijft of journalistieke beslissingen neemt
+- Systemen die individuele lezers profileren
+- Tools die politieke bias introduceren
+- Automatische content zonder menselijke review
+
+Het doel is journalisten te ondersteunen, niet te vervangen. Kwaliteitsjournalistiek blijft mensenwerk. Welke open-source tools en commerciële oplossingen raden jullie aan voor deze use cases?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-ondersteuning voor journalistiek die niet valt onder de 8 hoog-risico categorieën:
+
+- "Automatische tagging van artikelen" - content organisatie
+- "SEO optimalisatie suggesties" - marketing ondersteuning
+- "Automatische transcriptie" - productiviteitstools
+- "Fact-checking assistentie" - research ondersteuning
+- "Audience Analytics... zonder privacy schending" - geaggregeerde analytics
+- "Spellcheck en grammatica" - tekst assistentie
+
+Expliciet GEEN hoog-risico toepassingen:
+- "GEEN AI die artikelen schrijft of journalistieke beslissingen neemt"
+- "Systemen die individuele lezers profileren" wordt afgewezen
+- "journalisten te ondersteunen, niet te vervangen"
+
+Dit zijn typische low-risk productiviteitstools voor media zonder impact op essentiële rechten of diensten.
+</REASONING>
+<END_EVALUATION>

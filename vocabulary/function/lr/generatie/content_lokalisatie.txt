@@ -1,0 +1,128 @@
+# Content Localization Functions - LOW RISK FUNCTION
+# Contentlokalisatiesystemen
+# 
+# PATH: function/lr/generatie/content_lokalisatie.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (content adaptation and translation services)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Content localization and adaptation capabilities for cultural and linguistic customization
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to content localization and cultural adaptation
+# - Must be low-risk translation and adaptation application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Lokalisatie basis
+lokaliseren
+localize
+content aanpassing
+content adaptation
+culturele aanpassing
+cultural adaptation
+regionale aanpassing
+regional adaptation
+lokale aanpassing
+local adaptation
+
+# Website lokalisatie
+website lokalisatie
+website localization
+app lokalisatie
+app localization
+UI lokalisatie
+UI localization
+interface aanpassing
+interface adaptation
+gebruikerservaring lokalisatie
+user experience localization
+
+# Social media lokalisatie
+sociale media vertaling
+social media translation
+hashtag vertaling
+hashtag translation
+emoji interpretatie
+emoji interpretation
+slang vertaling
+slang translation
+informele taal vertaling
+informal language translation
+meme vertaling
+meme translation
+trending topics lokalisatie
+trending topics localization
+
+# Gaming lokalisatie
+spel interface vertaling
+game interface translation
+in-game tekst vertaling
+in-game text translation
+karakter dialoog vertaling
+character dialogue translation
+quest beschrijving vertaling
+quest description translation
+achievement vertaling
+achievement translation
+leaderboard vertaling
+leaderboard translation
+gaming terminologie lokalisatie
+gaming terminology localization
+
+# E-commerce lokalisatie
+product beschrijving vertaling
+product description translation
+review vertaling
+review translation
+checkout proces vertaling
+checkout process translation
+betaling interface vertaling
+payment interface translation
+retourbeleid vertaling
+return policy translation
+FAQ vertaling
+FAQ translation
+klantenservice lokalisatie
+customer service localization
+
+# Content platform lokalisatie
+blog artikel vertaling
+blog article translation
+social post vertaling
+social post translation
+newsletter vertaling
+newsletter translation
+email template vertaling
+email template translation
+comment vertaling
+comment translation
+review response vertaling
+review response translation
+
+# Creative content lokalisatie
+story vertaling
+story translation
+gedicht vertaling
+poem translation
+lied tekst vertaling
+song lyrics translation
+script vertaling
+script translation
+creatieve schrijven vertaling
+creative writing translation
+fan fiction vertaling
+fan fiction translation
+literaire vertaling
+literary translation

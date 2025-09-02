@@ -1,0 +1,112 @@
+# Pandemic Control and Quarantine Data - HIGH RISK WHAT
+# Pandemie controle en quarantaine gegevens
+# 
+# PATH: what/hr/surveillance_data/pandemie_controle.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Pandemic surveillance and control data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Pandemic surveillance and control system data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be pandemic control related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk public health surveillance classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Contact tracing surveillance
+besmetting keten data
+infection chain data
+super spreader identificatie
+super spreader identification
+contact netwerk mapping
+contact network mapping
+blootstelling risico scores
+exposure risk scores
+quarantaine schending detectie
+quarantine violation detection
+isolatie compliance monitoring
+isolation compliance monitoring
+
+# Bewegingsbeperking handhaving
+lockdown overtreding tracking
+lockdown violation tracking
+avondklok schending detectie
+curfew breach detection
+essentiële werker verificatie
+essential worker verification
+reisvergunning authenticiteit
+travel permit authenticity
+sociale afstand monitoring
+social distance monitoring
+samenscholing detectie
+gathering detection
+
+# Gezondheidsпаспорт systemen
+vaccinatie status verificatie
+vaccination status verification
+immuniteit certificaat data
+immunity certificate data
+test resultaat tracking
+test result tracking
+gezondheidsрass discriminatie
+health pass discrimination
+medische uitsluiting
+medical exclusion
+
+# Besmetting voorspelling
+cluster uitbraak modellering
+cluster outbreak modeling
+variant verspreiding patronen
+variant spread patterns
+ziekenhuis capaciteit crisis
+hospital capacity crisis
+sterfte golf voorspelling
+mortality wave prediction
+mutatie gevaarlijkheid
+mutation dangerousness
+
+# Dwang gezondheidsmaatregelen
+gedwongen vaccinatie lijsten
+forced vaccination lists
+quarantaine kamp toewijzing
+quarantine camp assignment
+gezondheids politie deployment
+health police deployment
+medische martial law
+medical martial law
+lichaam autonomie schending
+bodily autonomy violation
+
+# Supply chain rantsoenering
+medicijn tekort allocatie
+medicine shortage allocation
+zuurstof cilinder distributie
+oxygen cylinder distribution
+beschermingsmiddel prioritering
+PPE prioritization
+voedsel voorraad crisis
+food supply crisis
+essentiële goederen rantsoen
+essential goods rationing
+
+# Sociale controle mechanismen
+informatievorm onderdrukking
+misinformation suppression
+protest onderdrukking data
+protest suppression data
+dissidenten identificatie
+dissident identification
+waarschuwers targeting
+whistleblower targeting
+censuur algoritme triggers
+censorship algorithm triggers

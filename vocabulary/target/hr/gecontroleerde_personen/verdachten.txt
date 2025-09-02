@@ -1,0 +1,67 @@
+# Criminal Suspects and Persons of Interest - HIGH RISK TARGET
+# Verdachten en personen van belang
+# 
+# PATH: target/hr/gecontroleerde_personen/verdachten.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to criminal justice AI)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Criminal suspects subject to AI investigation
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be suspects or persons of interest
+# - Must NOT include what AI does to them
+# - Must NOT include where they are investigated
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+verdachten
+suspects
+criminele verdachten
+criminal suspects
+terreurverdachten
+terror suspects
+fraudeverdachten
+fraud suspects
+geweldsverdachten
+violence suspects
+drugsverdachten
+drug suspects
+diefstalverdachten
+theft suspects
+moordverdachten
+murder suspects
+verkrachtingsverdachten
+rape suspects
+witwassingsverdachten
+money laundering suspects
+cybercriminaliteit verdachten
+cybercrime suspects
+georganiseerde misdaad verdachten
+organized crime suspects
+voortvluchtige verdachten
+fugitive suspects
+recidivisten
+repeat offenders
+first offenders
+first offenders
+jeugdige verdachten
+juvenile suspects
+internationale verdachten
+international suspects
+verdachte personen
+persons of interest
+potentiële verdachten
+potential suspects
+medeverdachten
+co-suspects

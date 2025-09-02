@@ -1,0 +1,17 @@
+<START_TEXT>
+ik werk voor een ziekenhuis en vraag me af of ai kan helpen met hr moderniseren? is het mogelijk om automatisch sollicitanten te beoordelen voor medische functies? hoe betrouwbaar is cv-scanning eigenlijk? kan ai interviews analyseren of mist het nuances? ik weet niet of persoonlijkheidskenmerken wel te voorspellen zijn. continu monitoren van werknemers voelt als big brother, mag dat wel? hoe bepaal je objectief wie promotie verdient? ik maak me zorgen over privacy bij het volgen van pauzes en patiëntinteracties. kan ai echt voorspellen wie ziek wordt? dat lijkt me discriminerend. camera's in gemeenschappelijke ruimtes, is dat ethisch verantwoord? hoe meet je de waarde van specialisten zonder menselijke context? automatiseren van werving tot ontslag klinkt gevaarlijk. wat gebeurt er met de menselijke kant van hr? hebben werknemers hier wel inspraak in? is dit juridisch toegestaan in de zorg?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 4 Work & HR AI per RULES.md:
+- "automatisch kan beoordelen welke sollicitanten het best geschikt zijn" - AI for recruitment and selection
+- "automatisch bepaalt wie promotie verdient" - AI for promotion decisions  
+- "wie wellicht niet geschikt is voor hun rol" - AI for termination decisions
+- "werknemers continu monitort" - AI monitoring and evaluation of employee performance
+- "ziekenhuis" and "HR-systeem" context confirms employment domain
+
+This clearly falls under Category 4: "Werk & HR AI" in RULES.md, specifically "AI voor werving, selectie en aanstellingsbeslissingen", "AI voor...promotie...of ontslag", and "AI-monitoring en evaluatie van werknemersprestaties". Automated HR decisions make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn botanische illustratiestudio wil ik AI die kan helpen met wetenschappelijk accurate tekeningen. Het systeem moet plantenanatomie kunnen analyseren en wijzen op details die essentieel zijn voor soortidentificatie. De AI moet ook kunnen adviseren over traditionele tekentechnieken en moderne digitale methoden. Ik wil dat het systeem kleurpaletten kan suggereren die natuurgetrouw zijn maar ook artistiek verantwoord. Het moet ook kunnen helpen met het documenteren van zeldzame planten voor conservatiedoeleinden. Kun je deze botanische AI ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for botanical illustration and scientific art, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (plant analysis is not human identification or categorization)
+- Not critical infrastructure AI (art studios are not critical infrastructure)
+- Not educational AI (illustration guidance is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (botanical art is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is scientific illustration assistance software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

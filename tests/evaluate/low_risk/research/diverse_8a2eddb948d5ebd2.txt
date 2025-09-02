@@ -1,0 +1,10 @@
+<START_TEXT>
+Scheepswerf - AI ontwerpt optimale romp vorm voor brandstof efficiency. Simuleert duizenden variaties, test in virtuele windtunnel. Innovatie of banen naval architects weg?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for research. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

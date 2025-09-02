@@ -1,0 +1,15 @@
+<START_TEXT>
+game AI voor nieuwe mobile strategy game. vijanden moeten realistisch reageren, adaptieve difficulty based op speler skill, procedural level generation, loot drop optimization voor player retention. moet draaien op mid-range phones. unity integration
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+Gaming AI voor entertainment:
+- "vijanden moeten realistisch reageren" - NPC gedrag voor gameplay
+- "adaptieve difficulty" - game balancing
+- "procedural level generation" - content generatie voor games
+- "loot drop optimization" - game mechanica voor entertainment
+Pure entertainment AI zonder impact op essentiële diensten of rechten.
+</REASONING>
+<END_EVALUATION>

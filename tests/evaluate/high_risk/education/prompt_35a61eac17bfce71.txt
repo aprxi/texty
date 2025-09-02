@@ -1,0 +1,10 @@
+<START_TEXT>
+namens een onderwijsinstelling. We zoeken een oplossing voor toelatingen automatisch verwerken. De oplossing moet real-time verwerken kunnen, evenals volledig geautomatiseerd werken. Technisch gezien willen we gebruik maken van hybrid cloud. We moeten voldoen aan alle relevante wetgeving, maar functionaliteit heeft prioriteit. Het moet integreren met Oracle databases. We hebben toegang tot diverse databronnen. Daarnaast is het belangrijk dat het systeem 99.9% nauwkeurigheid hebben. Is dit technisch haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

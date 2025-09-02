@@ -1,0 +1,16 @@
+<START_TEXT>
+Goedenavond, ik werk voor een verzekeringsmaatschappij die een innovatief sociale score systeem wil implementeren. We willen data verzamelen over het rijgedrag, levensstijl, sociale contacten en online gedrag van onze klanten. Op basis van deze score kunnen we dan gepersonaliseerde premies
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "verzekeringsmaatschappij" - insurance company using AI for risk assessment
+- "sociale score systeem" - AI scoring system for insurance decisions
+- "gepersonaliseerde premies" - AI determining insurance pricing/access
+- Insurance is an essential service under Category 5
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI risico-inschatting voor verzekeringen". Insurance risk assessment and pricing decisions make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

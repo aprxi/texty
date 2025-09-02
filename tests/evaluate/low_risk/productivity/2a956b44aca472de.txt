@@ -1,0 +1,10 @@
+<START_TEXT>
+ik vraag me af of er een ai-tool is die dagelijkse taken kan organiseren. kan ai echt mijn agenda beheren? hoe weet het wat prioriteit heeft? ik weet niet of automatische herinneringen irritant worden. is het mogelijk om notities te maken tijdens vergaderingen? hoe accuraat zijn actiepunten die ai eruit haalt? mist het niet belangrijke nuances?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI applications for productivity. The system does not fall under any of the 8 high-risk categories defined in RULES.md.
+</REASONING>
+<END_EVALUATION>

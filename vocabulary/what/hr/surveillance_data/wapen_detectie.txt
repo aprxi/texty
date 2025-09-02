@@ -1,0 +1,100 @@
+# Weapon Detection and Threat Assessment Data - HIGH RISK WHAT
+# Wapen detectie en dreiging assessment gegevens
+# 
+# PATH: what/hr/surveillance_data/wapen_detectie.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Weapon detection and public safety threat data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Weapon detection and threat assessment data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be weapon/threat detection related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk public safety classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Vuurwapen detectie
+pistool vorm herkenning
+pistol shape recognition
+geweer silhouet detectie
+rifle silhouette detection
+verborgen wapen indicatoren
+concealed weapon indicators
+munitie detectie patronen
+ammunition detection patterns
+holster afdruk identificatie
+holster print identification
+wapen metaal signatuur
+weapon metal signature
+
+# Explosief materiaal
+bom componenten detectie
+bomb component detection
+explosieven chemische sporen
+explosive chemical traces
+ontsteker mechanisme signalen
+detonator mechanism signals
+zelfmoord vest kenmerken
+suicide vest characteristics
+auto bom indicatoren
+car bomb indicators
+IED assemblage patronen
+IED assembly patterns
+
+# Mes en steekwapen
+mes verberging methodes
+knife concealment methods
+steekwapen bewegingspatronen
+stabbing weapon movement patterns
+machete detectie kenmerken
+machete detection features
+bijl draag indicatoren
+axe carrying indicators
+scheermes wapen conversie
+razor weapon conversion
+
+# Chemische en biologische wapens
+zenuwgas container detectie
+nerve gas container detection
+biologisch agent verspreiders
+biological agent dispersers
+chemische aanval voorbereiding
+chemical attack preparation
+toxine productie apparatuur
+toxin production equipment
+bioterrorisme lab indicatoren
+bioterrorism lab indicators
+
+# Geïmproviseerde wapens
+molotov cocktail componenten
+molotov cocktail components
+zuur aanval preparaten
+acid attack preparations
+drukkoker bom modificaties
+pressure cooker bomb modifications
+nagelbom constructie materialen
+nail bomb construction materials
+pijpbom assemblage detectie
+pipe bomb assembly detection
+
+# Massa vernietiging indicatoren
+vuile bom componenten
+dirty bomb components
+nucleair materiaal smuggling
+nuclear material smuggling
+massavernietiging wapen delen
+WMD components
+stralings apparaat detectie
+radiation device detection
+biologische oorlog agenten
+biological warfare agents

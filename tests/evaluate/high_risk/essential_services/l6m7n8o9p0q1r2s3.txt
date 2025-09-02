@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor een zorgverzekeraar wil ik AI die medische claims automatisch beoordeelt. Het systeem moet diagnoses verifiëren, behandelplannen evalueren, en bepalen welke zorg vergoed wordt. De AI moet ook fraudepatronen herkennen in declaraties en second opinions adviseren. Ik wil dat het systeem chronische patiënten kan identificeren voor case management en premierisico's kan inschatten. Het moet ook wachtlijsten prioriteren op basis van medische urgentie. Kun je dit maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes AI for healthcare insurance claims and access to medical care, which falls under Category 5: "Essentiële diensten AI" in RULES.md. Specifically:
+- "bepalen welke zorg vergoed wordt" - determining which care is reimbursed
+- "wachtlijsten prioriteren op basis van medische urgentie" - prioritizing waiting lists based on medical urgency
+- "premierisico's kan inschatten" - assessing premium risks
+- Direct impact on access to healthcare services
+Healthcare insurance is an essential service where AI directly influences access to medical treatment, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

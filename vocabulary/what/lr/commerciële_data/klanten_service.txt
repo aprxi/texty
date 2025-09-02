@@ -1,0 +1,111 @@
+# Customer Service Data Types - LOW RISK WHAT
+# Klanten service gegevens
+# 
+# PATH: what/lr/commerciële_data/klanten_service.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General customer service data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Customer service data for business operations
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be customer service related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis klanten data
+klanten gegevens
+customer data
+klant informatie
+customer information
+service tickets
+service tickets
+ondersteuning aanvragen
+support requests
+
+# Contact informatie
+contact gegevens
+contact information
+klant profielen
+customer profiles
+account informatie
+account information
+gebruikers data
+user data
+
+# Service geschiedenis
+service geschiedenis
+service history
+ticket geschiedenis
+ticket history
+interactie logs
+interaction logs
+communicatie historie
+communication history
+
+# Feedback data
+service klant feedback
+service customer feedback
+tevredenheids scores
+satisfaction scores
+beoordelingen
+reviews
+evaluaties
+evaluations
+
+# Product gegevens
+product informatie
+product information
+service cataloog
+service catalog
+kennisbank artikelen
+knowledge base articles
+FAQ gegevens
+FAQ data
+
+# Transactie data
+aankoop geschiedenis
+purchase history
+order gegevens
+order data
+factuur informatie
+invoice information
+betaal gegevens
+payment data
+
+# Marketing data
+campagne gegevens
+campaign data
+marketing berichten
+marketing messages
+promotie informatie
+promotion information
+nieuwsbrief data
+newsletter data
+
+# Analytics data
+website bezoek data
+website visit data
+app gebruik statistieken
+app usage statistics
+klant reis gegevens
+customer journey data
+# Communicatie data
+email correspondentie
+email correspondence
+chat transcripten
+chat transcripts
+telefoon gesprek logs
+phone call logs
+klanten service berichten geschiedenis
+customer service message history

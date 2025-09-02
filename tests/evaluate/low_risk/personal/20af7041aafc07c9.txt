@@ -1,0 +1,19 @@
+<START_TEXT>
+ik heb een fitness bedrijf en vraag me af of ai kan helpen met personal training? is het mogelijk om workout routines op te stellen die echt werken? hoe weet ai wat geschikt is voor verschillende fitness niveaus? kan het systeem rekening houden met blessures zonder medische kennis? ik maak me zorgen dat verkeerd advies schadelijk kan zijn. workouts aanpassen op feedback klinkt goed maar hoe betrouwbaar is dat? voedingsadvies geven lijkt me riskant, zijn we geen diëtisten. mag ai zomaar maaltijdplannen maken? hoe selecteert ai de juiste video's voor oefeningen? ik vraag me af of automatische demonstraties wel veilig zijn. motiverende berichten kunnen snel irritant worden toch? achievements toekennen voelt als gamification, willen mensen dat? hoe herkent ai een plateau zonder menselijke expertise? nieuwe uitdagingen voorstellen kan gevaarlijk zijn bij overtraining. fitness tracker integratie betekent veel persoonlijke data, is dat veilig? kunnen we privacy garanderen? helpt ai echt bij gezonder leven of creëert het afhankelijkheid?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for fitness and wellness applications, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (fitness tracking is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (fitness apps are not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content in formal institutions)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (fitness services are not essential services like healthcare/insurance)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a health and fitness application for personal wellness, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

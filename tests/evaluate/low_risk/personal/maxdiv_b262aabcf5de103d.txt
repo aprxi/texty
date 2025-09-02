@@ -1,0 +1,10 @@
+<START_TEXT>
+Amerikaanse student Leiden - heimwee is killing me. AI buddy die Amerikaanse humor snapt, thanksgiving organiseert, football updates geeft. Maar ook: integratie vertraagt, bubbel versterkt?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application without fundamental rights impact.
+</REASONING>
+<END_EVALUATION>

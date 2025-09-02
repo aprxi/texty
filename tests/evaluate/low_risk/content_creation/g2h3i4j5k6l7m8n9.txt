@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn paddenstoelenkwekerij wil ik AI die optimale groeicondities bepaalt. Het systeem moet myceliumgroei monitoren, contaminaties vroeg detecteren, en substraat-recepten optimaliseren. De AI moet ook verschillende paddenstoelsoorten kunnen identificeren en kruiscontaminatie voorkomen. Ik wil dat het systeem oogstmomenten voorspelt en voedingswaarde kan analyseren. Het moet ook nieuwe teeltmethoden kunnen simuleren. Kun je dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for mushroom cultivation optimization, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (mycelium monitoring is not human identification or categorization)
+- Not critical infrastructure AI (mushroom farms are not critical infrastructure)
+- Not educational AI (cultivation advice is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (specialty mushroom production is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is specialty agriculture software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

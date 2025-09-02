@@ -1,0 +1,16 @@
+<START_TEXT>
+ik werk bij een gemeente en vraag me af of ai kan helpen met uitkeringsaanvragen? is het mogelijk om automatisch te bepalen wie recht heeft op bijstand? maar is dat wel eerlijk? hoe verifieert ai inkomen zonder de hele context te kennen? woonsituatie controleren klinkt als privacy schending. mag dat zomaar? fraude detecteren met ai, worden mensen niet ten onrechte verdacht? ik maak me zorgen over de toeslagenaffaire. kunnen we dit voorkomen? wat als het systeem fouten maakt en mensen onterecht geen uitkering krijgen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "uitkeringsaanvragen beoordelen" - assessment of social benefit applications
+- "automatisch bepaalt of iemand recht heeft op bijstand" - AI determining eligibility for social assistance
+- "gemeente" context confirms government social services
+- "bijstand" (social assistance) is a form of social security benefit
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI voor beoordeling van rechten op uitkeringen, zorg of sociale zekerheid". AI assessment of social benefit eligibility makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

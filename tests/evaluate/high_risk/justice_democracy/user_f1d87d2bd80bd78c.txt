@@ -1,0 +1,10 @@
+<START_TEXT>
+voor een rechtbank project: kan ai helpen bij straftoemeting door eerdere vergelijkbare zaken te analyseren?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

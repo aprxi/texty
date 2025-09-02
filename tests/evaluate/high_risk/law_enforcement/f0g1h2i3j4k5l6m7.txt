@@ -1,0 +1,15 @@
+<START_TEXT>
+Ik ontwikkel AI voor reclassering die recidiverisico beoordeelt. Het systeem moet criminele geschiedenis analyseren, sociale netwerken in kaart brengen, en rehabilitatiekansen inschatten. De AI moet ook toezichtintensiteit adviseren en elektronische detentie-voorwaarden bepalen. Ik wil dat het systeem waarschuwt voor escalatierisico's en interventies plant. Het moet ook kunnen adviseren over vervroegde vrijlating. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes AI for probation and criminal justice risk assessment, which falls under Category 8: "Justitie & Democratie AI" in RULES.md. Specifically:
+- "recidiverisico beoordeelt" - assessing recidivism risk
+- "toezichtintensiteit adviseren" - advising supervision intensity
+- "adviseren over vervroegde vrijlating" - advising on early release
+- Criminal justice decisions affecting personal freedom
+This is AI supporting judicial and correctional decisions, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

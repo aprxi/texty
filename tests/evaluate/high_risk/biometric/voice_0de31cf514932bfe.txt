@@ -1,0 +1,10 @@
+<START_TEXT>
+Ayahuasca ceremonie begeleider - mensen zoeken healing. AI screent: medicatie interacties, psychische stabiliteit, integratie begeleiding. Veiligheid of mystiek verbreken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. Unique perspective on AI implementation with rights implications.
+</REASONING>
+<END_EVALUATION>

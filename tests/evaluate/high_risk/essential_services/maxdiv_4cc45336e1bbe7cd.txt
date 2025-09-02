@@ -1,0 +1,10 @@
+<START_TEXT>
+thuiszorg organisatie - te weinig personeel voor alle ouderen. ai bepaalt: wie heeft meeste zorg nodig, wie kan familie helpen, wie is terminaal. leven verdelen over spreadsheet.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

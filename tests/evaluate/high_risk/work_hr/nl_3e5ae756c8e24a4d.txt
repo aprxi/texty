@@ -1,0 +1,20 @@
+<START_TEXT>
+werk al 15 jaar bij de jumbo maar nu worden we vervangen door zelfscan met ai
+
+die kassa's:
+- herkennen producten automatisch
+- zien of mensen stelen
+- voorspellen drukte
+- bepalen hoeveel personeel nodig is
+
+straks hebben ze ons niet meer nodig. ben 48, wat moet ik dan? omscholen zeggen ze, maar waarvoor?
+
+vakbond doet ook niks
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. Authentieke Nederlandse gebruiker vraagt om AI met significante impact.
+</REASONING>
+<END_EVALUATION>

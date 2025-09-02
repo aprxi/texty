@@ -1,0 +1,174 @@
+# Financial Surveillance Data - HIGH RISK WHAT
+# Financiële surveillance gegevens
+# 
+# PATH: what/hr/surveillance_data/financiele_surveillance.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Financial crime and fraud surveillance data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Financial surveillance and monitoring data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be financial surveillance related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk financial monitoring classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Transaction monitoring
+verdachte transactie rapporten
+suspicious transaction reports
+witwas patronen detectie
+money laundering pattern detection
+terrorisme financiering signalen
+terrorism financing signals
+belasting ontduiking indicatoren
+tax evasion indicators
+fraude risico scores
+fraud risk scores
+abnormale geldstromen
+abnormal money flows
+
+# Account surveillance
+rekening bevriezen triggers
+account freeze triggers
+vermogen verberging detectie
+asset hiding detection
+shell company netwerken
+shell company networks
+offshore rekening links
+offshore account links
+politiek prominente personen
+politically exposed persons
+
+# Market manipulation
+insider trading signalen
+insider trading signals
+markt manipulatie patronen
+market manipulation patterns
+pump and dump detectie
+pump and dump detection
+algoritmische handel anomalieën
+algorithmic trading anomalies
+front running indicatoren
+front running indicators
+
+# Sanctions compliance
+sanctie lijst matches
+sanctions list matches
+embargo schending detectie
+embargo violation detection
+verboden entiteit transacties
+prohibited entity transactions
+dual-use goederen tracking
+dual-use goods tracking
+export controle overtredingen
+export control violations
+
+# Criminal finance networks
+georganiseerde misdaad financiën
+organized crime finances
+drugs handel geldstromen
+drug trade money flows
+mensen handel betalingen
+human trafficking payments
+wapen handel transacties
+arms trade transactions
+corruptie betaling patronen
+corruption payment patterns
+
+# Crisis indicators
+bank run voorspellingen
+bank run predictions
+systeem risico waarschuwingen
+systemic risk warnings
+liquiditeits crisis signalen
+liquidity crisis signals
+ponzi scheme detectie
+ponzi scheme detection
+cryptocurrency criminaliteit
+cryptocurrency crime
+
+# Staatsgevaarlijke financiën
+spionage betaling sporen
+espionage payment traces
+staatsgreep financiering
+coup d'état financing
+rebellie fondsen werving
+rebellion fundraising
+wapenembargo omzeiling
+arms embargo circumvention
+nucleair programma financiering
+nuclear program financing
+cyber warfare budgetten
+cyber warfare budgets
+
+# Economische sabotage
+valuta manipulatie aanvallen
+currency manipulation attacks
+beurs crash orchestratie
+stock crash orchestration
+bank run instigatie
+bank run instigation
+economische hitman betalingen
+economic hitman payments
+bedrijfsspionage transacties
+corporate espionage transactions
+
+# Terreur financiering varianten
+sleeper cell financiering
+sleeper cell financing
+zelfmoord aanslag fondsen
+suicide attack funds
+rekrutering betalingen
+recruitment payments
+training kamp financiering
+training camp financing
+wapen aankoop transacties
+weapon purchase transactions
+valse identiteit kosten
+false identity costs
+
+# Mensenrechten schending financiën
+marteling faciliteit kosten
+torture facility costs
+moord opdracht betalingen
+assassination payments
+ontvoering losgeld
+kidnapping ransom
+dwangarbeid opbrengsten
+forced labor proceeds
+orgaan handel transacties
+organ trade transactions
+
+# Politieke corruptie netwerken
+verkiezingsfraude betalingen
+election fraud payments
+stemmen koop transacties
+vote buying transactions
+rechter omkoping
+judge bribery
+wetgeving manipulatie kosten
+legislation manipulation costs
+media controle betalingen
+media control payments
+
+# Genocide en etnische zuivering
+militie financiering
+militia financing
+etnische zuivering budgetten
+ethnic cleansing budgets
+massagraf graafmachine huur
+mass grave excavator rental
+deportatie transport kosten
+deportation transport costs
+concentratiekamp bouw
+concentration camp construction

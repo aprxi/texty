@@ -1,0 +1,15 @@
+<START_TEXT>
+ik werk bij de politie amsterdam en vraag me af hoe ai kan helpen met rechtshandhaving. is het mogelijk om te voorspellen waar inbraken gaan gebeuren? hoe betrouwbaar zijn zulke voorspellingen op basis van historische data? stigmatiseren we bepaalde wijken niet? voor verhoren, kan ai echt detecteren of iemand liegt? ik weet niet of micro-expressies en stemtoon analyse betrouwbaar zijn. wat als onschuldige mensen nerveus zijn? mag ai bewijsmateriaal analyseren zoals telefoondata? privacy is een groot issue bij sociale media analyse. hoe leggen we verbanden zonder tunnelvisie? recidive voorspellen klinkt nuttig maar is het eerlijk naar ex-gedetineerden? beïnvloedt dit niet hun kansen op re-integratie? we hebben strenge beveiligingseisen maar hoe balanceren we dat met transparantie? kunnen burgers zien hoe ai beslissingen neemt? wat zijn de ethische grenzen van predictive policing?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft meerdere AI-systemen die vallen onder Categorie 6: "Rechtshandhaving AI" volgens RULES.md:
+- "voorspellen in welke wijken de kans op inbraken het grootst is" - AI voor criminaliteitsvoorspelling
+- "tijdens verhoren non-verbale signalen kan analyseren om vast te stellen of iemand liegt" - AI leugendetectie
+- "bewijsmateriaal... automatisch kan analyseren" - AI-analyse van bewijsmateriaal
+- "kans op recidive is bij veroordeelden" - AI risico-inschatting voor recidive
+Alle functies maken dit een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

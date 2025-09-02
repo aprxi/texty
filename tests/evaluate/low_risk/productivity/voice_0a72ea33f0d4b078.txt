@@ -1,0 +1,10 @@
+<START_TEXT>
+urban farmer rotterdam daklandbouw. ai meet: luchtkwaliteit, regenwater ph, optimale gewassen voor seizoen EN stadsvervuiling. gezond eten kweken boven snelweg?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

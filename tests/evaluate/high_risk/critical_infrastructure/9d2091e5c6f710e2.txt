@@ -1,0 +1,16 @@
+<START_TEXT>
+Beste experts, onze organisatie beheert de gasinfrastructuur voor meerdere provincies. We zoeken een AI-oplossing die gasdruk en -stromen kan monitoren, lekken kan detecteren en automatisch kleppen kan sluiten bij noodsituaties. Het systeem moet zelfstandig beslissingen kunnen nemen over gastoevoer naar
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "gasinfrastructuur voor meerdere provincies" - AI management of critical gas infrastructure
+- "automatisch kleppen kan sluiten" - automated control of gas infrastructure
+- "gastoevoer" - gas utility infrastructure
+- "gas" explicitly falls under "nutsvoorzieningen" including "gas" mentioned in Category 2
+
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" in RULES.md, specifically "AI-ondersteuning bij bewaking of beheer van kritieke digitale infrastructuur...en nutsvoorzieningen" including "gas". Managing gas utility infrastructure makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

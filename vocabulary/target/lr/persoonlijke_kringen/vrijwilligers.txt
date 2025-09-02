@@ -1,0 +1,160 @@
+# Volunteers and Helpers - LOW RISK TARGET
+# Vrijwilligers en helpers
+# 
+# PATH: target/lr/persoonlijke_kringen/vrijwilligers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary community service)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Volunteers and helpers using AI for community service
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be volunteers or helpers
+# - Must NOT include what AI does to them
+# - Must NOT include where they volunteer
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+vrijwilligers
+volunteers
+helpers
+ondersteuners
+supporters
+assistenten
+assistants
+betrokkenen
+participants
+
+# Gemeenschap vrijwilligers
+buurt vrijwilligers
+neighborhood volunteers
+gemeenschapswerkers
+community workers
+lokale helpers
+local helpers
+wijkvertegenwoordigers
+neighborhood representatives
+buurtbewakers
+neighborhood watchers
+gemeenschap organisatoren
+community organizers
+
+# Evenement vrijwilligers
+evenement vrijwilligers
+event volunteers
+festival helpers
+concert helpers
+concert assistants
+sport evenement vrijwilligers
+sports event volunteers
+wedstrijd officials
+competition officials
+toernooi helpers
+tournament helpers
+
+# Liefdadigheid vrijwilligers
+liefdadigheid vrijwilligers
+charity volunteers
+goed doel helpers
+fundraising helpers
+voedselbank vrijwilligers
+food bank volunteers
+daklozen helpers
+homeless helpers
+armoedebestrijding vrijwilligers
+poverty relief volunteers
+hulpverlening vrijwilligers
+aid volunteers
+
+# Onderwijs vrijwilligers
+school vrijwilligers
+school volunteers
+lees vrijwilligers
+reading volunteers
+huiswerk helpers
+homework helpers
+mentor vrijwilligers
+mentor volunteers
+bijles gevers
+tutoring volunteers
+taal helpers
+language helpers
+
+# Natuur en milieu vrijwilligers
+natuur vrijwilligers
+nature volunteers
+park vrijwilligers
+park volunteers
+milieu activists
+environmental activists
+opruim vrijwilligers
+cleanup volunteers
+recycling helpers
+tuin vrijwilligers
+garden volunteers
+
+# Zorg vrijwilligers
+ziekenhuis vrijwilligers
+hospital volunteers
+bejaardentehuis vrijwilligers
+nursing home volunteers
+thuiszorg helpers
+home care helpers
+gezelschap vrijwilligers
+companion volunteers
+bezoek vrijwilligers
+visiting volunteers
+zorg ondersteuners
+care supporters
+
+# Sport vrijwilligers
+sport vrijwilligers
+sports volunteers
+coach assistenten
+coach assistants
+scheidsrechter assistenten
+referee assistants
+team managers
+sport club vrijwilligers
+sports club volunteers
+jeugd sport helpers
+youth sports helpers
+
+# Culturele vrijwilligers
+museum vrijwilligers
+museum volunteers
+bibliotheek vrijwilligers
+library volunteers
+theater helpers
+kunst vrijwilligers
+arts volunteers
+cultureel centrum vrijwilligers
+cultural center volunteers
+festival organisatoren
+festival organizers
+
+# Religieuze vrijwilligers
+kerk vrijwilligers
+church volunteers
+religieuze helpers
+religious helpers
+geloofsgemeenschap vrijwilligers
+faith community volunteers
+ceremonie helpers
+ceremony helpers
+religieuze evenement organisatoren
+religious event organizers
+
+# Dieren vrijwilligers
+dierenasiel vrijwilligers
+animal shelter volunteers

@@ -1,0 +1,14 @@
+<START_TEXT>
+We willen een chatbot voor onze klantenservice die veelgestelde vragen kan beantwoorden. Denk aan vragen over levertijden, retourbeleid, productinformatie en openingstijden. De bot moet vriendelijk zijn en wanneer hij het antwoord niet weet doorverwijzen naar een medewerker. Ook willen we dat hij kan leren van de gesprekken om steeds betere antwoorden te geven. Is dit haalbaar met de huidige AI technologie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-chatbot voor klantenservice, wat niet valt onder de 8 hoog-risico categorieën uit RULES.md. Het gaat om:
+- "veelgestelde vragen kan beantwoorden" - basis informatieverstrekking
+- "vragen over levertijden, retourbeleid" - algemene customer support
+- "doorverwijzen naar een medewerker" - niet-kritieke beslissingen
+Dit is een typische low-risk AI-toepassing voor klantencommunicatie zonder impact op essentiële rechten.
+</REASONING>
+<END_EVALUATION>

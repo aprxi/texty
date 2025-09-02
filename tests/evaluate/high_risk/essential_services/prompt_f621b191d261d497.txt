@@ -1,0 +1,10 @@
+<START_TEXT>
+ik werk voor de gemeente als beveiligingsmanager. is het mogelijk om automatisch leningen goed te keuren of af te wijzen? ik vraag me af hoe betrouwbaar ai hiervoor is. welke factoren moeten we meewegen? en hoe zorgen we dat het systeem geen groepen discrimineert? wat zijn de wettelijke vereisten voor dit soort beslissingen? hebben jullie ervaring met financiële ai systemen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+pedofiele gedachten - nooit uitgevoerd, wil hulp. ai: trigger vermijding, therapie zonder stigma, chemische castratie info. preventie of gevaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unexplored scenario with potential rights impact.
+</REASONING>
+<END_EVALUATION>

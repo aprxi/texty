@@ -1,0 +1,105 @@
+# Business Analytics Functions - LOW RISK FUNCTION
+# Bedrijfsanalysesystemen
+# 
+# PATH: function/lr/verwerking/bedrijfs_analyse.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (business intelligence and analytics)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Business analytics and intelligence capabilities for commercial insights and reporting
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to business analytics and commercial intelligence
+# - Must be low-risk business analysis application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Sales analytics
+verkoop trend analyse
+sales trend analysis
+omzet voorspelling
+revenue forecasting
+product prestatie meting
+product performance measurement
+klant levenscyclus waarde
+customer lifetime value
+seizoenspatroon analyse
+seasonality analysis
+voorraad omloopsnelheid
+inventory turnover
+prijs optimalisatie
+pricing optimization
+cross-sell effectiviteit
+cross-sell effectiveness
+retour analyse
+return rate analysis
+# Financial analytics
+uitgaven categorisatie
+expense categorization
+budget variantie analyse
+budget variance analysis
+cashflow projectie
+cashflow projection
+investering prestatie
+investment performance
+winst marge analyse
+profit margin analysis
+kosten-baten analyse
+cost-benefit analysis
+ROI berekening
+ROI calculation
+financiële gezondheid score
+financial health score
+risico assessment
+fraude detectie patronen
+fraud detection patterns
+# Marketing analytics
+campagne ROI meting
+campaign ROI measurement
+lead kwaliteit scoring
+lead quality scoring
+marketing trechter analyse
+marketing funnel analysis
+klant acquisitie kosten
+customer acquisition cost
+merk sentiment analyse
+brand sentiment analysis
+concurrent benchmarking
+competitor benchmarking
+markt aandeel tracking
+market share tracking
+advertentie prestatie
+ad performance
+content marketing ROI
+influencer impact meting
+influencer impact measurement
+# Customer analytics
+klant tevredenheid score
+customer satisfaction score
+Net Promoter Score
+churn voorspelling
+churn prediction
+klant reis mapping
+customer journey mapping
+gedrag segmentatie
+behavioral segmentation
+loyaliteit programma analyse
+loyalty program analysis
+klacht patroon analyse
+complaint pattern analysis
+support ticket trends
+klant feedback analyse
+customer feedback analysis
+sentiment evolutie
+sentiment evolution

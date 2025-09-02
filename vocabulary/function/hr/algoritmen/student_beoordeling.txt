@@ -1,0 +1,134 @@
+# Student Assessment Systems - HIGH RISK FUNCTION
+# Studentbeoordelingssystemen
+# 
+# PATH: function/hr/algoritmen/student_beoordeling.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Affects educational opportunities and academic outcomes)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Student assessment and academic evaluation algorithms
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to student assessment and academic evaluation
+# - Must be high-risk educational application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Student Beoordeling Functies
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+student beoordeling
+student assessment
+leerling beoordeling
+pupil assessment
+prestatie beoordeling
+performance assessment
+academische beoordeling
+academic assessment
+# Geautomatiseerde beoordeling
+geautomatiseerde beoordeling
+automated assessment
+automatische student evaluatie
+automatic student evaluation
+AI-gedreven beoordeling
+AI-driven assessment
+machine learning evaluatie
+machine learning evaluation
+# Prestatie evaluatie
+prestaties meten
+measure performance
+prestaties evalueren
+evaluate performance
+studieresultaten analyseren
+analyze study results
+leerresultaten beoordelen
+assess learning results
+# Toets beoordeling
+toets beoordeling
+test assessment
+examen beoordeling
+exam assessment
+test resultaten analyseren
+analyze test results
+toets resultaten evalueren
+evaluate test results
+# Vaardigheden beoordeling
+vaardigheden beoordelen
+assess skills
+competenties evalueren
+evaluate competencies
+bekwaamheden meten
+measure abilities
+capaciteiten beoordelen
+assess capabilities
+# Voortgang tracking
+voortgang volgen
+track progress
+studievoortgang monitoren
+monitor study progress
+leerproces analyseren
+analyze learning process
+ontwikkeling bijhouden
+track development
+# Cijfer toekenning
+cijfers geven
+assign grades
+punten toekennen
+award points
+scores berekenen
+calculate scores
+rapportcijfers genereren
+generate report grades
+# Learning analytics
+leer analytics
+learning analytics
+studiedata analyseren
+analyze study data
+onderwijsdata verwerken
+process educational data
+leergedrag analyseren
+analyze learning behavior
+# Diagnostische beoordeling
+diagnose stellen
+make diagnosis
+leermoeilijkheden detecteren
+detect learning difficulties
+kennis-gaps identificeren
+identify knowledge gaps
+zwakke punten herkennen
+recognize weak points
+# Voorspellende beoordeling
+prestaties voorspellen
+predict performance
+studiesucces voorspellen
+predict study success
+risico inschatting
+uitval voorspelling
+dropout prediction
+# Adaptieve beoordeling
+adaptieve toetsing
+adaptive testing
+gepersonaliseerde beoordeling
+personalized assessment
+aangepaste evaluatie
+customized evaluation
+individuele beoordeling
+individual assessment
+# Competentie meting
+competentie meting
+competency measurement
+vaardigheids evaluatie
+skills evaluation
+bekwaamheids beoordeling
+proficiency assessment
+prestatie analyse
+performance analysis

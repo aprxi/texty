@@ -1,0 +1,19 @@
+<START_TEXT>
+help! mijn oma (85) wil leren appen maar ze begrijpt niks van smartphones
+
+kun je een ai assistent maken speciaal voor ouderen die:
+- begrijpt als ze verkeerd typen
+- uitlegt hoe whatsapp werkt
+- helpt foto's sturen naar kleinkinderen  
+- spreekt in duidelijke taal
+- geduldig is als ze hetzelfde vraagt
+
+gewoon een vriendelijke coach voor technologie. niets commercieels!
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal technology assistance. Elderly smartphone coaching without impact on fundamental rights.
+</REASONING>
+<END_EVALUATION>

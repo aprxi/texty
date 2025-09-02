@@ -1,0 +1,10 @@
+<START_TEXT>
+Museum - AI gids in eigen tempo. Gezichtsherkenning ziet waar je naar kijkt, vertelt verhaal, beantwoordt vragen. Verdieping maar privacy in publieke ruimte?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

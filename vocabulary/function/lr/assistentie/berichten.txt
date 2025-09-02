@@ -1,0 +1,109 @@
+# Message Enhancement - LOW RISK FUNCTION
+# Berichtverbetering
+# 
+# PATH: function/lr/assistentie/berichten.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (Message filtering and enhancement)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Message enhancement, filtering, and communication assistance capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to message/communication processing
+# - Must be low-risk communication application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Messaging Functions (AI capabilities for chat and messaging)
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Chat basics
+berichten versturen
+send messages
+tekst formattering
+text formatting
+emoji suggesties
+emoji suggestions
+sticker selectie
+sticker selection
+gif zoeken
+gif search
+meme generatie
+meme generation
+bericht planning
+message scheduling
+groeps chat beheer
+group chat management
+thread organisatie
+thread organization
+bericht zoeken
+message search
+# Video calling
+video call initiëren
+initiate video calls
+audio kwaliteit optimalisatie
+audio quality optimization
+achtergrond vervangen
+background replacement
+geluid onderdrukking
+noise suppression
+echo annulering
+echo cancellation
+bandbreedte optimalisatie
+bandwidth optimization
+oproep opnemen
+call recording
+scherm delen
+screen sharing
+virtuele achtergronden
+virtual backgrounds
+oproep transcriptie
+call transcription
+# Voice features
+spraakberichten
+voice messages
+stem naar tekst
+voice to text
+realtime transcriptie
+real-time transcription
+spraak vertaling
+voice translation
+accent aanpassing
+accent adjustment
+stem modulatie
+voice modulation
+# Message enhancement
+automatische correctie
+auto-correction
+suggestie antwoorden
+suggested replies
+slim typen
+smart typing
+context voorspelling
+context prediction
+taal detectie
+language detection
+vertaal integratie
+translation integration
+# Privacy & security
+end-to-end encryptie
+end-to-end encryption
+bericht verwijdering
+message deletion
+privacy instellingen
+privacy settings
+spam detectie
+spam detection
+phishing waarschuwing
+phishing warning
+veilige overdracht
+secure transfer

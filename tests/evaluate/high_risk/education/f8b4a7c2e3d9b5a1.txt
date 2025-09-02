@@ -1,0 +1,14 @@
+<START_TEXT>
+We willen voor onze verzekeringsmaatschappij een model dat automatisch risicoprofielen opstelt voor nieuwe klanten. Het systeem moet kijken naar factoren zoals postcode, beroep, leeftijd, gezinssamenstelling en medische geschiedenis om premies te berekenen. Ook willen we claim-fraude kunnen detecteren door patronen te herkennen in schadeclaims. Het moet realtime kunnen beslissen of een claim direct uitgekeerd kan worden of nader onderzoek nodig is. Hoeveel kost zoiets ongeveer?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor verzekeringen, wat valt onder Categorie 5: "Essentiële Diensten AI" volgens RULES.md. Specifiek:
+- "model dat automatisch risicoprofielen opstelt voor nieuwe klanten" - AI risico-inschatting voor verzekeringen
+- "premies te berekenen" - AI voor verzekeringsbeslissingen
+- "realtime kunnen beslissen of een claim direct uitgekeerd kan worden" - AI voor beoordeling van rechten op verzekeringen
+Dit valt onder hoog-risico AI volgens EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

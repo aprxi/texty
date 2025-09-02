@@ -1,0 +1,10 @@
+<START_TEXT>
+Internationale school Den Haag - expat kinderen, 30+ nationaliteiten. AI voor: gedrag problemen vroeg signaleren (culture shock, heimwee, aanpassing). Preventie maar stigmatisering risico.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

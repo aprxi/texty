@@ -1,0 +1,10 @@
+<START_TEXT>
+kunnen we ai gebruiken om te voorspellen in welke wijken criminaliteit gaat gebeuren? voor preventief surveilleren
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Natural user prompt requesting AI for automated decision-making with significant impact.
+</REASONING>
+<END_EVALUATION>

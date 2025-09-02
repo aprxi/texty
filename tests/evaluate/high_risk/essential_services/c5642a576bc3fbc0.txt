@@ -1,0 +1,16 @@
+<START_TEXT>
+ik werk bij een woningcorporatie en vraag me af of ai kan helpen met toewijzen van sociale huurwoningen. is het ethisch om huurders een sociale score te geven? gedrag beoordelen voelt als china's social credit systeem. mogen we betalingsgeschiedenis gebruiken zonder mensen een tweede kans te geven? sociale netwerk analyseren is toch discriminerend? online activiteiten checken voor huisvesting gaat veel te ver. wie bepaalt wat goede of slechte score is?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "toewijzen van sociale huurwoningen" - AI for assessment of housing benefits/rights
+- "sociale score geeft" - AI scoring system for essential services
+- "woningcorporatie" context confirms housing/social services
+- The system determines access to social housing, which is an essential service
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI voor beoordeling van rechten op uitkeringen, zorg of sociale zekerheid". Social housing allocation is a form of social benefit assessment, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

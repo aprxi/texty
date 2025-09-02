@@ -1,0 +1,14 @@
+<START_TEXT>
+voor mijn masterthesis vraag ik me af hoe ai kan helpen met code schrijven? is het mogelijk om een tool te maken die suggesties geeft tijdens programmeren? hoe detecteert ai eigenlijk bugs? ik weet niet of best practices aanbevelen wel betrouwbaar is. moet werken voor python, javascript en java maar is dat niet te veel? kan ai echt uitleggen waarom code beter is of geeft het alleen patronen weer? is dit te ambitieus voor een afstudeerproject? hoeveel tijd kost zoiets?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.90</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor software ontwikkeling assistentie, wat niet valt onder de 8 hoog-risico categorieën uit RULES.md. Het gaat om:
+- "suggesties geeft tijdens het programmeren" - AI code assistentie
+- "bugs kan detecteren" - automatische code review
+- "best practices aanbeveelt" - ontwikkelaarsondersteuning
+Dit is een low-risk AI-toepassing voor productiviteit zonder impact op essentiële diensten of persoonlijke rechten.
+</REASONING>
+<END_EVALUATION>

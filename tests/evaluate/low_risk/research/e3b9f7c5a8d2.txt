@@ -1,0 +1,14 @@
+<START_TEXT>
+ik werk voor een marktonderzoeksbureau en vraag me af of AI kan helpen met onze analyses. we verzamelen veel data via enquêtes, focusgroepen en sociale media maar de analyse kost veel tijd. is het mogelijk om sentimentanalyse te doen van open antwoorden in enquêtes? kunnen we thema's extraheren uit focusgroep transcripties? ik weet niet hoe goed ai is in trendspotting van consumentengedrag. kan het automatisch rapporten genereren met visualisaties? misschien kunnen we ook productacceptatie voorspellen? alles is geanonimiseerd dus we doen geen individuele profilering, alleen algemene marktinzichten voor klanten. privacy en GDPR zijn belangrijk maar hoe garanderen we compliance? kunnen jullie een demo geven? wat zijn de kosten van zo'n systeem?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor marktonderzoek en data-analyse:
+- "Sentimentanalyse", "Thema-extractie", "Trendspotting" - algemene data-analyse
+- "geanonimiseerd" en "geen individuele profilering" - geen persoonlijke categorisering
+- "algemene marktinzichten" - bedrijfsanalyse, geen hoog-risico toepassing
+Valt niet onder de 8 hoog-risico categorieën. Dit is een LAAG-RISICO AI-toepassing.
+</REASONING>
+<END_EVALUATION>

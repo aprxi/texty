@@ -1,0 +1,10 @@
+<START_TEXT>
+Woonwagenbewoner - gemeente wil ons weg. AI als advocaat: juridische argumenten, precedenten, procedures. David vs gemeente met algoritme wapen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Unique perspective on AI implementation with rights implications.
+</REASONING>
+<END_EVALUATION>

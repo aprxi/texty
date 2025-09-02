@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn tattooshop wil ik AI die kan helpen met custom designs. Het systeem moet schetsen van klanten kunnen analyseren en professionele tattoo-ontwerpen maken die technisch uitvoerbaar zijn. De AI moet rekening houden met huidtype, locatie op het lichaam, en hoe designs verouderen. Ik wil dat het systeem verschillende stijlen kan genereren - traditional, realism, watercolor - en kan waarschuwen voor designs die niet goed werken als tattoo. Het moet ook tijd en kosten kunnen inschatten. Kun je deze tattoo-AI ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for tattoo design assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (design generation is not human identification or categorization)
+- Not critical infrastructure AI (tattoo shops are not critical infrastructure)
+- Not educational AI (artistic design is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (tattoo services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is artistic design assistance software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

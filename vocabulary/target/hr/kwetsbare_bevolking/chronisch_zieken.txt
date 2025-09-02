@@ -1,0 +1,67 @@
+# Chronically Ill Patients - HIGH RISK TARGET
+# Chronisch zieken
+# 
+# PATH: target/hr/kwetsbare_bevolking/chronisch_zieken.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Vulnerable population with health conditions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: People with chronic health conditions subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must have chronic health conditions
+# - Must NOT include what AI does to them
+# - Must NOT include where they are located
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+chronisch zieken
+chronically ill patients
+langdurig zieken
+long-term patients
+diabetes patiënten
+diabetes patients
+hart- en vaatziekten patiënten
+cardiovascular patients
+kanker patiënten
+cancer patients
+COPD patiënten
+COPD patients
+reuma patiënten
+rheumatism patients
+MS patiënten
+MS patients
+Parkinson patiënten
+Parkinson patients
+nierziekten patiënten
+kidney disease patients
+leverziekten patiënten
+liver disease patients
+auto-immuunziekten patiënten
+autoimmune disease patients
+chronische pijn patiënten
+chronic pain patients
+epilepsie patiënten
+epilepsy patients
+HIV/AIDS patiënten
+HIV/AIDS patients
+astma patiënten
+asthma patients
+psychisch chronisch zieken
+mentally chronically ill
+meervoudig chronisch zieken
+multiple chronic conditions patients
+zeldzame ziekten patiënten
+rare disease patients
+terminaal zieken
+terminally ill patients

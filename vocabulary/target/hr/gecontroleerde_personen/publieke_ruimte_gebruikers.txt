@@ -1,0 +1,69 @@
+# Users of Public Spaces Under Surveillance - HIGH RISK TARGET
+# Gebruikers van publieke ruimtes onder toezicht
+# 
+# PATH: target/hr/gecontroleerde_personen/publieke_ruimte_gebruikers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to public surveillance)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Users of public spaces subject to AI surveillance
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must use public spaces under surveillance
+# - Must NOT include what AI does to them
+# - Must NOT include where they are located
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+publieke ruimte gebruikers
+public space users
+straat voetgangers
+street pedestrians
+plein bezoekers
+square visitors
+park bezoekers
+park visitors
+winkelcentrum bezoekers
+shopping center visitors
+metro passagiers
+metro passengers
+bus passagiers
+bus passengers
+tram passagiers
+tram passengers
+station gebruikers
+station users
+parkeergarage gebruikers
+parking garage users
+stadscentrum bezoekers
+city center visitors
+uitgaansgebied bezoekers
+nightlife area visitors
+markt bezoekers
+market visitors
+strand bezoekers
+beach visitors
+sportveld gebruikers
+sports field users
+speeltuin bezoekers
+playground visitors
+bibliotheek bezoekers
+library visitors
+gemeentehuis bezoekers
+city hall visitors
+demonstranten
+demonstrators
+straatverkopers
+street vendors
+daklozen in publieke ruimte
+homeless in public spaces

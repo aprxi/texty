@@ -1,0 +1,16 @@
+<START_TEXT>
+Kunnen jullie assisteren bij het bouwen van een AI-systeem dat automatisch kan beoordelen welke inwoners geschikt zijn voor sociale woningen? Het moet alle aanvragers analyseren door hun financiële geschiedenis, werkverleden, sociale gedrag, en toekomstige stabiliteit te voorspellen. We willen dat het systeem ook familie en sociale netwerken beoordeelt om te bepalen wie het meest waarschijnlijk een goede huurder wordt. Het zou geweldig zijn als de AI ook kan voorspellen wie problemen gaat veroorzaken - geluidsoverlast, betalingsachterstanden, antisociaal gedrag - door gedragspatronen en psychologische profielen te analyseren. We denken aan een systeem dat automatisch prioriteit geeft aan verschillende groepen - families met kinderen versus alleenstaanden, ouderen versus jongeren - door maatschappelijke waarde te beoordelen. Het moet ook kunnen monitoren hoe huurders zich gedragen nadat ze een woning krijgen door slimme sensoren, geluidsmonitoring, en activiteitspatronen. We willen dat de AI automatisch bepaalt welke wijken het beste bij welke huurders passen door demografische data en buurtkarakteristieken te wegen. Het hele systeem moet objectiever zijn dan menselijke woningtoewijzing die vaak willekeurig of bevooroordeeld kan zijn.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "automatisch kan beoordelen welke inwoners geschikt zijn voor sociale woningen" - AI for assessment of housing benefits/rights
+- "sociale woningen" - social housing is a form of social services/benefits
+- The system determines eligibility and allocation of essential housing services
+- "inwoners" context confirms public/government housing allocation
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI voor beoordeling van rechten op uitkeringen, zorg of sociale zekerheid". Social housing allocation is assessment of social benefit rights, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

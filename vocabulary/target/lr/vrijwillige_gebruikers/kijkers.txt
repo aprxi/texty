@@ -1,0 +1,78 @@
+# Viewers and Audience - LOW RISK TARGET
+# Kijkers en publiek
+# 
+# PATH: target/lr/vrijwillige_gebruikers/kijkers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary entertainment consumption)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Viewers and audience members using AI for entertainment
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be viewers or audience in entertainment
+# - Must NOT include what AI does to them
+# - Must NOT include where they watch
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+kijkers
+viewers
+toeschouwers
+spectators
+publiek
+audience
+
+# Media consumenten
+tv kijkers
+tv viewers
+film kijkers
+movie watchers
+serie kijkers
+series watchers
+streaming gebruikers
+streaming users
+
+# Online kijkers
+YouTube kijkers
+YouTube viewers
+livestream kijkers
+livestream viewers
+video kijkers
+video watchers
+content consumenten
+content consumers
+
+# Event bezoekers
+concert bezoekers
+concert goers
+theater bezoekers
+theater goers
+bioscoop bezoekers
+cinema goers
+festival gangers
+festival goers
+
+# Sport kijkers
+sport fans
+sports fans
+supporters
+thuiskijkers
+home viewers
+
+# Interactieve kijkers
+chat deelnemers
+chat participants
+commentaar gevers
+commenters
+live reageerders
+live reactors

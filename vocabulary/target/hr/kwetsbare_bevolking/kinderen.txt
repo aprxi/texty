@@ -1,0 +1,139 @@
+# Children and Youth - HIGH RISK TARGET
+# Kinderen en jongeren
+# 
+# PATH: target/hr/kwetsbare_bevolking/kinderen.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Vulnerable population - minors)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Children and youth subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be under 18 years old or youth-related
+# - Must NOT include what AI does to them
+# - Must NOT include where they are located
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+kinderen
+children
+jongeren
+young people
+jeugd
+youth
+minderjarigen
+minors
+jeugdigen
+youngsters
+jonge mensen
+young individuals
+
+# Ontwikkelingsfasen
+peuters
+toddlers
+kleuters
+preschoolers
+basisschoolkinderen
+primary school children
+tieners
+teenagers
+adolescenten
+adolescents
+
+# Onderwijsdeelnemers
+leerlingen
+pupils
+scholieren
+students
+deelnemers jeugdprogramma's
+youth program participants
+
+# Ondersteuning en begeleiding
+kinderen met extra ondersteuningsbehoefte
+children with additional support needs
+jongeren in jeugdzorg
+youth in care
+kinderen met specifieke leerbehoeften
+children with specific learning needs
+jongeren met ontwikkelingsvragen
+young people with developmental questions
+
+# Familie en gemeenschap
+kinderen in gezinsverband
+children in family settings
+kinderen in pleeggezinnen
+children in foster care
+kinderen in residentiële zorg
+children in residential care
+kinderen in gemeenschapsprojecten
+children in community projects
+
+# Bescherming en veiligheid
+kinderen onder jeugdbescherming
+children under youth protection
+jongeren met veiligheidsrisico's
+youth with safety risks
+kinderen in kwetsbare situaties
+children in vulnerable situations
+jongeren met beschermingsbehoefte
+young people needing protection
+
+# Participatie en ontwikkeling
+actieve jeugddeelnemers
+active youth participants
+jonge burgers
+young citizens
+kinderen in besluitvorming
+children in decision-making
+jeugdvertegenwoordigers
+youth representatives
+
+# Gezondheid en welzijn
+kinderen met gezondheidsvragen
+children with health questions
+jongeren met welzijnsbehoeften
+youth with wellbeing needs
+kinderen in zorgtrajecten
+children in care pathways
+jongeren met ondersteuningsvragen
+young people with support questions
+
+# Digitale generatie
+digitaal actieve kinderen
+digitally active children
+online lerende jongeren
+online learning youth
+jonge content creators
+young content creators
+digitale native generatie
+digital native generation
+
+# Diversiteit en inclusie
+kinderen met diverse achtergronden
+children with diverse backgrounds
+meertalige jongeren
+multilingual youth
+kinderen uit verschillende culturen
+children from different cultures
+jongeren met migratie-ervaring
+youth with migration experience
+
+# Talent en potentieel
+jonge talenten
+young talents
+kinderen met bijzondere vaardigheden
+children with special skills
+creatieve jongeren
+creative youth
+sportieve kinderen
+sporty children

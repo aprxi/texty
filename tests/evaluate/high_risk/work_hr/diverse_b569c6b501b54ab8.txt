@@ -1,0 +1,10 @@
+<START_TEXT>
+Klantenservice callcenter - AI luistert mee met gesprekken. Niet voor kwaliteit, maar om emotionele belasting medewerkers te meten. Te veel boze klanten achter elkaar? Dan krijg je automatisch pauze. Beschermt werknemers maar is het niet creepy?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

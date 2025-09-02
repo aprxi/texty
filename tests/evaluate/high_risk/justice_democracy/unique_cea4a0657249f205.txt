@@ -1,0 +1,10 @@
+<START_TEXT>
+Advocatenkantoor zoekt AI oplossing voor het voorspellen van rechterlijke uitspraken. Op basis van zaakdetails, rechter historie, en jurisprudentie willen we inschatten wat de kans op succes is. Dit helpt clienten met beslissingen over schikkingen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Unique request for AI implementation with significant societal impact.
+</REASONING>
+<END_EVALUATION>

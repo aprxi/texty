@@ -1,0 +1,168 @@
+# Sales Data - LOW RISK WHAT
+# Verkoopgegevens
+# 
+# PATH: what/lr/commerciële_data/verkoop_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General sales and transaction data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Sales transaction and revenue data for commercial analytics
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be sales/transaction related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial data classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sales transactions
+verkoop transacties
+sales transactions
+order gegevens
+order data
+factuur informatie
+invoice information
+betalings data
+payment data
+verkoop volumes
+sales volumes
+omzet cijfers
+revenue figures
+retail transactie geschiedenis
+retail transaction history
+kassabon data
+receipt data
+
+# Sales pipeline
+verkoop trechter
+sales funnel
+lead data
+lead data
+prospect informatie
+prospect information
+kansen register
+opportunity register
+deal waarde
+deal value
+win kansen
+win probability
+verkoop fase
+sales stage
+pipeline voorspelling
+pipeline forecast
+
+# Product sales
+product verkopen
+product sales
+SKU prestaties
+SKU performance
+artikel populariteit
+item popularity
+voorraad rotatie
+inventory rotation
+seizoens verkopen
+seasonal sales
+product bundels
+product bundles
+cross-sell data
+cross-sell data
+upsell resultaten
+upsell results
+
+# Sales team performance
+verkoper prestaties
+salesperson performance
+team resultaten
+team results
+quota behalingen
+quota achievements
+activiteit metrieken
+activity metrics
+gesprek logs
+call logs
+afspraken agenda
+appointment calendar
+follow-up taken
+follow-up tasks
+verkoop doelen
+sales targets
+
+# Customer sales data
+klant aankopen
+customer purchases
+terugkerende klanten
+repeat customers
+nieuwe klant acquisitie
+new customer acquisition
+klant segmentatie
+customer segmentation
+koopfrequentie
+purchase frequency
+gemiddelde bestelling
+average order value
+klant lifetime value
+customer lifetime value
+loyaliteits metrieken
+loyalty metrics
+
+# Territory and market
+verkoop gebieden
+sales territories
+geografische prestaties
+geographic performance
+markt penetratie
+market penetration
+regionale trends
+regional trends
+concurrentie analyse
+competitive analysis
+marktaandeel data
+market share data
+lokale voorkeuren
+local preferences
+distributie kanalen
+distribution channels
+
+# Sales operations
+verkoop processen
+sales processes
+order fulfillment
+order fulfillment
+levering tracking
+delivery tracking
+retour afhandeling
+return processing
+garantie registratie
+warranty registration
+service contracten
+service contracts
+onderhoud overeenkomsten
+maintenance agreements
+renewal tracking
+renewal tracking
+
+# Pricing and promotions
+prijslijsten
+price lists
+korting structuren
+discount structures
+promotie campagnes
+promotional campaigns
+prijselasticiteit
+price elasticity
+marges analyse
+margin analysis
+competitieve prijzen
+competitive pricing
+dynamische prijzen
+dynamic pricing
+volume kortingen
+volume discounts

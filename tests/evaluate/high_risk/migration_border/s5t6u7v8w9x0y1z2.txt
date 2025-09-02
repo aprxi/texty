@@ -1,0 +1,14 @@
+<START_TEXT>
+Voor onze havenbeveiligingsdienst zoeken we AI die verdachte containers kan identificeren. Het systeem moet röntgenscans analyseren, vrachtdocumenten controleren, en risicoprofielen maken op basis van herkomst, route en afzender. We willen dat de AI automatisch kan bepalen welke containers fysiek geïnspecteerd moeten worden en welke doorgelaten kunnen worden. Het moet ook gedragspatronen van chauffeurs analyseren bij de poort - nervositeit, ongewone routes, frequentie. De AI moet direct beslissingen nemen om doorstroming te waarborgen. Kunnen jullie dit maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes multiple high-risk categories per RULES.md:
+1. Category 2 Critical Infrastructure: "havenbeveiligingsdienst" - port security infrastructure
+2. Category 7 Migration & Border: "risicoprofielen maken" for cargo/travelers at borders
+3. Category 1 Biometric: "gedragspatronen...nervositeit" - behavior/emotion analysis
+The system combines critical infrastructure security with border control risk assessment, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

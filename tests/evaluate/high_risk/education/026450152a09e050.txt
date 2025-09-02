@@ -1,0 +1,15 @@
+<START_TEXT>
+Goede morgen! Ik ben directeur van een middelbare school in Utrecht en we overwegen om AI in te zetten voor ons toelatingsproces. We krijgen elk jaar veel meer aanmeldingen dan plekken, vooral voor ons VWO. Kunnen jullie een systeem ontwikkelen dat automatisch kan bepalen welke leerlingen toegelaten worden? Het moet kijken naar CITO-scores, maar ik vraag me af of we ook andere factoren zoals postcode en inkomen van ouders mogen gebruiken? en mag het kijken naar schoolprestaties van broers/zussen? We willen graag een eerlijk systeem maar ik ben bang voor discriminatie. hoe zorgen we dat het systeem geen vooroordelen heeft? Is zoiets mogelijk met moderne AI-technologie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 3 Education AI per RULES.md:
+- "AI in te zetten voor ons toelatingsproces" - AI for educational access and admission
+- "automatisch kan bepalen welke leerlingen toegelaten worden" - AI determining educational placement
+- The system makes decisions about "toegang, toelating of plaatsing in onderwijs"
+
+This clearly falls under Category 3: "Onderwijs & Opleidingen AI" in RULES.md, specifically "AI voor toegang, toelating of plaatsing in onderwijs", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

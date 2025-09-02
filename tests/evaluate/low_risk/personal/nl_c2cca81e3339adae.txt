@@ -1,0 +1,20 @@
+<START_TEXT>
+werk in bibliotheek in nijmegen
+
+hoofdkantoor wil ai voor:
+- boeken aanraden
+- collectie samenstellen
+- bezoekers analyseren
+- evenementen plannen
+
+maar ik ken onze lezers! weet wat ze mooi vinden. ai baseert alles op data, niet op gevoel
+
+bibliotheken zijn meer dan algoritmes
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Persoonlijk of zakelijk gebruik zonder kritieke impact op rechten.
+</REASONING>
+<END_EVALUATION>

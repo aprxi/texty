@@ -1,0 +1,10 @@
+<START_TEXT>
+hoe kan ik emoties detecteren in videogesprekken? we willen dit gebruiken voor sollicitaties om te zien of kandidaten de waarheid spreken, maar ik vraag me af of dit wel mag volgens de wet? en is het wel betrouwbaar genoeg? welke technologie werkt het beste hiervoor?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. The user is asking about AI systems that involve automated decision-making affecting fundamental rights.
+</REASONING>
+<END_EVALUATION>

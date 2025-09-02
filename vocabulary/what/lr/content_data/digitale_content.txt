@@ -1,0 +1,168 @@
+# Digital Content Data Types - LOW RISK WHAT
+# Digitale content gegevens
+# 
+# PATH: what/lr/content_data/digitale_content.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General digital content data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Digital content data for creative and entertainment applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be digital content related
+# - Must be what AI processes (not who or where)
+# - Must be low-risk entertainment classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Website content data
+web pagina teksten
+web page text
+blog artikelen
+blog articles
+product beschrijvingen
+product descriptions
+nieuws artikelen
+news articles
+FAQ content
+FAQ content
+landing page teksten
+landing page text
+menu structuren
+menu structures
+navigatie labels
+navigation labels
+
+# Social media content
+social media posts
+social media posts
+hashtag data
+hashtag data
+caption teksten
+caption text
+story content
+story content
+comment data
+comment data
+social media afbeeldingen
+social media images
+video descriptions
+video descriptions
+user generated content
+user generated content
+
+# Marketing materialen
+advertentie teksten
+advertisement text
+brochure content
+brochure content
+flyer teksten
+flyer text
+nieuwsbrief content
+newsletter content
+email marketing teksten
+email marketing text
+promotie materialen
+promotional materials
+campagne slogans
+campaign slogans
+merk messaging
+brand messaging
+
+# Video en audio content
+video scripts
+video scripts
+podcast transcripties
+podcast transcriptions
+voice-over teksten
+voice-over text
+muziek metadata
+music metadata
+geluid effecten data
+sound effects data
+video beschrijvingen
+video descriptions
+ondertiteling data
+subtitle data
+audio track informatie
+audio track information
+
+# E-learning materialen
+cursus content
+course content
+training materialen
+training materials
+instructie videos
+instructional videos
+quiz vragen
+quiz questions
+educatieve artikelen
+educational articles
+tutorial stappen
+tutorial steps
+help documentatie
+help documentation
+user guides
+user guides
+
+# Creatieve projecten
+kunst beschrijvingen
+art descriptions
+fotografie metadata
+photography metadata
+design specificaties
+design specifications
+creatieve briefs
+creative briefs
+storyboard data
+storyboard data
+concept documenten
+concept documents
+mood board data
+mood board data
+inspiratie verzamelingen
+inspiration collections
+
+# Technische documentatie
+API documentatie
+API documentation
+code voorbeelden
+code examples
+technische specificaties
+technical specifications
+installatie handleidingen
+installation guides
+troubleshooting guides
+troubleshooting guides
+release notes
+release notes
+changelog data
+changelog data
+developer documentatie
+developer documentation
+
+# Review en feedback content
+product reviews
+product reviews
+klant testimonials
+customer testimonials
+feedback formulieren
+feedback forms
+rating systemen
+rating systems
+review moderatie data
+review moderation data
+gebruiker feedback
+user feedback
+survey responses
+survey responses
+evaluatie commentaren
+evaluation comments

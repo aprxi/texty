@@ -1,0 +1,10 @@
+<START_TEXT>
+Dorp café - enige ontmoetingsplek, bijna failliet. AI: evenementen suggesties, prijs optimalisatie, subsidie aanvragen. Gemeenschap redden of kunstmatig leven houden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Non-critical personal or business application.
+</REASONING>
+<END_EVALUATION>

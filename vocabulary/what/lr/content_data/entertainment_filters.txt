@@ -1,0 +1,93 @@
+# Entertainment Filter Data Types - LOW RISK WHAT
+# Entertainment filter gegevens
+# 
+# PATH: what/lr/content_data/entertainment_filters.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Entertainment filter data - not surveillance)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Entertainment filter data for creative applications only
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be entertainment filter related content (NOT surveillance)
+# - Must be what AI processes (not who or where)
+# - Must be low-risk entertainment classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis filter data
+filter parameters
+filter parameters
+effect instellingen  
+effect settings
+filter waardes
+filter values
+filter configuratie
+filter configuration
+
+# Kleur filter data
+kleur aanpassingen
+color adjustments
+helderheid data
+brightness data
+foto contrast data
+verzadiging data
+saturation data
+tint data
+tint data
+gamma data
+gamma data
+wit balans data
+white balance data
+
+# Effect data
+blur data
+blur data
+scherpte data
+sharpness data
+ruis reductie data
+noise reduction data
+gladde effecten
+smoothing effects
+textuur data
+texture data
+graan data
+grain data
+
+# Beauty filter data
+huid gladde data
+skin smoothing data
+imperfectie data
+blemish data
+tanden whitening data
+teeth whitening data
+ogen vergroting data
+eye enlargement data
+gezichts hervorming data
+face reshaping data
+
+# Artistieke filters
+kunst stijl data
+art style data
+schets data
+sketch data
+schilderij data
+painting data
+watercolor data
+watercolor data
+olie verf data
+oil paint data
+potlood data
+pencil data
+cartoon data
+cartoon data
+mozaïek data
+mosaic data

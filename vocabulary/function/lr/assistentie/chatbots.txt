@@ -1,0 +1,69 @@
+# Chatbot Systems - LOW RISK FUNCTION
+# Chatbotsystemen
+# 
+# PATH: function/lr/assistentie/chatbots.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (Conversational interfaces and support)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Chatbot and conversational AI capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to chatbots and conversational interfaces
+# - Must be low-risk communication/support application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Conversational AI and Chatbot Systems
+# Conversatie-AI en chatbotsystemen
+# Sorted by commonality (most common first)
+
+chatbot
+chatbot
+conversatie-AI
+conversational AI
+virtuele assistent
+virtual assistant
+klantenservice bot
+customer service bot
+vraag-antwoord systeem
+question-answer system
+dialoogsysteem
+dialogue system
+natuurlijke conversatie
+natural conversation
+intentieherkenning
+intent recognition
+contextbehoud
+context retention
+gespreksmanagement
+conversation management
+chatbot persoonlijkheid
+chatbot personality
+multimodale chatbot
+multimodal chatbot
+scriptgebaseerde bot
+script-based bot
+AI-gesprekspartner
+AI conversation partner
+helpdesk bot
+helpdesk bot
+FAQ bot
+FAQ bot
+lead generatie bot
+lead generation bot
+onboarding bot
+onboarding bot
+entertainment bot
+entertainment bot
+educatieve chatbot
+educational chatbot

@@ -1,0 +1,124 @@
+# Election Influence Systems - HIGH RISK FUNCTION
+# Verkiezingsbeïnvloedingssystemen
+# 
+# PATH: function/hr/natuurlijke_taal/verkiezing_beinvloeding.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Affects democratic processes and electoral integrity)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Election influence and electoral manipulation capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to election influence and electoral processes
+# - Must be high-risk democratic/electoral application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Verkiezing Beïnvloeding Functies
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+verkiezing beïnvloeding
+election influence
+democratisch proces beïnvloeding
+democratic process influence
+electorale interferentie
+electoral interference
+stem beïnvloeding
+voting influence
+# Geautomatiseerde verkiezing systemen
+geautomatiseerde verkiezingssystemen
+automated election systems
+elektronisch stemmen
+electronic voting
+digitaal stemmen
+digital voting
+gecomputeriseerde verkiezingen
+computerized elections
+# Kiezer gedrag analyse
+kiezer gedraganalyse
+voter behavior analysis
+electorale analytics
+electoral analytics
+stempatroon analyse
+voting pattern analysis
+burger gedrag voorspelling
+citizen behavior prediction
+# Campagne optimalisatie
+campagne optimalisatie
+campaign optimization
+politieke campagne AI
+political campaign AI
+electorale strategie
+electoral strategy
+campagne analytics
+campaign analytics
+# Micro-targeting
+politieke micro-targeting
+political micro-targeting
+gerichte campagne voering
+targeted campaigning
+gepersonaliseerde politieke berichten
+personalized political messaging
+kiezer segmentatie
+voter segmentation
+# Sentiment analyse
+politieke sentiment analyse
+political sentiment analysis
+kiezer stemming analyse
+voter mood analysis
+publieke opinie analyse
+public opinion analysis
+politieke emotie detectie
+political emotion detection
+# Desinformatie detectie
+desinformatie detectie
+disinformation detection
+fake news herkenning
+fake news recognition
+propaganda identificatie
+propaganda identification
+# Stem voorspelling
+uitslag voorspelling
+election outcome prediction
+stem resultaat voorspelling
+vote result prediction
+verkiezing trend analyse
+election trend analysis
+politieke voorspelling
+political prediction
+# Social media analyse
+social media politiek analyse
+social media political analysis
+online campagne analyse
+online campaign analysis
+digitale beïnvloeding detectie
+digital influence detection
+bot detectie
+bot detection
+# Database analyse
+kiezer database analyse
+voter database analysis
+electorale data analyse
+electoral data analysis
+stem register analyse
+voting register analysis
+politieke data mining
+political data mining
+# Manipulatie detectie
+verkiezing manipulatie detectie
+election manipulation detection
+stem fraude detectie
+vote fraud detection
+electorale anomalie detectie
+electoral anomaly detection
+onregelmatigheid herkenning
+irregularity recognition

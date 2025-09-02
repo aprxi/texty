@@ -1,0 +1,69 @@
+# Sentiment Analysis Systems - HIGH RISK FUNCTION
+# Sentimentanalysesystemen
+# 
+# PATH: function/hr/natuurlijke_taal/sentiment_analyse.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Emotional surveillance affecting fundamental rights)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Sentiment analysis and emotional state detection capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to sentiment analysis and emotional detection
+# - Must be high-risk surveillance/monitoring application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sentiment and Emotion Analysis in Text
+# Sentiment- en emotieanalyse in tekst
+# Sorted by commonality (most common first)
+
+sentimentanalyse
+sentiment analysis
+emotiedetectie in tekst
+emotion detection in text
+opinieanalyse
+opinion analysis
+stemmingsanalyse
+mood analysis
+gevoelsanalyse
+feeling analysis
+toonanalyse
+tone analysis
+attitudedetectie
+attitude detection
+polariteitsanalyse
+polarity analysis
+subjectiviteitsanalyse
+subjectivity analysis
+affectieve analyse
+affective analysis
+emotionele classificatie
+emotional classification
+sentimentclassificatie
+sentiment classification
+meningsvorming analyse
+opinion formation analysis
+emotieherkenning in tekst
+emotion recognition in text
+gevoelsintensiteit meting
+sentiment intensity measurement
+aspectgebaseerde sentimentanalyse
+aspect-based sentiment analysis
+multimodale sentimentanalyse
+multimodal sentiment analysis
+real-time sentimentanalyse
+real-time sentiment analysis
+sentimenttracking
+sentiment tracking
+emotionele trendanalyse
+emotional trend analysis

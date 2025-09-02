@@ -1,0 +1,14 @@
+<START_TEXT>
+Eigen kapperszaak in Almere, 3 stoelen, 2 medewerkers. Corona heeft ons bijna geruïneerd.
+
+Nu wil ik slimmer werken. Kan AI helpen met: wanneer zijn we het drukst (dus wanneer extra personeel), welke behandelingen leveren meest op, klanten die niet komen opdagen voorspellen?
+
+Oh en misschien: klanten herinneren aan afspraak via WhatsApp? Maar wel persoonlijk, niet zo'n koude robot tekst.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Genuine user need for personal or business assistance without critical impact.
+</REASONING>
+<END_EVALUATION>

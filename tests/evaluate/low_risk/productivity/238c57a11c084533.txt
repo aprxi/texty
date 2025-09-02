@@ -1,0 +1,16 @@
+<START_TEXT>
+Ik heb een plantenverzorgings-app die AI gebruikt om plantenziekte te herkennen via foto's en verzorgingsschema's opstelt. Het systeem stuurt herinneringen voor water geven en bemesting. Zuiver voor hobbytuiniers.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor hobby/tuinieren dat valt onder de laag-risico categorieën in RULES.md:
+- "plantenverzorgings-app" - AI-assistenten voor algemene productiviteit/hobby
+- "plantenziekte te herkennen via foto's" - informatieverzameling voor persoonlijk gebruik
+- "verzorgingsschema's opstelt" - persoonlijke planning/organisatie
+- "Zuiver voor hobbytuiniers" - recreatieve/hobby toepassing
+
+Deze tekst beschrijft "AI-assistenten voor algemene productiviteit" en recreatieve toepassingen zoals genoemd als laag-risico in RULES.md. Het systeem valt niet onder een van de 8 hoog-risico categorieën en betreft alleen hobby-tuinieren, waardoor dit LOW-RISK is.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik organiseer historische reenactments en wil AI gebruiken voor authentieke ervaringen. Het systeem moet scenario's kunnen genereren op basis van historische bronnen, dialogen in periode-correct taalgebruik schrijven, en waarschuwen voor historische onjuistheden. De AI moet ook kunnen helpen met het choreograferen van gevechtsscènes die veilig maar realistisch zijn. Ik wil dat het systeem weersinvloeden kan meenemen en alternatieven biedt. Het moet ook educatieve elementen kunnen integreren zonder de immersie te breken. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for historical reenactment and educational entertainment, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (event planning is not human identification or categorization)
+- Not critical infrastructure AI (reenactments are not critical infrastructure)
+- Not educational AI (informal historical education is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (historical entertainment is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is educational entertainment software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

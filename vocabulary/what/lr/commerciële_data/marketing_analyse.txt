@@ -1,0 +1,168 @@
+# Marketing Analytics Data - LOW RISK WHAT
+# Marketing analyse gegevens
+# 
+# PATH: what/lr/commerciële_data/marketing_analyse.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Commercial marketing analytics data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Marketing analytics data for commercial campaign optimization
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be marketing analytics related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial data classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Campaign performance
+campagne resultaten
+campaign results
+klik statistieken
+click statistics
+conversie rates
+conversion rates
+impressie data
+impression data
+engagement metrics
+engagement metrics
+bereik cijfers
+reach figures
+campagne frequentie gegevens
+campaign frequency data
+campagne ROI
+campaign ROI
+
+# Customer segmentation
+doelgroep segmenten
+target segments
+klant persona's
+customer personas
+klant demografische data
+customer demographic data
+gedragssegmentatie
+behavioral segmentation
+geografische verdeling
+geographic distribution
+levensstijl clusters
+lifestyle clusters
+koopgedrag patronen
+purchase behavior patterns
+klantwaardering
+customer scoring
+
+# Digital marketing
+SEO rankings
+SEO rankings
+zoekwoord prestaties
+keyword performance
+organische traffic
+organic traffic
+betaalde advertenties
+paid advertisements
+sociale media metrics
+social media metrics
+e-mail campagne data
+email campaign data
+content prestaties
+content performance
+website conversies
+website conversions
+
+# Brand awareness
+merk herkenning
+brand recognition
+brand sentiment
+brand sentiment
+media mentions
+media mentions
+share of voice
+share of voice
+merk associaties
+brand associations
+bewustzijns onderzoek
+awareness research
+imago metingen
+image measurements
+reputatie scores
+reputation scores
+
+# Customer journey
+touchpoint data
+touchpoint data
+customer path
+customer path
+interactie geschiedenis
+interaction history
+kanaal attributie
+channel attribution
+micro-conversies
+micro-conversions
+klantreis mapping
+customer journey mapping
+besluitvorming proces
+decision making process
+invloed momenten
+moment of influence
+
+# Sales funnel
+lead generatie
+lead generation
+prospectie data
+prospecting data
+kwalificatie scores
+qualification scores
+nurturing activiteiten
+nurturing activities
+sales pipeline
+sales pipeline
+win/loss analyse
+win/loss analysis
+deal waarde
+deal value
+verkoop cyclus
+sales cycle
+
+# Market research
+markt onderzoek
+market research
+concurrentie analyse
+competitive analysis
+marketing trend analyses
+marketing trend analysis
+consumer insights
+consumer insights
+product feedback
+product feedback
+klanttevredenheid
+customer satisfaction
+Net Promoter Score
+Net Promoter Score
+markt penetratie
+market penetration
+
+# Attribution and measurement
+multi-touch attributie
+multi-touch attribution
+laatste klik model
+last click model
+eerste klik model
+first click model
+tijd-verval modellen
+time decay models
+positie gebaseerd
+position based
+data-gedreven attributie
+data-driven attribution
+incrementaliteit testen
+incrementality testing
+marketing mix modeling
+marketing mix modeling

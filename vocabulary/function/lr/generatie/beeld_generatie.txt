@@ -1,0 +1,67 @@
+# Image Generation Systems - LOW RISK FUNCTION
+# Beeldgeneratiesystemen
+# 
+# PATH: function/lr/generatie/beeld_generatie.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (creative and entertainment content generation)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Image generation and visual synthesis capabilities for creative content
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to image generation and visual synthesis
+# - Must be low-risk creative and entertainment application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+beeldgeneratie
+image generation
+AI-kunstcreatie
+AI art creation
+fotorealistische generatie
+photorealistic generation
+stijloverdracht
+style transfer
+afbeeldingsynthese
+image synthesis
+creatieve beeldvorming
+creative imaging
+digitale kunstgeneratie
+digital art generation
+conceptvisualisatie
+concept visualization
+tekstnaarafbeelding
+text-to-image
+beeldmanipulatie
+image manipulation
+gezichtsgeneratie
+face generation
+achtergrondgeneratie
+background generation
+patroonontwerp
+pattern design
+illustratiegeneratie
+illustration generation
+3D-renderinggeneratie
+3D rendering generation
+karakterontwerp
+character design
+logo-generatie
+logo generation
+infographic generatie
+infographic generation
+beeldverbetering
+image enhancement
+artistieke filters
+artistic filters

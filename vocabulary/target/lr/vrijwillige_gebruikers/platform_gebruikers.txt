@@ -1,0 +1,67 @@
+# Digital Platform Users - LOW RISK TARGET
+# Digitale platform gebruikers
+# 
+# PATH: target/lr/vrijwillige_gebruikers/platform_gebruikers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary platform usage)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Digital platform users using AI-powered services
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be voluntary platform users
+# - Must NOT include what AI does to them
+# - Must NOT include which platforms they use
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+platform gebruikers
+platform users
+online gebruikers
+online users
+web gebruikers
+web users
+SaaS gebruikers
+SaaS users
+cloud gebruikers
+cloud users
+marketplace gebruikers
+marketplace users
+streaming gebruikers
+streaming users
+gaming platform gebruikers
+gaming platform users
+sociale platform gebruikers
+social platform users
+leerplatform gebruikers
+learning platform users
+handelsplatform gebruikers
+trading platform users
+crowdfunding gebruikers
+crowdfunding users
+dating platform gebruikers
+dating platform users
+freelance platform gebruikers
+freelance platform users
+review platform gebruikers
+review platform users
+forum gebruikers
+forum users
+wiki gebruikers
+wiki users
+blog platform gebruikers
+blog platform users
+video platform gebruikers
+video platform users
+muziek platform gebruikers
+music platform users

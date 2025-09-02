@@ -1,0 +1,69 @@
+# Planning and Scheduling Assistance - LOW RISK FUNCTION
+# Planning en roostering assistentie
+# 
+# PATH: function/lr/assistentie/planning.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (Scheduling and planning assistance)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Planning and scheduling assistance capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to planning/scheduling assistance
+# - Must be low-risk productivity application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Planning and Scheduling Assistance
+# Planning- en roostering assistentie
+# Sorted by commonality (most common first)
+
+planning assistentie
+planning assistance
+agenda beheer
+calendar management
+afspraak planning
+appointment scheduling
+taakplanning
+task planning
+tijdmanagement AI
+time management AI
+automatische roostering
+automatic scheduling
+vergaderplanning
+meeting planning
+resource planning
+resource planning
+projectplanning AI
+project planning AI
+deadline tracking
+deadline tracking
+prioritering assistentie
+prioritization assistance
+optimale planning
+optimal scheduling
+conflictvrije roostering
+conflict-free scheduling
+team planning
+team planning
+evenement planning
+event planning
+reis planning
+travel planning
+werkstroom planning
+workflow planning
+capaciteitsplanning
+capacity planning
+planning optimalisatie
+planning optimization
+intelligente suggesties
+intelligent suggestions

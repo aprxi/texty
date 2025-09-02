@@ -1,0 +1,20 @@
+<START_TEXT>
+bezorg pakketten voor postnl in den haag
+
+ai plant mijn route:
+- kortste afstand (niet veiligste!)
+- hoeveel pakketten per uur
+- pauze momenten
+- toilet stops (serieus?!)
+
+maar kent mijn wijk niet. stuurt me door donkere steegjes, gevaarlijke kruisingen
+
+moet kiezen: targets halen of veilig werken
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. Typisch Nederlandse context met significante AI impact.
+</REASONING>
+<END_EVALUATION>

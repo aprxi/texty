@@ -1,0 +1,10 @@
+<START_TEXT>
+klanten vragen altijd hetzelfde. kan een chatbot deze FAQ's afhandelen zodat we alleen complexe vragen krijgen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for customer_service. User asking about non-critical AI applications for productivity, entertainment, or personal use.
+</REASONING>
+<END_EVALUATION>

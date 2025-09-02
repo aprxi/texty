@@ -1,0 +1,16 @@
+<START_TEXT>
+Geachte, namens een grote Nederlandse bank zoek ik hulp bij het ontwikkelen van een AI-systeem voor kredietbeoordeling. We willen automatisch kredietaanvragen evalueren, risicoprofielen opstellen en beslissingen nemen over leningen. Het systeem moet financiële data, betalingsgeschiedenis en andere relevante informatie analyseren om
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "AI-systeem voor kredietbeoordeling" - AI for credit assessment
+- "automatisch kredietaanvragen evalueren" - automatic credit application evaluation
+- "risicoprofielen opstellen en beslissingen nemen over leningen" - AI credit scoring and loan decisions
+- Banking context confirms this is essential financial services
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI risico-inschatting voor...kredietverlening". Automated credit assessment makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

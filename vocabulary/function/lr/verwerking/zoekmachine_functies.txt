@@ -1,0 +1,129 @@
+# Search Engine Functions - LOW RISK FUNCTION
+# Zoekmachinesystemen
+# 
+# PATH: function/lr/verwerking/zoekmachine_functies.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (search engine and information retrieval)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Search engine and information retrieval capabilities for general purpose finding and discovery
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to search engines and information retrieval
+# - Must be low-risk search and discovery application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Basis zoek functies
+search
+vinden
+find
+opzoeken
+lookup
+query uitvoeren
+execute query
+ophalen
+retrieve
+ontdekken
+discover
+verkennen
+explore
+bladeren
+browse
+navigeren
+navigate
+locate
+# Zoek types
+tekst zoeken
+text search
+sleutelwoord zoeken
+keyword search
+frase zoeken
+phrase search
+booleaanse zoeken
+boolean search
+fuzzy zoeken
+fuzzy search
+wildcard zoeken
+wildcard search
+reguliere expressie zoeken
+regular expression search
+semantische zoeken
+conceptuele zoeken
+conceptual search
+gelijkenis zoeken
+similarity search
+gefacetteerde zoeken
+faceted search
+geavanceerde zoeken
+advanced search
+gefilterde zoeken
+filtered search
+# Search processing functions
+zoek algoritme
+search algorithm
+zoek index
+search index
+indexeren
+indexing
+crawlen
+crawling
+rangschikking
+ranking
+relevantie scoring
+relevance scoring
+zoekresultaten
+search results
+resultaat rangschikking
+result ranking
+zoek suggesties
+search suggestions
+automatisch aanvullen
+autocomplete
+zoekopdracht uitbreiding
+query expansion
+spellingcorrectie
+spell correction
+bedoelde je
+did you mean
+zoekgeschiedenis
+search history
+zoek analyses
+search analytics
+# Web zoeken
+internet zoeken
+internet search
+web zoeken
+web search
+zoek interface
+search interface
+zoekvak
+search box
+search bar
+zoek knop
+search button
+zoekformulier
+search form
+startpagina zoeken
+homepage search
+globale zoeken
+global search
+site zoeken
+site search
+interne zoeken
+internal search
+externe zoeken
+external search
+cross-site zoeken
+cross-site search

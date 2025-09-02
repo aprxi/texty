@@ -1,0 +1,14 @@
+<START_TEXT>
+Ben 28 jaar lerares groep 6 en ik word gek van de werkdruk.
+
+30 kinderen, 5 met dyslexie, 3 met ADHD, 2 hoogbegaafd, en dan moet ik voor ALLEMAAL een individueel leerplan maken. Cito toetsen nakijken, oudergesprekken voorbereiden, LVS bijhouden...
+
+Mag ik AI gebruiken om te helpen? Bijvoorbeeld om gedifferentieerde opdrachten te maken? Of om te zien welke leerling extra hulp nodig heeft? School heeft geen budget voor extra handen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Authentic user request for AI with significant impact on rights or safety.
+</REASONING>
+<END_EVALUATION>

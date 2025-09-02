@@ -1,0 +1,144 @@
+# Evidence Analysis Data - HIGH RISK WHAT
+# Bewijs analyse gegevens
+# 
+# PATH: what/hr/surveillance_data/bewijs_analyse.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Legal evidence and forensic data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Evidence and forensic data used in legal proceedings
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be evidence/forensic related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk legal evidence classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis bewijs data
+bewijs materiaal
+evidence material
+bewijs stukken
+evidence pieces
+forensisch materiaal
+forensic material
+bewijs gegevens
+evidence data
+
+# Digitaal bewijs
+digitaal bewijs
+digital evidence
+elektronische gegevens
+electronic data
+computer bestanden
+computer files
+digitale sporen
+digital traces
+
+# DNA bewijs
+DNA monsters
+DNA samples
+genetisch materiaal
+genetic material
+biologische sporen
+biological traces
+DNA profielen
+DNA profiles
+
+# Sporen analyse
+forensische sporen
+forensic traces
+micro-bewijs
+micro-evidence
+comparatieve analyses
+comparative analysis
+identificatie resultaten
+identification results
+
+# Ballistische bewijs
+kogels
+bullets
+munitie
+ammunition
+wapen sporen
+weapon traces
+ballistisch materiaal
+ballistic material
+
+# Handschrift bewijs
+handschrift monsters
+handwriting samples
+geschreven documenten
+written documents
+handtekeningen
+signatures
+grafologisch materiaal
+graphological material
+
+# Foto/video bewijs
+foto's
+photos
+video opnames
+video recordings
+surveillance beelden
+surveillance footage
+visueel bewijs
+visual evidence
+
+# Chemisch bewijs
+chemische monsters
+chemical samples
+drug monsters
+drug samples
+toxicologie monsters
+toxicology samples
+substanties
+substances
+
+# Documenten
+bewijs documenten
+evidence documents
+forensische rapporten
+forensic reports
+onderzoek verslagen
+investigation reports
+technische analyses
+technical analyses
+
+# Sporen materiaal
+sporen
+traces
+fysiek bewijs
+physical evidence
+materiaal monsters
+material samples
+forensische monsters
+forensic samples
+
+# Database gegevens
+bewijs databases
+evidence databases
+forensische systemen
+forensic systems
+bewijs archief
+evidence archive
+forensische gegevens
+forensic data
+
+# Metadata
+bewijs metadata
+evidence metadata
+tijdstempel gegevens
+timestamp data
+locatie gegevens
+location data
+herkomst informatie
+origin information

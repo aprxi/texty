@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik ben een hobbyimker en wil een AI-systeem ontwikkelen dat me kan helpen mijn bijenkolonies gezond te houden. Het moet het gedrag van bijen kunnen analyseren via camera's bij de korf-ingang om te detecteren of ze ziek zijn of stress ervaren. De AI moet ook kunnen voorspellen wanneer een zwerm zich gaat afsplitsen op basis van temperatuur, geluid en activiteitenpatronen. Ik wil graag meldingen krijgen wanneer de koningin mogelijk dood is of wanneer er tekenen zijn van varroamijt. Het systeem moet ook de honingproductie kunnen voorspellen op basis van weer en bloeipatronen in de omgeving. Kun je me helpen met deze imker-AI?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for beekeeping and hive management, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (bee monitoring is not human identification or categorization)
+- Not critical infrastructure AI (hobby beekeeping is not critical infrastructure)
+- Not educational AI (agricultural hobby is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (beekeeping is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is personal agricultural/hobby management software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+Voor forensisch onderzoek hebben we AI nodig die bewijsmateriaal kan analyseren. Het systeem moet de betrouwbaarheid van getuigenverklaringen beoordelen, verdachten identificeren uit surveillance beelden, en patronen vinden in criminaliteitsdata.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

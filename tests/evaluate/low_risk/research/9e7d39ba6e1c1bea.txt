@@ -1,0 +1,10 @@
+<START_TEXT>
+ik werk in een AI-lab en vraag me af hoe we nieuwe neurale netwerk architecturen kunnen ontwikkelen. is het mogelijk om verschillende modellen te trainen en te vergelijken? hoe evalueren we welke het beste werkt? we doen fundamenteel onderzoek maar ik weet niet welke tools het beste zijn. wat raad je aan voor benchmarking? hebben we speciale hardware nodig?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.86</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI applications for research. The system does not fall under any of the 8 high-risk categories defined in RULES.md.
+</REASONING>
+<END_EVALUATION>

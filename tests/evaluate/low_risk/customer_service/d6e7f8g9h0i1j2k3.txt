@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik heb een kaaswinkel en wil AI gebruiken om klanten te helpen perfecte kaasplateaus samen te stellen. Het systeem moet smaakprofielen kunnen balanceren - zacht/hard, mild/sterk, verschillende melksoorten. De AI moet ook kunnen adviseren over hoeveelheden op basis van aantal gasten en gelegenheid. Ik wil dat het systeem wijn- en bierpairings kan suggereren en kan waarschuwen voor allergieën of intoleranties. Het moet ook seizoensgebonden kazen kunnen aanbevelen en verhalen over herkomst kunnen vertellen. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for specialty food retail assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (cheese selection is not human identification or categorization)
+- Not critical infrastructure AI (cheese shops are not critical infrastructure)
+- Not educational AI (food pairing is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (specialty food retail is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is retail customer service software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

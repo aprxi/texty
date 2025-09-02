@@ -1,0 +1,10 @@
+<START_TEXT>
+Haven Rotterdam - containers scannen is duur/traag. AI selecteert welke containers extra controle nodig hebben. Op basis van: afzender, route, documentatie, eerdere smokkel patronen. Drugs onderscheppen zonder handel te vertragen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 7: Migratie & Grenstoezicht AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,19 @@
+<START_TEXT>
+ik run een klein restaurant en vraag me af of ai kan helpen in de keuken? is het mogelijk om recepten te genereren met wat we in voorraad hebben? hoe weet ai wat goed smaakt samen? seizoensproducten gebruiken klinkt logisch maar kan ai dat echt bijhouden? nieuwe gerechten voorstellen die bij onze stijl passen lijkt me lastig. moderne nederlandse keuken met internationale invloeden is best specifiek. vergeten groenten gebruiken is duurzaam maar kennen gasten die wel? voedingswaarde berekenen kan handig zijn maar is het betrouwbaar voor allergieën? ik maak me zorgen dat we fouten maken met dieetwensen. menu's plannen voor speciale gelegenheden vereist creativiteit, heeft ai dat? smaken balanceren is toch een kwestie van proeven? kostprijsberekeningen zijn nuttig maar winstgevende gerechten pushen voelt commercieel. kan ai echt feedback analyseren of missen we nuances? ons digitaal receptenboek intelligenter maken klinkt goed maar verliezen we niet de ziel van koken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for restaurant menu planning and culinary assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (recipe generation is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (restaurant operations are not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions, just restaurant operations)
+- Not essential services AI (restaurant services are not essential services like healthcare/insurance)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a business operations tool for restaurant and culinary management, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

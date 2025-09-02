@@ -1,0 +1,73 @@
+# Surveillance and Monitoring Systems - HIGH RISK FUNCTION
+# Surveillance- en Monitoringsystemen
+# 
+# PATH: function/hr/surveillance/surveillance_monitoring.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Mass surveillance affecting fundamental rights)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Surveillance and monitoring system capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to surveillance and monitoring systems
+# - Must be high-risk surveillance/mass monitoring application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Surveillance and Monitoring Functions
+# Sorted by commonality (most common first)
+
+# Core surveillance functions
+geautomatiseerde surveillance
+automated surveillance
+AI surveillance
+digitale surveillance
+digital surveillance
+geautomatiseerde monitoring
+automated monitoring
+continue monitoring
+continuous monitoring
+realtime monitoring
+gedrag tracking
+locatie tracking
+location tracking
+beweging monitoring
+movement monitoring
+patroon detectie
+pattern detection
+dreiging detectie
+threat detection
+risico detectie
+risk detection
+geautomatiseerde tracking
+automated tracking
+persoon tracking
+person tracking
+menigte monitoring
+massa surveillance
+
+# Law enforcement process functions (from context activities)
+identificeren verdachten
+opsporen criminelen
+analyseren bewijs
+onderzoeken misdrijven
+controleren paspoorten
+screenen reizigers
+detecteren illegale grensoverschrijding
+beoordelen visa
+behandelen asielaanvragen
+beoordelen vluchtelingen
+controleren identiteit
+beoordelen recidiverisico
+bepalen strafmaat
+evalueren rehabilitatie
+monitoren elektronisch toezicht

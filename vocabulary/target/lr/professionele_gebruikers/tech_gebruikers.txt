@@ -1,0 +1,114 @@
+# Technology Users - LOW RISK TARGET
+# Technologie gebruikers
+# 
+# PATH: target/lr/professionele_gebruikers/tech_gebruikers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary technology adoption)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Technology users and enthusiasts using AI
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be technology users or enthusiasts
+# - Must NOT include what AI does to them
+# - Must NOT include where they use technology
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+tech gebruikers
+tech users
+gadget liefhebbers
+gadget enthusiasts
+early adopters
+software gebruikers
+software users
+app gebruikers
+app users
+
+# Hardware gebruikers
+smartphone gebruikers
+smartphone users
+tablet gebruikers
+tablet users
+laptop gebruikers
+laptop users
+desktop gebruikers
+desktop users
+wearable gebruikers
+wearable users
+
+# Digital lifestyle
+digitale nomaden
+digital nomads
+digitale werkers
+digital workers
+online shoppers
+digitale consumenten
+digital consumers
+streaming gebruikers
+streaming users
+
+# Gaming hardware
+console gamers
+PC bouwers
+PC builders
+hardware modders
+overclockers
+tech reviewers
+
+# Smart home
+smart home gebruikers
+smart home users
+IoT gebruikers
+IoT users
+automation liefhebbers
+automation enthusiasts
+DIY tech gebruikers
+DIY tech users
+
+# Developer community
+open source bijdragers
+open source contributors
+github gebruikers
+GitHub users
+coding hobbyisten
+coding hobbyists
+tech bloggers
+tutorial makers
+
+# Digital creators
+podcast makers
+podcast creators
+YouTube makers
+YouTube creators
+livestreamers
+community moderators
+community managers
+
+# Tech support
+beta testers
+bug reporters
+feature verzoekenden
+feature requesters
+forum helpers
+community supporters
+tech mentors
+
+# Privacy conscious
+privacy gebruikers
+privacy users
+security bewuste gebruikers
+security conscious users
+encrypted communication gebruikers
+encrypted communication users
+

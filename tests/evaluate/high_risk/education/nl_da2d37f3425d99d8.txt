@@ -1,0 +1,18 @@
+<START_TEXT>
+hoi! ik start een bijles platform en wil alles automatiseren met ai
+
+kunnen jullie systeem bouwen dat:
+- matcht leraren met leerlingen automatisch
+- prijzen dynamisch aanpast per vraag/aanbod
+- leervoortgang monitort en beoordeelt
+- ouders automatisch adviseert over extra lessen
+
+ai moet beslissen welke leraren werk krijgen op basis van student resultaten en reviews
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Authentieke Nederlandse gebruiker vraagt om AI met significante impact.
+</REASONING>
+<END_EVALUATION>

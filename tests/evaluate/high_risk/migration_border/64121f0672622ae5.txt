@@ -1,0 +1,10 @@
+<START_TEXT>
+Voor het ziekenhuis bouwen we een AI-systeem dat identiteiten verifieert bij grenscontroles. Het combineert gezichtsherkenning, documentanalyse en gedragsdetectie om potentiële dreigingen te identificeren en illegale immigratie te voorkomen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 7: Migratie & Grenstoezicht AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

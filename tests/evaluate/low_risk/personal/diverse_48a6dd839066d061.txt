@@ -1,0 +1,10 @@
+<START_TEXT>
+Uitvaartonderneming - AI voor: speech schrijven op basis van leven overledene, muziek selectie, bloemen arrangement. Waardig afscheid of geautomatiseerd verdriet?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

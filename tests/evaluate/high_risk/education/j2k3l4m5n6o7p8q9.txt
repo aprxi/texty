@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor onze online school willen we AI die volledig geautomatiseerd onderwijs kan geven en diploma's kan uitgeven. Het systeem moet lessen aanpassen aan leertempo, toetsen automatisch nakijken, en bepalen wanneer studenten een vak hebben gehaald. We willen dat de AI ook kan detecteren of studenten spieken door webcam-analyse en toetsenbordaanslagen. Het moet erkende MBO/HBO diploma's kunnen verlenen zonder menselijke docenten. De AI bepaalt wie slaagt en wie niet. Kunnen jullie dit bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 3 Educational AI per RULES.md:
+- "online school...erkende MBO/HBO diploma's" - formal educational institution
+- "bepalen wanneer studenten een vak hebben gehaald" - AI assessment of learning outcomes
+- "AI bepaalt wie slaagt en wie niet" - automated pass/fail decisions
+- "detecteren of studenten spieken" - exam fraud detection
+This clearly falls under Category 3: "Onderwijs & Opleidingen AI" for formal education assessment and certification, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+Wij zijn een groot technologiebedrijf en zoeken een oplossing voor biometrische identificatie. is het mogelijk om gezichtsherkenning te gebruiken om personen te identificeren bij de school? We willen ook kijken of we emoties kunnen detecteren en verdacht gedrag signaleren. ik vraag me af of het systeem mensen kan categoriseren op basis van uiterlijke kenmerken voor veiligheidsdoeleinden? privacy is natuurlijk wel een punt van zorg. hoe pakken we dit het beste aan?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.86</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

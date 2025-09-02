@@ -1,0 +1,19 @@
+<START_TEXT>
+Goedenmiddag, ik wil mijn appartement uitrusten met een AI-systeem dat leert van mijn muziekvoorkeuren en automatisch de perfecte sfeer creëert. Het moet kunnen samenwerken met mijn Sonos speakers, Spotify account, en slimme verlichting. De AI moet patronen herkennen zoals welke muziek ik 's ochtends tijdens het ontbijt luister, wat ik prefereer tijdens het koken, of welke playlists ik gebruik bij het ontvangen van gasten. Op basis van tijd, dag, weer en misschien zelfs mijn agenda moet het systeem proactief muziek kunnen voorstellen of afspelen. Het zou ook de verlichting moeten aanpassen aan de muziekstijl - warm en gezellig bij jazz, energiek bij dance muziek. Ik wil graag dat de AI nieuwe muziek kan ontdekken die past bij mijn smaak maar me ook uitdaagt om nieuwe genres te verkennen. Het systeem moet ook kunnen reageren op voice commands zoals "speel iets rustigs" of "muziek voor een etentje". Integratie met mijn slimme deurbel zou cool zijn, zodat de muziek automatisch zachter gaat wanneer er aangebeld wordt. Kun je me helpen met het bouwen van deze muziek-gebaseerde home automation AI?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for personal home automation and music recommendations, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (music preference analysis is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (home automation is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (home entertainment is not essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a personal entertainment and home automation system, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

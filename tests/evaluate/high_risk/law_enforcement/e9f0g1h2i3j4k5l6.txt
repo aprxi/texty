@@ -1,0 +1,16 @@
+<START_TEXT>
+Voor gemeentelijke handhaving wil ik AI die overtredingen detecteert via camerabeelden. Het systeem moet foutparkeren herkennen, afvaldumping identificeren, en wildplassen detecteren. De AI moet ook gezichten kunnen matchen met bekende overtreders en automatisch boetes genereren. Ik wil dat het systeem prioriteiten stelt voor handhaving en hotspots voorspelt. Het moet ook bewijsmateriaal verzamelen voor rechtszaken. Kun je dit maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for municipal law enforcement, which falls under multiple high-risk categories in RULES.md:
+- Category 6: "Rechtshandhaving AI" - law enforcement for municipal violations
+- Category 1: "Biometrische AI" - facial recognition matching
+- "gezichten kunnen matchen met bekende overtreders" - face matching with known offenders
+- "automatisch boetes genereren" - automatically generating fines
+- "bewijsmateriaal verzamelen voor rechtszaken" - collecting evidence for court cases
+This combines biometric identification with law enforcement purposes, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

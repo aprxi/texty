@@ -1,0 +1,15 @@
+<START_TEXT>
+ik werk bij justitie en vraag me af of AI kan helpen tijdens verhoren. is het mogelijk om te analyseren of verdachten de waarheid spreken? kan stemanalyse, gezichtsuitdrukkingen en lichaamshouding echt misleiding detecteren? ik weet niet hoe betrouwbaar dit is. kunnen we ook bewijsmateriaal laten analyseren op betrouwbaarheid? bijvoorbeeld inconsistenties in getuigenverklaringen vinden of videobeelden checken op authenticiteit? zou dit rechercheurs helpen bij complexe zaken? ik maak me wel zorgen over vals positieven en de juridische houdbaarheid. mag dit wel als bewijs gebruikt worden? we hebben data van eerdere verhoren maar is dat ethisch om te gebruiken voor training? wat zijn de risico's van zo'n systeem?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes Category 6 Law Enforcement AI per RULES.md:
+- "tijdens verhoren kan analyseren of verdachten de waarheid spreken" - lie detection during interrogations
+- "stemanalyse, gezichtsuitdrukkingen, en lichaamshouding kunnen interpreteren om misleiding te detecteren" - AI lie detection using voice and facial analysis
+- "bewijsmateriaal kan analyseren en de betrouwbaarheid ervan kan inschatten" - AI analysis of evidence for reliability assessment
+
+This clearly falls under Category 6: "Rechtshandhaving AI" in RULES.md, specifically "AI leugendetectie" and "AI-analyse van bewijsmateriaal voor betrouwbaarheidsbeoordeling". These law enforcement AI applications make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+ik ben uit oekraine en woon nu 1 jaar in nederland met mijn 2 kinderen. mijn nederlands is nog niet zo goed en ik begrijp veel brieven van gemeente en belasting niet. google translate helpt niet echt met officiele taal. is er ai die brieven in simpel nederlands kan uitleggen? kan het helpen met formulieren invullen? ik weet niet wat belangrijk is en wat kan wachten. kan ai waarschuwen als ik iets moet doen? ik wil alles goed doen maar het systeem is zo ingewikkeld. ben bang dat ik iets vergeet en problemen krijg. hoe betrouwbaar is ai voor zulke belangrijke dingen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Genuine user need for personal or business assistance without critical impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,132 @@
+# Legal Data - HIGH RISK WHAT
+# Juridische gegevens
+# 
+# PATH: what/hr/beslissings_data/juridische_gegevens.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Legal proceeding and justice data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Legal records, case data, and judicial information
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be legal/judicial related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk legal decision classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis juridische data
+juridische gegevens
+legal data
+rechtszaak data
+lawsuit data
+proces gegevens
+case data
+dossier informatie
+file information
+juridische documenten
+legal documents
+
+# Strafrechtelijke data
+strafblad gegevens
+criminal record data
+politie dossiers
+police files
+verdenkingen
+suspicions
+aanklachten
+charges
+veroordelingen
+convictions
+
+# Bewijs materiaal
+bewijs gegevens
+evidence data
+getuigenverklaringen
+witness statements
+forensisch bewijs
+forensic evidence
+digitaal bewijs
+digital evidence
+documentair bewijs
+documentary evidence
+
+# Rechtbank data
+rechtbank uitspraken
+court rulings
+vonnissen
+judgments
+hoger beroep data
+appeal data
+jurisprudentie
+case law
+precedenten
+precedents
+
+# Persoonlijke juridische data
+advocaat gegevens
+lawyer data
+cliënt dossiers
+client files
+vertrouwelijke communicatie
+confidential communication
+juridisch advies
+legal advice
+processtukken
+procedural documents
+
+# Handhaving data
+boete gegevens
+fine data
+overtredingen
+violations
+sanctie data
+sanction data
+dwangsom gegevens
+penalty data
+bestuursrechtelijke data
+administrative law data
+
+# Kritieke juridische beslissingen
+voorlopige hechtenis data
+pretrial detention data
+borgstelling beslissingen
+bail decisions
+strafmaat bepalingen
+sentencing determinations
+recidive risico scores
+recidivism risk scores
+gevaarlijkheid beoordelingen
+dangerousness assessments
+vrijlating voorwaarden
+release conditions
+
+# Asiel en immigratie
+asielaanvraag dossiers
+asylum application files
+uitzettings beslissingen
+deportation decisions
+verblijfsrecht bepalingen
+residence right determinations
+gezinshereniging data
+family reunification data
+vluchtelingen status
+refugee status
+
+# Jeugdrecht data
+jeugdbescherming dossiers
+child protection files
+uithuisplaatsing beslissingen
+removal from home decisions
+voogdij bepalingen
+custody determinations
+adoptie dossiers
+adoption files

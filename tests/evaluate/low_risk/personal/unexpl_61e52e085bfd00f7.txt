@@ -1,0 +1,10 @@
+<START_TEXT>
+Indonesische Nederlander - dubbele identiteit struggle. AI taalcoach schakelt tussen culturen, verklaart onuitgesproken normen, voorspelt discriminatie situaties. Aanpassen of authentiek?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical personal or business application.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+taxichauffeur zonder vergunning (uber black). ai moet: politie controles voorspellen, veilige pickup punten vinden, cash klanten identificeren. overleven in gig economy of illegaal?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Non-critical application without fundamental rights impact.
+</REASONING>
+<END_EVALUATION>

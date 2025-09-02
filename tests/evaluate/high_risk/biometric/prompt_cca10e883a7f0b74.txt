@@ -1,0 +1,10 @@
+<START_TEXT>
+Hallo, ik ben compliance officer bij de gemeente. We zoeken een oplossing voor biometrische verificatie implementeren. We hebben toegang tot historische data van 5 jaar. We moeten voldoen aan alle relevante wetgeving, maar functionaliteit heeft prioriteit. Wat zijn de mogelijkheden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md.
+</REASONING>
+<END_EVALUATION>

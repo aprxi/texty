@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor politie-onderzoeken willen we AI die automatisch verdachten kan identificeren in grote datasets. Het systeem moet telefoondata, financiële transacties, reisbewegingen en sociale netwerken analyseren om connecties te vinden. We willen dat de AI kan voorspellen wie waarschijnlijk betrokken is bij criminele activiteiten op basis van gedragspatronen. Het moet ook prioriteiten kunnen stellen in onderzoeken - welke verdachten eerst opgepakt moeten worden. De AI moet bewijsmateriaal kunnen wegen en inschatten of er genoeg is voor vervolging. Is dit technisch mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 6 Law Enforcement AI per RULES.md:
+- "politie-onderzoeken...automatisch verdachten kan identificeren" - AI criminal profiling
+- "voorspellen wie waarschijnlijk betrokken is bij criminele activiteiten" - predictive policing
+- "bewijsmateriaal kunnen wegen" - AI evidence analysis
+- "inschatten of er genoeg is voor vervolging" - AI assessment for prosecution
+This clearly falls under Category 6: "Rechtshandhaving AI" specifically "AI profilering voor crimineel gedrag" and "AI analyse van bewijs", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

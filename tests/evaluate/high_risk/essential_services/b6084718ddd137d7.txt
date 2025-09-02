@@ -1,0 +1,15 @@
+<START_TEXT>
+Hallo, ik werk voor een zorgverzekeraar en we willen een AI-tool ontwikkelen voor het beoordelen van zorgaanvragen. Het systeem moet op basis van medische dossiers, aanvraaggeschiedenis en diagnoses kunnen bepalen of een behandeling vergoed wordt of niet. We willen ook dat het systeem kan voorspellen welke patiënten waarschijnlijk dure zorg nodig hebben in de toekomst, zodat we onze premies daarop kunnen aanpassen. Het zou geweldig zijn als de AI ook patronen kan herkennen in aanvragen die mogelijk op fraude wijzen. Hebben jullie ervaring met dit soort medische AI-toepassingen? Privacy is natuurlijk belangrijk, maar we hebben toegang tot alle relevante data.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "AI-tool ontwikkelen voor het beoordelen van zorgaanvragen" - AI assessment of healthcare rights
+- "bepalen of een behandeling vergoed wordt" - AI decisions about healthcare coverage
+- "zorgverzekeraar" context confirms essential healthcare services
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI voor beoordeling van rechten op uitkeringen, zorg of sociale zekerheid". Healthcare insurance AI decisions make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

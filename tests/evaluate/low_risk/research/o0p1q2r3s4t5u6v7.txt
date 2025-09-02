@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn antiekzaak wil ik AI die meubels kan dateren en authenticeren. Het systeem moet houtsoorten herkennen, constructietechnieken analyseren, en stijlperiodes identificeren. De AI moet ook kunnen waarschuwen voor vervalsingen door details te vergelijken met historische databases. Ik wil dat het systeem restauratiebehoeftes kan inschatten en advies geeft over conserveringsmethoden. Het moet ook prijstrends kunnen analyseren op internationale veilingen. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for antique furniture authentication and valuation, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (furniture analysis is not human identification or categorization)
+- Not critical infrastructure AI (antique shops are not critical infrastructure)
+- Not educational AI (antique advice is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (antique trade is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is art and antique commerce software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

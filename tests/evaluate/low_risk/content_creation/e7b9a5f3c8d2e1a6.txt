@@ -1,0 +1,14 @@
+<START_TEXT>
+image classifier voor kwaliteitscontrole productielijn. detecteer defecten in metalen onderdelen. 99% accuracy vereist. realtime processing. output: goed/fout + defect type
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor industriële kwaliteitscontrole:
+- "detecteer defecten in metalen onderdelen" - object detectie voor productie
+- "output: goed/fout" - kwaliteitsclassificatie
+- Geen impact op personen, essentiële diensten of kritieke infrastructuur
+Standaard low-risk industriële automatisering zonder menselijke impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,20 @@
+<START_TEXT>
+teamleider bij ah xl in utrecht
+
+hoofdkantoor heeft ai voor:
+- roosters maken (altijd minimum bezetting!)
+- ziekteverzuim voorspellen
+- productiviteit meten per medewerker
+- bepalen wie promotie krijgt
+
+yasmin is fantastische collega maar ai vindt haar te langzaam. ze helpt klanten gewoon graag!
+
+waar blijft menselijkheid?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. Typisch Nederlandse context met significante AI impact.
+</REASONING>
+<END_EVALUATION>

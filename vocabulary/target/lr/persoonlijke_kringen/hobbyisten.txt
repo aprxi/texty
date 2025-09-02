@@ -1,0 +1,163 @@
+# Hobbyists and Enthusiasts - LOW RISK TARGET
+# Hobbyisten en liefhebbers
+# 
+# PATH: target/lr/persoonlijke_kringen/hobbyisten.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary hobby activities)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Hobbyists and enthusiasts using AI for personal interests
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be pursuing hobbies or interests
+# - Must NOT include what AI does to them
+# - Must NOT include where they pursue hobbies
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+hobbyisten
+hobbyists
+liefhebbers
+enthusiasts
+amateur beoefenaars
+amateur practitioners
+vrijetijdsbesteding
+leisure participants
+
+# Creatieve hobbies
+kunstenaars
+artists
+schilders
+painters
+fotografen
+photographers
+schrijvers
+writers
+muzikanten
+musicians
+handwerkers
+craftspeople
+
+# Makers en DIY
+makers
+knutselaars
+crafters
+doe-het-zelvers
+do-it-yourself enthusiasts
+bouwers
+builders
+monteurs
+assemblers
+tinkeraars
+tinkerers
+
+# Verzamelaars
+verzamelaars
+collectors
+postzegel verzamelaars
+stamp collectors
+munt verzamelaars
+coin collectors
+boek verzamelaars
+book collectors
+vintage verzamelaars
+vintage collectors
+antiek liefhebbers
+antique enthusiasts
+
+# Sport hobbies
+recreatiesporters
+recreational athletes
+weekend sporters
+weekend athletes
+fitnessliefhebbers
+fitness enthusiasts
+wandelliefhebbers
+hiking enthusiasts
+fietsliefhebbers
+cycling enthusiasts
+zwemliefhebbers
+swimming enthusiasts
+
+# Natuur hobbies
+tuinliefhebbers
+gardening enthusiasts
+plantenverzorgers
+plant carers
+natuurfotografen
+nature photographers
+vogelspotters
+birdwatchers
+
+# Technologie hobbies
+tech liefhebbers
+tech enthusiasts
+
+# Culinaire hobbies
+kookliefhebbers
+cooking enthusiasts
+bakkers
+bakers
+wijn liefhebbers
+wine enthusiasts
+bierbrouwers
+homebrewers
+tuin-tot-tafel enthousiasten
+farm-to-table enthusiasts
+recepten verzamelaars
+recipe collectors
+
+# Lees en leer hobbies
+boekenwurmen
+bookworms
+lezers
+readers
+taalliefhebbers
+language enthusiasts
+geschiedenis buffs
+history buffs
+wetenschap liefhebbers
+science enthusiasts
+documentaire kijkers
+documentary watchers
+
+# Sociale hobbies
+clubleden
+club members
+verenigingsleden
+association members
+hobby gemeenschap deelnemers
+hobby community participants
+workshop deelnemers
+workshop participants
+hobby cursisten
+hobby course takers
+
+# Reizen hobbies
+reizigers
+travelers
+backpackers
+cultuur reizigers
+cultural travelers
+avontuur zoekers
+adventure seekers
+lokale verkenners
+local explorers
+vakantie planners
+vacation planners
+
+# Games en puzzels
+puzzelaars
+puzzle enthusiasts
+bordspel spelers
+board game players

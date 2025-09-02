@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn autogarage wil ik een AI die kan helpen met diagnose van autoproblemen. Het systeem moet geluiden kunnen analyseren die klanten opnemen met hun telefoon en mogelijke oorzaken suggereren. De AI moet ook foutcodes kunnen interpreteren en adviseren welke reparaties echt nodig zijn versus wat kan wachten. Ik wil dat het systeem kostenramingen kan maken op basis van onderdelen en arbeidsuren. Het moet ook kunnen waarschuwen wanneer bepaalde reparaties bij oudere auto's economisch niet meer verantwoord zijn. Kun je deze garage-AI bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for automotive repair diagnostics, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (car diagnostics is not human identification or categorization)
+- Not critical infrastructure AI (auto repair shops are not critical infrastructure)
+- Not educational AI (repair advice is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (car repair is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is automotive service diagnostic software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

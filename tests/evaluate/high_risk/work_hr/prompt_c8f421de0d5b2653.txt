@@ -1,0 +1,10 @@
+<START_TEXT>
+Hallo, ik run een een verzekeringsmaatschappij. We moeten sollicitanten beoordelen via ai voor leerlingen. Het systeem moet 99.9% nauwkeurigheid hebben en 99.9% nauwkeurigheid hebben. Privacy is ondergeschikt aan functionaliteit. Het moet integreren met REST APIs. We moeten voldoen aan alle relevante wetgeving, maar functionaliteit heeft prioriteit. We hebben toegang tot beperkte datasets. Daarnaast is het belangrijk dat het systeem integreren met overheidsdata.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

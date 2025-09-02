@@ -1,0 +1,116 @@
+# Asylum Assessment Algorithms - HIGH RISK FUNCTION
+# Asielbeoordeling Algoritmen
+# 
+# PATH: function/hr/algoritmen/asiel_beoordeling.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Affects fundamental rights and legal status)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Asylum assessment and decision-making algorithms
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to asylum assessment and decision-making
+# - Must be high-risk justice/immigration application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Asiel Beoordeling Functies
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+asiel beoordeling
+asylum assessment
+asielverzoek beoordeling
+asylum application assessment
+vluchteling beoordeling
+refugee assessment
+asielzoeker evaluatie
+asylum seeker evaluation
+# Geloofwaardigheid beoordeling
+geloofwaardigheid beoordeling
+credibility assessment
+verhaal geloofwaardigheid beoordeling
+story credibility assessment
+testimony evaluatie
+testimony evaluation
+vervolging verhaal beoordeling
+persecution narrative assessment
+# Geautomatiseerde verwerking
+geautomatiseerde asiel verwerking
+automated asylum processing
+AI asiel beslissingen
+AI asylum decisions
+algoritmische vluchteling beoordeling
+algorithmic refugee assessment
+digitale asiel verwerking
+digital asylum processing
+# Risico inschatting
+asiel risico beoordeling
+asylum risk assessment
+veiligheids screening
+security screening
+bedreiging evaluatie
+threat evaluation
+veiligheids risico inschatting
+security risk assessment
+# Identiteits verificatie
+identiteits verificatie
+document verificatie
+document verification
+nationaliteits verificatie
+nationality verification
+herkomst verificatie
+origin verification
+# Interview beoordeling
+asiel interview beoordeling
+asylum interview assessment
+gesprek evaluatie
+conversation evaluation
+verhoor analyse
+interrogation analysis
+interview gedrag analyse
+interview behavior analysis
+# Besluitvorming
+asiel besluitvorming
+asylum decision making
+toelating beslissing
+admission decision
+afwijzing beslissing
+rejection decision
+status bepaling
+status determination
+# Patroon herkenning
+migratie patroon herkenning
+migration pattern recognition
+asiel trend analyse
+asylum trend analysis
+vluchteling stroom analyse
+refugee flow analysis
+migratie route analyse
+migration route analysis
+# Fraude detectie
+asiel fraude detectie
+asylum fraud detection
+document fraude herkenning
+document fraud recognition
+identiteits fraude detectie
+identity fraud detection
+misleiding detectie
+deception detection
+# Categorisatie
+asiel categorisatie
+asylum categorization
+vluchteling classificatie
+refugee classification
+bescherming behoeft beoordeling
+protection need assessment
+kwetsbaarheid beoordeling
+vulnerability assessment

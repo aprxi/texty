@@ -1,0 +1,112 @@
+# Task Management - LOW RISK FUNCTION
+# Taakbeheer
+# 
+# PATH: function/lr/assistentie/taak_beheer.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (Task and todo management)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Task and todo management capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to task/todo organization
+# - Must be low-risk productivity application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Task Management Functions (AI capabilities for task organization)
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Core task management
+taak organiseren
+organize tasks
+to-do lijst beheren
+manage to-do lists
+prioriteiten stellen
+set priorities
+deadline bijhouden
+track deadlines
+taak herinnering
+task reminders
+taak categorisatie
+task categorization
+# Task organization
+subtaak maken
+create subtasks
+taak afhankelijkheden
+task dependencies
+voortgang bijhouden
+bulk taak bewerking
+bulk task editing
+taak templates
+task templates
+# Time management
+tijd registratie
+tijd blokken
+time blocking
+pauze herinneringen
+break reminders
+pomodoro techniek
+pomodoro technique
+# Planning functions
+werkdag planning
+workday planning
+week planning
+maand overzicht
+month overview
+# Goal setting
+doel instelling
+goal setting
+voortgang meting
+progress measurement
+doel visualisatie
+goal visualization
+routine optimalisatie
+routine optimization
+prestatie doelen
+performance goals
+# Productivity analysis
+tijd analyse
+time analysis
+efficiency rapportage
+efficiency reporting
+focus tijd tracking
+focus time tracking
+onderbreking analyse
+interruption analysis
+werkpatroon herkenning
+work pattern recognition
+# Task prioritization
+eisenhower matrix
+urgentie scoring
+urgency scoring
+belangrijkheid weging
+importance weighting
+automatische prioritering
+automatic prioritization
+context-gebaseerde suggesties
+context-based suggestions
+energie niveau planning
+energy level planning
+# Collaboration features
+taak delegatie
+task delegation
+team synchronisatie
+team synchronization
+voortgang delen
+progress sharing
+gezamenlijke planning
+collaborative planning
+werkstroom integratie
+workflow integration
+notificatie beheer
+notification management

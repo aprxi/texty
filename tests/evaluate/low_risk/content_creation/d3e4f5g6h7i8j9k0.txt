@@ -1,0 +1,15 @@
+<START_TEXT>
+Ik ontwikkel een app voor buurtpreventie die verdachte activiteiten meldt zonder gezichtsherkenning. Het systeem moet ongewone patronen detecteren zoals opengebroken auto's of graffiti, en buurtbewoners waarschuwen. De AI analyseert alleen objecten en situaties, geen personen. Het kan adviseren over preventieve maatregelen en statistieken bijhouden. Alles wordt anoniem verwerkt zonder persoonsidentificatie. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes AI for neighborhood watch without biometric identification, which does not fall under high-risk categories in RULES.md because:
+- Not biometric AI (explicitly states "zonder gezichtsherkenning" and "geen personen")
+- Not law enforcement AI (community prevention, not official law enforcement)
+- "analyseert alleen objecten en situaties" - only analyzes objects and situations
+- "Alles wordt anoniem verwerkt zonder persoonsidentificatie" - anonymous processing
+This is community safety software without human identification features, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

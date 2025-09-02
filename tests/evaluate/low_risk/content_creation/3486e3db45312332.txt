@@ -1,0 +1,19 @@
+<START_TEXT>
+Hoi, ik ben interieurarchitect en zou een AI-systeem willen bouwen dat me kan assisteren bij het ontwerpen van woonruimtes. Het moet 3D-modellen kunnen analyseren en suggesties doen voor meubelplaatsing op basis van ergonomie, looplijnen en feng shui principes. Ik wil dat de AI verschillende stijlen kan herkennen en mixen, zoals Scandinavisch met industrieel, op een harmonische manier. Het systeem moet ook rekening houden met natuurlijke lichtinval en kunstverlichting om de perfecte sfeer te creëren. Voor elke ruimte moet het kleurpaletten kunnen voorstellen die passen bij de functie van de kamer en de persoonlijkheid van de bewoners. Het zou geweldig zijn als de AI budgetopties kan genereren, van low-budget IKEA oplossingen tot high-end designer meubels. Ook wil ik dat het systeem duurzame materialen kan aanraden en de ecologische voetafdruk van verschillende ontwerpkeuzes kan berekenen. De AI moet kunnen leren van succesvolle projecten en feedback van klanten om steeds betere ontwerpbeslissingen te doen. Kun je me helpen om zo'n intelligente interieurontwerp assistent te maken? Ik gebruik al CAD software maar wil daar AI-intelligentie aan toevoegen voor betere en snellere ontwerpbeslissingen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes AI for interior design assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (no identification, emotion recognition, or categorization based on protected characteristics)
+- Not critical infrastructure AI (interior design is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (this is a business tool for the architect's own work, not employment decisions)
+- Not essential services AI (no access to healthcare, insurance, or essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a professional design tool for commercial interior design services, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

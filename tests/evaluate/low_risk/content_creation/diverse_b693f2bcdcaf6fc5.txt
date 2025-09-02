@@ -1,0 +1,10 @@
+<START_TEXT>
+tiktok famous worden met ai hulp. algo analyseert: beste post tijden, trending sounds, viral kenmerken. ghost writer voor captions. auto-reply op comments. fame hack of nep succes?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content_creation. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

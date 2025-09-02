@@ -1,0 +1,20 @@
+<START_TEXT>
+ontwikkel mri scanners bij philips eindhoven
+
+nieuwe ai features:
+- automatische tumor detectie
+- scan kwaliteit verbeteren
+- diagnose suggesties
+- behandelplan advies
+
+maar radioloog in india gebruikt anders dan erasmus mc. ai moet lokaal aangepast
+
+one size fits nobody
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Typisch Nederlandse context met significante AI impact.
+</REASONING>
+<END_EVALUATION>

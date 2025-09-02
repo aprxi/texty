@@ -1,0 +1,14 @@
+<START_TEXT>
+augmented reality app voor historische stadswandeling. object recognition monumenten, automatische audio tours, 3D reconstructies verdwenen gebouwen, tijdlijn slider voor verschillende eeuwen, quiz elementen voor scholen, social sharing vintage foto filters. offline mode vereist. batterij vriendelijk.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+Toerisme en educatie app zonder hoog-risico elementen:
+- "object recognition monumenten" - landmark detectie
+- "3D reconstructies" - visualisatie voor entertainment
+- "quiz elementen voor scholen" - educatieve gaming
+Typische cultural heritage app zonder impact op rechten of essentiële diensten.
+</REASONING>
+<END_EVALUATION>

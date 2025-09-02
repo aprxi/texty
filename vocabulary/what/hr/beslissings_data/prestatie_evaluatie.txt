@@ -1,0 +1,156 @@
+# Performance Evaluation Data - HIGH RISK WHAT
+# Prestatie evaluatie gegevens
+# 
+# PATH: what/hr/beslissings_data/prestatie_evaluatie.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Performance evaluation data for employment decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Performance evaluation data used in employment decisions
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be performance evaluation related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk employment decision classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Performance metrics and scores
+prestatie scores
+performance scores
+KPI resultaten
+KPI results
+productiviteit metingen
+productivity measurements
+kwaliteit indicatoren
+quality indicators
+efficiëntie beoordelingen
+efficiency ratings
+
+# 360-degree feedback data
+360-graden beoordelingen
+360-degree reviews
+peer evaluatie scores
+peer evaluation scores
+manager beoordelingen
+manager assessments
+ondergeschikte feedback
+subordinate feedback
+klant evaluaties
+customer evaluations
+
+# Competency assessment results
+competentie scores
+competency scores
+vaardigheids beoordelingen
+skills assessments
+gedragscompetentie data
+behavioral competency data
+leiderschap evaluaties
+leadership evaluations
+technische vaardigheden scores
+technical skills scores
+
+# Goal achievement data
+doelstellingen behaald
+objectives achieved
+target prestaties
+target performance
+resultaat metingen
+result measurements
+uitkomst scores
+outcome scores
+
+# Performance trends and history
+prestatie geschiedenis
+performance history
+trend analyses
+trend analyses
+verbetering trajecten
+improvement trajectories
+regressie patronen
+regression patterns
+consistentie metingen
+consistency measurements
+
+# Disciplinary and improvement records
+disciplinaire acties
+disciplinary actions
+verbeterplannen
+improvement plans
+waarschuwingen
+warnings
+correcties documentatie
+correction documentation
+
+# Promotion and development readiness
+promotie geschiktheid
+promotion readiness
+carrière ontwikkelings data
+career development data
+opvolgings planning
+succession planning
+talent potentieel scores
+talent potential scores
+
+# Comparative ranking data
+prestatie rankings
+performance rankings
+calibratie resultaten
+calibration results
+forceerde distributie scores
+forced distribution scores
+relative performance data
+relative performance data
+
+# Ontslag beslissingen
+gedwongen vertrek aanbevelingen
+forced termination recommendations
+prestatie verbetering plannen
+performance improvement plans
+laatste waarschuwing documenten
+final warning documents
+ontslaggrond documentatie
+dismissal grounds documentation
+werkgelegenheids beëindiging data
+employment termination data
+
+# Compensatie impact
+salaris verhoging weigering
+salary increase denial
+bonus toekenning beslissingen
+bonus allocation decisions
+promotie afwijzing redenen
+promotion rejection reasons
+demotie aanbevelingen
+demotion recommendations
+benefits reductie beslissingen
+benefits reduction decisions
+
+# Discriminatie risico indicatoren
+bias detectie waarschuwingen
+bias detection warnings
+ongelijke behandeling signalen
+unequal treatment signals
+beschermde klasse impact
+protected class impact
+systematische ondervertegenwoordiging
+systematic underrepresentation
+
+# Carrière beëindiging
+pensioen dwang indicatoren
+forced retirement indicators
+re-integratie mislukking
+reintegration failure
+arbeidsongeschiktheid conclusies
+disability conclusions
+functie opheffing selectie
+position elimination selection

@@ -1,0 +1,10 @@
+<START_TEXT>
+Huiswerkbegeleiding 2.0: AI tutor die real-time meekijkt via screenshare. Ziet waar leerling vastloopt, geeft hints (geen antwoorden!), past uitleg aan op leerstijl. Ouders krijgen rapport: "Piet snapt breuken niet, extra oefening nodig". €50/maand, interessant?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

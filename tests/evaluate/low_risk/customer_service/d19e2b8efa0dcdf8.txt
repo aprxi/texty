@@ -1,0 +1,19 @@
+<START_TEXT>
+Hoi, ik heb drie katten en een hond, en ik wil een AI-assistent ontwikkelen die me helpt met hun verzorging. Het systeem moet hun eetpatronen kunnen monitoren via slimme voerbakken en me waarschuwen als een van hen minder eet dan normaal, wat op gezondheidsproblemen kan duiden. Ook wil ik dat de AI hun activiteitsniveau bijhoudt met behulp van GPS trackers en bewegingssensoren, zodat ik kan zien of ze genoeg beweging krijgen. Het zou fantastisch zijn als het systeem medicijnherinneringen kan sturen en bijhoudt wanneer ze hun laatste vaccinaties hebben gehad. Voor mijn hond zou ik graag een feature hebben die wandelroutes suggereert op basis van het weer en zijn energieniveau. De AI moet ook kunnen helpen met het plannen van afspraken bij de dierenarts op basis van hun leeftijd en gezondheidsgeschiedenis. Misschien kan het systeem zelfs hun gedrag analyseren via camera's om te detecteren of ze zich ongewoon gedragen. Tot slot zou het handig zijn als de AI tips kan geven over voeding en verzorging specifiek voor hun ras en leeftijd. Is het mogelijk om zo'n uitgebreide huisdieren AI-assistent te maken? Ik heb wat basis programmeerkennis maar wil graag iets gebruiksvriendelijks bouwen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes AI for pet care management, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (pet behavior monitoring is not human identification or categorization)
+- Not critical infrastructure AI (pet care is not critical infrastructure)
+- Not educational AI (pet care information is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (pet care is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is personal pet care management software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

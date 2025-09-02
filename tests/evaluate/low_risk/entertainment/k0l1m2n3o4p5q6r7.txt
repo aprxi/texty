@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn sieradenwinkel wil ik AI die custom designs genereert. Het systeem moet 3D-modellen maken op basis van schetsjes, edelsteencombinaties adviseren, en productiekosten calculeren. De AI moet ook trends analyseren uit modeshows en historische stijlen moderniseren. Ik wil dat het systeem kan adviseren over metaallegeringen voor verschillende huidtypes en resize-mogelijkheden voorspelt. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for jewelry design and customization, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (design generation is not human identification or categorization)
+- Not critical infrastructure AI (jewelry shops are not critical infrastructure)
+- Not educational AI (design advice is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (jewelry retail is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is luxury retail and creative design software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

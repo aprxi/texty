@@ -1,0 +1,132 @@
+# Automation Tools - LOW RISK FUNCTION
+# Automatiseringstools
+# 
+# PATH: function/lr/assistentie/automatisering_tools.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (General workflow automation)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: General automation and workflow optimization capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to workflow/process automation
+# - Must be low-risk automation application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Automation Tools Functions (AI capabilities for workflow automation)
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Process automation
+routine automatisering
+routine automation
+handeling automatisering
+action automation
+operationele automatisering
+operational automation
+
+# Document automation
+document automatisering
+document automation
+document generatie
+document generation
+template automatisering
+template automation
+formulier invulling
+form filling
+data extractie documenten
+document data extraction
+PDF automatisering
+PDF automation
+
+# Email automation
+email automatisering
+email automation
+antwoord automatisering
+response automation
+email filtering
+email organisatie
+email organization
+
+# Data automation
+data automatisering
+data automation
+data invoer automatisering
+data entry automation
+data synchronisatie
+data synchronization
+database automatisering
+database automation
+data cleaning automatisering
+data cleaning automation
+
+# Schedule automation
+planning automatisering
+schedule automation
+afspraak scheduling
+agenda synchronisatie
+calendar synchronization
+herinnering automatisering
+reminder automation
+resource booking
+
+# File management
+bestand beheer automatisering
+file management automation
+bestand synchronisatie
+file synchronization
+bestand backup
+file backup
+bestand archivering
+file archiving
+map structuur automatisering
+folder structure automation
+
+# Communication automation
+communicatie automatisering
+communication automation
+bericht automatisering
+message automation
+notificatie automatisering
+notification automation
+alert automatisering
+alert automation
+status updates automatisering
+status update automation
+
+# System integration
+systeem integratie
+system integration
+API automatisering
+API automation
+data transfer automatisering
+data transfer automation
+systeem synchronisatie
+system synchronization
+third-party integraties
+third-party integrations
+platform automatisering
+platform automation
+
+# Quality assurance automation
+kwaliteitsborging automatisering
+quality assurance automation
+testing automatisering
+testing automation
+validatie automatisering
+validation automation
+controle automatisering
+control automation
+audit trail automatisering
+audit trail automation
+compliance automatisering
+compliance automation

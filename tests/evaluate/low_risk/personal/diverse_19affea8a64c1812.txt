@@ -1,0 +1,10 @@
+<START_TEXT>
+Relatietherapeut gebruikt AI: analyseert gesprekken, lichaamstaal, onderlinge dynamiek. Patronen detecteren die therapeut mist. Objectieve derde partij of kille benadering van liefde?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

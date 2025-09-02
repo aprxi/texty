@@ -1,0 +1,14 @@
+<START_TEXT>
+implementatie predictive policing algoritme. historische misdaaddata + demografische gegevens -> criminaliteit hotspots voorspellen. ook recidive kans berekenen per verdachte. machine learning model vereist
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor rechtshandhaving, Categorie 6 volgens RULES.md:
+- "predictive policing algoritme" - AI crimineel profilering
+- "criminaliteit hotspots voorspellen" - AI voor misdaadvoorspelling
+- "recidive kans berekenen per verdachte" - AI risico-inschatting voor recidive
+Klassiek voorbeeld van hoog-risico rechtshandhaving AI.
+</REASONING>
+<END_EVALUATION>

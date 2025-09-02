@@ -1,0 +1,134 @@
+# Project Management Functions - LOW RISK FUNCTION
+# Projectbeheersystemen
+# 
+# PATH: function/lr/verwerking/project_beheer.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (business project management and coordination tools)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Project management and coordination capabilities for general business project operations
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to project management and coordination
+# - Must be low-risk business management application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Project planning
+project beheer
+project planning
+project management
+taak beheer
+task management
+mijlpaal tracking
+milestone tracking
+deadline beheer
+deadline management
+resource planning
+tijd planning
+time planning
+
+# Team coordination
+team coördinatie
+team coordination
+samenwerking tools
+collaboration tools
+team communicatie
+team communication
+vergadering planning
+meeting planning
+agenda beheer
+agenda management
+notities beheer
+notes management
+
+# Progress tracking
+voortgang tracking
+progress tracking
+status updates
+project dashboards
+rapportage automatisering
+reporting automation
+prestatie metrics
+performance metrics
+project productiviteit monitoring
+project productivity monitoring
+
+# Resource management
+resource beheer
+capaciteit planning
+capacity planning
+werkbelasting verdeling
+workload distribution
+team allocatie
+team allocation
+budget tracking
+kosten controle
+cost control
+
+# Risk management
+risico beheer project
+project risk management
+issue tracking
+probleem identificatie
+problem identification
+contingency planning
+change management
+
+# Workflow automation
+workflow automatisering
+workflow automation
+proces automatisering
+process automation
+goedkeuring workflows
+approval workflows
+taak automatisering
+task automation
+template beheer
+template management
+standaard processen
+standard processes
+
+# Quality assurance
+kwaliteitsborging
+quality assurance
+project kwaliteit monitoring
+project quality monitoring
+deliverable review
+kwaliteitsstandaarden
+quality standards
+testing coördinatie
+testing coordination
+
+# Communication tools
+project communicatie
+project communication
+stakeholder updates
+client rapportage
+client reporting
+intern communicatie
+internal communication
+externe communicatie
+external communication
+
+# Analytics and insights
+project analytics
+efficiëntie analyse
+efficiency analysis
+trend analyse projecten
+project trend analysis
+succes factor analyse
+success factor analysis
+lessen geleerd analyse
+lessons learned analysis

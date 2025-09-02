@@ -1,0 +1,14 @@
+<START_TEXT>
+sentiment analyse tool voor product reviews. nederlands + engels. categoriseer positief/negatief/neutraal. extract keywords. batch processing 10k reviews per uur. export naar csv
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een standaard sentiment analyse tool voor business intelligence:
+- "sentiment analyse tool voor product reviews" - tekstanalyse voor marketing
+- "categoriseer positief/negatief/neutraal" - basis classificatie
+- "extract keywords" - text mining voor insights
+Geen van de 8 hoog-risico categorieën van toepassing. Typische low-risk business analytics.
+</REASONING>
+<END_EVALUATION>

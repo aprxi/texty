@@ -1,0 +1,17 @@
+<START_TEXT>
+Hallo, ik ben freelance schrijver en zoek een AI-assistent die me kan helpen met brainstormen voor verhalen, plotontwikkeling, en karaktercreatie. Het zou geweldig zijn als de AI verschillende schrijfstijlen kan nabootsen en feedback kan geven op mijn concepten. We zijn niet op zoek naar iets dat het schrijfwerk overneemt, maar eerder een creatieve sparringpartner die nieuwe ideeën kan aanreiken en helpt bij writers block. Ook zou het handig zijn als de AI research kan doen voor historische details in mijn romans. Kunnen jullie zoiets ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor creatief schrijven dat valt onder de laag-risico categorieën in RULES.md:
+- "AI-assistent die me kan helpen met brainstormen" - AI-assistenten voor algemene productiviteit
+- "plotontwikkeling, en karaktercreatie" - AI in creatieve toepassingen
+- "feedback kan geven op mijn concepten" - creatieve ondersteuning
+- "creatieve sparringpartner" - AI-tools voor contentcreatie
+- "research kan doen voor historische details" - informatieverzameling
+
+Deze tekst beschrijft "AI-assistenten voor algemene productiviteit of informatieverzameling", "AI in entertainment, gaming of creatieve toepassingen", en "AI-tools voor contentcreatie" zoals expliciet genoemd als laag-risico in RULES.md. Het systeem valt niet onder een van de 8 hoog-risico categorieën en betreft alleen creatief schrijven, waardoor dit LOW-RISK is.
+</REASONING>
+<END_EVALUATION>

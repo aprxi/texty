@@ -1,0 +1,124 @@
+# AI Professionals and Data Workers - HIGH RISK TARGET
+# AI professionals en data werkers
+# 
+# PATH: target/hr/beslissings_subjecten/ai_professionals.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to AI-based work decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: AI professionals and data workers subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must work with AI or data processing
+# - Must NOT include what AI does to them
+# - Must NOT include where they work
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+ai trainers
+AI trainers
+data annotators
+data labellers
+model trainers
+
+# Data voorbereiding
+data classificeerders
+data classifiers
+beeldannotators
+image annotators
+tekst labelers
+text labelers
+audio transcribeerders
+audio transcribers
+video taggers
+
+# Kwaliteitscontrole
+data validators
+annotatie reviewers
+annotation reviewers
+kwaliteitscontroleurs
+quality controllers
+accuracy checkers
+
+# Platform werkers
+crowdsource werkers
+crowdsource workers
+microtask uitvoerders
+microtask performers
+click werkers
+click workers
+platform arbeid verrichters
+platform labor performers
+
+# AI training specialisten
+supervised learning trainers
+reinforcement learning coaches
+feedback providers
+human-in-the-loop operators
+
+# Content moderatie
+content moderators
+toxiciteit beoordelaars
+toxicity assessors
+veiligheidscontroleurs
+safety controllers
+bias detectie specialisten
+bias detection specialists
+
+# Gig economy AI werkers
+freelance annotators
+contract labelers
+on-demand data werkers
+on-demand data workers
+task-based AI assistenten
+task-based AI assistants
+
+# Evaluatie teams
+model evaluators
+prestatie beoordelaars
+performance assessors
+output reviewers
+test data creators
+
+# Ethische AI rollen
+bias auditors
+fairness assessors
+ethische reviewers
+ethical reviewers
+compliance checkers
+
+# Gespecialiseerde annotatie
+medische data labelers
+medical data labelers
+juridische tekst annotators
+legal text annotators
+financiële data classificeerders
+financial data classifiers
+technische documentatie taggers
+technical documentation taggers
+
+# Real-time feedback
+live feedback providers
+real-time corrigeerders
+real-time correctors
+interactieve trainers
+interactive trainers
+conversatie beoordelaars
+conversation assessors
+
+# Data pipeline werkers
+data cleaners
+dataset curators
+training set builders
+validatie set creators
+validation set creators

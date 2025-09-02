@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik heb een mobiele koffiebar en wil AI voor route-optimalisatie. Het systeem moet kantoorpieken analyseren, bouwprojecten tracken voor nieuwe klanten, en seizoenspatronen herkennen. De AI moet ook koffievoorraden voorspellen en personaliseerde drankjes onthouden. Ik wil dat het systeem loyaliteitsprogramma's beheert en waarschuwt voor onderhoud aan de espressomachine. Kun je dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for mobile coffee service management, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (route optimization is not human identification or categorization)
+- Not critical infrastructure AI (coffee carts are not critical infrastructure)
+- Not educational AI (beverage service is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (mobile coffee service is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is mobile food service business software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

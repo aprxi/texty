@@ -1,0 +1,14 @@
+<START_TEXT>
+Ik wil een app maken die recepten kan genereren op basis van wat er in je koelkast ligt. Gebruikers kunnen foto's maken van hun ingrediënten en de AI herkent wat het is en stelt recepten voor. Het moet rekening houden met dieetwensen en allergieën. Ook wil ik dat het systeem leert van gebruikersvoorkeuren om steeds betere suggesties te doen. Hoe complex is het om zoiets te bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor recepten en voedsel, wat niet valt onder de 8 hoog-risico categorieën uit RULES.md. Het gaat om:
+- "recepten kan genereren" - AI voor contentcreatie
+- "AI herkent wat het is" - object herkenning voor niet-kritieke toepassingen
+- "leert van gebruikersvoorkeuren" - personalisatie voor entertainment/lifestyle
+Dit is een typische low-risk AI consumer applicatie zonder impact op essentiële rechten of diensten.
+</REASONING>
+<END_EVALUATION>

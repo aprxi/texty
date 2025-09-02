@@ -1,0 +1,24 @@
+<START_TEXT>
+Hallo! Ik verzuip een beetje in mijn werk en zoek manieren om AI in te zetten voor productiviteit.
+
+Mijn grootste probleem is email. Ik krijg 200+ mails per dag en de helft is niet belangrijk. Ik wil een AI die ze categoriseert, prioriteert, en standaard antwoorden opstelt voor veelvoorkomende vragen. Het liefst ook een samenvatting van lange email threads zodat ik snel kan zien wat er besproken is.
+
+Meeting notes zijn ook een crime. Ik zit 20 uur per week in meetings maar kan niet alles onthouden. Dus een AI die audio transcribeert, de belangrijkste punten eruit haalt, action items identificeert, en ze automatisch in mijn todo lijst zet. Bonus als het ook kan detecteren wanneer deadlines genoemd worden.
+
+Project management kost ook teveel tijd. Ik gebruik Jira, Slack, Google Docs, Notion, en nog 10 andere tools. Kan een AI al deze data combineren en me een overzicht geven van waar projecten staan? En waarschuwen als deadlines in gevaar komen?
+
+Ik schrijf veel rapporten en proposals. Een AI die mijn writing style leert en eerste drafts kan maken zou geweldig zijn. Niet copy-paste van internet, maar echt in mijn stijl met de juiste tone of voice voor verschillende klanten.
+
+Timetracking vergeet ik altijd. Kan AI detecteren waar ik aan werk based op welke programma's open zijn en welke files ik edit? Dan hoef ik niet handmatig bij te houden.
+
+En een persoonlijke assistent die mijn calendar optimizeert. Meetings clusteren, travel tijd incalculeren, focus blocks beschermen, en suggesties doen voor de beste tijd om mensen te ontmoeten.
+
+Is dit allemaal mogelijk? Welke tools bestaan al en wat zou ik custom moeten bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. User asking about non-critical AI applications for productivity, entertainment, or personal use without significant impact.
+</REASONING>
+<END_EVALUATION>

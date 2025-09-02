@@ -1,0 +1,16 @@
+<START_TEXT>
+Grenscontrole wil iris-scanners voor reizigers die automatisch risicoprofielen maken. AI bepaalt welke mensen extra controle krijgen op basis van reisgeschiedenis en gedrag. Ook leugendetectie tijdens interviews met asielzoekers.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-systemen voor grenstoezicht die vallen onder categorie 7: "Migratie & Grenstoezicht AI" in RULES.md:
+- "iris-scanners voor reizigers" - biometrische identificatie bij grenscontrole  
+- "automatisch risicoprofielen maken" - AI risico-inschatting van reizigers
+- "AI bepaalt welke mensen extra controle krijgen" - geautomatiseerde grensbeslissingen
+- "leugendetectie tijdens interviews met asielzoekers" - AI leugendetectie bij grenscontroles
+
+Dit valt onder "AI leugendetectie bij grenscontroles", "AI risico-inschatting van reizigers", en "AI persoonidentificatie bij migratie- of grensbeheer" zoals genoemd in RULES.md categorie 7. Grenstoezicht-AI is HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

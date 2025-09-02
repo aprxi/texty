@@ -1,0 +1,17 @@
+<START_TEXT>
+ik werk bij een internationale consultancy met 5000 consultants en vraag me af hoe ai kan helpen met talentmanagement. is het toegestaan om linkedin te scannen voor talent scouting? privacy is toch een issue? kunnen we echt voorspellen wie gaat vertrekken? dat voelt als wantrouwen naar medewerkers. automatisch bepalen wie promotie verdient lijkt me oneerlijk, hoe weet ai alle context? teamcomposities voorstellen klinkt handig maar wat met persoonlijke voorkeuren? salarisverhogingen adviseren op basis van data, missen we niet de menselijke kant? maandelijkse ranglijsten maken voelt als competitie forceren. de onderste 10% automatisch op verbetertraject, is dat niet te hard? ontslagprocedures door ai laten starten is wel heel koud. mag machine learning zulke belangrijke hr beslissingen maken? wat zijn de juridische risico's?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 4 Work & HR AI per RULES.md:
+- "talent te scouten" - AI for recruitment and selection
+- "automatisch bepalen wie promotie verdient" - AI for promotion decisions
+- "ontslagprocedure" - AI for termination decisions
+- "HR-data om deze beslissingen te automatiseren" - automated employment decisions
+- "consultancy firm" and "talentmanagement" confirms employment context
+
+This clearly falls under Category 4: "Werk & HR AI" in RULES.md, specifically "AI voor werving, selectie en aanstellingsbeslissingen" and "AI voor arbeidsvoorwaarden, promotie, taaktoewijzing of ontslag". Automated HR decisions make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

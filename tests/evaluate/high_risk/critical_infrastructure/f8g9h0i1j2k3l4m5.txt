@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor onze kerncentrale zoeken we AI die veiligheidskritische beslissingen kan nemen. Het systeem moet temperaturen, druk en stralingsniveaus monitoren en automatisch noodprocedures activeren. We willen dat de AI kan beslissen wanneer de reactor afgeschakeld wordt en wanneer koelsystemen geactiveerd worden. Het moet ook voorspellen wanneer onderdelen falen voordat het gebeurt. Bij incidenten moet het systeem bepalen welke gebieden geëvacueerd worden. De AI moet sneller reageren dan mensen kunnen. Is dit technisch mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "kerncentrale...veiligheidskritische beslissingen" - nuclear power plant safety decisions
+- "automatisch noodprocedures activeren" - automated emergency response in critical infrastructure
+- "beslissen wanneer de reactor afgeschakeld wordt" - AI control of nuclear reactor
+- "bepalen welke gebieden geëvacueerd worden" - automated evacuation decisions
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" for nuclear energy infrastructure, making this EXTREMELY HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

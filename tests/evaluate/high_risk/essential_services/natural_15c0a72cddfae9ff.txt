@@ -1,0 +1,10 @@
+<START_TEXT>
+Help me met een systeem voor onze verzekeringsmaatschappij dat premies berekent op basis van facebook posts en fitness tracker data
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. The user is asking about AI systems that involve automated decision-making affecting fundamental rights.
+</REASONING>
+<END_EVALUATION>

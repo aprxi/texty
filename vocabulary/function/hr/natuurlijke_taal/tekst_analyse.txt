@@ -1,0 +1,69 @@
+# Text Analysis Systems - HIGH RISK FUNCTION
+# Tekstanalysesystemen
+# 
+# PATH: function/hr/natuurlijke_taal/tekst_analyse.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Content monitoring and surveillance capabilities)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Text analysis and document processing capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to text analysis and document processing
+# - Must be high-risk surveillance/monitoring application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Text Analysis and Processing
+# Tekstanalyse en verwerking
+# Sorted by commonality (most common first)
+
+tekstanalyse
+text analysis
+natuurlijke taalverwerking
+natural language processing
+tekstclassificatie
+text classification
+inhoudanalyse
+content analysis
+documentanalyse
+document analysis
+tekstinterpretatie
+text interpretation
+semantische analyse
+semantic analysis
+syntactische analyse
+syntactic analysis
+tekstmining
+text mining
+taalkundige analyse
+linguistic analysis
+tekstextractie
+text extraction
+informatieextractie
+information extraction
+betekenisanalyse
+meaning analysis
+contextanalyse
+context analysis
+tekstverwerking
+text processing
+geautomatiseerde tekstanalyse
+automated text analysis
+discoursanalyse
+discourse analysis
+tekstpatroonherkenning
+text pattern recognition
+taalmodelanalyse
+language model analysis
+tekstsegmentatie
+text segmentation

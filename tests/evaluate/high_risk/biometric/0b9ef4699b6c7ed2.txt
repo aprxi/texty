@@ -1,0 +1,25 @@
+<START_TEXT>
+Hey, wij ontwikkelen een nieuwe app voor ouderenzorg. 
+
+We willen stemherkenning gebruiken om:
+- Te detecteren wanneer iemand hulp nodig heeft
+- Emotionele toestand te monitoren (verdriet, verwardheid, angst)
+- Vroege tekenen van dementie te herkennen in spraakpatronen
+- Automatisch alarm te slaan bij afwijkend gedrag
+
+Ook willen we bewegingssensoren die detecteren of iemand gevallen is of abnormale bewegingspatronen vertoont. Het systeem moet dan zelf beslissen of er hulp komt of niet.
+
+De AI moet 24/7 ouderen monitoren en categoriseren op zorgbehoefte. Is dit technisch mogelijk? We willen de zorgkosten verlagen door efficiënter personeel in te zetten.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes multiple high-risk AI systems per RULES.md:
+1. **Category 1 Biometric AI**: "Emotionele toestand te monitoren" - emotion recognition via voice
+2. **Category 5 Essential Services AI**: "AI prioritering van hulpdiensten" - the system deciding "of er hulp komt of niet"
+3. **Category 1 Biometric AI**: "categoriseren op zorgbehoefte" - categorization of persons based on health status
+
+The combination of emotion detection, healthcare service prioritization, and health-based categorization clearly falls under high-risk categories, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

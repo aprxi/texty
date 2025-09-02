@@ -1,0 +1,166 @@
+# Critical Transportation Infrastructure Data - HIGH RISK WHAT
+# Kritieke transport infrastructuur gegevens
+# 
+# PATH: what/hr/infrastructuur_data/transport_systemen.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Critical transportation infrastructure data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Critical transportation infrastructure monitoring and control data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be transportation infrastructure related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk critical infrastructure classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Traffic flow and monitoring data
+verkeersintensiteit data
+traffic intensity data
+verkeersstromen
+traffic flows
+file meldingen
+congestion reports
+snelheids metingen
+speed measurements
+voertuig tellingen
+vehicle counts
+
+# Public transport operational data
+dienstregeling data
+schedule data
+vertraging meldingen
+delay reports
+bezettingsgraad
+occupancy rates
+reizigers aantallen
+passenger numbers
+halte gebruik
+stop usage
+
+# Infrastructure status data
+weg conditie rapporten
+road condition reports
+brug sensor data
+bridge sensor data
+tunnel veiligheids logs
+tunnel safety logs
+spoor status
+rail status
+infrastructuur onderhoud planning
+infrastructure maintenance schedules
+
+# Traffic control system data
+verkeerslicht timings
+traffic light timings
+verkeersregeling logs
+traffic control logs
+route optimalisatie data
+route optimization data
+incident meldingen
+incident reports
+noodroute activaties
+emergency route activations
+
+# Aviation critical data
+vlucht bewegingen
+flight movements
+luchtverkeersleiding data
+air traffic control data
+runway bezetting
+runway occupancy
+veiligheids systeem status
+safety system status
+weers impact data
+weather impact data
+
+# Maritime port data
+schip bewegingen
+ship movements
+haven capaciteit
+port capacity
+lading manifesten
+cargo manifests
+gevaarlijke stoffen logs
+hazardous materials logs
+douane clearance data
+customs clearance data
+
+# Rail system operational data
+trein posities
+train positions
+spoor bezetting
+track occupancy
+sein standen
+signal states
+bovenleiding status
+catenary status
+wissel posities
+switch positions
+
+# Emergency response data
+evacuatie status
+evacuation status
+nooddienst response tijden
+emergency response times
+incident locaties
+incident locations
+kritieke route blokkades
+critical route blockages
+hulpdienst coordinatie
+emergency service coordination
+
+# Toll and payment data
+tol transacties
+toll transactions
+OV-chipkaart data
+public transport card data
+parkeer betaling logs
+parking payment logs
+kentekenregistratie
+license plate registration
+
+# Kritieke transport veiligheid
+spoorweg wissel fouten
+railway switch failures
+seinen storing detectie
+signal failure detection
+botsing voorspelling systemen
+collision prediction systems
+evacuatie route planning
+evacuation route planning
+tunnel ventilatie alarmen
+tunnel ventilation alarms
+brug structuur monitoring
+bridge structure monitoring
+
+# Luchtvaart veiligheid
+vliegpad conflicten
+flight path conflicts
+landingsbaan obstructies
+runway obstructions
+weers impact waarschuwingen
+weather impact warnings
+drone invasie detectie
+drone incursion detection
+terrorisme dreiging scores
+terrorism threat scores
+
+# Maritieme veiligheid
+haven toegang controle
+port access control
+schip aanvaring risico's
+ship collision risks
+gevaarlijke lading tracking
+hazardous cargo tracking
+kaapvaar detectie systemen
+piracy detection systems

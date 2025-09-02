@@ -1,0 +1,75 @@
+# Assessment and Evaluation Systems - HIGH RISK FUNCTION  
+# Beoordeling en evaluatie systemen
+#
+# PATH: function/hr/algoritmen/beoordeling_systemen.txt
+# DIMENSION: FUNCTION (AI capabilities/technologies)  
+# RISK: HIGH (Assessment algorithms for critical decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and technologies
+# THIS FILE contains: AI systems for assessment and evaluation processes
+#
+# VALIDATION RULES:
+# - Must be AI capability/technology for assessment/evaluation
+# - Must be high-risk assessment algorithm  
+# - Must NOT include data types (WHAT dimension)
+# - Must NOT include affected people (TARGET dimension)
+# - Must NOT include contexts/activities (CONTEXT dimension)
+#
+# FORMAT:
+# - Dutch terms first, English translation
+# - Focus on AI capabilities/algorithms
+# - Maximum 40 terms per file
+#
+#====================================================================
+
+# Employment assessment algorithms
+sollicitant beoordeling systeem
+candidate assessment system
+cv screening algoritme
+resume screening algorithm
+prestatie evaluatie systeem
+performance evaluation system
+werknemer monitoring algoritme
+employee monitoring algorithm
+
+# Educational assessment algorithms  
+student beoordeling systeem
+student assessment system
+leerresultaat evaluatie algoritme
+learning outcome evaluation algorithm
+competentie beoordeling systeem
+competency assessment system
+toelating beoordeling algoritme
+admission assessment algorithm
+
+# Financial assessment algorithms
+kredietwaardigheid beoordeling
+credit worthiness assessment
+risico beoordeling algoritme
+risk assessment algorithm
+financiële evaluatie systeem
+financial evaluation system
+verzekering beoordeling algoritme
+insurance assessment algorithm
+
+# Medical assessment algorithms
+medische beoordeling systeem
+medical assessment system
+diagnose ondersteuning algoritme
+diagnostic support algorithm
+behandeling evaluatie systeem
+treatment evaluation system
+medische noodzaak beoordeling
+medical necessity assessment
+
+# Legal assessment algorithms
+juridische beoordeling systeem
+legal assessment system
+recidive risico beoordeling
+recidivism risk assessment
+strafmaat bepaling algoritme
+sentencing determination algorithm
+rechtelijke beslissing ondersteuning
+judicial decision support

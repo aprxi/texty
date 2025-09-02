@@ -1,0 +1,191 @@
+# Financial Decision Data - HIGH RISK WHAT
+# Financiële beslissingsgegevens
+# 
+# PATH: what/hr/beslissings_data/financiele_beslissingen.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Financial decision-making data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Financial data used in automated credit, lending, and financial decisions
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be financial decision-making related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk financial decision classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Krediet en risico scoring data
+krediet scores
+credit scores
+risico scores  
+risk scores
+kredietwaardigheid data
+creditworthiness data
+schuld-inkomen ratio
+debt-to-income ratio
+betalingsgeschiedenis
+payment history
+financiele stabiliteit data
+financial stability data
+solvabiliteit gegevens
+solvency data
+cashflow gegevens
+cash flow data
+krediet rapport
+credit report
+BKR registratie
+krediet rating
+financieel profiel
+risico profiel
+default waarschijnlijkheid
+wanbetaling risico
+terugbetaal capaciteit
+inkomen verificatie
+vermogen overzicht
+bezittingen en schulden
+financiële verplichtingen overzicht
+
+# Lening beoordelings data
+hypotheek gegevens
+mortgage data
+lening aanvragen
+loan applications
+onderpand waardering
+collateral valuation
+verzekering gegevens
+insurance data
+financiele verplichtingen
+financial obligations
+liquiditeits ratio's
+liquidity ratios
+kapitaal adequatie
+capital adequacy
+reserves data
+reserves data
+leencapaciteit
+hypotheek mogelijkheden
+aflossing schema
+rente tarieven
+lening voorwaarden
+hypotheek offerte
+taxatie rapport
+onderpand waarde
+loan-to-value ratio
+maandlasten berekening
+eigen inbreng
+financiering structuur
+herfinanciering data
+oversluiten gegevens
+
+# Bank en krediet beslissing data
+bank statements
+bank statements
+transactie geschiedenis
+transaction history
+account gedrags patronen
+account behavior patterns
+krediet limiet data
+credit limit data
+kaart gebruik patronen
+card usage patterns
+digitale betalingen
+digital payments
+financiele producten data
+financial products data
+investment geschiedenis
+investment history
+bankafschriften
+rekeninguittreksels
+betaalgedrag
+uitgaven patronen
+spaargedrag
+overboekingen
+automatische incasso's
+creditcard transacties
+debet transacties
+saldo verloop
+roodstand frequentie
+gemiddeld saldo
+piekbelasting rekening
+internationale transacties
+
+# Verzekering beslissing data
+claim geschiedenis
+claims history
+risico factoren
+risk factors
+premie berekening data
+premium calculation data
+dekking selectie
+coverage selection
+polis gegevens
+policy data
+actuariele data
+actuarial data
+schade rapporten
+damage reports
+verzekerbaarheid scores
+insurability scores
+
+# Belasting en compliance data
+belasting gegevens
+tax data
+IRS documenten
+tax documents
+financiele overzichten
+financial statements
+audit trails
+audit trails
+compliance rapporten
+compliance reports
+regelgeving data
+regulatory data
+BTW gegevens
+VAT data
+internationale belasting
+international tax
+
+# Kritieke financiële beslissingen
+hypotheek afwijzing redenen
+mortgage rejection reasons
+krediet weigering data
+credit denial data
+faillissement risico scores
+bankruptcy risk scores
+fraude detectie signalen
+fraud detection signals
+witwas indicatoren
+money laundering indicators
+terrorisme financiering alerts
+terrorism financing alerts
+
+# Sociale zekerheid beslissingen
+uitkering toekenning data
+benefit allocation data
+arbeidsongeschiktheid beoordelingen
+disability assessments
+pensioen berekeningen
+pension calculations
+bijstand bepalingen
+welfare determinations
+zorgtoeslag beslissingen
+care allowance decisions
+
+# Verzekering beslissingen
+claim afwijzing data
+claim denial data
+premie verhogingen
+premium increases
+dekking uitsluitingen
+coverage exclusions
+medische noodzaak beoordelingen
+medical necessity assessments

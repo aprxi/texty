@@ -1,0 +1,96 @@
+# Physiological Biometric Data - HIGH RISK WHAT
+# Fysiologische gegevens
+# 
+# PATH: what/hr/persoonlijke_data/fysiologische_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Sensitive physiological biometric data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Physiological biometric data from body functions and measurements
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be physiological/biometric related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk sensitive biometric classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Hartslag en cardiovasculair
+hartslag patronen
+heart rate patterns
+hartritme variabiliteit
+heart rhythm variability
+bloeddruk metingen
+blood pressure measurements
+polsslag data
+pulse data
+cardiovasculaire respons
+cardiovascular response
+hartslag biometrie
+heartbeat biometrics
+ECG patronen
+ECG patterns
+vasculaire patronen
+vascular patterns
+
+# Ademhaling en respiratie
+ademhaling patronen
+breathing patterns
+ademfrequentie
+breathing frequency
+ademdiepte metingen
+breathing depth measurements
+respiratoire ritmes
+respiratory rhythms
+zuurstof saturatie
+oxygen saturation
+ademhalings biometrie
+respiratory biometrics
+long capaciteit data
+lung capacity data
+ademhalings variabiliteit
+breathing variability
+
+# Huid en temperatuur
+huid geleiding
+skin conductance
+huidtemperatuur
+skin temperature
+lichaam temperatuur patronen
+body temperature patterns
+thermische handtekening
+thermal signature
+zweet secretie patronen
+sweat secretion patterns
+huid weerstand
+skin resistance
+galvanische huid respons
+galvanic skin response
+infrarood thermografie
+infrared thermography
+
+# Neurologische signalen
+EEG patronen
+EEG patterns
+hersengolf data
+brainwave data
+neurale activiteit
+neural activity
+cognitieve biometrie
+cognitive biometrics
+hersenactiviteit patronen
+brain activity patterns
+neurale respons data
+neural response data
+elektrische hersen signalen
+electrical brain signals
+mentale staat indicatoren
+mental state indicators

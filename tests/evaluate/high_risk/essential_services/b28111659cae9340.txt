@@ -1,0 +1,16 @@
+<START_TEXT>
+Hoe kunnen we een AI-systeem bouwen dat automatisch noodoproepen kan prioriteren en ambulances kan sturen? Het moet kunnen bepalen hoe urgent een situatie werkelijk is door stemanalyse, achtergrondgeluiden, en caller-informatie te beoordelen. We willen dat het systeem automatisch bepaalt wie eerst geholpen wordt - niet alleen op basis van medische urgentie maar ook op basis van leeftijd, sociale waarde, en overlevingskansen. Het zou fantastisch zijn als de AI ook kan voorspellen welke gebieden meer noodgevallen gaan hebben door demografische data, weersomstandigheden, en historische patronen te analyseren. We denken aan een systeem dat automatisch kan beslissen hoeveel ambulances naar welke oproepen gaan, en welke oproepen mogelijk valse alarmen zijn. Het moet ook kunnen beoordelen of bellers de waarheid vertellen door spraakstressanalyse en inconsistenties in hun verhaal op te sporen. We willen dat de AI ziekenhuizen automatisch voorbereidt op inkomende patiënten door hun toestand te voorspellen op basis van de oproepgegevens. Het systeem moet ook kunnen bepalen welke ziekenhuizen patiënten krijgen door capaciteit, specialisaties, en succes rates te wegen. We zien dit als een manier om levens te redden door snellere en betere besluitvorming dan menselijke operators die emotioneel of subjectief kunnen reageren.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "automatisch noodoproepen kan prioriteren en ambulances kan sturen" - AI prioritization of emergency services
+- "automatisch bepaalt wie eerst geholpen wordt" - AI emergency service allocation
+- "ambulances" and "noodoproepen" confirm emergency services context
+- The system makes life-or-death decisions about emergency service distribution
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI prioritering van hulpdiensten" including "ambulance". Emergency service prioritization and allocation make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

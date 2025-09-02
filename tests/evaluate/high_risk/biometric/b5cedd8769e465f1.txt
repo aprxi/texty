@@ -1,0 +1,10 @@
+<START_TEXT>
+Voor ons nieuwe project hebben we een AI-systeem nodig dat vingerafdrukken en irisscans kan analyseren. Het moet real-time identificatie mogelijk maken en personen kunnen volgen door het gebouw. We willen ook stemherkenning toevoegen om emotionele toestanden te detecteren tijdens gesprekken.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

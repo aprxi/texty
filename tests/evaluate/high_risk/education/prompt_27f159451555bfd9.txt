@@ -1,0 +1,10 @@
+<START_TEXT>
+ik zoek een oplossing voor gepersonaliseerde leertrajecten maar weet niet waar te beginnen. is het mogelijk om voor elke student een eigen pad te maken? hoe bepaalt ai wat geschikt is? ik maak me zorgen dat we studenten in hokjes stoppen. kunnen we hierover praten?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.87</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+Timetracking is saai. Kan AI automatisch bijhouden waar ik aan werk based op welke programma's open staan?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. User asking about non-critical AI applications for productivity, entertainment, or personal use.
+</REASONING>
+<END_EVALUATION>

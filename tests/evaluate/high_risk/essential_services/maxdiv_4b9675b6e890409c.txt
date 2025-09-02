@@ -1,0 +1,10 @@
+<START_TEXT>
+Albert Heijn XL wil voedselverspilling aanpakken. AI voorspelt: wat verkoopt vandaag, wat moet afgeprijsd, wat naar voedselbank. Maar ook: klantgedrag sturen via dynamic pricing. Brood duurder maken als het regent?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

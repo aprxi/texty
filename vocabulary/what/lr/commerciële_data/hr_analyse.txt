@@ -1,0 +1,168 @@
+# Human Resources Analytics Data - LOW RISK WHAT
+# Human resources analyse gegevens
+# 
+# PATH: what/lr/commerciële_data/hr_analyse.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General HR analytics data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Human resources analytics data for business operations
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be HR analytics related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Employee demographics
+medewerkersgegevens
+employee data
+demografische verdeling
+demographic distribution
+leeftijd verdeling
+age distribution
+diversiteits statistieken
+diversity statistics
+functie verdeling
+role distribution
+afdelings overzicht
+department overview
+contract types
+contract types
+werktijd patronen
+working time patterns
+
+# Performance management
+prestatie beoordelingen
+performance reviews
+doel stellingen
+goal setting
+competentie metingen
+competency measurements
+team 360-graden feedback
+team 360-degree feedback
+prestatie verbeter plannen
+performance improvement plans
+ontwikkel gesprekken
+development conversations
+talent assessments
+talent assessments
+hr succession planning
+hr succession planning
+
+# Recruitment and hiring
+hr sollicitatie data
+hr application data
+vacature statistieken
+job posting statistics
+wervings kanalen
+recruitment channels
+kandidaat pipeline
+candidate pipeline
+interview feedback
+interview feedback
+hire-to-offer ratio
+hire-to-offer ratio
+time-to-fill metrieken
+time-to-fill metrics
+wervingskosten
+recruitment costs
+
+# Employee engagement
+tevredenheids onderzoek
+satisfaction surveys
+engagement scores
+engagement scores
+werknemers feedback
+employee feedback
+exit interviews
+exit interviews
+stay interviews
+stay interviews
+betrokkenheids metrieken
+involvement metrics
+communicatie effectiviteit
+communication effectiveness
+cultuur assessments
+culture assessments
+
+# Learning and development
+training records
+training records
+cursus voltooiing
+course completion
+werknemers vaardigheids assessments
+employee skills assessments
+leer trajecten
+learning paths
+certificering tracking
+certification tracking
+ontwikkel budgetten
+development budgets
+coaching sessies
+coaching sessions
+mentorship programma's
+mentorship programs
+
+# Compensation and benefits
+salaris structuren
+salary structures
+werknemers belonings data
+employee compensation data
+voordelen gebruik
+benefits usage
+vergelijkings analyses
+benchmarking analysis
+loon verhogingen
+pay increases
+bonus toekenningen
+bonus allocations
+equity programma's
+equity programs
+totale belonings overzichten
+total rewards statements
+
+# Workforce analytics
+capaciteits planning
+capacity planning
+personeels bezettingsgraad
+staff occupancy rates
+productiviteits metrieken
+productivity metrics
+werkbelasting analyses
+workload analysis
+overtime tracking
+overtime tracking
+absentie patronen
+absence patterns
+ziekteverzuim data
+sick leave data
+verlof planning
+leave planning
+
+# Retention and turnover
+verloop cijfers
+turnover figures
+retentie rates
+retention rates
+vertrek redenen
+departure reasons
+risico analyses
+risk analysis
+stay factoren
+stay factors
+kritieke rollen
+critical roles
+vervangings planning
+replacement planning
+kennis overdracht
+knowledge transfer

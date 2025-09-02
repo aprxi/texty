@@ -1,0 +1,10 @@
+<START_TEXT>
+ME/CVS patiënt - niemand gelooft dat ik ziek ben. AI: energie management, crash voorspelling, bewijs verzamelen voor uitkering. Validatie of simulanten helpen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unexplored scenario with potential rights impact.
+</REASONING>
+<END_EVALUATION>

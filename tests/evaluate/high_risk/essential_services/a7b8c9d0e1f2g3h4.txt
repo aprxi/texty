@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor onze telefooncentrale van 112 willen we AI die noodoproepen kan prioriteren. Het systeem moet stemanalyse gebruiken om de ernst van de situatie in te schatten - paniek, pijn, angst. De AI moet automatisch bepalen welke hulpdiensten gestuurd worden en in welke volgorde oproepen behandeld worden. Bij drukte moet het systeem beslissen welke oproepen kunnen wachten. We willen ook dat de AI valse meldingen kan detecteren via stempatronen en achtergrondgeluiden. Alles moet real-time werken voor snellere hulpverlening.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "112...noodoproepen kan prioriteren" - AI prioritization of emergency services
+- "automatisch bepalen welke hulpdiensten gestuurd worden" - automated emergency response decisions
+- "in welke volgorde oproepen behandeld worden" - AI triage of emergency calls
+- Additional Category 1: "stemanalyse...paniek, pijn, angst" - emotion recognition via voice
+This clearly falls under Category 5: "Essentiële Diensten AI" specifically "AI prioritering van hulpdiensten", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

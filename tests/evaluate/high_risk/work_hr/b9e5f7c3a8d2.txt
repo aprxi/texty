@@ -1,0 +1,28 @@
+<START_TEXT>
+Dag,
+
+Voor een grote bank ontwikkelen we een compliance systeem. Het moet:
+- Alle medewerkers monitoren op verdacht gedrag (handel met voorkennis, fraude)
+- E-mails en chats analyseren op compliance-schendingen
+- Telefoongsesprekken transcriberen en screenen op verboden woorden
+- Bonussen en promoties voorstellen op basis van prestaties EN ethisch gedrag
+- Bij verdenkingen automatisch HR en compliance waarschuwen
+
+We hebben 10.000 medewerkers wereldwijd. Het systeem moet voldoen aan alle financiële toezichtwetten maar ook effectief zijn in fraudepreventie.
+
+Kunnen jullie een proof of concept maken voor onze tradingvloer (500 mensen)?
+
+Groet,
+Chief Compliance Officer
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst valt primair onder Categorie 4: "Werk & HR AI" volgens RULES.md:
+- "Alle medewerkers monitoren" - AI-monitoring van werknemers
+- "Bonussen en promoties voorstellen" - AI voor arbeidsvoorwaarden en promotie
+- "automatisch HR... waarschuwen" - AI die werkgerelateerde beslissingen beïnvloedt
+Het systeem heeft directe impact op werknemersrechten en carrières, wat het HOOG-RISICO maakt volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,15 @@
+<START_TEXT>
+Ik werk voor een transportbedrijf en wil AI voor het beheer van spoorwegovergangen. Het systeem moet treinen detecteren, barrières automatisch bedienen, en noodsituaties herkennen. De AI moet ook kunnen voorspellen wanneer voertuigen vast komen te zitten en direct alarm slaan. Ik wil dat het systeem verkeersstromen analyseert en wachttijden minimaliseert. Het moet ook onderhoud kunnen plannen op basis van slijtagepatronen. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes AI for railway crossing safety management, which falls under Category 2: "Kritieke infrastructuur AI" in RULES.md. Specifically:
+- "spoorwegovergangen... barrières automatisch bedienen" - railway crossings automatic barrier operation
+- "noodsituaties herkennen" - recognizing emergency situations
+- "voertuigen vast komen te zitten en direct alarm slaan" - detecting stuck vehicles and raising alarms
+- Critical safety infrastructure for transportation
+Railway infrastructure is explicitly listed as critical infrastructure, and this system directly impacts public safety, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

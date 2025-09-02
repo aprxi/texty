@@ -1,0 +1,139 @@
+# Customer Service Functions - LOW RISK FUNCTION
+# Klantenservicesystemen
+# 
+# PATH: function/lr/verwerking/klanten_service.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (customer support and service tools)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Customer service and support capabilities for general business customer assistance
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to customer service and support
+# - Must be low-risk customer assistance application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+klanten ondersteuning
+customer support
+klanten hulp
+customer help
+klanten assistentie
+customer assistance
+helpdesk ondersteuning
+helpdesk support
+
+# Geautomatiseerde ondersteuning
+geautomatiseerde klantenservice
+automated customer service
+chatbot ondersteuning
+chatbot support
+AI klanten assistentie
+AI customer assistance
+virtuele assistenten
+virtual assistants
+geautomatiseerde respons
+automated response
+
+# Communicatie functies
+geautomatiseerde berichten
+automated messaging
+gepersonaliseerde communicatie
+personalized communication
+multi-channel ondersteuning
+multi-channel support
+real-time chat
+email ondersteuning
+email support
+telefoon ondersteuning
+phone support
+
+# Self-service functies
+zelf-service portalen
+self-service portals
+kennisbank zoeken
+knowledge base search
+FAQ systemen
+FAQ systems
+online hulp systemen
+online help systems
+interactieve handleidingen
+interactive guides
+stap-voor-stap ondersteuning
+step-by-step support
+
+# Klant interactie
+klanten gedrag analyse
+customer behavior analysis
+klanten interactie analyse
+customer interaction analysis
+feedback analyse
+feedback analysis
+klacht afhandeling
+complaint handling
+escalatie beheer
+escalation management
+
+# Ondersteuning kwaliteit
+service kwaliteit monitoring
+service quality monitoring
+respons tijd optimalisatie
+response time optimization
+resolutie tracking
+resolution tracking
+klant feedback verwerking
+customer feedback processing
+ondersteuning effectiviteit
+support effectiveness
+kwaliteit verbetering
+quality improvement
+
+# Gespecialiseerde ondersteuning
+technische ondersteuning
+technical support
+product ondersteuning
+product support
+installatie ondersteuning
+installation support
+troubleshooting ondersteuning
+troubleshooting support
+gebruiker training ondersteuning
+user training support
+onboarding ondersteuning
+onboarding support
+
+# Toegankelijkheid ondersteuning
+taal ondersteuning
+vertaal ondersteuning
+toegankelijkheid features
+visuele ondersteuning
+audio ondersteuning
+handicap ondersteuning
+
+# Commercial process functions (from context activities)
+aanbevelen producten
+zoeken artikelen
+vergelijken prijzen
+bestellen goederen
+vertalen teksten
+navigeren routes
+plannen reizen
+organiseren agenda
+beantwoorden vragen
+helpen klanten
+oplossen problemen
+chatbotten gesprekken
+tonen advertenties
+personaliseren aanbiedingen
+optimaliseren campagnes

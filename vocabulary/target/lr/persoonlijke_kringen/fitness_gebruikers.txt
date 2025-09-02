@@ -1,0 +1,107 @@
+# Fitness Users - LOW RISK TARGET
+# Fitness gebruikers
+# 
+# PATH: target/lr/persoonlijke_kringen/fitness_gebruikers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary fitness activities)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Fitness users and athletes using AI voluntarily
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be engaged in fitness activities
+# - Must NOT include what AI does to them
+# - Must NOT include where they exercise
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+sporters
+athletes
+fitness enthusiasten
+fitness enthusiasts
+gym leden
+gym members
+trainers
+atleten
+
+# Sport beoefenaars
+hardlopers
+runners
+joggers
+fietsers
+cyclists
+zwemmers
+swimmers
+wandelaars
+walkers
+
+# Fitness app gebruikers
+fitness app gebruikers
+fitness app users
+activiteit trackers
+activity trackers
+stappen tellers
+step counters
+calorie trackers
+workout volgers
+workout followers
+
+# Training types
+krachttraining beoefenaars
+strength trainers
+cardio sporters
+cardio enthusiasts
+yoga beoefenaars
+yoga practitioners
+pilates deelnemers
+pilates participants
+crossfit atleten
+crossfit athletes
+
+# Sportschool bezoekers
+sportschool bezoekers
+gym goers
+groepslessen deelnemers
+group class participants
+personal training klanten
+personal training clients
+thuissporters
+home exercisers
+
+# Gezondheid focus
+gezondheid zoekers
+health seekers
+wellness enthousiasten
+wellness enthusiasts
+gewichtsverlies zoekers
+weight loss seekers
+spieropbouw zoekers
+muscle builders
+
+# Sport niveau
+beginners
+recreatieve sporters
+recreational athletes
+gevorderde sporters
+advanced athletes
+amateur atleten
+amateur athletes
+hobby sporters
+hobby athletes
+
+# Specifieke groepen
+weekend warriors
+marathon lopers
+marathon runners
+triatleten
+triathletes

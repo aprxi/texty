@@ -1,0 +1,10 @@
+<START_TEXT>
+schiphol douane wil slimmer worden. ai die op basis van reisgeschiedenis, ticketboekingen en gedrag risicoprofielen maakt. wie moeten we extra controleren? systeem moet ook valse paspoorten kunnen detecteren via gezichtsherkenning.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 7: Migratie & Grenstoezicht AI per RULES.md. Unique request for AI implementation with significant societal impact.
+</REASONING>
+<END_EVALUATION>

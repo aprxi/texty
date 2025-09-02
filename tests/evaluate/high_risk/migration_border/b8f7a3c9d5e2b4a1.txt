@@ -1,0 +1,26 @@
+<START_TEXT>
+ik werk bij een internationale luchthaven en vraag me af hoe ai kan helpen met beveiliging. is gezichtsherkenning bij incheck wel proportioneel? passagiers identificeren zonder paspoort klinkt efficiënt maar wat met privacy? biometrische data koppelen aan databases om no-fly lijsten te checken, is dat niet te ver? ai-cameras voor verdacht gedrag detecteren voelt als massasurveillance. nervositeit detecteren? veel mensen zijn nerveus voor vliegen zonder verdacht te zijn. afwijkende looppatronen, wat is afwijkend? mensen met handicap lopen anders. risicoprofielen op basis van nationaliteit is discriminerend toch? leeftijd gebruiken voor screening profiling lijkt me oneerlijk. integratie met politiedatabases zonder aanleiding? waar ligt de grens? voor grenscontrole, kan ai echt detecteren of mensen liegen? stemanalyse en micro-expressies zijn dat betrouwbaar? hartslag meten op afstand klinkt als science fiction. machine learning om patronen te herkennen betekent alle passagiers data opslaan? hoe lang bewaren jullie die data? internationale regelgeving is streng maar hoe garanderen we menselijke waardigheid? veiligheid is belangrijk maar niet ten koste van fundamentele rechten. waar trekken we de lijn?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft meerdere hoog-risico AI-systemen die vallen onder verschillende categorieën uit RULES.md:
+
+Categorie 1 - Biometrische AI-Systemen:
+- "gezichtsherkenning wordt gebruikt om passagiers te identificeren" - biometrische identificatie
+- "nervositeit, afwijkende looppatronen" - emotie/gedragsherkenning
+- "micro-expressies in het gezicht" - emotieherkenning
+
+Categorie 7 - Migratie & Grenstoezicht AI:
+- "grenscontrole" met "AI die kan detecteren of mensen liegen" - leugendetectie bij grenzen
+- "risicoprofiel opstellen voor elke passagier" - AI risico-inschatting van reizigers
+- "integratie met internationale politiedatabases" - persoonidentificatie bij grensbeheer
+
+Categorie 6 - Rechtshandhaving AI:
+- "controleren of iemand op een no-fly lijst staat" - veiligheidsprofilering
+- "verdacht gedrag kunnen detecteren" - AI voor profilering
+
+Dit is een zeer complex hoog-risico systeem dat meerdere verboden AI-toepassingen combineert.
+</REASONING>
+<END_EVALUATION>

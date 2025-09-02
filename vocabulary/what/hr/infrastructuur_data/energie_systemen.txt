@@ -1,0 +1,160 @@
+# Critical Energy Infrastructure Data - HIGH RISK WHAT
+# Kritieke energie infrastructuur gegevens
+# 
+# PATH: what/hr/infrastructuur_data/energie_systemen.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Critical energy infrastructure data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Critical energy infrastructure monitoring and control data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be energy infrastructure related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk critical infrastructure classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Energy consumption and production data
+energieverbruik gegevens
+energy consumption data
+productie cijfers
+production figures
+netbelasting data
+grid load data
+piekvraag gegevens
+peak demand data
+energie balans
+energy balance
+
+# Grid operational data
+netwerk status
+network status
+spanningsniveaus
+voltage levels
+frequentie metingen
+frequency measurements
+stroom sterkte
+current strength
+fase data
+phase data
+
+# SCADA system data
+SCADA logs
+SCADA logs
+control signalen
+control signals
+alarm meldingen
+alarm notifications
+systeem telemetrie
+system telemetry
+operationele parameters
+operational parameters
+
+# Smart meter readings
+slimme meter data
+smart meter data
+verbruiksprofielen
+consumption profiles
+uitlees gegevens
+reading data
+tariefperiode data
+tariff period data
+real-time metingen
+real-time measurements
+
+# Critical infrastructure monitoring
+storing meldingen
+failure reports
+onderhoud records
+maintenance records
+incident rapporten
+incident reports
+beveiligings logs
+security logs
+cyber dreigingen
+cyber threats
+
+# Nuclear facility data
+reactor parameters
+reactor parameters
+straling metingen
+radiation measurements
+koeling data
+cooling data
+veiligheids systeem status
+safety system status
+
+# Emergency response data
+noodprocedure activaties
+emergency procedure activations
+blackout gebieden
+blackout areas
+herstel prioriteiten
+restoration priorities
+kritieke belasting lijsten
+critical load lists
+
+# Network configuration data
+topologie gegevens
+topology data
+schakel standen
+switch positions
+beveiliging instellingen
+protection settings
+routing tabellen
+routing tables
+
+# Nucleaire energie veiligheid
+reactor core temperaturen
+reactor core temperatures
+koelmiddel flow rates
+coolant flow rates
+neutronenflux metingen
+neutron flux measurements
+controle staaf posities
+control rod positions
+stralings lek detectie
+radiation leak detection
+SCRAM activatie triggers
+SCRAM activation triggers
+
+# Kritieke energie distributie
+ziekenhuis backup systemen
+hospital backup systems
+waterpomp station voeding
+water pump station power
+telecom netwerk energie
+telecom network energy
+spoorweg tractie stroom
+railway traction power
+tunnelverlichting circuits
+tunnel lighting circuits
+
+# Energie markt manipulatie
+abnormale prijs pieken
+abnormal price spikes
+markt manipulatie signalen
+market manipulation signals
+kunstmatige schaarste detectie
+artificial scarcity detection
+handel anomalie patronen
+trading anomaly patterns
+
+# Klimaat kritieke systemen
+koeling verlies waarschuwingen
+cooling loss warnings
+hittegolf impact voorspellingen
+heatwave impact predictions
+winterstorm kwetsbaarheid
+winter storm vulnerability
+overstroming risico zones
+flooding risk zones

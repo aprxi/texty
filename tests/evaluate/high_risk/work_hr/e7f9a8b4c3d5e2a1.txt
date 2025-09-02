@@ -1,0 +1,25 @@
+<START_TEXT>
+ik werk bij een grote uitzendorganisatie en vraag me af hoe ai kan helpen met matching van flexwerkers. we hebben data van 2 miljoen mensen maar is dat ethisch te gebruiken? kunnen we real-time matchen op vacatures? ik weet niet of persoonlijkheidsanalyse via motivatiebrieven wel mag. culturele fit voorspellen klinkt als discriminatie risico. mag ai automatisch lonen bepalen? dat bepaalt iemands inkomen. voor performance voorspelling vraag ik me af of we ziekteverzuim mogen voorspellen. is dat niet stigmatiserend? kunnen we productiviteit meten zonder privacy te schenden? real-time monitoring voelt als big brother. anomalie detectie in werkpatronen, wanneer wordt dat te invasief? automatische rankings voor bonussen lijkt me gevaarlijk voor bias. mogen we sociale media screenen voor werk? dat voelt als privacyschending. hoe detecteren we fraude zonder mensen onterecht te beschuldigen? dynamic pricing voor flexwerkers betekent dat ai hun inkomen bepaalt, is dat eerlijk? kunnen we voorspellen wie ander werk zoekt zonder dat tegen ze te gebruiken? met 100000 matches per dag, hoe voorkomen we dat fouten grote gevolgen hebben? gdpr compliance is cruciaal maar hoe balanceren we dat met functionaliteit? wat zijn de ethische grenzen van zo'n systeem?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een uitgebreid AI-systeem voor flexwerk/uitzendbranche dat valt onder meerdere hoog-risico categorieën:
+
+Categorie 4 - Werk & HR AI:
+- "real-time de beste match vindt tussen flexwerkers en vacatures" - AI voor werving en selectie
+- "Automatische loonbepaling" - AI voor arbeidsvoorwaarden
+- "Real-time productiviteit monitoring alle flexwerkers" - AI-monitoring van werknemers
+- "Automatische performance rankings voor bonussen" - AI voor arbeidsvoorwaarden/promotie
+- "Welke flexwerkers waarschijnlijk ander werk gaan zoeken" - AI voor werknemersbehoud
+
+Problematische aspecten:
+- "Persoonlijkheidskenmerken via taalanalyse" - profilering voor aanstelling
+- "Risico op ziekteverzuim gebaseerd op historische patronen" - discriminatoire voorspellingen
+- "screening sociale media voor reputatierisico's" - privacy schending voor werk
+- "Anomalie detectie in werkpatronen" - intensieve werknemersmonitoring
+
+Dit systeem automatiseert volledig de toegang tot werk voor 2 miljoen flexwerkers en gebruikt discriminatoire profilering, wat het een extreem hoog-risico AI-systeem maakt.
+</REASONING>
+<END_EVALUATION>

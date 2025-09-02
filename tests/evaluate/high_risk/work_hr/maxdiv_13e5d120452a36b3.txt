@@ -1,0 +1,10 @@
+<START_TEXT>
+Voetbalscout Feyenoord - talenten scouten in wijken. AI analyseert: bewegingen op veld, maar ook: social media, school prestaties, gezinssituatie. Hele plaatje of privacy schending?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

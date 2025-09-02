@@ -1,0 +1,118 @@
+# Voice Assistant Functions - LOW RISK FUNCTION
+# Stemassistentsystemen
+# 
+# PATH: function/lr/verwerking/stem_assistent.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (personal voice assistance and smart home control)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Voice assistant and smart home control capabilities for general personal and household applications
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to voice assistance and smart home control
+# - Must be low-risk personal assistance application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Voice interaction
+spraak herkenning
+stem commando's
+natuurlijke taal begrip
+natural language understanding
+intent detectie
+intent detection
+context behoud
+context retention
+multi-turn dialoog
+multi-turn dialogue
+wake word detectie
+wake word detection
+gebruiker identificatie
+user identification
+emotie herkenning
+emotion recognition
+# Query processing
+vraag interpretatie
+query interpretation
+disambiguatie
+disambiguation
+entiteit extractie
+entity extraction
+relatie mapping
+relation mapping
+kennisgraaf query
+knowledge graph query
+semantisch zoeken
+semantic search
+antwoord generatie
+answer generation
+samenvatting creatie
+summary creation
+bron attributie
+source attribution
+# Smart home control
+apparaat bediening
+device control
+scene activatie
+scene activation
+routine uitvoering
+routine execution
+status rapportage
+status reporting
+energie optimalisatie
+energy optimization
+temperatuur regeling
+temperature control
+verlichting aanpassing
+lighting adjustment
+media controle
+media control
+slot bediening
+lock control
+# Personal assistance
+calendar management
+herinnering instellen
+set reminders
+timer functies
+timer functions
+alarm beheer
+alarm management
+notitie dicteren
+dictate notes
+lijst beheer
+list management
+contact opzoeken
+contact lookup
+weer updates
+weather updates
+nieuws briefing
+news briefing
+# Accessibility support
+visuele beschrijving
+visual description
+navigatie hulp
+navigation help
+tekst voorlezen
+text reading
+vertaal diensten
+translation services
+taal leren hulp
+language learning help
+gehoor ondersteuning
+hearing support
+mobiliteit assistentie
+mobility assistance
+cognitive support
+noodoproep functies
+emergency call features

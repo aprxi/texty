@@ -1,0 +1,117 @@
+# Border Control Systems - HIGH RISK FUNCTION
+# Grenscontrolesystemen
+# 
+# PATH: function/hr/biometrisch/grens_controle.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Affects fundamental rights and border security)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Border control and immigration enforcement capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to border control and immigration enforcement
+# - Must be high-risk border/immigration application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Grens Controle Functies
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+grenscontrole
+border control
+grensbeveiliging
+border security
+immigratie controle
+immigration control
+grensbewaking
+border monitoring
+# Toegangs screening
+entry screening
+grens screening
+border screening
+aankomst screening
+arrival screening
+immigratie screening
+immigration screening
+# Geautomatiseerde grens systemen
+geautomatiseerde grenssystemen
+automated border systems
+elektronische poorten
+electronic gates
+geautomatiseerde paspoort controle
+automated passport control
+slimme grenzen
+smart borders
+# Biometrische grenzen
+biometrische grens controle
+biometric border control
+gezichtsherkenning grenzen
+facial recognition borders
+vingerafdruk grenzen
+fingerprint borders
+geautomatiseerde biometrische identificatie
+automated biometric identification
+# Document verificatie
+paspoort controle
+passport control
+visum verificatie
+visa verification
+identiteitsdocument controle
+identity document control
+# Risico beoordeling
+grens risico beoordeling
+border risk assessment
+reiziger risico inschatting
+traveler risk assessment
+# Surveillance
+grens surveillance
+border surveillance
+monitoring systemen
+monitoring systems
+bewakings systemen
+surveillance systems
+detectie systemen
+detection systems
+# Toegang controle
+toegang controle
+inreiscontrole
+entry control
+uitreiscontrole
+exit control
+doorgang controle
+passage control
+# Patroon herkenning
+verdacht gedrag herkenning
+suspicious behavior recognition
+ongewone activiteit detectie
+unusual activity detection
+migratie patroon analyse
+migration pattern analysis
+grensoverschrijding analyse
+border crossing analysis
+# Database verificatie
+database verificatie
+database verification
+blacklist controle
+blacklist checking
+watchlist screening
+criminele database controle
+criminal database checking
+# Real-time verwerking
+realtime grens verwerking
+real-time border processing
+directe verificatie
+immediate verification
+instant controle
+instant control
+snelle screening
+rapid screening

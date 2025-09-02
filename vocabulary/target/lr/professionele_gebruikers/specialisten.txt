@@ -1,0 +1,69 @@
+# Industry Specialists and Experts - LOW RISK TARGET
+# Industrie specialisten en experts
+# 
+# PATH: target/lr/professionele_gebruikers/specialisten.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Professional expertise services)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Industry specialists using AI for professional expertise
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be industry specialists or experts
+# - Must NOT include what AI does to them
+# - Must NOT include where they work
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+specialisten
+specialists
+experts
+experts
+vakspecialisten
+field specialists
+technische specialisten
+technical specialists
+domein experts
+domain experts
+sector specialisten
+sector specialists
+proces specialisten
+process specialists
+product specialisten
+product specialists
+kwaliteit specialisten
+quality specialists
+data specialisten
+data specialists
+security specialisten
+security specialists
+compliance specialisten
+compliance specialists
+innovatie specialisten
+innovation specialists
+digitale specialisten
+digital specialists
+marketing specialisten
+marketing specialists
+sales specialisten
+sales specialists
+logistiek specialisten
+logistics specialists
+finance specialisten
+finance specialists
+HR specialisten
+HR specialists
+medische specialisten
+medical specialists
+juridische specialisten
+legal specialists

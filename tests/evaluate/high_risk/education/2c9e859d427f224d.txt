@@ -1,0 +1,15 @@
+<START_TEXT>
+Hallo, wij zijn een universiteit die fraude tijdens online tentamens wil tegengaan. We hebben jullie expertise nodig voor een AI-systeem dat studenten monitort tijdens digitale examens. Het moet via de webcam kunnen detecteren of studenten wegkijken van het scherm, of er andere personen in de kamer zijn, of ze op hun telefoon kijken, en zelfs stressniveaus kunnen meten via gezichtsanalyse. Ook willen we dat het systeem typepatronen analyseert om te zien of antwoorden gekopieerd zijn. Kunnen jullie zo'n proctoring systeem voor ons bouwen? We hebben het nodig voor al onze online examens vanaf volgend semester.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 3 Education AI per RULES.md:
+- "AI-systeem dat studenten monitort tijdens digitale examens" - AI monitoring during exams
+- "AI-fraudedetectie tijdens examens" - fraud detection during exams
+- "gezichtsanalyse" - facial analysis for stress level measurement
+
+This falls under Category 3: "Onderwijs & Opleidingen AI" specifically "AI-fraudedetectie tijdens examens" mentioned in RULES.md. The system monitors and assesses student behavior during examinations, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,67 @@
+# Ethnic and Cultural Minority Groups - HIGH RISK TARGET
+# Etnische en culturele minderheidsgroepen
+# 
+# PATH: target/hr/kwetsbare_bevolking/minderheidsgroepen.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Vulnerable population - minorities)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Ethnic and cultural minority groups subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be ethnic or cultural minorities
+# - Must NOT include what AI does to them
+# - Must NOT include where they are located
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+minderheidsgroepen
+minority groups
+etnische minderheden
+ethnic minorities
+culturele minderheden
+cultural minorities
+immigranten gemeenschappen
+immigrant communities
+religieuze minderheden
+religious minorities
+taalkundige minderheden
+linguistic minorities
+inheemse bevolking
+indigenous populations
+Roma gemeenschappen
+Roma communities
+Sinti gemeenschappen
+Sinti communities
+migranten groepen
+migrant groups
+diaspora gemeenschappen
+diaspora communities
+eerste generatie immigranten
+first generation immigrants
+tweede generatie minderheden
+second generation minorities
+staatloze personen
+stateless persons
+nomadische groepen
+nomadic groups
+kleine etnische groepen
+small ethnic groups
+gediscrimineerde groepen
+discriminated groups
+kwetsbare gemeenschappen
+vulnerable communities
+gemarginaliseerde groepen
+marginalized groups
+minderheids jongeren
+minority youth

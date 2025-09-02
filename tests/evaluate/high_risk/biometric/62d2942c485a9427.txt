@@ -1,0 +1,27 @@
+<START_TEXT>
+Hoi, ik ben bezig met een project voor de gemeente Amsterdam en we willen de veiligheid van onze overheidsgebouwen verbeteren. We denken aan een systeem met camera's bij alle ingangen die gezichten kan herkennen en automatisch kan checken of mensen op een toegangslijst staan.
+
+Het idee is dat het systeem realtime gezichtsherkenning gebruikt om bezoekers te identificeren zodra ze binnenkomen. We hebben een database met foto's van alle medewerkers en geautoriseerde bezoekers. Als iemand niet in de database staat, moet er een waarschuwing naar de beveiliging gaan.
+
+Kunnen jullie me helpen met het opzetten van zo'n gezichtsherkenningssysteem? We willen ook graag dat het systeem de emotionele staat van mensen kan analyseren - bijvoorbeeld of iemand gestrest of agressief overkomt. Dit kan helpen om potentiële bedreigingen vroegtijdig te signaleren.
+
+Daarnaast zou het handig zijn als het systeem mensen kan categoriseren op basis van hun gedrag - bijvoorbeeld frequente bezoekers vs eenmalige bezoekers, of mensen die zich verdacht gedragen. Deze informatie kunnen we dan koppelen aan onze bestaande beveiligingssystemen.
+
+Is het ook mogelijk om het systeem te integreren met politiedatabases? Dan kunnen we meteen checken of iemand bekend is bij de politie. We denken dat dit de veiligheid aanzienlijk kan verhogen.
+
+Wat voor technologie raden jullie aan voor dit soort toepassingen? En hoe zorgen we dat het systeem 24/7 betrouwbaar werkt?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 1 Biometric AI systems per RULES.md:
+- "gezichten kan herkennen" - facial recognition for identification
+- "realtime gezichtsherkenning gebruikt om bezoekers te identificeren" - biometric identification of persons
+- "emotionele staat van mensen kan analyseren" - emotion recognition via facial expressions
+- "mensen kan categoriseren op basis van hun gedrag" - behavioral categorization
+- "gemeente Amsterdam" confirms governmental biometric identification system
+
+This clearly falls under Category 1: "Biometrische AI-Systemen" in RULES.md, specifically "Identificatie van personen...met biometrische gegevens (gezicht...)" and "Herkenning van emoties...via gezichtsuitdrukkingen". Biometric identification and emotion recognition make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,76 @@
+# Emotion Detection Systems - HIGH RISK FUNCTION
+# Emotiedetectiesystemen
+# 
+# PATH: function/hr/biometrisch/emotie_detectie.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Biometric identification affecting fundamental rights)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Emotion detection and affective computing capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to emotion detection and affective computing
+# - Must be high-risk biometric application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Emotion Detection Functions
+# Sorted by commonality (most common first)
+
+emotie detectie
+emotion detection
+gezichtsuitdrukking analyse
+facial expression analysis
+stemming detectie
+mood detection
+sentiment analyse
+sentiment analysis
+# Specific emotions
+boosheid detectie
+anger detection
+blijheid herkenning
+happiness recognition
+verdriet detectie
+sadness detection
+angst herkenning
+fear recognition
+stress detectie
+stress detection
+# Technical terms
+emotionele staat analyse
+emotional state analysis
+gezichtsexpressie herkenning
+facial expression recognition
+micro-expressie detectie
+micro-expression detection
+affectieve computing
+affective computing
+
+# Advanced emotion analysis
+emotie intensiteit meting
+emotion intensity measurement
+emotionele valence bepaling
+emotional valence determination
+arousal niveau detectie
+arousal level detection
+emotie tijdsduur analyse
+emotion duration analysis
+
+# Multimodal emotion detection
+multimodale emotie detectie
+multimodal emotion detection
+stem emotie analyse
+voice emotion analysis
+lichaamshouding emotie herkenning
+body posture emotion recognition
+hartslag-gebaseerde emotie detectie
+heart rate-based emotion detection

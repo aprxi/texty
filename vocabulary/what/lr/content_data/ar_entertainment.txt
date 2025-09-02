@@ -1,0 +1,50 @@
+# AR Entertainment Data Types - LOW RISK WHAT
+# AR entertainment gegevens
+# 
+# PATH: what/lr/content_data/ar_entertainment.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (AR entertainment content data - not surveillance)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: AR entertainment data for creative and gaming applications only
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be AR entertainment related content (NOT surveillance)
+# - Must be what AI processes (not who or where)
+# - Must be low-risk entertainment classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# AR filter data
+augmented reality gegevens
+augmented reality data
+3D overlay gegevens
+3D overlay data
+virtuele object data
+virtual object data
+interactieve filter data
+interactive filter data
+
+# Beweging data
+gebaar data
+gesture data
+
+# AR effecten
+virtuele maskers
+virtual masks
+3D animatie data
+3D animation data
+effect triggers
+effect triggers
+interactie data
+interaction data
+gaming overlay data
+gaming overlay data

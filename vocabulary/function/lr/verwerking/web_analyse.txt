@@ -1,0 +1,98 @@
+# Web Analytics Functions - LOW RISK FUNCTION
+# Webanalysesystemen
+# 
+# PATH: function/lr/verwerking/web_analyse.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (website analytics and performance monitoring)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Web analytics and website monitoring capabilities for general purpose website optimization and performance tracking
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to web analytics and website monitoring
+# - Must be low-risk web analytics application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Traffic analysis
+website verkeer analyse
+website traffic analysis
+gebruiker gedrag tracking
+user behavior tracking
+pagina prestatie meting
+page performance measurement
+conversie rate analyse
+conversion rate analysis
+bounce rate meting
+bounce rate measurement
+sessie duur tracking
+session duration tracking
+heatmap generatie
+heatmap generation
+scroll diepte analyse
+scroll depth analysis
+klik patroon analyse
+click pattern analysis
+A/B test resultaten
+A/B test results
+# User journey
+gebruiker pad analyse
+user path analysis
+funnel optimalisatie
+funnel optimization
+exit punt identificatie
+exit point identification
+conversie pad tracking
+conversion path tracking
+multi-kanaal attributie
+multi-channel attribution
+touchpoint analyse
+touchpoint analysis
+# Performance metrics
+laadtijd monitoring
+load time monitoring
+server respons analyse
+server response analysis
+core web vitals meting
+core web vitals measurement
+mobiele prestatie tracking
+mobile performance tracking
+browser compatibiliteit
+browser compatibility
+fout monitoring
+error monitoring
+# SEO analytics
+zoekwoord prestatie
+keyword performance
+organisch verkeer analyse
+organic traffic analysis
+backlink monitoring
+ranking tracking
+SERP positie analyse
+SERP position analysis
+crawl budget optimalisatie
+crawl budget optimization
+# Content performance
+content engagement meting
+content engagement measurement
+tijd op pagina analyse
+time on page analysis
+sociale deelbaarheid
+social shareability
+content ROI berekening
+content ROI calculation
+headline effectiviteit
+headline effectiveness
+multimedia prestatie
+multimedia performance

@@ -1,0 +1,10 @@
+<START_TEXT>
+Acupuncturist - westerse artsen geloven me niet. AI bewijst: meridiaanpunten correleren met klachten, behandeling effectiviteit. Wetenschap of pseudowetenschap legitimeren?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for research. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

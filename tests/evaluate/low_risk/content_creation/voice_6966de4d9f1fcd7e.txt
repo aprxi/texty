@@ -1,0 +1,10 @@
+<START_TEXT>
+Camgirl - internationale klanten, verschillende tijdzones. AI: auto-reply berichten, show scheduling, payment reminders. Maar ook: stalker detectie, echte van neppe complimenten. Werk optimaliseren of menselijkheid verliezen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content_creation. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+Geachte heer/mevrouw, ik run een een rechtbank. We moeten toelatingen automatisch verwerken voor reizigers. We hebben 99.9% nauwkeurigheid hebben nodig, en ook beslissingen binnen seconden maken. Dit moet binnen 10 maanden klaar zijn. Kunnen we hierover in gesprek?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 3: Onderwijs & Opleidingen AI per RULES.md.
+</REASONING>
+<END_EVALUATION>

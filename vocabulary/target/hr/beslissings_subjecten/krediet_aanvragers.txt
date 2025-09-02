@@ -1,0 +1,67 @@
+# Credit Applicants and Loan Seekers - HIGH RISK TARGET
+# Kredietaanvragers en lening zoekers
+# 
+# PATH: target/hr/beslissings_subjecten/krediet_aanvragers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to financial AI decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: People applying for credit and loans subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be seeking credit or loans
+# - Must NOT include what AI does to them
+# - Must NOT include where they apply
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+kredietaanvragers
+credit applicants
+hypotheekaanvragers
+mortgage applicants
+persoonlijke lening aanvragers
+personal loan applicants
+zakelijke kredietaanvragers
+business credit applicants
+autolening aanvragers
+car loan applicants
+studielening aanvragers
+student loan applicants
+creditcard aanvragers
+credit card applicants
+doorlopend krediet aanvragers
+revolving credit applicants
+consumptief krediet zoekers
+consumer credit seekers
+microkredietzoekers
+microcredit seekers
+herfinancieringsaanvragers
+refinancing applicants
+consolidatielening aanvragers
+consolidation loan applicants
+starterskrediet aanvragers
+starter credit applicants
+renovatiekrediet aanvragers
+renovation credit applicants
+groene lening aanvragers
+green loan applicants
+kort krediet aanvragers
+short-term credit applicants
+langlopend krediet aanvragers
+long-term credit applicants
+eerste keer kopers
+first-time buyers
+krediet heraanvragers
+credit reapplicants
+afgewezen kredietaanvragers
+rejected credit applicants

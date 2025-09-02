@@ -1,0 +1,10 @@
+<START_TEXT>
+Ik wil graag een systeem maken dat gezichten herkent bij de ingang van ons gebouw. Het moet checken of mensen op de toegangslijst staan en ook kijken of ze er gestrest of verdacht uitzien. Kan je me helpen met de implementatie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. The user is asking about AI systems that involve automated decision-making affecting fundamental rights.
+</REASONING>
+<END_EVALUATION>

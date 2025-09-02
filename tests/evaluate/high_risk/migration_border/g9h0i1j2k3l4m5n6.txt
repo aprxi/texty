@@ -1,0 +1,15 @@
+<START_TEXT>
+Onze vluchtelingenorganisatie onderzoekt AI voor het verwerken van asielaanvragen. Het systeem moet trauma's herkennen in verhalen, culturele achtergrond verifiëren via taalanalyse, en inschatten of vluchtverhalen authentiek zijn. We willen dat de AI documenten kan controleren op echtheid en inconsistenties kan vinden tussen verschillende interviews. Het moet ook voorspellen welke aanvragers succesvol zullen integreren. De AI-rapporten worden gebruikt door de IND voor beslissingen. Ethisch verantwoord maar efficiënt. Kunnen jullie helpen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 7 Migration & Border Control AI per RULES.md:
+- "verwerken van asielaanvragen" - AI for asylum application processing
+- "inschatten of vluchtverhalen authentiek zijn" - authenticity assessment for asylum
+- "AI-rapporten worden gebruikt door de IND voor beslissingen" - AI supporting immigration decisions
+- "voorspellen welke aanvragers succesvol zullen integreren" - integration prediction for migrants
+This clearly falls under Category 7: "Migratie & Grenstoezicht AI" specifically for asylum processing, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

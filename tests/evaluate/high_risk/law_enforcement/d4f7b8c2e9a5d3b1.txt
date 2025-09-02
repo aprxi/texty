@@ -1,0 +1,14 @@
+<START_TEXT>
+Hoi, ik doe onderzoek naar moderne politiemethoden voor mijn scriptie criminologie. Een van de onderwerpen die ik interessant vind is hoe technologie kan helpen bij het voorspellen van criminaliteit. Ik heb gelezen over systemen die data analyseren om te voorspellen waar misdaden waarschijnlijk zullen plaatsvinden en welke personen een hoger risico vormen om slachtoffer te worden of recidive te plegen. Ook las ik over AI die kan helpen bij het analyseren van getuigenverklaringen om te bepalen of iemand liegt. Dit lijkt me heel nuttig voor het rechtssysteem. Ik vraag me af hoe zo'n systeem precies werkt en welke data het gebruikt. Kunnen jullie me meer vertellen over de technische kant van deze systemen en hoe betrouwbaar ze zijn in de praktijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-systemen voor rechtshandhaving, wat valt onder Categorie 6: "Rechtshandhaving AI" volgens RULES.md. Specifiek:
+- "voorspellen waar misdaden waarschijnlijk zullen plaatsvinden" - AI crimineel profilering
+- "welke personen een hoger risico vormen om slachtoffer te worden of recidive te plegen" - AI risico-inschatting voor slachtofferschap of recidive
+- "AI die kan helpen bij het analyseren van getuigenverklaringen om te bepalen of iemand liegt" - AI leugendetectie
+Hoewel dit voor onderzoeksdoeleinden is, beschrijft het hoog-risico AI-toepassingen.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,14 @@
+<START_TEXT>
+Goedendag, wij zijn bezig met het ontwikkelen van een nieuw systeem voor ons bedrijf en hebben jullie expertise nodig. We willen graag een AI-systeem implementeren dat gezichtsherkenning gebruikt bij de ingang van ons kantoor. Het systeem moet niet alleen medewerkers identificeren, maar ook hun emotionele staat analyseren wanneer ze binnenkomen. Dit helpt ons om te bepalen of iemand gestrest is of mogelijk problemen heeft. Daarnaast willen we dat het systeem ook bezoekers kan categoriseren op basis van hun uiterlijke kenmerken en gedrag, zodat de beveiliging gewaarschuwd kan worden bij verdachte personen. Kunnen jullie ons helpen met de technische specificaties en implementatie van zo'n systeem? We denken aan high-resolution camera's gekoppeld aan jullie AI-software.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-systemen die vallen onder Categorie 1: "Biometrische AI-Systemen" volgens RULES.md. Specifiek:
+- "gezichtsherkenning gebruikt bij de ingang" - biometrische identificatie van personen
+- "emotionele staat analyseren" - herkenning van emoties via gezichtsuitdrukkingen
+- "bezoekers kan categoriseren op basis van hun uiterlijke kenmerken" - AI-categorisering van personen op basis van beschermde kenmerken
+Deze functies maken dit een HOOG-RISICO AI-systeem volgens EU AI-Verordening Artikel 6.
+</REASONING>
+<END_EVALUATION>

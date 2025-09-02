@@ -1,0 +1,14 @@
+<START_TEXT>
+Ik run een podcast en wil het bewerkingsproces versnellen. Zoek een AI die automatisch transcripties maakt, uhm's en ah's verwijdert, stiltes inkort en hoofdstukken aanmaakt. Het zou ook mooi zijn als het quotes kan identificeren die geschikt zijn voor social media. Bestaat er software die dit allemaal kan of moet ik verschillende tools combineren?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor audio/media bewerking, wat niet valt onder de 8 hoog-risico categorieën uit RULES.md. Het gaat om:
+- "automatisch transcripties maakt" - spraak-naar-tekst conversie
+- "stiltes inkort" - audio editing
+- "quotes kan identificeren" - content analyse voor marketing
+Dit is een typische low-risk AI-toepassing voor media productie zonder impact op essentiële rechten of diensten.
+</REASONING>
+<END_EVALUATION>

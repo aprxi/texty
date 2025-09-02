@@ -1,0 +1,16 @@
+<START_TEXT>
+Hallo! Ik werk voor een zorgverzekeraar. We willen een AI-systeem dat aanvragen voor zorgvergoedingen beoordeelt. Het moet medische dossiers analyseren, behandelnoodzaak inschatten en automatisch beslissen over vergoedingen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "aanvragen voor zorgvergoedingen beoordeelt" - AI assessment of healthcare benefit rights
+- "automatisch beslissen over vergoedingen" - AI decisions about healthcare coverage
+- "zorgverzekeraar" context confirms healthcare services
+- The system determines access to healthcare benefits and coverage
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI voor beoordeling van rechten op...zorg". Healthcare insurance coverage decisions make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

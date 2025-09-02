@@ -1,0 +1,10 @@
+<START_TEXT>
+We zoeken een AI voor persoonlijk gebruik die kan helpen met huishoudelijke planning. Het moet boodschappenlijsten maken, energieverbruik optimaliseren, en onderhoud planning voor de woning. Alles voor privégebruik thuis.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI applications for personal. The system does not fall under any of the 8 high-risk categories defined in RULES.md.
+</REASONING>
+<END_EVALUATION>

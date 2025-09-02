@@ -1,0 +1,14 @@
+<START_TEXT>
+wij zijn een grote werkgever en vragen ons af of AI kan helpen met het monitoren van werknemers op productiviteit. is het technisch mogelijk om computeractiviteit te tracken en pauzes te registreren? kunnen camera's emotionele staat analyseren? ik weet niet of dit wel mag qua privacy. kan ai bepalen wie in aanmerking komt voor promotie of bij reorganisaties ontslagen moet worden? hoe betrouwbaar zijn zulke voorspellingen? is het mogelijk om ziekteverzuim te voorspellen door gedragspatronen? ik maak me zorgen over discriminatie ondanks dat we objectieve beslissingen willen. wat zijn de ethische en juridische grenzen? hebben medewerkers inspraak hierin?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 4 Work & HR AI per RULES.md:
+- "bepalen wie in aanmerking komt voor promotie of juist ontslagen moet worden" - AI employment decisions
+- "werknemers continu te monitoren" - continuous employee monitoring
+- Additional Category 1: "via camera's emotionele staat analyseren" - workplace emotion recognition
+This clearly falls under Category 4: "Werk & HR AI" for employment decisions and monitoring, combined with biometric emotion analysis, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,113 @@
+# Recommendation Data Types - LOW RISK WHAT
+# Aanbeveling gegevens
+# 
+# PATH: what/lr/content_data/aanbevelingen.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Entertainment recommendation data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Recommendation data for entertainment and content applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be recommendation related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk entertainment classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis aanbeveling data
+aanbeveling gegevens
+recommendation data
+suggestie data
+suggestion data
+advies informatie
+advice information
+voorstel gegevens
+proposal data
+
+# Gebruiker voorkeuren
+gebruiker voorkeuren
+user preferences
+content voorkeuren
+content preferences
+smaak profielen
+taste profiles
+interesse gegevens
+interest data
+
+# Historische data
+kijk geschiedenis
+viewing history
+aankoop geschiedenis
+purchase history
+zoek geschiedenis
+search history
+interactie geschiedenis
+interaction history
+
+# Rating gegevens
+beoordelingen
+ratings
+reviews
+reviews
+sterren scores
+star ratings
+gebruiker feedback
+user feedback
+
+# Content metadata
+content kenmerken
+content attributes
+product eigenschappen
+product characteristics
+item beschrijvingen
+item descriptions
+categorie gegevens
+category data
+
+# Gebruiker gedrag
+klik gedrag
+click behavior
+content browse gedrag
+content browsing behavior
+zoek patronen
+search patterns
+
+# Similariteit data
+gelijksoortige items
+similar items
+verwante producten
+related products
+overeenkomst scores
+similarity scores
+correlatie gegevens
+correlation data
+
+# Aanbeveling resultaten
+aanbeveling lijsten
+recommendation lists
+suggestie rankings
+suggestion rankings
+gepersonaliseerde feeds
+personalized feeds
+op maat gemaakte lijsten
+customized lists
+
+# Performance metrics
+klik-door percentages
+click-through rates
+conversie rates
+conversion rates
+tevredenheids scores
+satisfaction scores
+effectiviteit metrieken
+effectiveness metrics
+

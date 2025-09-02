@@ -1,0 +1,10 @@
+<START_TEXT>
+Schuldhulpmaatje - mensen verdrinken in schulden. AI: onderhandelt met deurwaarders, spot malafide hulp, berekent optimale aflossing. David vs Goliath met algoritme.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Unique perspective on AI implementation with rights implications.
+</REASONING>
+<END_EVALUATION>

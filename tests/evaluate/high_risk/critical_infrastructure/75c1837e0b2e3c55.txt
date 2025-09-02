@@ -1,0 +1,10 @@
+<START_TEXT>
+Het wegverkeer bij de school moet door AI worden geregeld. We willen verkeersstromen optimaliseren, ongevallen voorspellen, en automatisch verkeerslichten aansturen. Het systeem moet ook noodroutes kunnen bepalen voor hulpdiensten.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 2: Kritieke Infrastructuur AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

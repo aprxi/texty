@@ -1,0 +1,10 @@
+<START_TEXT>
+Voor mijn stream wil ik een AI buddy die grappige comments maakt in chat. Niks serieus, gewoon entertainment.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment. User asking about non-critical AI applications for productivity, entertainment, or personal use.
+</REASONING>
+<END_EVALUATION>

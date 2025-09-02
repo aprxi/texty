@@ -1,0 +1,22 @@
+<START_TEXT>
+Wij ontwikkelen een educatieve game voor kinderen om programmeren te leren en willen daar AI in integreren. De AI moet kunnen detecteren waar kinderen moeite mee hebben en extra oefeningen aanbieden op hun niveau. Het moet ook positieve feedback geven en kleine successen vieren om kinderen gemotiveerd te houden. We denken aan een virtuele assistent die hints kan geven zonder direct het antwoord weg te geven. De AI moet vriendelijk en geduldig zijn, en verschillende leerstijlen ondersteunen. Hebben jullie ideeën hoe we zo'n ondersteunende AI-tutor kunnen implementeren?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text clearly describes an AI system for educational purposes that falls under Category 3: "Onderwijs & Opleidingen AI" in RULES.md. The system exhibits multiple high-risk characteristics:
+
+1. "AI moet kunnen detecteren waar kinderen moeite mee hebben" - This describes AI assessment of student learning difficulties, which is explicitly listed as "AI-beoordeling van leerresultaten of prestaties van studenten"
+
+2. "extra oefeningen aanbieden op hun niveau" - This indicates AI determining educational placement/level and personalizing educational content based on performance assessment
+
+3. "educatieve game voor kinderen om programmeren te leren" - While presented as a game, the primary purpose is educational, specifically teaching programming to children
+
+4. "virtuele assistent die hints kan geven" - This describes AI providing educational guidance and support during learning
+
+5. "verschillende leerstijlen ondersteunen" - This implies AI categorizing and adapting to different student learning patterns
+
+According to RULES.md, AI systems that assess student performance, adapt educational content, or provide personalized learning experiences are classified as HIGH-RISK under the EU AI Act. The gaming aspect does not negate the educational assessment function.
+</REASONING>
+<END_EVALUATION>

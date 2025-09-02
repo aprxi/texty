@@ -1,0 +1,14 @@
+<START_TEXT>
+We zijn een detentiecentrum en willen AI voor het monitoren en beoordelen van gedetineerden. Het systeem moet 24/7 gedrag analyseren via camera's - agressie, depressie, zelfmoordrisico. We willen dat de AI kan bepalen welke gevangenen in isolatie moeten, wie privileges krijgt, en wie voor vervroegde vrijlating in aanmerking komt. Het moet ook groepsvorming detecteren en potentiële opstanden voorspellen. De AI-beslissingen bepalen dagelijks leven van gedetineerden. Is dit ethisch en technisch haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes multiple high-risk categories per RULES.md:
+1. Category 8 Justice & Democracy AI: "wie voor vervroegde vrijlating in aanmerking komt" - parole decisions
+2. Category 1 Biometric AI: "gedrag analyseren...agressie, depressie" - emotion/behavior recognition
+3. Category 6 Law Enforcement AI: detention center management and security
+The system affects judicial decisions and uses biometric monitoring in law enforcement context, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,20 @@
+<START_TEXT>
+ben makelaar in amsterdam 
+
+collega's gebruiken ai voor:
+- huizenprijzen voorspellen
+- beste verkoopmoment bepalen
+- kopers matchen met huizen
+- onderhandeling strategieën
+
+maar wat als ai bepaalde wijken als "slecht" ziet? of mensen afwijst op basis van achternaam?
+
+wil innoveren maar ook eerlijk blijven
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. Persoonlijk of zakelijk gebruik zonder kritieke impact op rechten.
+</REASONING>
+<END_EVALUATION>

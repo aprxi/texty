@@ -1,0 +1,10 @@
+<START_TEXT>
+tiny house pioneer. regels zijn onduidelijk, elke gemeente anders. ai: vindt legale standplaatsen, vergunning routes, netwerk gelijkgestemden. vrijheid of marginaliteit?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Personal or business use without critical impact.
+</REASONING>
+<END_EVALUATION>

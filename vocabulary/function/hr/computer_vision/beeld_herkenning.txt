@@ -1,0 +1,69 @@
+# Image Recognition Systems - HIGH RISK FUNCTION
+# Beeldherkenningssystemen
+# 
+# PATH: function/hr/computer_vision/beeld_herkenning.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Surveillance and identification capabilities)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Image recognition and visual analysis capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to image recognition and visual analysis
+# - Must be high-risk computer vision application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Image Recognition and Analysis
+# Beeldherkenning en analyse van visuele informatie
+# Sorted by commonality (most common first)
+
+beeldherkenning
+image recognition
+gezichtsdetectie
+face detection
+objectherkenning
+object recognition
+patroonherkenning
+pattern recognition
+beeldanalyse
+image analysis
+visuele herkenning
+visual recognition
+automatische beeldinterpretatie
+automatic image interpretation
+beeldclassificatie
+image classification
+kenmerkenextractie
+feature extraction
+beeldidentificatie
+image identification
+visuele detectie
+visual detection
+afbeeldingsanalyse
+picture analysis
+fotoherkenning
+photo recognition
+beeldverwerking voor herkenning
+image processing for recognition
+computervisie analyse
+computer vision analysis
+digitale beeldherkenning
+digital image recognition
+geautomatiseerde visuele inspectie
+automated visual inspection
+beeldsegmentatie
+image segmentation
+visuele patroonmatching
+visual pattern matching
+beeldvergelijking
+image comparison

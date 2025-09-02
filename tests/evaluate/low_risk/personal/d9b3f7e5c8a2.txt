@@ -1,0 +1,29 @@
+<START_TEXT>
+Hallo,
+
+We runnen een fitness app en willen onze gebruikers beter helpen hun doelen te bereiken. We denken aan AI die:
+
+- Workoutschema's personaliseert op basis van fitnessniveau
+- Voedingsadvies geeft (algemeen, geen medisch)
+- Motiverende berichten stuurt op het juiste moment
+- Vorm en houding analyseert via video (vrijwillig)
+- Progressie bijhoudt en viert
+
+Gebruikers delen vrijwillig hun data en kunnen alles verwijderen. Het gaat om algemene fitness, geen medische diagnoses of behandelingen.
+
+Wat zijn de mogelijkheden en kosten voor 100k gebruikers?
+
+Sportieve groet
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor persoonlijke fitness/wellness:
+- "Workoutschema's personaliseert" - algemene fitness begeleiding
+- "algemeen, geen medisch" - expliciet geen medische toepassing
+- "vrijwillig" - gebruikers kiezen zelf voor deelname
+- Geen kritieke beslissingen of hoog-risico categorieën
+Dit is een LAAG-RISICO AI-toepassing voor persoonlijk welzijn.
+</REASONING>
+<END_EVALUATION>

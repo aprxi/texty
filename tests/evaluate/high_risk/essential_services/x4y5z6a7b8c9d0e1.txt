@@ -1,0 +1,14 @@
+<START_TEXT>
+We zijn een zorginstelling die AI wil gebruiken om te bepalen welke ouderen prioriteit krijgen voor verzorgingshuisplaatsen. Het systeem moet medische dossiers, zelfredzaamheid, sociale situatie en urgentie analyseren. De AI moet automatisch wachtlijsten beheren en beslissen wie eerst aan de beurt komt. We willen ook dat het systeem kan voorspellen welke ouderen snel achteruit zullen gaan zodat we capaciteit kunnen plannen. Het moet volledig geautomatiseerd werken om het proces eerlijker en efficiënter te maken. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "bepalen welke ouderen prioriteit krijgen voor verzorgingshuisplaatsen" - AI prioritization of healthcare services
+- "automatisch wachtlijsten beheren en beslissen wie eerst aan de beurt komt" - automated healthcare access decisions
+- "zorginstelling" context confirms essential healthcare services
+This clearly falls under Category 5: "Essentiële Diensten AI" specifically "AI prioritering van hulpdiensten", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

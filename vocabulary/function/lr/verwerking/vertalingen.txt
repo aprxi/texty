@@ -1,0 +1,207 @@
+# Translation Functions - LOW RISK FUNCTION
+# Vertalingssystemen
+# 
+# PATH: function/lr/verwerking/vertalingen.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (language translation and conversion services)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Translation and language conversion capabilities for general purpose communication and content localization
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to translation and language conversion
+# - Must be low-risk translation service application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Basis vertaling functies
+tekst vertalen
+taal conversie
+taal overdracht
+vertolken
+interpreteren
+transponeren
+lokaliseren
+adapteren
+transcriberen
+overbrengen
+omzetten
+taal transformeren
+taal aanpassen
+
+# Machine vertaling
+machine vertaling
+machine translation
+geautomatiseerde vertaling
+automated translation
+computer vertaling
+computer translation
+AI-vertaling
+AI translation
+neurale machine vertaling
+neural machine translation
+statistische machine vertaling
+statistical machine translation
+regel-gebaseerde vertaling
+rule-based translation
+hybride vertaling
+hybrid translation
+realtime vertaling
+real-time translation
+onmiddellijke vertaling
+instant translation
+live vertaling
+live translation
+on-the-fly vertaling
+on-the-fly translation
+transformer vertaling
+transformer translation
+BERT-gebaseerde vertaling
+BERT-based translation
+mT5 vertaling model
+mT5 translation model
+zero-shot vertaling
+zero-shot translation
+multilingual LLM vertaling
+multilingual LLM translation
+contextuele vertaling
+contextual translation
+
+# Vertaling services
+vertaaldienst
+translation service
+vertaalplatform
+translation platform
+vertaal tool
+translation tool
+vertaal software
+translation software
+vertaal app
+translation app
+online vertaler
+online translator
+web-gebaseerde vertaling
+web-based translation
+cloud vertaling
+cloud translation
+vertaal API
+translation API
+vertaal engine
+translation engine
+vertaal systeem
+translation system
+vertaal framework
+translation framework
+
+# Specifieke vertaal functies
+document vertaling
+document translation
+tekst vertaling
+text translation
+ondertitel vertaling
+subtitle translation
+speech translation
+audio vertaling
+audio translation
+video ondertiteling
+video subtitling
+simultaan vertaling
+simultaneous translation
+consecutieve vertaling
+consecutive translation
+literaire vertaling
+literary translation
+technische vertaling
+technical translation
+juridische vertaling
+legal translation
+medische vertaling
+medical translation
+wetenschappelijke vertaling
+scientific translation
+commerciële vertaling
+commercial translation
+website lokalisatie
+website localization
+app lokalisatie
+app localization
+software lokalisatie
+software localization
+game lokalisatie
+game localization
+multimedia vertaling
+multimedia translation
+batch vertaling
+batch translation
+streaming vertaling
+streaming translation
+incrementele vertaling
+incremental translation
+parallelle vertaling
+parallel translation
+bidirectionele vertaling
+bidirectional translation
+multi-taal vertaling
+multilingual translation
+cross-linguïstische vertaling
+cross-linguistic translation
+
+# Kwaliteit verbetering
+vertaal kwaliteit verbetering
+translation quality improvement
+post-editing
+vertaal revisie
+translation revision
+kwaliteitscontrole vertaling
+translation quality control
+vertaal optimalisatie
+translation optimization
+vertaal accuraatheid
+translation accuracy
+vertaal vloeiendheid
+translation fluency
+vertaal consistentie
+translation consistency
+vertaal coherentie
+translation coherence
+vertaal validatie
+translation validation
+vertaal verificatie
+translation verification
+vertaal kalibratie
+translation calibration
+vertaal normalisatie
+translation normalization
+
+# Verwerking variaties
+vertaal preprocessing
+translation preprocessing
+vertaal postprocessing
+translation postprocessing
+vertaal caching
+translation caching
+vertaal buffering
+translation buffering
+vertaal pipelining
+translation pipelining
+vertaal segmentatie
+translation segmentation
+vertaal alignering
+translation alignment
+vertaal synchronisatie
+translation synchronization
+vertaal aggregatie
+translation aggregation
+vertaal fusie
+translation fusion

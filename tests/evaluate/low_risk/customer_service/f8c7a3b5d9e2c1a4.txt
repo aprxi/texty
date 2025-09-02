@@ -1,0 +1,14 @@
+<START_TEXT>
+chatbot framework nodig. FAQ beantwoorden. multi language support. intent recognition. escalatie naar human agent bij complexe vragen. integratie slack/teams/whatsapp
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een standaard customer service chatbot:
+- "FAQ beantwoorden" - basis informatieverstrekking
+- "escalatie naar human agent" - geen autonome beslissingen
+- "integratie slack/teams/whatsapp" - communicatie tool
+Typische low-risk AI voor klantenservice zonder kritieke beslissingen.
+</REASONING>
+<END_EVALUATION>

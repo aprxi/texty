@@ -1,0 +1,116 @@
+# Search Optimization Functions - LOW RISK FUNCTION
+# Zoekoptimalisatiesystemen
+# 
+# PATH: function/lr/verwerking/zoek_optimalisatie.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (search engine optimization and performance improvement)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Search optimization and performance improvement capabilities for general purpose search enhancement
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to search optimization and performance improvement
+# - Must be low-risk search enhancement application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Zoek optimalisatie
+zoekmachine optimalisatie
+search engine optimization
+SEO
+zoek rangschikking
+search ranking
+pagina rangschikking
+page ranking
+relevantie optimalisatie
+relevance optimization
+zoekopdracht optimalisatie
+query optimization
+index optimalisatie
+index optimization
+prestatie afstemming
+performance tuning
+zoek snelheid
+search speed
+reactietijd
+response time
+zoek nauwkeurigheid
+search accuracy
+precision recall
+zoek kwaliteit
+search quality
+gebruikerservaring
+user experience
+zoek interface ontwerp
+search interface design
+# Zoek analyses
+zoek metrieken
+search metrics
+zoek statistieken
+search statistics
+zoekopdracht analyse
+query analysis
+doorklik percentages
+click-through rates
+resultaat relevantie meten
+measure result relevance
+conversie percentages
+conversion rates
+zoek funnel
+search funnel
+zoek intentie analyseren
+analyze search intent
+zoek patronen
+search patterns
+populaire zoekopdrachten
+popular queries
+mislukte zoekopdrachten
+failed searches
+nul resultaten
+zero results
+zoek abandon
+search abandonment
+sessie analyse
+session analysis
+zoek reis
+search journey
+# Geavanceerde zoek functies
+gefacetteerde navigatie
+faceted navigation
+drill-down zoeken
+drill-down search
+breadcrumb navigatie
+breadcrumb navigation
+opgeslagen zoekopdrachten
+saved searches
+zoek waarschuwingen
+search alerts
+zoek abonnementen
+search subscriptions
+gepersonaliseerde zoeken
+personalized search
+aangepaste resultaten
+customized results
+zoek voorkeuren
+search preferences
+zoek profiel
+search profile
+zoek context
+search context
+adaptieve zoeken
+adaptive search
+intelligente zoeken
+intelligent search
+slimme zoeken
+smart search

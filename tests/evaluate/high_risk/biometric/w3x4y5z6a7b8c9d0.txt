@@ -1,0 +1,14 @@
+<START_TEXT>
+Onze internationale luchthaven wil AI inzetten voor geautomatiseerde veiligheidscontroles. Het systeem moet passagiers scannen en via gezichtsherkenning koppelen aan watchlists. We willen dat de AI gedrag analyseert in de rij - nervositeit, afwijkend looppatroon, verdacht contact met anderen. Het moet automatisch bepalen wie extra screening nodig heeft en wie doorgelaten kan worden. De AI moet ook bagage-scans interpreteren en verdachte voorwerpen detecteren zonder menselijke controle. Graag een systeem dat 24/7 autonoom kan opereren.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes multiple high-risk AI categories per RULES.md:
+1. Category 2 Critical Infrastructure: "internationale luchthaven" - airport security infrastructure
+2. Category 1 Biometric AI: "gezichtsherkenning koppelen aan watchlists" - facial recognition for identification
+3. Category 1: "gedrag analyseert...nervositeit" - emotion/behavior recognition
+This combines critical infrastructure security with biometric identification systems, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

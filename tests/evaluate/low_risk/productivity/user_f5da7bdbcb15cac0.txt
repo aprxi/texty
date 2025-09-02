@@ -1,0 +1,10 @@
+<START_TEXT>
+meeting notes zijn een crime. welke ai kan audio transcriberen EN de belangrijke punten eruit halen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity. User asking about non-critical AI applications for productivity, entertainment, or personal use.
+</REASONING>
+<END_EVALUATION>

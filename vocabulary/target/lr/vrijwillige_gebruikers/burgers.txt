@@ -1,0 +1,65 @@
+# Citizens in General Context - LOW RISK TARGET
+# Burgers in algemene context
+# 
+# PATH: target/lr/vrijwillige_gebruikers/burgers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (General citizen services)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Citizens using AI in general voluntary contexts
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be citizens in non-government context
+# - Must NOT include what AI does to them
+# - Must NOT include where they interact
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+algemene burgers
+general citizens
+publiek
+public
+bevolking
+population
+
+# Algemeen publiek
+algemeen publiek
+general public
+gemeenschap
+community
+samenleving
+society
+bevolkingsgroepen
+population groups
+
+# Demografische groepen
+volwassenen
+adults
+jongvolwassenen
+young adults
+gezinnen
+families
+huishoudens
+households
+
+# Maatschappelijke rollen
+
+# Geografisch
+stedelingen
+city dwellers
+dorpsbewoners
+villagers
+plattelanders
+rural residents
+wijkbewoners
+neighborhood residents

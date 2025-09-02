@@ -1,0 +1,30 @@
+# Migration & Border Control Patch - HIGH RISK
+# Fixes for migration/asylum false negatives
+
+# Core migration terms
+IND procedures
+asiel aanvragen
+asielaanvraag beoordeling
+vluchtelingen screening
+migratie risico
+
+# Identity & document verification
+identiteit controle
+documenten verificatie
+paspoort authenticatie
+biometrische verificatie
+leeftijd bepaling
+
+# Assessment & decision
+land van herkomst analyse
+verhaal consistentie check
+gezinsband onderzoek
+integratie potentieel
+terugkeer beslissing
+
+# Legal status
+verblijfsvergunning beslissing
+naturalisatie toets
+inburgering niveau
+visa risico assessment
+illegaal verblijf detectie

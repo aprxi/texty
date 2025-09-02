@@ -1,0 +1,10 @@
+<START_TEXT>
+Kerk wil jongeren trekken. AI analyseert: welke bijbelverhalen trending zijn, moderne vertaling, TikTok-ready preken. Geloof moderniseren of ziel verkopen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content_creation. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,19 @@
+<START_TEXT>
+ik ben bezig met een streamingdienst voor korte films en vraag me af hoe ai kan helpen met aanbevelingen? is het mogelijk om films aan te bevelen op basis van kijkgeschiedenis? hoe goed werkt dat eigenlijk? kan ai echt patronen herkennen in wat mensen leuk vinden? ik weet niet precies hoe je genres en acteurs analyseert. is het mogelijk om ook nieuwe content te promoten die nog niet populair is? hoe voorkom je dat mensen in een filterbubbel terechtkomen? kunnen we persoonlijke voorkeuren respecteren zonder privacy te schenden? ik maak me zorgen dat het systeem alleen mainstream films aanbeveelt. hoe zorg je voor diversiteit in aanbevelingen? is het technisch haalbaar om zowel personalisatie als variatie te bieden? hoeveel kijkdata hebben we nodig om goede suggesties te doen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for film/video recommendation, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (content preference analysis is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (streaming service is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (video streaming is entertainment, not essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is an entertainment recommendation system for video content, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

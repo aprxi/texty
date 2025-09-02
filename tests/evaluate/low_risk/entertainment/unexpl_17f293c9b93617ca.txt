@@ -1,0 +1,19 @@
+<START_TEXT>
+hey! ik organiseer escape rooms in breda en wil ze veel cooler maken
+
+kunnen jullie ai bouwen die:
+- puzzels aanpast aan spelersgroep
+- hints geeft als mensen vastlopen  
+- spannend verhaal genereert
+- moeilijkheidsgraad regelt tijdens spel
+- muziek en licht automatisch aanpast
+
+gewoon voor de lol, mensen moeten het leuk vinden! budgetgaming maar wel innovatief graag
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment purposes. Escape room gaming AI without impact on fundamental rights or safety.
+</REASONING>
+<END_EVALUATION>

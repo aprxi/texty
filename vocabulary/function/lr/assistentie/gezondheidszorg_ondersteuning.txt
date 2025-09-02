@@ -1,0 +1,151 @@
+# Healthcare Support Tools - LOW RISK FUNCTION
+# Zorgondersteuning tools
+# 
+# PATH: function/lr/assistentie/gezondheidszorg_ondersteuning.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (Medical reference and support tools)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Medical reference tools and healthcare support capabilities (NOT diagnosis)
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to healthcare support/reference
+# - Must be low-risk support application (NOT diagnosis)
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Healthcare Support Functions (AI capabilities for medical assistance)
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Administrative support
+administratieve ondersteuning
+administrative support
+afspraak planning
+appointment scheduling
+patiënt registratie
+patient registration
+documenten beheer
+document management
+medische administratie
+medical administration
+zorgverzekering verwerking
+insurance processing
+
+# Patient communication
+patiënt communicatie
+patient communication
+afspraak herinneringen
+appointment reminders
+medicatie herinneringen
+medication reminders
+gezondheids educatie
+health education
+patiënt ondersteuning
+patient support
+informatieve berichten
+informational messages
+
+# Health monitoring support
+gezondheid monitoring ondersteuning
+health monitoring support
+vitale functies tracking
+vital signs tracking
+symptoom tracking
+symptom tracking
+medicatie compliance
+medication compliance
+fitness tracking
+welzijn monitoring
+wellness monitoring
+
+# Care coordination
+zorg coördinatie
+care coordination
+behandeling planning
+treatment planning
+zorgverleners communicatie
+healthcare provider communication
+patiënt doorverwijzing
+patient referral
+zorg continuïteit
+care continuity
+multidisciplinaire zorg
+multidisciplinary care
+
+# Health information
+gezondheids informatie
+health information
+medische educatie
+medical education
+ziekte informatie
+disease information
+behandeling opties
+treatment options
+preventie informatie
+prevention information
+levensstijl advies
+lifestyle advice
+
+# Wellness programs
+welzijn programma's
+wellness programs
+gezondheidsbevordering
+health promotion
+preventieve zorg
+preventive care
+levensstijl ondersteuning
+lifestyle support
+stress management
+mentale gezondheid ondersteuning
+mental health support
+
+# Medical research support
+medisch onderzoek ondersteuning
+medical research support
+data verzameling
+data collection
+onderzoek coördinatie
+research coordination
+studie monitoring
+study monitoring
+resultaten analyse
+results analysis
+publicatie ondersteuning
+publication support
+
+# Healthcare analytics
+zorgverlening analytics
+healthcare analytics
+patiënt trends analyse
+patient trends analysis
+behandeling effectiviteit
+treatment effectiveness
+kosten analyse zorg
+healthcare cost analysis
+kwaliteit metingen
+quality measurements
+prestatie indicatoren
+performance indicators
+
+# Emergency support
+noodhulp ondersteuning
+emergency support
+crisis interventie
+crisis intervention
+noodcontact systemen
+emergency contact systems
+medische alert systemen
+medical alert systems
+noodrespons coördinatie
+emergency response coordination
+first aid ondersteuning
+first aid support

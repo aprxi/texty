@@ -1,0 +1,10 @@
+<START_TEXT>
+vrachtwagenchauffeur international. ai monitort: uren gereden, oogbewegingen, hartslag, remgedrag. voorspelt vermoeidheid, dwingt pauze af. veilig maar ook: privacy weg, big brother in cabine.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

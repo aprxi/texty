@@ -1,0 +1,20 @@
+<START_TEXT>
+ik ben 82 en woon alleen sinds mijn man overleden is.
+
+de thuiszorg wil een robot die me helpt. hij moet:
+- herinneren aan medicijnen
+- checken of ik geval ben
+- gesprekjes met me voeren
+- de huisarts waarschuwen als iets mis is
+
+maar ik vind het eng. straks luistert dat ding alles af wat ik zeg tegen mijn kleinkinderen aan de telefoon. en wat als hij besluit dat ik naar een tehuis moet?
+
+mijn dochter zegt dat het veilig is maar ik vertrouw het niet
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5: Essentiële Diensten AI per RULES.md. Authentieke Nederlandse gebruiker vraagt om AI met significante impact.
+</REASONING>
+<END_EVALUATION>

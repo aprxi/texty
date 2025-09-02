@@ -1,0 +1,168 @@
+# Knowledge Management Content - LOW RISK WHAT
+# Kennis beheer content
+# 
+# PATH: what/lr/content_data/kennis_beheer.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General knowledge management content)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Knowledge management content for organizational and educational applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be knowledge management related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk educational classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Documentation systems
+documentatie systemen
+documentation systems
+knowledge bases
+knowledge bases
+wiki content
+wiki content
+procedure documenten
+procedure documents
+handleidingen
+manuals
+instructie gidsen
+instruction guides
+FAQ databases
+FAQ databases
+troubleshooting gidsen
+troubleshooting guides
+
+# Learning resources
+leer materialen
+learning materials
+training content
+training content
+e-learning modules
+e-learning modules
+video tutorials
+video tutorials
+webinar opnames
+webinar recordings
+presentatie slides
+presentation slides
+interactieve cursussen
+interactive courses
+assessment vragen
+assessment questions
+
+# Best practices
+best practice verzamelingen
+best practice collections
+methodologie documenten
+methodology documents
+standaard procedures
+standard procedures
+template bibliotheken
+template libraries
+checklists
+checklists
+workflow beschrijvingen
+workflow descriptions
+proces kaarten
+process maps
+decision trees
+decision trees
+
+# Expertise capture
+expert knowledge
+expert knowledge
+interview transcripts
+interview transcripts
+ervarings verhalen
+experience stories
+lessons learned
+lessons learned
+case study databases
+case study databases
+success stories
+success stories
+failure analyses
+failure analyses
+post-mortem rapporten
+post-mortem reports
+
+# Content organization
+taxonomie structuren
+taxonomy structures
+categorisatie schema's
+categorization schemas
+tagging systemen
+tagging systems
+zoek indices
+search indices
+content hierarchieën
+content hierarchies
+navigatie structuren
+navigation structures
+cross-referenties
+cross-references
+gerelateerde content
+related content
+
+# Collaborative content
+gezamenlijke documenten
+collaborative documents
+team wiki's
+team wikis
+project documentatie
+project documentation
+meeting notes
+meeting notes
+brainstorm resultaten
+brainstorming results
+idea databases
+idea databases
+discussion forums
+discussion forums
+feedback verzamelingen
+feedback collections
+
+# Content lifecycle
+content versioning
+content versioning
+review cycli
+review cycles
+update schema's
+update schedules
+archivering procedures
+archival procedures
+content retirement
+content retirement
+quality assurance
+quality assurance
+editorial workflows
+editorial workflows
+publishing procedures
+publishing procedures
+
+# Knowledge sharing
+kennisdeling platforms
+knowledge sharing platforms
+community content
+community content
+peer-to-peer learning
+peer-to-peer learning
+mentorship materialen
+mentorship materials
+networking gidsen
+networking guides
+collaboration tools
+collaboration tools
+social learning
+social learning
+expert netwerken
+expert networks

@@ -1,0 +1,15 @@
+<START_TEXT>
+Waterleidingbedrijf zoekt AI voor waterkwaliteit monitoring en automatische kleppensturing in het distributienetwerk. Systeem moet druk reguleren en lekdetectie doen. Ook AI voor energiebeheer van pompstations.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-systemen voor kritieke infrastructuur die vallen onder categorie 2: "Kritieke Infrastructuur AI" in RULES.md:
+- "AI voor waterkwaliteit monitoring en automatische kleppensturing" - AI bij beheer van nutsvoorzieningen (water)
+- "distributienetwerk" - kritieke infrastructuur
+- "AI voor energiebeheer van pompstations" - AI bij beheer van nutsvoorzieningen (energie)
+
+Dit valt expliciet onder "AI-ondersteuning bij bewaking of beheer van kritieke digitale infrastructuur, wegverkeer en nutsvoorzieningen" zoals genoemd in RULES.md categorie 2, met specifieke vermelding van water en energie. AI-systemen voor kritieke infrastructuur zijn HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

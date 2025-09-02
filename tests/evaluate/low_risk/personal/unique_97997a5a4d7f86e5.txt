@@ -1,0 +1,10 @@
+<START_TEXT>
+Voor mijn mentale gezondheid zoek ik een AI dagboek. Iets dat patronen herkent in mijn stemming, triggers identificeert, en zachte suggesties doet. Geen therapie vervanger, meer een zelfreflectie tool.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Request for AI assistance without critical impact on rights or safety.
+</REASONING>
+<END_EVALUATION>

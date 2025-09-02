@@ -1,0 +1,15 @@
+<START_TEXT>
+We zijn een examineringsinstituut en willen AI gebruiken voor geautomatiseerde toetsing en diplomering. Het systeem moet niet alleen multiple choice vragen nakijken, maar ook open vragen evalueren en praktijkopdrachten beoordelen. De AI moet fraude kunnen detecteren door schrijfstijlen te vergelijken en ongebruikelijke antwoordpatronen te herkennen. We willen dat het systeem automatisch bepaalt wie geslaagd is en cijfers toekent die bepalend zijn voor vervolgopleidingen. Het moet volledig objectief en consistent zijn. Is dit technisch mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 3 Educational AI per RULES.md:
+- "examineringsinstituut...geautomatiseerde toetsing en diplomering" - AI assessment in formal education
+- "automatisch bepaalt wie geslaagd is" - automated pass/fail decisions
+- "cijfers toekent die bepalend zijn voor vervolgopleidingen" - grades affecting educational access
+- "fraude kunnen detecteren" - exam fraud detection
+This clearly falls under Category 3: "Onderwijs & Opleidingen AI" specifically "AI beoordeling van leerresultaten" and "AI examen fraude detectie", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

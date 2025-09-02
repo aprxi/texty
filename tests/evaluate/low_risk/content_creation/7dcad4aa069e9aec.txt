@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik run een kleine blog over duurzaam leven en zou graag AI gebruiken om mijn content te verbeteren. Niet om artikelen te schrijven - dat doe ik zelf graag - maar om te helpen met SEO-optimalisatie, het genereren van pakkende koppen, en het suggereren van relevante onderwerpen op basis van trending topics in de duurzaamheidscommunity. Ook zou het handig zijn als de AI kan helpen met het maken van meta-beschrijvingen en alt-teksten voor afbeeldingen. Kunnen jullie een AI-tool ontwikkelen die bloggers ondersteunt zonder hun authentieke stem te vervangen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for content optimization and blogging assistance, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (content optimization is not human identification or categorization)
+- Not critical infrastructure AI (blogging tools are not critical infrastructure)
+- Not educational AI (blog content is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (blogging is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is personal content creation assistance, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

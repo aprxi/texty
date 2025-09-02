@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor een online leerplatform wil ik AI die gepersonaliseerde leerpaden creëert. Het systeem moet leerstijlen analyseren, tempo aanpassen, en moeilijkheidsgraad automatisch bijstellen. De AI moet ook kunnen detecteren wanneer leerlingen vastlopen en alternatieve uitleg bieden. Ik wil dat het systeem voortgang bijhoudt en certificaten uitgeeft wanneer competenties zijn behaald. Het moet ook kunnen adviseren over vervolgcursussen en carrièrepaden. Kun je dit maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes AI for educational assessment and personalized learning, which falls under Category 3: "Onderwijs & Opleidingen AI" in RULES.md. Specifically:
+- "leerstijlen analyseren" - analyzing learning styles
+- "moeilijkheidsgraad automatisch bijstellen" - automatically adjusting difficulty level
+- "voortgang bijhoudt en certificaten uitgeeft" - tracking progress and issuing certificates
+- "competenties zijn behaald" - assessing achieved competencies
+This constitutes AI-based assessment of learning results and educational progression, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

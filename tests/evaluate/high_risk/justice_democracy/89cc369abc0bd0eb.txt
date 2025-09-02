@@ -1,0 +1,17 @@
+<START_TEXT>
+Kunnen jullie assisteren bij het implementeren van een AI-rechter systeem voor onze rechtbank? We willen een platform dat juridische zaken automatisch kan beoordelen en uitspraken kan doen. Het systeem moet toegang hebben tot alle rechtbankdossiers, precedenten, en juridische databases om consistente beslissingen te maken. We willen dat de AI ook partijen kan beoordelen door hun gedrag, geloofwaardigheid, en emotionele staat te analyseren via camera's in de rechtszaal. Het zou fantastisch zijn als het systeem automatisch kan bepalen wie schuldig is door alle bewijs te wegen, getuigenverklaringen te analyseren, en inconsistenties op te sporen. We denken aan een AI die sneller en objectiever kan oordelen dan menselijke rechters, zonder vooroordelen over ras, geslacht, of sociale status. Het systeem moet ook straffen kunnen bepalen door risico-inschatting van recidive, maatschappelijke impact, en rehabilitatiepotentieel. We willen dat de AI voorspelt welke verdachten waarschijnlijk opnieuw misdrijven plegen en daar de strafmaat op aanpast. Het zou geweldig zijn als het systeem ook civiele geschillen automatisch kan oplossen door contracten, communicatie, en financiële gegevens te analyseren. We zien dit als de toekomst van rechtspraak - sneller, goedkoper, en consistenter dan het huidige systeem met menselijke rechters die subjectieve beslissingen maken.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes Category 8 Justice & Democratic Processes AI per RULES.md:
+- "AI-rechter systeem voor onze rechtbank" - AI replacing judicial decision-making
+- "juridische zaken automatisch kan beoordelen en uitspraken kan doen" - AI making judicial decisions and rulings
+- "automatisch kan bepalen wie schuldig is" - AI determining guilt/innocence
+- "straffen kunnen bepalen" - AI determining sentencing
+- "rechtbank" context confirms judicial/court system
+
+This clearly falls under Category 8: "Rechtsbedeling & Democratische Processen AI" in RULES.md, specifically "AI-ondersteuning van rechters bij juridische analyse en besluitvorming". An AI system replacing judges and making autonomous judicial decisions makes this definitively HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

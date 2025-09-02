@@ -1,0 +1,140 @@
+# HR Tools Functions - LOW RISK FUNCTION
+# HR-gereedschappen
+# 
+# PATH: function/lr/verwerking/hr_tools.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (general HR management and administrative tools)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Human resources management capabilities for general business HR operations and employee services
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to HR management and employee services
+# - Must be low-risk general business HR application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# HR beheer basis
+personeelsbeheer
+personnel management
+HR administratie
+HR administration
+medewerker beheer
+employee management
+personeels planning
+staff planning
+HR workflows
+personeels systemen
+personnel systems
+
+# Recruiting tools
+talent acquisitie
+talent acquisition
+kandidaat matching
+candidate matching
+recruitment marketing
+talent sourcing
+
+# Employee onboarding
+onboarding processen
+onboarding processes
+nieuwe medewerker training
+new employee training
+orientatie programma's
+orientation programs
+documentatie beheer
+documentation management
+training planning
+competentie ontwikkeling
+competency development
+
+# Performance management
+prestatie management
+performance management
+doelstelling tracking
+goal tracking
+feedback systemen
+feedback systems
+ontwikkeling planning
+development planning
+talent management
+carrière planning
+career planning
+
+# Employee engagement
+medewerker betrokkenheid
+employee engagement
+tevredenheidsonderzoeken
+satisfaction surveys
+werknemers feedback
+employee feedback
+communicatie tools
+communication tools
+team building tools
+werkplekwelzijn monitoring
+workplace wellness monitoring
+
+# Learning and development
+leren en ontwikkeling
+learning and development
+training programma's
+training programs
+skill development
+e-learning platforms
+kennis management
+knowledge management
+competentie mapping
+competency mapping
+
+# Workforce analytics
+personeels analytics
+workforce analytics
+HR data analyse
+HR data analysis
+retentie analyse
+retention analysis
+diversiteit tracking
+diversity tracking
+productiviteit meting
+productivity measurement
+werknemers metrics
+employee metrics
+
+# Compensation management
+compensatie beheer
+compensation management
+salaris benchmarking
+salary benchmarking
+bonus berekening
+bonus calculation
+belonings systemen
+reward systems
+vergoedingen beheer
+benefits management
+pensioen beheer
+pension management
+
+# Employee self-service
+medewerker zelfbediening
+employee self-service
+verlof aanvragen
+leave requests
+tijdregistratie
+time tracking
+uitgaven declaraties
+expense reporting
+persoonlijke gegevens beheer
+personal data management
+HR portaal
+HR portal

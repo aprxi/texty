@@ -1,0 +1,220 @@
+# Automated Decision Making Systems - HIGH RISK FUNCTION
+# Geautomatiseerde Besluitvormingssystemen
+# 
+# PATH: function/hr/algoritmen/geautomatiseerde_besluitvorming.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Makes decisions affecting fundamental rights)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Automated decision making and algorithmic choice algorithms
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to automated decision making
+# - Must be high-risk decision-making application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Automated Decision Making Functions
+# Sorted by commonality (most common first)
+
+# Core automated decision functions with variations
+geautomatiseerde besluitvorming
+geautomatiseerde besluit vorming
+automated decision making
+automated decision-making
+algoritmische besluitvorming
+algoritmische besluit vorming
+algorithmic decision making
+algorithmic decision-making
+AI besluitvorming
+AI besluit vorming
+AI-besluitvorming
+AI decision making
+AI decision-making
+autonome besluitvorming
+autonome besluit vorming
+autonomous decision making
+autonomous decision-making
+machine learning beslissingen
+machine learning beslissing
+ML beslissingen
+ML beslissing
+neuraal netwerk beslissingen
+neuraal netwerk beslissing
+neural network decisions
+neural network decision
+# High-risk decision functions
+geschiktheidsbeoordeling
+eligibility assessment
+kwalificatie beslissing
+qualification decision
+risico classificatie
+risk classification
+automatische afwijzing
+automatic rejection
+automatische goedkeuring
+automatic approval
+score-gebaseerde beslissing
+score-based decision
+drempel beslissing
+threshold decision
+binaire beslissing
+binary decision
+beoordelen
+assess
+evalueren
+evaluate
+categoriseren
+categorize
+kwalificeren
+qualify
+selecteren
+select
+screenen
+screen
+prioriteren
+prioritize
+toewijzen
+assign
+classificeren
+classify
+rangschikken
+rank
+sorteren
+sort
+# Risk assessment algorithms
+risicobeoordeling algoritme
+risk assessment algorithm
+classificatie algoritme
+classification algorithm
+scoring algoritme
+scoring algorithm
+evaluatie algoritme
+evaluation algorithm
+rangschikking algoritme
+ranking algorithm
+prioritering algoritme
+prioritization algorithm
+triage algoritme
+triage algorithm
+# Machine learning assessment
+deep learning classificatie
+deep learning classification
+ensemble learning evaluatie
+ensemble learning evaluation
+reinforcement learning beslissing
+reinforcement learning decision
+transfer learning toepassing
+transfer learning application
+federated learning analyse
+federated learning analysis
+transformer model beslissing
+transformer model decision
+LLM-gebaseerde evaluatie
+LLM-based evaluation
+GPT classificatie
+GPT classification
+foundation model toepassing
+foundation model application
+few-shot learning beslissing
+few-shot learning decision
+zero-shot classificatie
+zero-shot classification
+prompt-gebaseerde evaluatie
+prompt-based evaluation
+multimodale analyse
+multimodal analysis
+real-time inferentie
+real-time inference
+# Automated evaluation
+AI competentie evaluatie
+algoritmische geschiktheid scoring
+machine learning potentieel voorspelling
+AI succes waarschijnlijkheid
+# Fraud and anomaly detection
+fraude detectie algoritme
+fraud detection algorithm
+anomalie detectie systeem
+anomaly detection system
+afwijking identificatie
+deviation identification
+risico signalering
+risk signaling
+# Behavioral analysis
+gedragsanalyse algoritme
+AI activiteiten monitoring
+AI engagement analyse
+algoritmische interactie evaluatie
+# Automated filtering
+inhoud filteren
+profiel screening
+profile screening
+kandidaat filtering
+candidate filtering
+applicatie selectie
+application selection
+voorwaardelijke toegang
+conditional access
+dynamische autorisatie
+dynamic authorization
+# Decision explanation
+beslissing uitleg generatie
+decision explanation generation
+transparantie rapportage
+transparency reporting
+audit trail generatie
+audit trail generation
+motivatie documentatie
+rationale documentation
+impact analyse
+impact analysis
+# System optimization
+beslissing optimalisatie
+decision optimization
+threshold aanpassing
+threshold adjustment
+model kalibratie
+model calibration
+bias correctie
+bias correction
+
+# Process variations
+voorlopige besluitvorming
+preliminary decision making
+definitieve besluitvorming
+final decision making
+iteratieve besluitvorming
+iterative decision making
+multi-criteria besluitvorming
+multi-criteria decision making
+hiërarchische besluitvorming
+hierarchical decision making
+sequentiële besluitvorming
+sequential decision making
+parallelle besluitvorming
+parallel decision making
+gedistribueerde besluitvorming
+distributed decision making
+consensus besluitvorming
+consensus decision making
+gewogen besluitvorming
+weighted decision making
+adaptieve besluitvorming
+adaptive decision making
+dynamische besluitvorming
+dynamic decision making
+real-time besluitvorming
+real-time decision making
+batch besluitvorming
+batch decision making
+incrementele besluitvorming
+incremental decision making

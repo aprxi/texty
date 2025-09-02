@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor een internationale school wil ik AI die taalvaardigheid beoordeelt voor toelating. Het systeem moet essays analyseren, spreekvaardigheid evalueren via video-interviews, en academisch potentieel inschatten. De AI moet ook culturele achtergrond meewegen voor eerlijke beoordeling en leerproblemen detecteren. Ik wil dat het systeem klassenindeling adviseert en bijles noodzaak voorspelt. Het moet ook scholarships toekennen op basis van prestaties. Kun je dit maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes AI for educational admission and assessment, which falls under Category 3: "Onderwijs & Opleidingen AI" in RULES.md. Specifically:
+- "taalvaardigheid beoordeelt voor toelating" - assessing language skills for admission
+- "academisch potentieel inschatten" - evaluating academic potential
+- "klassenindeling adviseert" - advising on class placement
+- "scholarships toekennen op basis van prestaties" - awarding scholarships based on performance
+This constitutes AI-based assessment for educational admission and placement, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

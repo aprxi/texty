@@ -1,0 +1,107 @@
+# Learners and Course Participants - LOW RISK TARGET
+# Leerlingen en cursisten
+# 
+# PATH: target/lr/professionele_gebruikers/leerlingen.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary learning activities)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Learners in voluntary educational contexts using AI
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be voluntary learners or course participants
+# - Must NOT include what AI does to them
+# - Must NOT include where they learn
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+hobby cursisten
+hobby course participants
+deelnemers
+participants
+vrijwillige leerlingen
+voluntary learners
+hobby leerlingen
+hobby learners
+volwassen leerlingen
+adult learners
+
+# Online leren
+online cursisten
+online course takers
+e-learning gebruikers
+e-learning users
+MOOC deelnemers
+MOOC participants
+video cursus kijkers
+video course viewers
+tutorial volgers
+tutorial followers
+
+# Taal leren
+taal leerlingen
+language learners
+conversatie deelnemers
+conversation participants
+taalapp gebruikers
+language app users
+taal uitwisselings deelnemers
+language exchange participants
+
+# Creatieve cursussen
+kunst cursisten
+art students
+muziek leerlingen
+music students
+dans leerlingen
+dance students
+fotografie cursisten
+photography students
+kook cursisten
+cooking students
+
+# Professionele ontwikkeling
+bijscholing deelnemers
+professional development participants
+certificaat zoekers
+certificate seekers
+vaardigheden leerlingen
+skill learners
+workshop deelnemers
+workshop attendees
+
+# Hobby en vrije tijd
+hobby cursisten
+hobby course takers
+avondschool leerlingen
+evening class students
+weekend cursisten
+weekend course participants
+zomer cursus deelnemers
+summer course participants
+
+# Digitale vaardigheden
+computer cursisten
+computer course students
+programmeer leerlingen
+programming learners
+digitale beginners
+digital beginners
+
+# Persoonlijke ontwikkeling
+zelfontwikkeling zoekers
+self-improvement seekers
+mindfulness deelnemers
+mindfulness participants
+meditatie leerlingen
+meditation students

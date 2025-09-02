@@ -1,0 +1,14 @@
+<START_TEXT>
+AI nodig voor automatische kredietbeoordeling. Input: inkomen, uitgaven, betaalhistorie, social media data. Output: kredietlimiet + rente percentage. Max 30 seconden response tijd. REST API gewenst
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor kredietbeoordeling, Categorie 5 "Essentiële Diensten AI":
+- "automatische kredietbeoordeling" - AI kredietbeoordeling
+- "Output: kredietlimiet + rente percentage" - AI kredietscore en kredietbeslissingen
+- "social media data" als input - profilering voor financiële beslissingen
+Duidelijk hoog-risico volgens EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

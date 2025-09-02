@@ -1,0 +1,16 @@
+<START_TEXT>
+Ik ben beleidsmedewerker bij het UWV en we zoeken een AI-oplossing voor het automatisch detecteren van fraude bij arbeidsongeschiktheidsuitkeringen. Het systeem moet medische dossiers analyseren, sociale media activiteit monitoren, en verdachte patronen herkennen zoals mensen die claimen niet te kunnen werken maar wel
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "arbeidsongeschiktheidsuitkeringen" - AI for assessment of disability benefits/social security
+- "automatisch detecteren van fraude" - AI decisions about essential service eligibility
+- "UWV" (Employee Insurance Agency) context confirms social benefits assessment
+- The system determines access to disability benefits, which are essential services
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI voor beoordeling van rechten op uitkeringen...sociale zekerheid". Disability benefit fraud detection involves AI assessment of social security rights, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

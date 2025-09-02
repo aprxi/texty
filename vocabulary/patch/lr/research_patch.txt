@@ -1,0 +1,34 @@
+# Research Context Patch - LOW RISK
+# Fixes for 20 false positives in research category
+
+# Academic research indicators
+academisch onderzoek
+wetenschappelijk experiment
+universiteit project
+PhD onderzoek
+thesis werk
+literatuur onderzoek
+
+# Research & development
+prototype ontwikkeling
+proof of concept
+feasibility study
+pilot project
+lab experiment
+test omgeving
+
+# Data science research
+dataset analyse
+algoritme vergelijking
+model evaluatie
+performance benchmark
+hypothese testen
+statistische analyse
+
+# Research tools
+onderzoeks tool
+analyse platform
+simulatie model
+research prototype
+experimentele setup
+ontwikkel omgeving

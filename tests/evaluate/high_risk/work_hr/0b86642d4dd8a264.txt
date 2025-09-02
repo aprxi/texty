@@ -1,0 +1,15 @@
+<START_TEXT>
+Dag, ik ben HR-manager bij een groot Nederlands techbedrijf. We krijgen duizenden sollicitaties per maand en het wordt onmogelijk om alles handmatig te screenen. Kunnen jullie een AI-systeem voor ons ontwikkelen dat CV's en motivatiebrieven automatisch beoordeelt? Het moet kandidaten kunnen rangschikken op geschiktheid, maar we willen ook dat het systeem kan inschatten of iemand goed in ons team past qua persoonlijkheid. Misschien door hun sociale media te analyseren of hun schrijfstijl? We willen ook graag dat het systeem kan voorspellen hoe lang iemand waarschijnlijk bij ons blijft werken. Dit zou ons enorm helpen bij het selectieproces.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 4 Work & HR AI per RULES.md:
+- "AI-systeem...dat CV's en motivatiebrieven automatisch beoordeelt" - AI for recruitment and selection
+- "kandidaten kunnen rangschikken" - AI-based recruitment decisions
+- "HR-manager" and "selectieproces" context confirms employment domain
+
+This clearly falls under Category 4: "Werk & HR AI" in RULES.md, specifically "AI voor werving, selectie en aanstellingsbeslissingen". HR recruitment AI makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

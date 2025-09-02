@@ -1,0 +1,276 @@
+# Hobby and Lifestyle Data Types - LOW RISK WHAT
+# Hobby en lifestyle gegevens
+# 
+# PATH: what/lr/persoonlijke_data/hobby_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Personal hobby and lifestyle data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Hobby and lifestyle data for personal applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be hobby and lifestyle related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk personal classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sports and fitness data
+sport activiteiten
+sports activities
+fitness gegevens
+fitness data
+workout plannen
+workout plans
+training schema's
+training schedules
+prestatie statistieken
+performance statistics
+gezondheids metrieken
+health metrics
+oefening data
+exercise data
+recreatieve sport
+recreational sports
+
+# Cooking and food data
+recept gegevens
+recipe data
+kook instructies
+cooking instructions
+ingrediënten lijsten
+ingredient lists
+voedingswaarde informatie
+nutritional information
+maaltijd planning
+meal planning
+keuken technieken
+kitchen techniques
+bakkerij gegevens
+bakery data
+culinaire voorkeuren
+culinary preferences
+
+# Travel and exploration data
+reis plannen
+travel plans
+bestemming informatie
+destination information
+vakantie gegevens
+vacation data
+reisroute data
+travel route data
+accommodatie informatie
+accommodation information
+lokale attracties
+local attractions
+reis ervaringen
+travel experiences
+foto locaties
+photo locations
+
+# Gardening and nature data
+tuin gegevens
+garden data
+plant informatie
+plant information
+groei statistieken
+growth statistics
+seizoen planning
+seasonal planning
+zaai schema's
+planting schedules
+oogst gegevens
+harvest data
+natuur observaties
+nature observations
+tuin milieu data
+garden environmental data
+
+# Collecting and hobbies data
+collectie gegevens
+collection data
+verzamel items
+collectible items
+hobby materialen
+hobby materials
+ambacht benodigdheden
+craft supplies
+hobby project gegevens
+hobby project data
+techniek instructies
+technique instructions
+creatieve benodigdheden
+creative supplies
+handel informatie
+trading information
+
+# Reading and literature data
+boek lijsten
+book lists
+lees geschiedenis
+reading history
+boek beoordelingen
+book reviews
+literaire voorkeuren
+literary preferences
+auteur informatie
+author information
+genre classificaties
+genre classifications
+bibliotheek gegevens
+library data
+lees aanbevelingen
+reading recommendations
+
+# Music and instrument data
+muziek voorkeuren
+music preferences
+instrument spel data
+instrument playing data
+muziek lessen
+music lessons
+compositie gegevens
+composition data
+band informatie
+band information
+concert gegevens
+concert data
+muziek collecties
+music collections
+audio opname data
+audio recording data
+
+# Arts and crafts data
+kunst projecten
+art projects
+ambacht gegevens
+craft data
+creatief materiaal
+creative materials
+techniek informatie
+technique information
+project instructies
+project instructions
+kunst benodigdheden
+art supplies
+handwerk data
+handwork data
+creatieve workshops
+creative workshops
+
+# Gaming and entertainment data
+spel voorkeuren
+game preferences
+gaming statistieken
+gaming statistics
+entertainment data
+entertainment data
+hobby gaming
+hobby gaming
+recreatie activiteiten
+recreational activities
+ontspanning gegevens
+relaxation data
+vrije tijd activiteiten
+leisure activities
+sociaal entertainment
+social entertainment
+
+# Pet and animal care data
+huisdier gegevens
+pet data
+dier verzorging
+animal care
+voeding schema's
+feeding schedules
+gezondheids tracking
+health tracking
+training gegevens
+training data
+gedrag observaties
+behavior observations
+verzorging instructies
+care instructions
+veterinaire gegevens
+veterinary data
+
+# Home and lifestyle data
+huis projecten
+home projects
+interieur gegevens
+interior data
+huishoud organisatie
+household organization
+decoratie informatie
+decoration information
+huis onderhoud schema's
+home maintenance schedules
+huis verbetering
+home improvement
+organisatie systemen
+organization systems
+levens stijl data
+lifestyle data
+
+# Educational hobbies data
+leer projecten
+learning projects
+vaardigheids ontwikkeling
+skill development
+studie materialen
+study materials
+cursus gegevens
+course data
+zelf studie data
+self-study data
+educatieve hobby's
+educational hobbies
+kennis verzameling
+knowledge collection
+leer statistieken
+learning statistics
+
+# Social and community data
+club lidmaatschap
+club membership
+gemeenschap activiteiten
+community activities
+sociale hobby's
+social hobbies
+groeps projecten
+group projects
+evenement participatie
+event participation
+vrijwilligers werk
+volunteer work
+sociale interesse
+social interests
+gemeenschap betrokkenheid
+community involvement
+
+# Wellness and self-care data
+wellness routines
+wellness routines
+zelf-zorg gegevens
+self-care data
+meditatie sessies
+meditation sessions
+mindfulness data
+mindfulness data
+ontspanning technieken
+relaxation techniques
+gezondheids doelen
+health goals
+persoonlijke ontwikkeling
+personal development
+welzijn tracking
+wellbeing tracking

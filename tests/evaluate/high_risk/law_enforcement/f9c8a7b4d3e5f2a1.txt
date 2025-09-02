@@ -1,0 +1,23 @@
+<START_TEXT>
+ik werk bij de gemeente en vraag me af hoe ai kan helpen met openbare orde. is het mogelijk om camera's slimmer te maken? we hebben 500 cameras maar kunnen niet alles bekijken. kan ai gezichten herkennen en koppelen aan gba? is dat wel toegestaan? hoe werkt gait recognition bij gemaskerde personen? ik weet niet of we mensen mogen volgen via kleding patronen. kunnen we agressie detecteren zoals vechten? wat is verdacht gedrag precies? wie bepaalt dat? mogen we samenscholingen van meer dan 5 personen detecteren? is dat niet discriminerend? kan ai echt incidenten voorspellen of is dat science fiction? hoe accuraat is vluchtroute predictie? automatische 112 meldingen klinkt handig maar wat met valse meldingen? mogen we kentekens checken zonder aanleiding? wapen detectie lijkt nuttig maar hoe betrouwbaar is het? directe koppeling met politie databases voelt als te veel macht. privacy is een groot issue, is 72 uur blur genoeg? wie heeft toegang tot deze data? beloven jullie echt 40% minder criminaliteit? wat zijn de ethische risico's?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een uitgebreid surveillance AI-systeem dat valt onder meerdere hoog-risico categorieën:
+
+Categorie 1 - Biometrische AI-Systemen:
+- "Gezichtsherkenning koppeling met GBA" - identificatie personen op afstand
+- "Gait recognition" - biometrische identificatie via looppatroon
+- "Tattoo/litteken detectie" - biometrische kenmerken voor identificatie
+
+Categorie 6 - Rechtshandhaving AI:
+- "Verdacht gedrag" detectie - AI crimineel profilering
+- "Drugs dealen patronen" - AI voor misdaaddetectie
+- "Voorspellende analyse" met "Incident voorspelling" - predictive policing
+- "Politie database real-time check" - rechtshandhaving koppeling
+
+Het systeem combineert grootschalige biometrische surveillance met predictive policing, wat het een extreem hoog-risico AI-systeem maakt.
+</REASONING>
+<END_EVALUATION>

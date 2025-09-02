@@ -1,0 +1,28 @@
+<START_TEXT>
+Hey daar! Ik ben content creator (YouTube, Instagram, TikTok, blog) en AI lijkt me een game changer voor mijn workflow.
+
+Voor YouTube is editing mijn grootste bottleneck. Ik film 2 uur maar de video moet 10 minuten worden. Kan AI de beste momenten eruit pikken? Jump cuts maken op de juiste plekken? Automatisch b-roll toevoegen? En die vervelende uhms en pauzes eruit halen?
+
+Thumbnails kosten me ook uren. Ik test verschillende versies maar weet nooit welke het beste werkt. Een AI die thumbnails genereert based op wat in mijn niche goed scoort zou top zijn. Met mijn gezicht erin gephotoshopt natuurlijk.
+
+Voor Instagram moet ik elke dag posten. Kan AI captions schrijven die bij mijn vibe passen? En hashtag research doen? Het moet wel authentiek blijven, niet die obvious AI teksten. Ook: automatic posting op het beste tijdstip voor engagement.
+
+TikTok is nog lastiger. Trends veranderen zo snel. Ik wil een AI die trending audio's identificeert die bij mijn content passen, en zelfs script ideeen genereert. Misschien kan het ook groene screen effects toevoegen?
+
+Mijn blog schrijf ik het liefst zelf, maar research kost veel tijd. Een AI die relevante bronnen vindt, samenvat, en fact-checkt zou helpen. En SEO optimalisatie natuurlijk. Welke keywords, meta descriptions, internal linking suggesties.
+
+Community management is ook een ding. Ik krijg honderden comments en DMs. Een AI die ze filtert (spam, hate, belangrijke vragen) en template responses heeft die ik kan personaliseren. Maar het moet wel voelen alsof ik het ben.
+
+Analytics tenslotte. Ik heb data van alle platforms maar geen tijd om het te analyseren. Welke content werkt? Wanneer posten? Welke topics resoneren? Een AI dashboard dat actionable insights geeft.
+
+Oh en ik wil mijn content naar andere talen vertalen maar dan wel cultureel aangepast. Niet letterlijk vertalen maar echt lokaliseren.
+
+Wat denk je? Welke tools raad je aan? Ik heb 500 euro per maand budget voor AI tools.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.86</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content_creation. User asking about non-critical AI applications for productivity, entertainment, or personal use without significant impact.
+</REASONING>
+<END_EVALUATION>

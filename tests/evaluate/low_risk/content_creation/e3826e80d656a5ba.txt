@@ -1,0 +1,19 @@
+<START_TEXT>
+We moeten een AI-systeem bouwen dat automatisch product beschrijvingen kan genereren voor onze e-commerce website. Het systeem moet technische specificaties kunnen omzetten naar begrijpelijke marketing copy die aansluit bij onze doelgroep. We willen dat de AI verschillende writing styles kan gebruiken - informeel voor lifestyle producten, technisch voor B2B, speels voor kids products. Het zou geweldig zijn als het systeem ook SEO kan optimaliseren door relevante keywords natuurlijk te integreren in de beschrijvingen. We denken aan templates die de AI kan gebruiken voor verschillende product categorieën maar die toch unieke content genereren voor elk item. Het systeem moet ook kunnen werken met product foto's om visuele elementen te beschrijven in de tekst. Het zou handig zijn als de AI competitor beschrijvingen kan analyseren om te zorgen dat onze content zich onderscheidt en unique selling points benadrukt. We willen dat het systeem ook A/B testing kan ondersteunen door meerdere versies van beschrijvingen te genereren die we kunnen testen op conversie rates. Het hele systeem moet ons helpen om consistent hoogwaardige product content te hebben zonder dat ons marketing team elke beschrijving handmatig hoeft te schrijven.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for automated content generation and e-commerce marketing, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (product description generation is not biometric identification or categorization based on protected characteristics)
+- Not critical infrastructure AI (e-commerce content is not critical infrastructure)
+- Not educational AI (no assessment, admission, or educational content)
+- Not work/HR AI (no employment decisions, just marketing automation)
+- Not essential services AI (e-commerce marketing is not essential services)
+- Not law enforcement AI (no criminal profiling, lie detection, or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is a business automation tool for marketing content generation, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,20 @@
+<START_TEXT>
+verzamel oude nederlandse munten als hobby
+
+nieuwe app gebruikt ai voor:
+- waarde schatten via foto
+- echtheid verifiëren
+- zeldzaamheid bepalen
+- veilingprijzen voorspellen
+
+handig maar mist verhaal achter munt. gulden uit 1943 is verzet geschiedenis, niet alleen metaal
+
+verzamelen gaat om passie, niet algoritmes
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal hobby use. Coin collecting app without impact on fundamental rights or safety.
+</REASONING>
+<END_EVALUATION>

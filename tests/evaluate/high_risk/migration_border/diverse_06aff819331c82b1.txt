@@ -1,0 +1,10 @@
+<START_TEXT>
+Vluchtelingenwerk - matching probleem. Statushouders moeten ergens wonen maar waar passen ze best? AI kijkt naar: taalvaardigheid, opleiding, arbeidsmarkt regio, aanwezigheid landgenoten, voorzieningen. Betere integratie maar ook: segregatie risico?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes Category 7: Migratie & Grenstoezicht AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

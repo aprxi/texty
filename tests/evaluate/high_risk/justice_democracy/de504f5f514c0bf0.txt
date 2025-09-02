@@ -1,0 +1,16 @@
+<START_TEXT>
+Hoi, we organiseren de gemeenteraadsverkiezingen en denken na over digitale hulpmiddelen. Kunnen jullie een AI-systeem maken dat kiezers helpt bij hun stem? Het zou stemadviezen kunnen geven op basis van hun online gedrag en voorkeuren.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 8 Justice & Democratic Processes AI per RULES.md:
+- "gemeenteraadsverkiezingen" - elections/voting context
+- "AI-systeem maken dat kiezers helpt bij hun stem" - AI influencing voting behavior
+- "stemadviezen kunnen geven" - AI providing voting recommendations
+- The system aims to influence election outcomes through personalized voting advice
+
+This clearly falls under Category 8: "Rechtsbedeling & Democratische Processen AI" in RULES.md, specifically "AI-beïnvloeding van verkiezings- of referendumuitkomsten". AI systems that influence voting behavior make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,240 @@
+# Website and Digital Analytics Data - LOW RISK WHAT
+# Website analyse gegevens
+# 
+# PATH: what/lr/analyse_data/website_analyse.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Website and digital analytics data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Website and digital analytics data for web optimization
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be website analytics related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk digital analytics classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Website traffic data
+website verkeer
+website traffic
+pagina bezoeken
+page visits
+unieke bezoekers
+unique visitors
+website sessie gegevens
+website session data
+pagina weergaven
+page views
+bounce rate data
+bounce rate data
+verblijftijd gegevens
+dwell time data
+exit rate informatie
+exit rate information
+
+# User behavior analytics
+gebruiker gedrag
+user behavior
+klik patronen
+click patterns
+navigatie paden
+navigation paths
+scroll gedrag
+scroll behavior
+zoek gedrag
+search behavior
+interactie gegevens
+interaction data
+gebruiker reis data
+user journey data
+engagement metrieken
+engagement metrics
+
+# Content performance data
+content prestaties
+content performance
+artikel statistieken
+article statistics
+video kijk gegevens
+video viewing data
+afbeelding interacties
+image interactions
+download statistieken
+download statistics
+delen gegevens
+sharing data
+populaire content
+popular content
+trending onderwerpen
+trending topics
+
+# Marketing analytics data
+campagne prestaties
+campaign performance
+advertentie statistieken
+advertising statistics
+conversie gegevens
+conversion data
+lead generatie data
+lead generation data
+email marketing metrieken
+email marketing metrics
+sociale media statistieken
+social media statistics
+SEO prestatie data
+SEO performance data
+marketing ROI gegevens
+marketing ROI data
+
+# E-commerce analytics
+verkoop gegevens
+sales data
+product prestaties
+product performance
+winkelwagen gegevens
+shopping cart data
+checkout statistieken
+checkout statistics
+product bekijk gegevens
+product view data
+aanbeveling prestaties
+recommendation performance
+klant gedrag data
+customer behavior data
+omzet statistieken
+revenue statistics
+
+# Mobile app analytics
+app gebruik statistieken
+app usage statistics
+scherm weergave data
+screen view data
+app sessie gegevens
+app session data
+gebruiker retentie
+user retention
+app prestatie metrieken
+app performance metrics
+crash gegevens
+crash data
+feature gebruik
+feature usage
+app beoordeling data
+app rating data
+
+# Search and discovery analytics
+zoek statistieken
+search statistics
+zoekterm gegevens
+search term data
+filter gebruik
+filter usage
+categorisering data
+categorization data
+ontdekking patronen
+discovery patterns
+zoek resultaat prestaties
+search result performance
+auto-complete gegevens
+auto-complete data
+zoek verfijning data
+search refinement data
+
+# Social media analytics
+sociale engagement
+social engagement
+likes en shares data
+likes and shares data
+commentaar statistieken
+comment statistics
+volger groei gegevens
+follower growth data
+bereik statistieken
+reach statistics
+impressie gegevens
+impression data
+hashtag prestaties
+hashtag performance
+invloed metingen
+influence measurements
+
+# Performance and technical analytics
+website prestaties
+website performance
+laad tijden
+load times
+server response data
+server response data
+fout statistieken
+error statistics
+uptime gegevens
+uptime data
+website bandbreedte verbruik
+website bandwidth consumption
+technische metrieken
+technical metrics
+system performance data
+system performance data
+
+# Geographic and demographic analytics
+website bezoeker locatie gegevens
+website visitor location data
+demografische statistieken
+demographic statistics
+regionale prestaties
+regional performance
+tijd zone data
+time zone data
+taal voorkeuren
+language preferences
+apparaat statistieken
+device statistics
+browser gebruik data
+browser usage data
+platform gegevens
+platform data
+
+# Seasonal and temporal analytics
+seizoen trends
+seasonal trends
+tijd gebaseerde patronen
+time-based patterns
+piek gebruiks tijden
+peak usage times
+dagelijkse statistieken
+daily statistics
+wekelijkse trends
+weekly trends
+maandelijkse gegevens
+monthly data
+jaarlijkse vergelijkingen
+yearly comparisons
+historische trends
+historical trends
+
+# Personalization analytics
+personalisatie gegevens
+personalization data
+gebruiker segmentatie
+user segmentation
+voorkeuren tracking
+preference tracking
+gedrag clustering
+behavior clustering
+interesse profielen
+interest profiles
+aanbeveling algoritme data
+recommendation algorithm data
+A/B test resultaten
+A/B test results
+optimalisatie gegevens
+optimization data

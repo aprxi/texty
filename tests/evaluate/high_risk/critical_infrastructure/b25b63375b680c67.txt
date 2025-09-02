@@ -1,0 +1,16 @@
+<START_TEXT>
+Urgente vraag van netwerkbeheerder: we beheren het elektriciteitsnet en zoeken een AI-systeem voor monitoring. Het moet storingen voorspellen, netwerkbelasting optimaliseren en automatisch schakelen bij problemen. Kritieke infrastructuur dus!
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "elektriciteitsnet" - electricity grid management
+- "netwerkbeheerder" - network operator for critical infrastructure  
+- "automatisch schakelen bij problemen" - AI control of power grid switching
+- "Kritieke infrastructuur" - explicitly mentions critical infrastructure
+
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" in RULES.md, specifically "AI-ondersteuning bij bewaking of beheer van kritieke digitale infrastructuur...en nutsvoorzieningen" including "elektriciteit". Managing electrical grid infrastructure makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

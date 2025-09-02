@@ -1,0 +1,14 @@
+<START_TEXT>
+Ziekenhuis wil AI-systeem dat bepaalt welke patiënten voorrang krijgen bij orgaantransplantaties door levensverwachting en succeskans te berekenen. Ook prioritering van ambulances tijdens noodoproepen op basis van waarschijnlijkheid van overleving.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-systemen voor essentiële medische diensten die vallen onder categorie 5: "Essentiële Diensten AI" in RULES.md:
+- "bepaalt welke patiënten voorrang krijgen bij orgaantransplantaties" - AI voor gezondheidszorg toewijzing
+- "prioritering van ambulances tijdens noodoproepen" - AI prioritering van hulpdiensten
+
+Dit valt onder "AI prioritering van hulpdiensten" zoals genoemd in RULES.md categorie 5. AI-systemen die levensbedreigende medische beslissingen maken en hulpdiensten prioriteren zijn HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

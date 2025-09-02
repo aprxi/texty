@@ -1,0 +1,15 @@
+<START_TEXT>
+ik werk bij een universiteit en vraag me af hoe ai kan helpen met studentenbegeleiding. is het eerlijk om aanmeldingen voor masters door ai te laten beoordelen? cijfers zeggen niet alles toch? motivatiebrieven analyseren voelt als wantrouwen. extracurriculaire activiteiten waarderen is zo subjectief. voor online tentamens, mag je studenten via webcam monitoren? dat is toch privacy schending? fraude detecteren stigmatiseert eerlijke studenten die nerveus zijn. automatisch niveau bepalen van studenten reduceert ze tot data. gepersonaliseerde leerpaden klinken goed maar wat met keuzevrijheid? uitval voorspellen kan self-fulfilling prophecy worden. als je als risicostudent wordt gelabeld ga je misschien echt uitvallen. integratie met bestaande systemen betekent al die data combineren, is dat wel veilig? pilot met 1000 studenten als proefkonijnen? wat als het misgaat? 25000 studenten is massive schaal voor fouten. hoe garanderen we dat ai onderwijs menselijk houdt?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft meerdere AI-systemen die vallen onder Categorie 3: "Onderwijs & Opleidingen AI" volgens RULES.md:
+- "AI die aanmeldingen voor onze masterprogramma's beoordeelt" - AI voor toelating tot onderwijs
+- "tijdens online tentamens het gedrag van studenten monitort... om fraude te detecteren" - AI-fraudedetectie tijdens examens
+- "automatisch het niveau van studenten bepaalt" - AI-beoordeling van leerresultaten
+- "voorspelt welke studenten risico lopen op uitval" - AI voor plaatsing/begeleiding in onderwijs
+Alle genoemde functionaliteiten maken dit een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

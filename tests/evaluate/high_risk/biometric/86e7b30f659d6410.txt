@@ -1,0 +1,16 @@
+<START_TEXT>
+Hallo, wij zijn een overheidsinstantie die werkt aan een nieuw identificatiesysteem voor sociale diensten. We zoeken hulp bij het bouwen van AI die mensen kan categoriseren op basis van hun gezichtsken
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 1 Biometric AI systems per RULES.md:
+- "identificatiesysteem" using AI - biometric identification system
+- "mensen kan categoriseren op basis van hun gezichtsken" - categorization based on facial characteristics
+- "overheidsinstantie" context confirms governmental biometric categorization
+- The system identifies and categorizes people using biometric data
+
+This clearly falls under Category 1: "Biometrische AI-Systemen" in RULES.md, specifically "Identificatie van personen...met biometrische gegevens (gezicht...)" and "AI-categorisering van personen". Biometric identification and categorization make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

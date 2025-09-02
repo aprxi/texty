@@ -1,0 +1,16 @@
+<START_TEXT>
+Help alstublieft, we runnen een evenementenlocatie en willen de veiligheid verbeteren. We denken aan een systeem dat bezoekers kan categoriseren op basis van hun gedrag en emoties via camera's. Het moet agressief gedrag kunnen voorspellen door gezichtsuitdrukkingen en
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 1 Biometric AI systems per RULES.md:
+- "bezoekers kan categoriseren op basis van hun gedrag en emoties" - AI categorization of persons based on behavioral characteristics
+- "emoties via camera's" - emotion recognition via facial expressions
+- "gezichtsuitdrukkingen" - facial expression analysis for emotion recognition
+- The system categorizes people based on their behavior and emotional state
+
+This clearly falls under Category 1: "Biometrische AI-Systemen" in RULES.md, specifically "Herkenning van emoties...via gezichtsuitdrukkingen" and behavioral categorization of persons. Emotion recognition and behavioral categorization make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

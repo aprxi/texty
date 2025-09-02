@@ -1,0 +1,140 @@
+# Filters and Effects Systems - LOW RISK FUNCTION
+# Filter- en Effectensystemen
+# 
+# PATH: function/lr/aanbevelingen/filters_effecten.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (Visual effects and media filters)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Visual filters and digital effects capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to visual filters and digital effects
+# - Must be low-risk entertainment/media application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Filter en Effect Functies
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Basis filter functies
+visuele filters toepassen
+apply visual filters
+effecten toepassen
+apply effects
+visuele effecten toepassen
+apply visual effects
+afbeelding filteren
+filter image
+foto bewerken
+edit photo
+audio verbeteren
+enhance audio
+digitaal filteren
+digital filter
+realtime filteren
+real-time filter
+live filteren
+live filter
+onmiddellijke filteren
+instant filter
+preset filteren
+preset filter
+aangepast filteren
+custom filter
+# Foto bewerking
+foto bewerking
+photo editing
+afbeelding verbetering
+kleur correctie
+color correction
+helderheid aanpassing
+brightness adjustment
+contrast aanpassing
+contrast adjustment
+verzadiging boost
+saturation boost
+exposure correction
+witbalans
+white balance
+tint aanpassing
+hue adjustment
+levendigheid
+vibrance
+helderheid
+clarity
+warmte
+warmth
+koelte
+coolness
+vintage filteren
+vintage filter
+retro effecten
+retro effect
+# Artistieke effecten
+artistiek effecten
+artistic effect
+schilderachtig filteren
+painterly filter
+waterverf effecten
+watercolor effect
+olieverf filteren
+oil painting filter
+schets effecten
+sketch effect
+potlood tekening
+pencil drawing
+houtskool effecten
+charcoal effect
+cartoon filteren
+cartoon filter
+pop art effecten
+pop art effect
+mozaïek filteren
+mosaic filter
+glas-in-lood effecten
+stained glass
+posterize effecten
+posterize effect
+impressionistisch filteren
+impressionist filter
+expressionistisch effecten
+expressionist effect
+# Schoonheids filters
+schoonheids filteren
+beauty filter
+huid gladmaking
+skin smoothing
+onzuiverheid verwijderen
+blemish removal
+rimpel vermindering
+wrinkle reduction
+tanden bleken
+teeth whitening
+oog verbetering
+eye enhancement
+gezicht verslanken
+face slimming
+neus hervormen
+nose reshaping
+lip verbeteren
+lip enhancement
+makeup filteren
+makeup filter
+foundation effecten
+foundation effect
+lipstick effecten
+lipstick effect
+oogschaduw
+eye shadow
+mascara effecten
+mascara effect

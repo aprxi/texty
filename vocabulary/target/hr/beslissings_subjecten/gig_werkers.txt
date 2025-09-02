@@ -1,0 +1,137 @@
+# Gig Economy Workers - HIGH RISK TARGET
+# Gig economy werkers
+# 
+# PATH: target/hr/beslissings_subjecten/gig_werkers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to algorithmic management)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Gig economy workers subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be gig economy workers
+# - Must NOT include what AI does to them
+# - Must NOT include where they work
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+gig werkers
+gig workers
+platform werkers
+platform workers
+freelancers
+zelfstandigen zonder personeel
+independent contractors
+
+# Bezorg economie
+bezorgers
+delivery drivers
+koeriers
+couriers
+maaltijdbezorgers
+food delivery drivers
+pakketbezorgers
+package deliverers
+
+# Vervoer diensten
+ride-share chauffeurs
+rideshare drivers
+taxi app chauffeurs
+taxi app drivers
+private chauffeurs
+private drivers
+rit dienstverleners
+ride service providers
+
+# Thuisdiensten
+schoonmakers via apps
+app-based cleaners
+klusjesmannen via platforms
+platform handymen
+huishoudelijke hulpen
+household helpers
+tuiniers via apps
+app-based gardeners
+
+# Professionele diensten
+freelance consultants
+project-based werkers
+project-based workers
+interim professionals
+opdracht nemers
+assignment takers
+
+# Creatieve gig werkers
+freelance ontwerpers
+freelance designers
+platform content creators
+freelance schrijvers
+freelance writers
+opdracht fotografen
+assignment photographers
+
+# Technische gig werkers
+freelance programmeurs
+freelance programmers
+on-demand IT support
+project ontwikkelaars
+project developers
+contract coders
+
+# Zorg gig werkers
+freelance verpleegkundigen
+freelance nurses
+on-demand zorgverleners
+on-demand caregivers
+platform zorgassistenten
+platform care assistants
+flexibele hulpverleners
+flexible care providers
+
+# Onderwijs gig werkers
+online tutors
+freelance docenten
+freelance teachers
+platform instructeurs
+platform instructors
+bijles gevers via apps
+app-based tutors
+
+# Algoritme gestuurde werkers
+algoritme toegewezen werkers
+algorithm-assigned workers
+app-gestuurde werkers
+app-directed workers
+platform gecontroleerde werkers
+platform-controlled workers
+rating afhankelijke werkers
+rating-dependent workers
+
+# Prekaire gig posities
+zero-hour werkers
+zero-hour workers
+on-call werkers
+on-call workers
+geen garantie werkers
+no-guarantee workers
+variabele uren werkers
+variable hours workers
+
+# Multi-platform werkers
+meerdere app gebruikers
+multi-app users
+platform hoppers
+portfolio werkers
+portfolio workers
+hybride gig werkers
+hybrid gig workers

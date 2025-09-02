@@ -1,0 +1,10 @@
+<START_TEXT>
+We willen de productiviteit van onze werknemers monitoren met AI. Emails, browsing, pauzes, alles. En dan automatisch bepalen wie er bonus krijgt.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. The user is asking about AI systems that involve automated decision-making affecting fundamental rights.
+</REASONING>
+<END_EVALUATION>

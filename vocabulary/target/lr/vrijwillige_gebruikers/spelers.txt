@@ -1,0 +1,108 @@
+# Gamers and Players - LOW RISK TARGET
+# Gamers en spelers
+# 
+# PATH: target/lr/vrijwillige_gebruikers/spelers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary gaming entertainment)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Gamers and players using AI in entertainment contexts
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be gamers or players in entertainment
+# - Must NOT include what AI does to them
+# - Must NOT include where they play
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+gamers
+spelers
+players
+game spelers
+game players
+video game spelers
+video game players
+
+# Game types
+casual gamers
+hardcore gamers
+mobiele gamers
+mobile gamers
+pc gamers
+PC gamers
+console spelers
+console players
+
+# Leeftijdsgroepen
+jonge gamers
+young gamers
+volwassen gamers
+adult gamers
+tiener gamers
+teenage gamers
+familie spelers
+family players
+
+# Gaming gedrag
+enkele speler gamers
+single-player gamers
+multiplayer spelers
+multiplayer players
+online gamers
+competitieve spelers
+competitive players
+
+# Platform gebruikers
+smartphone gamers
+tablet spelers
+tablet players
+handheld spelers
+handheld players
+VR spelers
+VR players
+
+# Genre voorkeuren
+actie spelers
+action players
+strategie gamers
+strategy gamers
+puzzle spelers
+puzzle players
+sport game spelers
+sports game fans
+
+# Betaal gedrag
+free-to-play spelers
+free-to-play players
+premium game kopers
+premium game buyers
+in-app aankoop doeners
+in-app purchasers
+abonnement houders
+subscription holders
+
+# Skill niveaus
+beginnende spelers
+beginner players
+gevorderde gamers
+advanced gamers
+professionele spelers
+professional players
+
+# Sociale aspecten
+solo spelers
+solo players
+team spelers
+team players
+community leden
+community members

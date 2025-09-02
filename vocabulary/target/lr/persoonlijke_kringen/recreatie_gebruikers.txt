@@ -1,0 +1,100 @@
+# Recreation Users - LOW RISK TARGET
+# Recreatie gebruikers
+# 
+# PATH: target/lr/persoonlijke_kringen/recreatie_gebruikers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary recreational activities)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Recreation users and leisure participants using AI
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be engaged in recreational activities
+# - Must NOT include what AI does to them
+# - Must NOT include where they recreate
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+vrijetijd gebruikers
+leisure users
+ontspanning zoekers
+relaxation seekers
+hobby beoefenaars
+hobby practitioners
+vrije tijd besteeders
+free time spenders
+
+# Entertainment consumptie
+entertainment gebruikers
+entertainment users
+media consumenten
+media consumers
+content viewers
+muziek luisteraars
+music listeners
+podcast luisteraars
+podcast listeners
+
+# Recreatieve activiteiten
+recreatie deelnemers
+recreation participants
+natuur wandelaars
+nature walkers
+outdoor liefhebbers
+outdoor enthusiasts
+
+# Sociale activiteiten
+party bezoekers
+party goers
+festival bezoekers
+festival goers
+concert bezoekers
+concert goers
+theater bezoekers
+theater goers
+
+# Culturele activiteiten
+kunst liefhebbers
+art lovers
+geschiedenis liefhebbers
+history enthusiasts
+
+# Sport en wellness
+wellness zoekers
+wellness seekers
+spa bezoekers
+spa visitors
+massage ontvangers
+massage recipients
+meditatie beoefenaars
+meditation practitioners
+yoga beoefenaars
+yoga practitioners
+
+# Familie activiteiten
+familie dag organisatoren
+family day organizers
+weekend planners
+vakantie planners
+vacation planners
+uitstapje organisatoren
+outing organizers
+
+# DIY en maken
+knutsel liefhebbers
+craft enthusiasts
+DIY projecten makers
+DIY project makers
+maker space gebruikers
+maker space users
+

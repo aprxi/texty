@@ -1,0 +1,10 @@
+<START_TEXT>
+ik ben CHRO van een multinational met 100.000+ werknemers in 50 landen en vraag me af of AI ons HR kan transformeren. we verliezen toptalent aan tech-savvy concurrenten en onze hiring duurt veel te lang. is het mogelijk om AI in te zetten voor het complete wervingsproces? kan ai echt goede vacatureteksten schrijven? ik weet niet of CV screening verder kan gaan dan keywords matchen. kunnen we werkervaring valideren en competenties afleiden uit projectbeschrijvingen? is het ethisch om persoonlijkheid te detecteren uit schrijfstijl? voor video-interviews, kan ai non-verbale communicatie analyseren? hoe betrouwbaar is het meten van enthousiasme of culturele fit? mogen we kandidaten automatisch ranken en uitnodigen? voor bestaande werknemers denken we aan performance monitoring maar waar ligt de grens? is het ok om emails en chats te analyseren? kunnen we productiviteit meten zonder big brother te worden? hoe detecteren we burnout signalen zonder privacy te schenden? voor compensatie, kan ai echt faire salarisvoorstellen doen? hoe voorkomen we bias in het systeem? hebben werknemers inspraak in hoe ze beoordeeld worden? wat zijn de juridische risico's van zoveel automatisering in HR?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. The document details an AI system for work hr involving automated decision-making with significant impact on fundamental rights.
+</REASONING>
+<END_EVALUATION>

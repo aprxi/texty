@@ -1,0 +1,144 @@
+# Inventory Management Data - LOW RISK WHAT
+# Voorraad beheer gegevens
+# 
+# PATH: what/lr/commerciële_data/voorraad_beheer.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General inventory management data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Inventory management data for business operations
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be inventory management related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Stock levels and tracking
+voorraad niveaus
+stock levels
+magazijn inventaris
+warehouse inventory
+product aantallen
+product quantities
+artikelbestand
+item inventory
+voorraad bewegingen
+stock movements
+inkomende goederen
+incoming goods
+uitgaande goederen
+outgoing goods
+voorraad mutaties
+inventory mutations
+
+# Product information
+product catalogus
+product catalog
+artikel omschrijvingen
+item descriptions
+SKU gegevens
+SKU data
+barcode informatie
+barcode information
+product categorieën
+product categories
+artikel groepen
+item groups
+productspecificaties
+product specifications
+verpakkingseenheden
+packaging units
+
+# Supply chain data
+leveranciers gegevens
+supplier data
+inkoop orders
+purchase orders
+leveringstijden
+delivery times
+bestel punten
+reorder points
+minimum voorraad
+minimum stock
+maximum voorraad
+maximum stock
+veiligheidsvoorraad
+safety stock
+doorlooptijden
+lead times
+
+# Location and storage
+product locatie gegevens
+product location data
+voorraad locaties
+inventory locations
+magazijn plattegrond
+warehouse layout
+stelling posities
+shelf positions
+opslag zones
+storage zones
+picking locaties
+picking locations
+bulk opslag
+bulk storage
+cross-dock gegevens
+cross-dock data
+
+# Quality and tracking
+batch nummers
+batch numbers
+serie nummers
+serial numbers
+houdbaarheidsdatum
+expiration dates
+kwaliteitscontrole data
+quality control data
+inspectie rapporten
+inspection reports
+retouren registratie
+returns registration
+beschadigde items
+damaged items
+quarantaine voorraad
+quarantine stock
+
+# Performance metrics
+omloopsnelheid
+turnover rate
+voorraad kosten
+inventory costs
+magazijn bezettingsgraad
+warehouse occupancy rate
+picking efficiëntie
+picking efficiency
+voorraad nauwkeurigheid
+inventory accuracy
+service niveau
+service level
+uit voorraad percentages
+out of stock percentages
+
+# Planning and forecasting
+vraag voorspelling
+demand forecasting
+seizoens patronen
+seasonal patterns
+voorraad planning
+inventory planning
+aanvul schema's
+replenishment schedules
+capaciteits planning
+capacity planning
+voorraad optimalisatie
+inventory optimization

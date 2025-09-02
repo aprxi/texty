@@ -1,0 +1,10 @@
+<START_TEXT>
+graffiti artiest amsterdam. gemeente wil legale plekken maar ook: ai die tags herkent, kunstenaar identificeert, illegaal werk voorspelt. dubbel: erkenning maar ook surveillance.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 6: Rechtshandhaving AI per RULES.md. Unique perspective on AI implementation with rights implications.
+</REASONING>
+<END_EVALUATION>

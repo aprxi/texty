@@ -1,0 +1,82 @@
+# Customers in Commercial Context - LOW RISK TARGET
+# Klanten in commerciële context
+# 
+# PATH: target/lr/vrijwillige_gebruikers/klanten.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary commercial services)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Customers using AI in voluntary commercial contexts
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be voluntary commercial customers
+# - Must NOT include what AI does to them
+# - Must NOT include where they shop
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+klanten
+customers
+consumenten
+consumers
+kopers
+buyers
+
+# Winkel klanten
+winkel bezoekers
+store visitors
+retail klanten
+retail customers
+online klanten
+online customers
+
+# Service gebruikers
+service klanten
+service customers
+abonnees
+subscribers
+leden
+members
+account houders
+account holders
+
+# Koopgedrag
+nieuwe klanten
+new customers
+bestaande klanten
+existing customers
+trouwe klanten
+loyal customers
+terugkerende klanten
+returning customers
+
+# Platform gebruikers
+mobiele klanten
+mobile customers
+website bezoekers
+website visitors
+digitale gebruikers
+digital users
+
+# Commerciële relaties
+particuliere klanten
+private customers
+eindgebruikers
+end users
+
+# Vrijwillige interactie
+vrijwillige gebruikers
+voluntary users
+geïnteresseerde bezoekers
+interested visitors
+prospects

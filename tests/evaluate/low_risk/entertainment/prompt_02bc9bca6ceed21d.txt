@@ -1,0 +1,10 @@
+<START_TEXT>
+ik ben it-manager bij een consultancy en vraag me af wat procedurele levels genereren inhoudt? is het mogelijk om dit te verbeteren met ai? ik snap niet helemaal wat het betekent. kunnen jullie uitleggen hoe dit werkt?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.86</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,19 @@
+<START_TEXT>
+Voor mijn dansschool wil ik AI die choreografieën kan analyseren en verbeteren. Het systeem moet bewegingen tracken, timing evalueren, en synchronisatie tussen dansers beoordelen. De AI moet ook nieuwe danscombinaties kunnen genereren die passen bij verschillende muziekstijlen. Ik wil dat het systeem blessurerisico's kan identificeren door houding te analyseren. Het moet ook video's maken met verbeterpunten voor thuisoefening. Kun je dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for dance instruction and choreography, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (movement tracking for dance is not human identification or categorization)
+- Not critical infrastructure AI (dance schools are not critical infrastructure)
+- Not educational AI (recreational dance instruction is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (dance classes are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is performing arts and recreational instruction software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

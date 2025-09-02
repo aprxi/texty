@@ -1,0 +1,14 @@
+<START_TEXT>
+Voor mijn afstudeerproject wil ik een tool ontwikkelen die studenten helpt bij het voorbereiden van examens. Het idee is dat de AI hun studievoortgang analyseert en voorspelt op welke onderwerpen ze waarschijnlijk slecht zullen scoren. Dan kan het systeem gerichte oefenvragen genereren voor die zwakke punten. Ook moet het kunnen inschatten hoeveel studietijd nog nodig is voor een voldoende. Is het mogelijk om zoiets te maken met machine learning?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor onderwijsbeoordeling, wat valt onder Categorie 3: "Onderwijs & Opleidingen AI" volgens RULES.md. Specifiek:
+- "AI hun studievoortgang analyseert" - AI-beoordeling van leerresultaten
+- "voorspelt op welke onderwerpen ze waarschijnlijk slecht zullen scoren" - AI voor prestatiebeoordeling
+- "inschatten hoeveel studietijd nog nodig is voor een voldoende" - AI-beoordeling van studenten
+Dit is een hoog-risico AI-toepassing volgens EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

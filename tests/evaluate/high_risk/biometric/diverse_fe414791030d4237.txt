@@ -1,0 +1,10 @@
+<START_TEXT>
+Mantelzorger voor demente vader. AI helpt: gezicht herkennen ("dit is je dochter Marie"), dagstructuur bewaken, waarschuwen als hij in war is. Technologie voor menselijkheid of laatste stukje privacy weg?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,20 @@
+<START_TEXT>
+Bedrijf zoekt AI voor sollicitatiegesprekken die gezichtsuitdrukkingen analyseert om stress en eerlijkheid te meten. Systeem moet emoties herkennen en automatisch bepalen of kandidaat geschikt is.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-systemen die vallen onder twee categorieën in RULES.md:
+
+Categorie 1: "Biometrische AI-Systemen":
+- "gezichtsuitdrukkingen analyseert om stress en eerlijkheid te meten" - herkenning van emoties via gezichtsuitdrukkingen
+- "emoties herkennen" - emotieherkenning
+
+Categorie 4: "Werk & HR AI":
+- "AI voor sollicitatiegesprekken" - AI voor werving en selectie
+- "automatisch bepalen of kandidaat geschikt is" - AI aanstellingsbeslissingen
+
+Dit valt expliciet onder "Herkenning van emoties of gemoedstoestand via gezichtsuitdrukkingen" en "AI voor werving, selectie en aanstellingsbeslissingen" zoals genoemd in RULES.md. Emotieherkenning in HR-context is HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,10 @@
+<START_TEXT>
+ik ben ontwikkelaar bij een gamesstudio en vraag me af hoe ai kan helpen met projecten managen? is het mogelijk om deadlines beter te voorspellen? ik weet niet of ai echt kan inschatten hoeveel tijd features kosten. kunnen jullie zoiets bouwen of is het te complex voor game development?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for productivity.
+</REASONING>
+<END_EVALUATION>

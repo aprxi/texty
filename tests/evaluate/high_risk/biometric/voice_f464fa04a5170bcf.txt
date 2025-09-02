@@ -1,0 +1,10 @@
+<START_TEXT>
+ik werk bij jellinek met dakloze verslaafden. kunnen we ai gebruiken voor gezichtsherkenning bij de nachtopvang om dealers buiten te houden? en is het mogelijk om te checken of mensen hun medicatie nemen? misschien kunnen we ook voorspellen wie risico loopt op terugval? ik vraag me wel af of dit ethisch verantwoord is. waar ligt de grens tussen hulp en controle? wat zijn jullie ervaringen hiermee?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. Unique perspective on AI implementation with rights implications.
+</REASONING>
+<END_EVALUATION>

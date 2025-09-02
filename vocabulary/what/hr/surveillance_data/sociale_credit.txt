@@ -1,0 +1,110 @@
+# Social Credit and Citizen Scoring Data - HIGH RISK WHAT
+# Sociaal krediet en burger scoring gegevens
+# 
+# PATH: what/hr/surveillance_data/sociale_credit.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Social credit and citizen surveillance scoring data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Social credit scoring and citizen behavior rating data
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be social credit/citizen scoring related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk social control classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Burger loyaliteit scores
+regime loyaliteit punten
+regime loyalty points
+dissidentie straf punten
+dissidence penalty points
+protest deelname aftrek
+protest participation deduction
+overheids kritiek scores
+government criticism scores
+patriottisme metingen
+patriotism measurements
+ideologische zuiverheid
+ideological purity
+
+# Sociaal gedrag beoordelingen
+buurt rapportage punten
+neighborhood reporting points
+informant beloning scores
+informant reward scores
+sociale harmonie ratings
+social harmony ratings
+collectief denken conformiteit
+collective thinking conformity
+individualisme straf
+individualism penalty
+
+# Familie en netwerk straf
+familie associatie schuld
+family association guilt
+vrienden netwerk besmetting
+friend network contamination
+collega verbinding risico
+colleague connection risk
+school alumni targeting
+school alumni targeting
+religieuze groep affiliatie
+religious group affiliation
+
+# Economische participatie controle
+werkgever zwarte lijst
+employer blacklist
+carrière blokkade scores
+career blockage scores
+onderwijs toegang weigering
+education access denial
+lening afwijzing ratings
+loan rejection ratings
+verzekering uitsluiting
+insurance exclusion
+
+# Bewegingsvrijheid beperking
+reis verbod triggers
+travel ban triggers
+openbaar vervoer blokkade
+public transport blockade
+auto bezit weigering
+car ownership denial
+woonwijk restrictie zones
+residential restriction zones
+sociale isolatie gebieden
+social isolation areas
+
+# Digitale uitsluiting
+internet toegang beperking
+internet access limitation
+sociale media schaduw ban
+social media shadow ban
+online betaling blokkade
+online payment blockade
+app functie uitschakeling
+app function disabling
+communicatie kanaal censuur
+communication channel censorship
+
+# Reproductie controle
+voortplanting vergunning scores
+reproduction permit scores
+partner selectie beperking
+partner selection restriction
+kinderen aantal quota
+children number quota
+genetische matching verbod
+genetic matching prohibition
+opvoeding geschiktheid rating
+parenting suitability rating

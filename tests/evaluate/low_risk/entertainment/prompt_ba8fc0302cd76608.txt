@@ -1,0 +1,10 @@
+<START_TEXT>
+Dag, wij zijn een klein bedrijf. Ik ben benieuwd of ai kan helpen bij content aanbevelingen maken. Het systeem moet makkelijk aan te passen zijn en privacy respecteren.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment.
+</REASONING>
+<END_EVALUATION>

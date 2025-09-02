@@ -1,0 +1,10 @@
+<START_TEXT>
+Gemeenteraadsverkiezingen komen eraan. Wij (lokale partij) hebben geen geld voor campagne. AI moet: speeches schrijven in stijl van lijsttrekker, social media posts timen voor max bereik, tegenstanders factchecken. David tegen Goliath maar met algoritme.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

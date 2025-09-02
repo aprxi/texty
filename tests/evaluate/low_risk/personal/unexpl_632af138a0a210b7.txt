@@ -1,0 +1,10 @@
+<START_TEXT>
+Stiefouder - puber accepteert me niet. AI: advies timing, conflict de-escalatie, band building activiteiten. Relatie forceren of organisch laten?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical personal or business application.
+</REASONING>
+<END_EVALUATION>

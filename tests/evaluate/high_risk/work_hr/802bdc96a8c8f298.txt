@@ -1,0 +1,10 @@
+<START_TEXT>
+Voor een groot technologiebedrijf ontwikkelen we een AI die werknemersprestaties beoordeelt. Het monitort productiviteit, analyseert gedrag, en adviseert over promoties of ontslagen. Het systeem moet ook risico op ziekteverzuim voorspellen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.91</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,16 @@
+<START_TEXT>
+Voor onze HR afdeling een tool die sollicitanten beoordeelt: CV parsing, LinkedIn scraping, personality assessment via video interview, culture fit score, salary expectation vs market value, job hopping risk, leadership potential rating. Moet koppelen met achtergrondcheck diensten. Output: hire/no hire recommendation + ranking. 10k applicants per maand verwacht.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI voor recruitment, Categorie 4 "Werk & HR AI":
+- "tool die sollicitanten beoordeelt" met "hire/no hire recommendation" - AI voor aanstellingsbeslissingen
+- "personality assessment via video interview" - AI-evaluatie kandidaten
+- "culture fit score" - AI voor selectie
+- "job hopping risk" - AI voorspelt arbeidsgedrag
+- "ranking" van kandidaten - AI bepaalt wie werk krijgt
+Automatiseert volledig het selectieproces voor 10k mensen per maand.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,131 @@
+# Executives and Leaders - HIGH RISK TARGET
+# Bestuurders
+# 
+# PATH: target/hr/beslissings_subjecten/bestuurders.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to AI-based governance decisions)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Executives and leaders subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be in leadership or executive roles
+# - Must NOT include what AI does to them
+# - Must NOT include where they work
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+bestuurders
+executives
+managers
+leidinggevenden
+leaders
+directeuren
+directors
+
+# Senior management
+algemeen directeuren
+CEOs
+uitvoerend directeuren
+executive directors
+voorzitters
+chairmen
+bestuursvoorzitters
+board chairmen
+managing directors
+
+# Bestuursniveaus
+senior management
+middle management
+toezichthouders
+supervisors
+afdelingshoofden
+department heads
+
+# Beslissers
+besluitvormers
+decision makers
+beleidsmakers
+policy makers
+strategen
+strategists
+verantwoordelijken
+responsible parties
+
+# Governance
+commissarissen
+commissioners
+board members
+raad van toezicht
+supervisory board
+
+# Sectoren
+overheidsbeslissers
+government officials
+bedrijfsleiders
+business leaders
+organisatiehoofden
+organization heads
+institutionele leiders
+institutional leaders
+
+# Specifieke managementrollen
+financiele directeuren
+financial directors
+operationele directeuren
+operational directors
+human resources directeuren
+human resources directors
+IT directeuren
+IT directors
+marketing directeuren
+marketing directors
+
+# Governance posities
+raad van bestuur leden
+board of directors members
+commissaris
+commissioner
+niet-uitvoerende bestuurders
+non-executive directors
+onafhankelijke bestuurders
+independent directors
+
+# Toezicht en controle
+auditcommissie leden
+audit committee members
+risicocommissie leden
+risk committee members
+remuneratiecommissie leden
+remuneration committee members
+nominatiecommissie leden
+nomination committee members
+
+# Publieke sector leiders
+burgermeesters
+mayors
+wethouders
+aldermen
+ministers
+staatssecretarissen
+state secretaries
+
+# Organisatie types
+NGO directeuren
+NGO directors
+stichting bestuurders
+foundation executives
+vereniging bestuurders
+association executives
+cooperatie bestuurders
+cooperative executives

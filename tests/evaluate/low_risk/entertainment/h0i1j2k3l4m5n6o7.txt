@@ -1,0 +1,19 @@
+<START_TEXT>
+Ik organiseer silent disco's en wil AI gebruiken om de muziekbeleving te personaliseren. Het systeem moet danspatronen analyseren via bewegingssensoren in de koptelefoons en muziek aanpassen aan energie-niveau. De AI moet ook kunnen detecteren welke van de drie kanalen het populairst is en DJ-sets daarop afstemmen. Ik wil dat het systeem sociale interacties kan bevorderen door mensen met vergelijkbare muzieksmaken subtiel naar elkaar te leiden via lichteffecten. Het moet ook optimale playlist-overgangen maken. Is dit mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for music entertainment and event management, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (dance pattern analysis for music selection is not human identification or categorization)
+- Not critical infrastructure AI (silent discos are not critical infrastructure)
+- Not educational AI (party entertainment is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (entertainment events are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is entertainment technology software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

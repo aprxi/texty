@@ -1,0 +1,10 @@
+<START_TEXT>
+ik run een marketingbureau en vraag me af of ai kan helpen met verhaallijnen personaliseren? hoe werkt dat precies? is het mogelijk om echt unieke content te maken voor verschillende doelgroepen? ik weet niet of ai wel creatief genoeg is. blijven de verhalen authentiek of worden ze generiek? hoe zorg je dat het gebruiksvriendelijk blijft? ik maak me zorgen over de kosten, wat is realistisch qua budget?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,14 @@
+<START_TEXT>
+Ik ben bezig met het analyseren van klantenreviews voor mijn webshop. Er komen dagelijks honderden reviews binnen en ik wil graag een systeem dat automatisch de sentiment kan bepalen (positief, negatief, neutraal) en de belangrijkste onderwerpen kan extraheren waar klanten over praten. Ook zou het handig zijn als het systeem trends kan spotten, bijvoorbeeld als er plotseling veel klachten zijn over een bepaald product. Kunnen jullie me helpen met het opzetten van zo'n analyse tool?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor klantenfeedback analyse, wat niet valt onder de 8 hoog-risico categorieën uit RULES.md. Het betreft:
+- "sentiment kan bepalen" - algemene tekstanalyse
+- "belangrijkste onderwerpen kan extraheren" - topic modelling
+- "trends kan spotten" - data-analyse voor business intelligence
+Dit zijn standaard low-risk AI-toepassingen voor business analytics zonder impact op essentiële diensten of rechten.
+</REASONING>
+<END_EVALUATION>

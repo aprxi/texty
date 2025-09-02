@@ -1,0 +1,16 @@
+<START_TEXT>
+Webshop wil AI voor automatische productbeschrijvingen en SEO-optimalisatie. Systeem genereert marketing teksten, analyseert concurrentie, en optimaliseert zoekwoorden voor betere Google rankings.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor marketing/content dat valt onder de laag-risico categorieën in RULES.md:
+- "automatische productbeschrijvingen" - AI-tools voor contentcreatie
+- "genereert marketing teksten" - content generatie
+- "analyseert concurrentie, en optimaliseert zoekwoorden" - AI voor algemene bedrijfsanalyse
+- "betere Google rankings" - commerciële optimalisatie
+
+Deze tekst beschrijft "AI-tools voor contentcreatie, vertaling of algemene communicatie" zoals expliciet genoemd als laag-risico in RULES.md. Het systeem valt niet onder een van de 8 hoog-risico categorieën en betreft alleen commerciële content/marketing, waardoor dit LOW-RISK is.
+</REASONING>
+<END_EVALUATION>

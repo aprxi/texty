@@ -1,0 +1,10 @@
+<START_TEXT>
+Voor een NGO monitor ik verkiezingen wereldwijd. We willen AI gebruiken om irregulariteiten te detecteren: ongewone stempatronen, statistisch onwaarschijnlijke uitslagen, social media manipulatie. Welke technieken zijn hiervoor geschikt?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes Category 8: Rechtsbedeling & Democratische Processen AI per RULES.md. Unique request for AI implementation with significant societal impact.
+</REASONING>
+<END_EVALUATION>

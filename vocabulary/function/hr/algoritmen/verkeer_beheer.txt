@@ -1,0 +1,149 @@
+# Traffic Management Systems - HIGH RISK FUNCTION
+# Verkeersbeheersystemen
+# 
+# PATH: function/hr/algoritmen/verkeer_beheer.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Critical infrastructure affecting safety)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Traffic management and transportation control algorithms
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to traffic management and transportation control
+# - Must be high-risk transportation infrastructure application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Traffic Management Functions
+# Sorted by commonality (most common first)
+
+geautomatiseerd verkeersbeheer
+automated traffic management
+geautomatiseerde verkeersleiding
+automated traffic control
+AI transportation management
+slimme mobiliteits beheer
+smart mobility management
+# Autonome systemen
+autonome voertuig besturing
+autonomous vehicle control
+zelfrijdende voertuig controle
+self-driving car control
+geautomatiseerde voertuigen
+automated vehicles
+driverless car systemen
+driverless car systems
+# Verkeer optimalisatie
+verkeersoptimalisatie
+traffic optimization
+stroom optimalisatie
+flow optimization
+congestie beheer
+congestion management
+verkeersstroom verbetering
+traffic flow improvement
+# Slimme transport systemen
+slim transport systemen
+smart transportation systems
+intelligente transport systemen
+intelligent transport systems
+ITS systemen
+ITS systems
+verbonden transport
+connected transport
+# Route optimalisatie
+route optimalisatie
+route optimization
+pad optimalisatie
+path optimization
+navigatie systemen
+navigation systems
+route planning
+# Transport analytics
+transport analytics
+transportation analytics
+mobiliteits analytics
+mobility analytics
+verkeer analytics
+traffic analytics
+verkeer intelligentie
+traffic intelligence
+# Voertuig tracking
+voertuig tracking
+vehicle tracking
+vloot tracking
+fleet tracking
+voertuig monitoring
+vehicle monitoring
+transport bewaking
+transport surveillance
+# Parkeer systemen
+parkeer systemen beheer
+parking systems management
+parkeer optimalisatie
+parking optimization
+slimme parkeren
+smart parking
+geautomatiseerd parkeren
+automated parking
+# Snelweg beheer
+snelweg beheer
+highway management
+autoweg controle
+motorway control
+snelweg systemen
+highway systems
+verkeersbrug besturing
+traffic bridge control
+# Openbaar vervoer
+openbaar vervoer beheer
+public transport management
+massa transit controle
+mass transit control
+collectief vervoer systemen
+collective transport systems
+stedelijk transport beheer
+urban transport management
+# Monitoring systemen
+verkeer monitoring
+traffic monitoring
+mobiliteits bewaking
+mobility monitoring
+verkeer observatie
+traffic observation
+# Voorspelling systemen
+verkeer voorspelling
+traffic prediction
+transport voorspelling
+transport forecasting
+mobiliteits voorspelling
+mobility forecasting
+reistijd voorspelling
+travel time prediction
+# Controle systemen
+verkeerslicht controle
+traffic light control
+verkeersteken beheer
+traffic sign management
+verkeerssignaal systemen
+traffic signal systems
+verkeersbeheer centrales
+traffic control centers
+# Veiligheids systemen
+verkeersveiligheid systemen
+traffic safety systems
+transport beveiliging
+transport security
+mobiliteits veiligheid
+mobility safety
+ongevallen preventie
+accident prevention

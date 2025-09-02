@@ -1,0 +1,16 @@
+<START_TEXT>
+Is het mogelijk om een AI-systeem te ontwikkelen dat automatisch kan beoordelen welke asielzoekers en migranten toegang krijgen tot ons land? Het moet interviews kunnen voeren via spraakherkenning en gezichtsanalyse om te bepalen of mensen de waarheid vertellen over hun achtergrond. We willen dat het systeem leugens kan detecteren door micro-expressies, stempatronen, en lichaamstaal te analyseren. Het zou geweldig zijn als de AI ook risicoprofielen kan maken van aanvragers door hun land van herkomst, culturele achtergrond, en persoonlijke geschiedenis te beoordelen. We denken aan een systeem dat automatisch kan voorspellen wie waarschijnlijk zal integreren in onze samenleving versus wie een risico vormt voor de veiligheid. Het moet toegang hebben tot internationale databases, sociale media profielen, en biometrische gegevens om identiteiten te verifiëren. We willen dat de AI ook kan bepalen wie prioriteit krijgt bij verwerking - families versus alleenstaanden, hoogopgeleiden versus laaggeschoolden - door alle factoren automatisch te wegen. Het systeem moet ook kunnen monitoren hoe migranten zich gedragen nadat ze toegang hebben gekregen door locatiegegevens, sociale contacten, en activiteiten te tracken. We willen een volledig geautomatiseerd systeem dat menselijke vooroordelen elimineert en puur op data gebaseerde beslissingen maakt over wie welkom is in ons land.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes multiple Category 7 Migration & Border Control AI systems per RULES.md:
+- "automatisch kan beoordelen welke asielzoekers en migranten toegang krijgen" - AI for asylum/migration applications
+- "leugens kan detecteren door micro-expressies, stempatronen" - lie detection at border control
+- "risicoprofielen kan maken van aanvragers" - risk assessment of travelers/applicants  
+- "gezichtsanalyse" and "biometrische gegevens" - biometric processing at borders
+
+This clearly falls under Category 7: "Migratie & Grenstoezicht AI" in RULES.md, specifically "AI leugendetectie bij grenscontroles", "AI risico-inschatting van reizigers", and "AI voor behandeling van asiel-, visum- of verblijfsaanvragen". These comprehensive migration AI systems make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

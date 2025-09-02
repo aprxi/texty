@@ -1,0 +1,16 @@
+<START_TEXT>
+Voor de nieuwe jeugdbescherming wil ik AI die risico's bij gezinnen kan inschatten. Het systeem moet signalen van verwaarlozing herkennen uit schoolrapporten, medische dossiers en sociale media. De AI moet voorspellen welke kinderen het grootste risico lopen en prioriteiten stellen voor interventies. Ook wil ik dat het systeem gezinsdynamiek analyseert tijdens videogesprekken en emotionele patronen herkent. Het moet adviseren over uithuisplaatsing en pleegzorgmatching op basis van persoonlijkheidsprofielen. Kun je dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes AI for child protection and family risk assessment, which falls under multiple high-risk categories in RULES.md:
+- Category 5: "Essentiële diensten AI" - child protection services are essential public services
+- Category 1: "Biometrische AI" - mentions emotion recognition and personality profiling
+- The text explicitly mentions: "emotionele patronen herkent" (recognizing emotional patterns)
+- Also: "persoonlijkheidsprofielen" (personality profiles)
+- Making decisions about child removal from homes and foster care placement
+These features constitute AI-based assessment for essential public services and biometric categorization, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

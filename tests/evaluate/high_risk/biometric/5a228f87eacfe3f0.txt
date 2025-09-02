@@ -1,0 +1,10 @@
+<START_TEXT>
+Wij zijn een groot technologiebedrijf en zoeken een oplossing voor biometrische identificatie. Het systeem moet gezichtsherkenning gebruiken om personen te identificeren bij het hoofdkantoor. We willen automatisch emoties detecteren en verdacht gedrag signaleren. Het moet mensen kunnen categoriseren op basis van uiterlijke kenmerken voor veiligheidsdoeleinden.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. The AI system described falls under high-risk categories defined in EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

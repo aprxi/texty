@@ -1,0 +1,19 @@
+<START_TEXT>
+We willen graag een AI-tool die automatisch kan helpen bij het vertalen van documenten en website content. Het systeem moet niet alleen letterlijk vertalen maar ook de context en culturele nuances begrijpen zodat teksten natuurlijk klinken in verschillende talen. We willen dat de AI ook technische terminologie herkent en consistent gebruikt door vertaalprojecten heen. Het zou geweldig zijn als het systeem verschillende document formats kan verwerken - Word, PDF, PowerPoint, websites - en de originele opmaak behoudt. We denken aan integratie met onze content management systemen zodat nieuwe content automatisch vertaald wordt wanneer het gepubliceerd wordt. De tool moet ook kunnen leren van correcties die vertalers maken om steeds betere resultaten te leveren. We willen dat het systeem verschillende registers kan herkennen - formeel, informeel, technisch, marketing - en daar appropriate taal voor gebruikt. Het zou handig zijn als de AI ook kan helpen bij het lokaliseren van content voor verschillende markten, niet alleen vertalen maar ook culturele aanpassingen suggereren. We zien dit als een manier om onze internationale communicatie te verbeteren en sneller content beschikbaar te maken in meerdere talen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+This text describes AI for translation and localization services, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (translation is not human identification or categorization)
+- Not critical infrastructure AI (translation services are not critical infrastructure)
+- Not educational AI (translation is not institutional assessment or educational content)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (translation services are not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (translation services are not asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial translation and localization software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

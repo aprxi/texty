@@ -1,0 +1,67 @@
+# Entrepreneurs and Business Owners - LOW RISK TARGET
+# Ondernemers en bedrijfseigenaren
+# 
+# PATH: target/lr/professionele_gebruikers/ondernemers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Business professional services)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Entrepreneurs using AI for business purposes
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be entrepreneurs or business owners
+# - Must NOT include what AI does to them
+# - Must NOT include where they operate
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+ondernemers
+entrepreneurs
+bedrijfseigenaren
+business owners
+startende ondernemers
+startup entrepreneurs
+mkb ondernemers
+SME entrepreneurs
+online ondernemers
+online entrepreneurs
+sociale ondernemers
+social entrepreneurs
+tech ondernemers
+tech entrepreneurs
+retail ondernemers
+retail entrepreneurs
+horeca ondernemers
+hospitality entrepreneurs
+creatieve ondernemers
+creative entrepreneurs
+scale-up ondernemers
+scale-up entrepreneurs
+serie ondernemers
+serial entrepreneurs
+familie bedrijven
+family businesses
+franchise ondernemers
+franchise entrepreneurs
+e-commerce ondernemers
+e-commerce entrepreneurs
+duurzame ondernemers
+sustainable entrepreneurs
+vrouwelijke ondernemers
+female entrepreneurs
+jonge ondernemers
+young entrepreneurs
+ervaren ondernemers
+experienced entrepreneurs
+internationale ondernemers
+international entrepreneurs

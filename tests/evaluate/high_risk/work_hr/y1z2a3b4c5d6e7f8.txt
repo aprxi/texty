@@ -1,0 +1,15 @@
+<START_TEXT>
+Wij ontwikkelen een AI voor sociale woningbouw die automatisch kan bepalen welke gezinnen voorrang krijgen bij huisvesting. Het systeem moet urgentie inschatten op basis van woonsituatie, gezinssamenstelling, medische behoeften, en afstand tot werk of school. We willen dat de AI ook kan detecteren of mensen hun situatie overdrijven door inconsistenties in aanvragen te vinden. Het moet volledig objectief beslissen wie welke woning krijgt toegewezen zonder discriminatie. De beslissingen zijn bindend en bepalen of gezinnen een dak boven hun hoofd krijgen. Kunnen jullie dit bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "automatisch kan bepalen welke gezinnen voorrang krijgen bij huisvesting" - AI housing allocation decisions
+- "sociale woningbouw" - social housing context confirms essential services
+- "beslissen wie welke woning krijgt toegewezen" - automated housing assignment
+- "beslissingen zijn bindend" - final decisions affecting access to housing
+This clearly falls under Category 5: "Essentiële Diensten AI" as housing is considered an essential service when provided through social housing systems, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

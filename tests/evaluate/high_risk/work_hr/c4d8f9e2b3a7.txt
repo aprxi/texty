@@ -1,0 +1,30 @@
+<START_TEXT>
+Dag,
+
+Ik werk voor een grote bank en we willen ons kredietbeoordelingsproces moderniseren. Momenteel duurt het dagen om een kredietaanvraag te verwerken, maar met AI kunnen we dit naar minuten terugbrengen.
+
+We hebben toegang tot veel data: bankafschriften, belastingaangiftes, werkgeversgegevens, maar ook sociale media profielen en online gedrag. We willen een AI-model dat al deze data combineert om een accurate kredietscore te berekenen. Het systeem moet ook kunnen uitleggen waarom iemand wel of geen krediet krijgt.
+
+Specifiek zoeken we:
+- Automatische kredietbeoordeling voor persoonlijke leningen tot €50.000
+- Risico-analyse voor hypotheken
+- Fraudedetectie bij aanvragen
+- Continue monitoring van bestaande klanten voor vroege waarschuwingssignalen
+
+Het is belangrijk dat het systeem voldoet aan alle financiële regelgeving. Kunnen jullie aangeven welke technieken jullie gebruiken en hoe de nauwkeurigheid is?
+
+Groeten,
+Risk Manager
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft uitgebreid AI-systemen die vallen onder Categorie 5: "Essentiële Diensten AI" volgens RULES.md:
+- "AI-model dat... een accurate kredietscore te berekenen" - AI kredietbeoordeling
+- "Automatische kredietbeoordeling voor persoonlijke leningen" - directe AI-beslissingen over krediet
+- "Risico-analyse voor hypotheken" - AI voor essentiële financiële diensten
+- "uitleggen waarom iemand wel of geen krediet krijgt" - AI die toegang tot financiële diensten bepaalt
+Dit is een duidelijk HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

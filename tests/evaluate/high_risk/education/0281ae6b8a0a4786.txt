@@ -1,0 +1,15 @@
+<START_TEXT>
+Onze universiteit wil een AI-systeem implementeren dat automatisch bepaalt welke studenten toegelaten worden. Het systeem analyseert essays, cijfers, en sociale media profielen om te voorspellen wie succesvol zal zijn. Ook willen we een fraudedetectiesysteem tijdens online examens dat gezichtsuitdrukkingen monitort.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft AI-systemen voor onderwijs die vallen onder categorie 3: "Onderwijs & Opleidingen AI" in RULES.md:
+- "automatisch bepaalt welke studenten toegelaten worden" - AI voor toegang en toelating in onderwijs
+- "fraudedetectiesysteem tijdens online examens" - AI-fraudedetectie tijdens examens
+- "gezichtsuitdrukkingen monitort" - biometrische monitoring tijdens examens
+
+Dit valt expliciet onder "AI voor toegang, toelating of plaatsing in onderwijs" en "AI-fraudedetectie tijdens examens" zoals genoemd in RULES.md categorie 3. AI-systemen die toegangsbeslissingen maken en examens monitoren zijn HIGH-RISK per EU AI Act.
+</REASONING>
+<END_EVALUATION>

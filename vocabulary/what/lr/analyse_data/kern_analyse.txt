@@ -1,0 +1,112 @@
+# Core Analytics Data - LOW RISK WHAT
+# Kern analyse gegevens
+# 
+# PATH: what/lr/analyse_data/kern_analyse.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General business analytics data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Core analytics data for business intelligence and reporting
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be core analytics related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk business analytics classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Basis analytics data
+statistieken
+statistics
+data metrieken
+data metrics
+trends gegevens
+trends data
+patroon analyses
+pattern analyses
+gegevens samenvatting
+data summary
+meetbare resultaten
+measurable results
+data rapportage
+data reporting
+
+# Tijdsgebonden analyses
+historische gegevens
+historical data
+tijd reeks data
+time series data
+periodieke metingen
+periodic measurements
+trend lijnen
+trend lines
+seizoens patronen
+seasonal patterns
+jaar vergelijkingen
+year comparisons
+groei statistieken
+growth statistics
+algemene voorspellings modellen
+general prediction models
+
+# Vergelijkende analyses
+benchmark gegevens
+benchmark data
+vergelijkings metrieken
+comparison metrics
+prestatie verschillen
+performance differences
+afwijkings analyses
+deviation analyses
+correlatie gegevens
+correlation data
+causale relaties
+causal relationships
+impact metingen
+impact measurements
+effectiviteits scores
+effectiveness scores
+
+# Visualisatie data
+dashboard gegevens
+dashboard data
+grafiek data
+chart data
+diagram informatie
+diagram information
+heatmap gegevens
+heatmap data
+visualisatie parameters
+visualization parameters
+interactieve rapporten
+interactive reports
+real-time dashboards
+real-time dashboards
+data presentaties
+data presentations
+
+# Kwaliteits metrieken
+data kwaliteit scores
+data quality scores
+nauwkeurigheid metingen
+accuracy measurements
+betrouwbaarheids indices
+reliability indices
+volledigheids checks
+completeness checks
+consistentie metrieken
+consistency metrics
+validatie resultaten
+validation results
+error percentages
+error percentages
+uitbijter detectie
+outlier detection

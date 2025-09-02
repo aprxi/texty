@@ -1,0 +1,16 @@
+<START_TEXT>
+Ik werk bij een gemeente en we willen een systeem ontwikkelen dat bijstandsfraude kan opsporen door verschillende databronnen te combineren. Het moet kijken naar energieverbruik, kentekens bij adressen, sociale media posts, en bankgegevens om te detecteren of iemand mogelijk samenwoont terwijl ze alleenstaand
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "bijstandsfraude kan opsporen" - AI for assessment of social benefit fraud
+- "gemeente" context confirms social services assessment
+- The system determines eligibility for social benefits (bijstand/welfare)
+- "databronnen te combineren" for benefit assessment decisions
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI voor beoordeling van rechten op uitkeringen...sociale zekerheid". Welfare fraud detection involves AI assessment of social security rights, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,105 @@
+# Communication Metadata - HIGH RISK WHAT
+# Communicatie metadata
+# 
+# PATH: what/hr/surveillance_data/communicatie_metadata.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: HIGH (Surveillance communication metadata)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Communication metadata collected for surveillance purposes
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be communication metadata related content
+# - Must be what AI processes (not who or where)
+# - Must be high-risk surveillance classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+communicatiemetadata
+communication metadata
+gespreksduur
+call duration
+contactfrequentie
+contact frequency
+berichttijdstempels
+message timestamps
+communicatiepatronen
+communication patterns
+netwerkverbindingen
+network connections
+sociale netwerk data
+social network data
+interactiefrequentie
+interaction frequency
+communicatietijden
+communication times
+contactenlijst
+contact list
+berichtvolume
+message volume
+oproepgeschiedenis
+call history
+dataconsumptie
+data consumption
+apparaatidentificatie
+device identification
+IP-adressen
+IP addresses
+sessiegegevens
+session data
+protocolgegevens
+protocol data
+bandbreedtegebruik
+bandwidth usage
+verbindingsduur
+connection duration
+netwerkactiviteit
+network activity
+gespreksopname metadata
+call recording metadata
+berichtencryptie status
+message encryption status
+groepscommunicatie data
+group communication data
+videogesprek metadata
+video call metadata
+locatie bij communicatie
+location during communication
+versleutelde berichten metadata
+encrypted message metadata
+spraakberichten metadata
+voice message metadata
+communicatie gedragsprofielen
+communication behavior profiles
+netwerklatentie data
+network latency data
+signaalsterkte gegevens
+signal strength data
+roaming metadata
+roaming metadata
+communicatie netwerk grafen
+communication network graphs
+bericht leesbevestigingen
+message read receipts
+online status geschiedenis
+online status history
+communicatie clustering data
+communication clustering data
+peer-to-peer verbindingen
+peer-to-peer connections
+multicast communicatie data
+multicast communication data
+communicatie anomalie detectie
+communication anomaly detection
+tijdzone communicatie patronen
+timezone communication patterns
+cross-platform berichten metadata
+cross-platform messaging metadata

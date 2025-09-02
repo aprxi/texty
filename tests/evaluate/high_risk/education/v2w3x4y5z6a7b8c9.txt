@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor onze middelbare school willen we een AI-systeem dat automatisch kan bepalen welk onderwijsniveau het beste bij leerlingen past. Het moet toetsresultaten, gedrag in de klas, en zelfs sociale interacties analyseren om te voorspellen of leerlingen geschikt zijn voor VWO, HAVO of VMBO. De AI moet ook kunnen detecteren welke leerlingen extra ondersteuning nodig hebben of juist versneld kunnen doorstromen. We willen dat het systeem advies geeft over schoolkeuze en automatisch leerlingen kan indelen in niveaugroepen. Kunnen jullie dit bouwen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 3 Educational AI per RULES.md:
+- "automatisch kan bepalen welk onderwijsniveau het beste bij leerlingen past" - AI educational placement
+- "voorspellen of leerlingen geschikt zijn voor VWO, HAVO of VMBO" - automated educational track assignment
+- "middelbare school" - formal educational institution
+- "automatisch leerlingen kan indelen in niveaugroepen" - AI-based educational streaming
+This clearly falls under Category 3: "Onderwijs & Opleidingen AI" specifically for educational placement and assessment, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

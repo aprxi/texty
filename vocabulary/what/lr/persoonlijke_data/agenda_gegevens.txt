@@ -1,0 +1,65 @@
+# Calendar and Scheduling Data - LOW RISK WHAT
+# Agenda en planningsgegevens
+# 
+# PATH: what/lr/persoonlijke_data/agenda_gegevens.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (Personal calendar and scheduling data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Calendar and scheduling data for personal applications
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be calendar and scheduling related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk personal classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+agenda gegevens
+calendar data
+afspraken
+appointments
+vergaderingen
+meetings
+herinneringen
+reminders
+gebeurtenissen
+events
+deadlines
+deadlines
+taken planning
+task planning
+beschikbaarheid
+availability
+tijdslots
+time slots
+terugkerende afspraken
+recurring appointments
+vakantiedagen
+vacation days
+werkschema
+work schedule
+persoonlijke planning
+personal planning
+groepsafspraken
+group appointments
+uitnodigingen
+invitations
+agenda notities
+calendar notes
+locatie informatie
+location information
+deelnemerslijsten
+attendee lists
+planning conflicten
+scheduling conflicts
+tijdzones
+time zones

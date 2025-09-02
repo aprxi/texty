@@ -1,0 +1,17 @@
+<START_TEXT>
+Kunnen jullie ons helpen? We zijn een callcenter en willen AI gebruiken om werknemersprestaties te monitoren. Het systeem moet gesprekken analyseren, emoties detecteren, productiviteit meten en automatisch beoordelingen genereren. We willen ook voorspellingen over welke medewerkers mogelijk gaan vertrekken.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 4 Work & HR AI per RULES.md:
+- "werknemersprestaties te monitoren" - AI monitoring and evaluation of employee performance
+- "automatisch beoordelingen genereren" - AI for employee assessment and evaluation
+- "emoties detecteren" - emotion recognition of employees during work
+- "callcenter" context confirms workplace monitoring
+- The system monitors and evaluates employee performance during work
+
+This clearly falls under Category 4: "Werk & HR AI" in RULES.md, specifically "AI-monitoring en evaluatie van werknemersprestaties". Employee performance monitoring and evaluation make this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

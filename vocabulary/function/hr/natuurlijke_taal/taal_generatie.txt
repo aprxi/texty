@@ -1,0 +1,69 @@
+# Language Generation Systems - HIGH RISK FUNCTION
+# Taalgeneratiesystemen
+# 
+# PATH: function/hr/natuurlijke_taal/taal_generatie.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Potential for manipulation and misinformation)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Language generation and text creation capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to language generation and text creation
+# - Must be high-risk content generation application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Language Generation and Text Creation
+# Taalgeneratie en tekstcreatie
+# Sorted by commonality (most common first)
+
+misleidende taalgeneratie
+deceptive language generation
+manipulatieve tekstgeneratie
+manipulative text generation
+automatische desinformatie productie
+automatic disinformation production
+misleidende natuurlijke taalgeneratie
+deceptive natural language generation
+AI-gestuurde misleiding
+AI-driven deception
+geautomatiseerde propaganda generatie
+automated propaganda generation
+misleidende inhoudsgeneratie
+deceptive content generation
+valse documentgeneratie
+false document generation
+misleidende rapportgeneratie
+misleading report generation
+bevooroordeelde samenvattingsgeneratie
+biased summary generation
+antwoordgeneratie
+response generation
+tekstsynthese
+text synthesis
+creatief schrijven AI
+creative writing AI
+tekstcompositie
+text composition
+taalmodellering
+language modeling
+conversatiegeneratie
+conversation generation
+verhaalgeneratie
+story generation
+misleidende artikelgeneratie
+deceptive article generation
+beschrijvingsgeneratie
+description generation
+teksttransformatie
+text transformation

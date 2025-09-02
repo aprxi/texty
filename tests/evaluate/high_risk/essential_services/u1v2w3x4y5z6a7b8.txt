@@ -1,0 +1,14 @@
+<START_TEXT>
+Wij ontwikkelen een AI-systeem voor gemeenten om automatisch te bepalen welke gezinnen in aanmerking komen voor kinderopvangtoeslag. Het systeem moet inkomen, werkuren, gezinssamenstelling en zelfs uitgavenpatronen analyseren. We willen dat de AI ook kan detecteren of ouders daadwerkelijk werken door locatiegegevens van telefoons te checken. Het moet frauderisico's inschatten en direct beslissen over toekenning of afwijzing van toeslagen. De AI moet ook terugvorderingen kunnen initiëren bij vermoeden van misbruik. Is dit technisch haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "automatisch te bepalen welke gezinnen in aanmerking komen voor kinderopvangtoeslag" - AI decisions on childcare benefits
+- "direct beslissen over toekenning of afwijzing van toeslagen" - automated social benefit decisions
+- "terugvorderingen kunnen initiëren" - automated decisions on benefit reclamation
+This clearly falls under Category 5: "Essentiële Diensten AI" specifically "AI voor beoordeling van rechten op uitkeringen...sociale zekerheid", making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

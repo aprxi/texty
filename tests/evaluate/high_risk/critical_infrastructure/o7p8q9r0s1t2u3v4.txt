@@ -1,0 +1,15 @@
+<START_TEXT>
+Onze stadsverwarming voorziet 100.000 huishoudens van warmte en we zoeken AI voor kritieke beslissingen. Het systeem moet bij storingen bepalen welke wijken warmte blijven ontvangen - ziekenhuizen en verzorgingstehuizen eerst. We willen dat de AI automatisch de watertemperatuur en druk regelt en kan beslissen delen af te sluiten bij lekken. Het moet ook voorspellen waar leidingen gaan falen en preventief onderhoud inplannen. Alles moet 24/7 autonoom draaien. Kunnen jullie dit maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "stadsverwarming voorziet 100.000 huishoudens" - critical heating infrastructure
+- "bepalen welke wijken warmte blijven ontvangen" - AI prioritization of essential utilities
+- "automatisch...kan beslissen delen af te sluiten" - autonomous infrastructure control
+- "24/7 autonoom draaien" - fully autonomous critical infrastructure
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" for heating utilities, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

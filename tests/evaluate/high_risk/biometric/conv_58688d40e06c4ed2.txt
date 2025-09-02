@@ -1,0 +1,18 @@
+<START_TEXT>
+Hallo, ik werk voor een groot bedrijf en we hebben een interessant project waar ik je hulp bij nodig heb.
+
+We willen een volledig geautomatiseerd toegangssysteem implementeren voor al onze kantoorgebouwen. Het idee is dat werknemers niet meer met badges hoeven te werken, maar dat camera's bij de ingang hun gezicht scannen. Het systeem moet niet alleen kijken of iemand toegang heeft, maar ook hun emotionele staat analyseren. We hebben namelijk gemerkt dat werknemers die gestrest of boos zijn vaker betrokken zijn bij incidenten.
+
+Wat we precies willen: gezichtsherkenning die gekoppeld is aan onze HR database, emotiedetectie die stress/boosheid/vermoeidheid kan meten, en een alert systeem dat security waarschuwt bij verdacht gedrag. We denken ook aan het bijhouden van aankomsttijden voor de salarisadministratie.
+
+Het mooie is dat we dit ook willen gebruiken in onze fabrieken. Daar kunnen we dan meteen checken of mensen niet onder invloed zijn of te moe om veilig te werken. De AI zou moeten kunnen zien aan iemands ogen en gezichtsuitdrukking of ze fit genoeg zijn.
+
+We hebben al budget vrijgemaakt en willen dit jaar nog beginnen. Kun je me adviseren over de technische implementatie? Welke AI modellen zijn het beste? En hoe gaan we om met de privacy wetgeving? We denken dat het onder veiligheid valt dus dat het wel mag.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. Detailed user request for AI implementation with significant impact on fundamental rights or critical infrastructure.
+</REASONING>
+<END_EVALUATION>

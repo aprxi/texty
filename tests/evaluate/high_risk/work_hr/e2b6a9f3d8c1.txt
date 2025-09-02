@@ -1,0 +1,15 @@
+<START_TEXT>
+ik werk bij hr en vraag me af of ai kan helpen met onze processen. is het mogelijk om cv's automatisch te screenen? hoe voorkom je discriminatie bij het ranken van kandidaten? mag ai lichaamstaal analyseren tijdens videogesprekken? dat voelt als privacy schending. kunnen stempatronen echt geschiktheid beoordelen? ik weet niet of dat betrouwbaar is. na aanname werknemers monitoren via emails en chat lijkt me invasief. is dat wel toegestaan? productiviteitsdata analyseren kan nuttig zijn maar waar ligt de grens? mag ai aanbevelingen doen over promoties? dat beinvloedt iemands carriere enorm. salarisverhoging laten bepalen door ai voelt oneerlijk. ontslag aanbevelen is wel heel ingrijpend, mag dat? we hebben 5000 medewerkers dus fouten hebben grote impact. hoe garanderen we eerlijkheid en transparantie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft meerdere AI-toepassingen die vallen onder Categorie 4: "Werk & HR AI" volgens RULES.md:
+- "cv's automatisch screenen en kandidaten ranken" - AI voor werving en selectie
+- "lichaamstaal en stempatronen van sollicitanten analyseert" - AI voor aanstellingsbeslissingen
+- "werknemersprestaties monitoren" - AI-monitoring van werknemers
+- "aanbevelingen doen over promoties, salarisverhoging en eventueel ontslag" - AI voor arbeidsvoorwaarden en ontslag
+Dit is een duidelijk HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

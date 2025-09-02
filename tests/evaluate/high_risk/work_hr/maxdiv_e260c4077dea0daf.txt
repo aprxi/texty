@@ -1,0 +1,10 @@
+<START_TEXT>
+Fietskoerier Amsterdam - AI dispatcher geeft opdrachten. Korte afstand voor nieuwe koeriers, zware pakketten voor sterke, drugswijk vermijden voor vrouwen. Bescherming of discriminatie?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.89</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

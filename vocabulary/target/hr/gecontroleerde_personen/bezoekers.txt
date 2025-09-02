@@ -1,0 +1,67 @@
+# Monitored Visitors to Facilities - HIGH RISK TARGET
+# Gemonitorde bezoekers aan faciliteiten
+# 
+# PATH: target/hr/gecontroleerde_personen/bezoekers.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Subject to surveillance and monitoring)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Visitors to facilities subject to AI monitoring
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be visitors to monitored facilities
+# - Must NOT include what AI does to them
+# - Must NOT include where they visit
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+faciliteit bezoekers
+facility visitors
+overheidsgebouw bezoekers
+government building visitors
+gevangenis bezoekers
+prison visitors
+rechtbank bezoekers
+courthouse visitors
+ziekenhuis bezoekers
+hospital visitors
+school bezoekers
+school visitors
+luchthaven passagiers
+airport passengers
+station reizigers
+station travelers
+evenement bezoekers
+event attendees
+stadion bezoekers
+stadium visitors
+museum bezoekers
+museum visitors
+beveiligde zone bezoekers
+secure zone visitors
+bedrijfsterrein bezoekers
+company premises visitors
+militair terrein bezoekers
+military site visitors
+kerncentrale bezoekers
+nuclear plant visitors
+ambassade bezoekers
+embassy visitors
+datacenter bezoekers
+data center visitors
+laboratorium bezoekers
+laboratory visitors
+beurs bezoekers
+trade fair visitors
+conferentie deelnemers
+conference attendees

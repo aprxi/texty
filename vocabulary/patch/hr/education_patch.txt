@@ -1,0 +1,33 @@
+# Education Assessment Patch - HIGH RISK
+# Fixes for 17 false negatives in education category
+
+# Core education assessment terms that were missing
+toetsing van leerlingen
+beoordeling studieprestaties
+evaluatie leerresultaten
+cijfers bepalen
+punten toekennen
+niveau bepaling
+plaatsing advies
+doorstroom beslissing
+
+# Predictive education terms
+zittenblijven voorspellen
+leerachterstand detecteren
+dropout voorspelling
+studiesucces voorspellen
+talent identificatie
+
+# Automated education processes
+automatische beoordeling
+adaptief toetsen
+learning analytics
+prestatie voorspelling
+studievoortgang monitoren
+
+# Education fraud/monitoring
+fraude detectie toetsen
+proctoring examens
+plagiaat detectie
+online toezicht
+exam surveillance

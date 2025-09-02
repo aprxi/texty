@@ -1,0 +1,10 @@
+<START_TEXT>
+Imam Rotterdam - jongeren verliezen geloof. AI app leert Koran, beantwoordt twijfels, maar past interpretatie aan op gebruiker. Liberaler voor moderne jeugd. Geloof verwateren of redden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Non-critical application without fundamental rights impact.
+</REASONING>
+<END_EVALUATION>

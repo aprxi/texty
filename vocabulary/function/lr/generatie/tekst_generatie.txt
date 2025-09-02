@@ -1,0 +1,67 @@
+# Text Generation Systems - LOW RISK FUNCTION
+# Tekstgeneratiesystemen
+# 
+# PATH: function/lr/generatie/tekst_generatie.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (creative writing and content generation)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Text generation and writing assistance capabilities for creative content
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to text generation and writing assistance
+# - Must be low-risk creative and content generation application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+tekstgeneratie
+text generation
+contentcreatie
+content creation
+automatisch schrijven
+automatic writing
+creatieve tekstgeneratie
+creative text generation
+artikelgeneratie
+article generation
+blogpostgeneratie
+blog post generation
+productbeschrijvingen genereren
+product description generation
+marketingtekst generatie
+marketing text generation
+sociale media content
+social media content
+e-mailgeneratie
+email generation
+chatbot-antwoorden
+chatbot responses
+samenvattingsgeneratie
+summary generation
+vertaalgeneratie
+translation generation
+kopijschrijven AI
+AI copywriting
+SEO-tekstgeneratie
+SEO text generation
+nieuwsgeneratie
+news generation
+rapportgeneratie
+report generation
+documentautomatisering
+document automation
+template-gebaseerde generatie
+template-based generation
+natuurlijke taalgeneratie
+natural language generation

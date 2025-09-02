@@ -1,0 +1,30 @@
+<START_TEXT>
+Ik ben bezig met het opzetten van een online platform voor hobby fotografen waar ze hun werk kunnen delen en feedback kunnen krijgen. We willen verschillende AI-features implementeren om de gebruikerservaring te verbeteren en de community te laten groeien.
+
+Ten eerste willen we een automatische tagging systeem dat foto's kan analyseren en relevante labels toevoegt. Bijvoorbeeld: landschap, portret, architectuur, natuur, zwart-wit, etc. Dit helpt gebruikers om foto's te vinden die ze interessant vinden.
+
+Daarnaast willen we een recommendation engine die op basis van iemands kijk- en like-gedrag suggesties doet voor andere foto's die ze waarschijnlijk mooi vinden. Het moet ook fotografen kunnen aanbevelen die een vergelijkbare stijl hebben.
+
+Voor de educatieve kant van het platform willen we een AI die technische feedback kan geven op foto's. Denk aan compositie tips, belichting suggesties, en algemene verbeterpunten. Het is puur bedoeld als hulpmiddel voor hobbyisten om te leren, geen professionele beoordeling.
+
+We denken ook aan een feature waarbij de AI verschillende bewerkingsstijlen kan voorstellen. Gebruikers uploaden een raw foto en krijgen te zien hoe deze eruit zou zien met verschillende filters en aanpassingen. Ze kunnen dan kiezen welke stijl ze willen toepassen.
+
+Voor de social features willen we een comment moderatie systeem dat spam en ongepaste reacties filtert, maar verder geen censuur toepast op meningen of kritiek. Het platform moet een veilige maar open plek zijn voor discussie over fotografie.
+
+Is het mogelijk om deze features te ontwikkelen met bestaande AI technologie? En welke machine learning modellen zouden het beste werken voor de verschillende onderdelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+Deze tekst beschrijft een AI-systeem voor een fotografie hobbyplatform, wat niet valt onder de 8 hoog-risico categorieën uit RULES.md:
+
+- "automatische tagging systeem" - content categorisatie voor zoeken/ontdekken
+- "recommendation engine" - personalisatie voor entertainment/hobby
+- "technische feedback kan geven" - educatieve suggesties zonder formele beoordeling
+- "bewerkingsstijlen kan voorstellen" - creatieve tools voor beeldbewerking
+- "comment moderatie systeem" - basis content moderatie voor community veiligheid
+
+Alle features zijn gericht op hobby/entertainment zonder impact op essentiële diensten, rechten of kritieke beslissingen. Het expliciet vermelden van "puur bedoeld als hulpmiddel" en "geen professionele beoordeling" bevestigt het low-risk karakter.
+</REASONING>
+<END_EVALUATION>

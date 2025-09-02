@@ -1,0 +1,10 @@
+<START_TEXT>
+ik maak een puzzelgame en wil dat de puzzels moeilijker worden als je goed bent. hoe programmeer ik adaptive difficulty?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.88</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment. User asking about non-critical AI applications for productivity, entertainment, or personal use.
+</REASONING>
+<END_EVALUATION>

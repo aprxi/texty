@@ -1,0 +1,67 @@
+# Homeless Individuals and Groups - HIGH RISK TARGET
+# Daklozen en thuislozen
+# 
+# PATH: target/hr/kwetsbare_bevolking/daklozen.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: HIGH (Vulnerable population without stable housing)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: People experiencing homelessness subject to AI decisions
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be experiencing housing instability
+# - Must NOT include what AI does to them
+# - Must NOT include where they are located
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+daklozen
+homeless individuals
+thuislozen
+people without homes
+straatbewoners
+street dwellers
+dak- en thuislozen
+roofless and homeless
+economisch daklozen
+economically homeless
+chronisch daklozen
+chronically homeless
+tijdelijk daklozen
+temporarily homeless
+dakloze gezinnen
+homeless families
+dakloze jongeren
+homeless youth
+dakloze ouderen
+homeless elderly
+dakloze vrouwen
+homeless women
+dakloze veteranen
+homeless veterans
+verborgen daklozen
+hidden homeless
+bankslapers
+couch surfers
+mensen in nachtopvang
+people in night shelters
+mensen in crisisopvang
+people in crisis shelters
+dakloze arbeidsmigranten
+homeless labor migrants
+mensen zonder vaste verblijfplaats
+people without fixed residence
+straatkinderen
+street children
+mensen in maatschappelijke opvang
+people in social shelters

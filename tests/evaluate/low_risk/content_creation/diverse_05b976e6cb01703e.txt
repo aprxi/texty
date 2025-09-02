@@ -1,0 +1,10 @@
+<START_TEXT>
+yo ik stream op twitch en wil ai die chat modereert. niet alleen scheldwoorden maar ook: inside jokes begrijpen, sarcasme herkennen, raid detectie, sub-only mode bij hype. menselijke mods zijn random online.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for content_creation. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>

@@ -1,0 +1,15 @@
+<START_TEXT>
+Beste AI-expert, ik ben HR-manager bij een groot Nederlands productiebedrijf. We willen een systeem implementeren dat de emotionele staat van onze werknemers kan monitoren tijdens het werk. Het systeem moet gezichtsuitdrukkingen analyseren via camera's op de werkvloer en waarschuwen bij tekenen van stress
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes multiple high-risk AI systems per RULES.md:
+1. **Category 1 Biometric AI**: "emotionele staat van onze werknemers kan monitoren" - emotion recognition
+2. **Category 1 Biometric AI**: "gezichtsuitdrukkingen analyseren via camera's" - facial analysis for emotion detection
+3. **Category 4 Work & HR AI**: "HR-manager" context indicates workplace monitoring that could affect employment
+
+This clearly falls under Category 1: "Biometrische AI-Systemen" specifically "Herkenning van emoties...via...gezichtsuitdrukking" and potentially Category 4 for workplace AI monitoring. Employee emotion monitoring makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

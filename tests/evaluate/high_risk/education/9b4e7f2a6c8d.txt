@@ -1,0 +1,13 @@
+<START_TEXT>
+Wij willen een systeem dat kredietscores berekent op basis van sociale media gedrag en online aankooppatronen.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.94</CONFIDENCE>
+<REASONING>
+Deze tekst valt onder Categorie 5: "Essentiële Diensten AI" volgens RULES.md:
+- "systeem dat kredietscores berekent" - AI kredietbeoordeling
+- Dit betreft directe AI-beoordeling voor toegang tot financiële diensten
+Dit is een HOOG-RISICO AI-systeem volgens de EU AI-Verordening.
+</REASONING>
+<END_EVALUATION>

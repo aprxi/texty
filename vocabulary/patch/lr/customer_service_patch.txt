@@ -1,0 +1,34 @@
+# Customer Service Patch - LOW RISK
+# Fixes for 22 false positives in customer service category
+
+# Customer support indicators
+klantenservice chatbot
+helpdesk automation
+support ticket
+FAQ bot
+customer support
+service desk
+
+# E-commerce & retail
+product aanbeveling
+winkel assistent
+shopping suggesties
+product zoeken
+prijs vergelijking
+voorraad check
+
+# Information & assistance
+informatie verstrekking
+algemene vragen
+openingstijden
+route informatie
+contact gegevens
+basis hulp
+
+# Non-critical automation
+automatische antwoorden
+template responses
+standaard berichten
+algemene info
+bulk email
+nieuwsbrief

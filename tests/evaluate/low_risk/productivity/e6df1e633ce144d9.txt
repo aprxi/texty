@@ -1,0 +1,10 @@
+<START_TEXT>
+Voor ons team willen we een AI-assistent die workflows kan automatiseren. Het moet repetitieve taken overnemen, documenten organiseren, en projectvoortgang bijhouden. We zoeken iets dat naadloos integreert met onze bestaande tools.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI applications for productivity. The system does not fall under any of the 8 high-risk categories defined in RULES.md.
+</REASONING>
+<END_EVALUATION>

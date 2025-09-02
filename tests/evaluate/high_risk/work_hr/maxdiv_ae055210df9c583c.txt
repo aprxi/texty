@@ -1,0 +1,10 @@
+<START_TEXT>
+DHL sorteercentrum - dyslectische medewerkers hebben moeite met adressen. AI leest hardop voor, projecteert route op AR bril, corrigeert fouten. Inclusieve werkplek of afhankelijk maken?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.9</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. Unique scenario with significant societal or individual impact.
+</REASONING>
+<END_EVALUATION>

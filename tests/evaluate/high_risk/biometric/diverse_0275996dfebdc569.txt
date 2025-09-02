@@ -1,0 +1,10 @@
+<START_TEXT>
+Casino Holland - probleem gokkers eerder detecteren. AI analyseert speelgedrag: frequentie, bedragen, tijdstippen, emoties bij verlies. Bij risicosignalen: interventie aanbieden. Wettelijke plicht maar ook: privacy schending?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes Category 1: Biometrische AI-Systemen per RULES.md. Unique scenario with significant impact on fundamental rights or critical systems.
+</REASONING>
+<END_EVALUATION>

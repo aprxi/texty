@@ -1,0 +1,10 @@
+<START_TEXT>
+Consulaat heeft probleem met visa fraude. Mensen gebruiken vervalste documenten en nepverhalen. Kunnen we AI trainen om patronen in frauduleuze aanvragen te herkennen? En om authentieke documenten van vervalsingen te onderscheiden?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.97</CONFIDENCE>
+<REASONING>
+This text describes Category 7: Migratie & Grenstoezicht AI per RULES.md. Unique request for AI implementation with significant societal impact.
+</REASONING>
+<END_EVALUATION>

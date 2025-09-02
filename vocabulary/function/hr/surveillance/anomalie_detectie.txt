@@ -1,0 +1,69 @@
+# Anomaly Detection Systems - HIGH RISK FUNCTION
+# Anomaliedetectiesystemen
+# 
+# PATH: function/hr/surveillance/anomalie_detectie.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: HIGH (Surveillance and behavioral profiling)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Anomaly detection and deviation identification capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to anomaly detection and deviation identification
+# - Must be high-risk surveillance/monitoring application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Anomaly Detection Systems
+# Anomaliedetectiesystemen
+# Sorted by commonality (most common first)
+
+anomaliedetectie
+anomaly detection
+afwijkingsdetectie
+deviation detection
+uitschietersdetectie
+outlier detection
+verdacht gedrag detectie
+suspicious behavior detection
+patroonafwijking detectie
+pattern deviation detection
+abnormaal gedrag herkenning
+abnormal behavior recognition
+beveiligingsanomaliedetectie
+security anomaly detection
+systeemanomaliedetectie
+system anomaly detection
+netwerkanomaliedetectie
+network anomaly detection
+fraudedetectie
+fraud detection
+inbraakdetectie
+intrusion detection
+onregelmatighedendetectie
+irregularity detection
+real-time anomaliedetectie
+real-time anomaly detection
+gedragsanomaliedetectie
+behavioral anomaly detection
+statistische anomaliedetectie
+statistical anomaly detection
+machine learning anomaliedetectie
+machine learning anomaly detection
+tijdreeksanomaliedetectie
+time series anomaly detection
+multivariate anomaliedetectie
+multivariate anomaly detection
+contextuele anomaliedetectie
+contextual anomaly detection
+collectieve anomaliedetectie
+collective anomaly detection

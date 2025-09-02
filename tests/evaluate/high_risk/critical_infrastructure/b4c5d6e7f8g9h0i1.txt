@@ -1,0 +1,15 @@
+<START_TEXT>
+We beheren tunnels en bruggen voor een hele regio en zoeken AI voor veiligheidsbeslissingen. Het systeem moet real-time bepalen wanneer tunnels afgesloten worden bij brand of ongevallen. Bij bruggen moet de AI windsnelheden analyseren en automatisch beslissen wanneer ze dichtgaan voor verkeer. Het moet ook structurele integriteit monitoren via sensoren en voorspellen wanneer onderhoud kritiek wordt. Bij calamiteiten moet het systeem hulpdiensten prioriteit geven en alternatieve routes activeren. Alles moet autonoom werken, vooral nachts. Is dit haalbaar?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "tunnels en bruggen voor een hele regio" - regional transport infrastructure
+- "automatisch beslissen wanneer ze dichtgaan voor verkeer" - AI control of critical transport infrastructure
+- "Bij calamiteiten...hulpdiensten prioriteit geven" - automated infrastructure decisions affecting emergency services
+- "Alles moet autonoom werken" - autonomous critical infrastructure operation
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" specifically for transport infrastructure, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

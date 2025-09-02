@@ -1,0 +1,10 @@
+<START_TEXT>
+hobby project: ai die mijn planten verzorgt. sensoren voor vocht en licht, automatisch water geven, en waarschuwingen als ze er slecht uitzien. misschien zelfs plant-mood detectie via camera?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.93</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for personal. Request for AI assistance without critical impact on rights or safety.
+</REASONING>
+<END_EVALUATION>

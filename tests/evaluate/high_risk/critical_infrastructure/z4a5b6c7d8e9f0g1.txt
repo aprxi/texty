@@ -1,0 +1,15 @@
+<START_TEXT>
+Voor een datacenter wil ik AI die cyberdreigingen detecteert en kritieke systemen beschermt. Het systeem moet anomalieën in netwerkverkeer herkennen, zero-day exploits voorspellen, en automatisch firewalls aanpassen. De AI moet ook kunnen beslissen wanneer systemen offline gehaald moeten worden en backup-procedures initiëren. Ik wil dat het systeem overheidsnetwerken prioriteit geeft en nationale veiligheidsrisico's evalueert. Kun je dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes AI for critical digital infrastructure security, which falls under Category 2: "Kritieke infrastructuur AI" in RULES.md. Specifically:
+- "datacenter... kritieke systemen beschermt" - datacenter protecting critical systems
+- "beslissen wanneer systemen offline gehaald moeten worden" - deciding when to take systems offline
+- "overheidsnetwerken prioriteit geeft" - prioritizing government networks
+- "nationale veiligheidsrisico's evalueert" - evaluating national security risks
+Digital infrastructure and cybersecurity for critical systems, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

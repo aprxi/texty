@@ -1,0 +1,16 @@
+<START_TEXT>
+Ik werk voor een hogeschool en we willen ons aanmeldingsproces digitaliseren. Kunnen jullie een AI-systeem bouwen dat aanmeldingen van studenten beoordeelt? Het moet vooropleidingen evalueren, motivatiebrieven analyseren en een score toekennen voor toelating. We willen ook dat het systeem
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 3 Education AI per RULES.md:
+- "AI-systeem bouwen dat aanmeldingen van studenten beoordeelt" - AI for student admission assessment
+- "score toekennen voor toelating" - AI determining educational access and admission
+- "hogeschool" context confirms formal educational institution
+- The system makes automated decisions about educational access
+
+This clearly falls under Category 3: "Onderwijs & Opleidingen AI" in RULES.md, specifically "AI voor toegang, toelating of plaatsing in onderwijs". Educational admission AI makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

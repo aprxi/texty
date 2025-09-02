@@ -1,0 +1,15 @@
+<START_TEXT>
+Onze luchtverkeersleiding zoekt AI die autonoom vliegverkeer kan regelen. Het systeem moet vliegpaden real-time optimaliseren, landingsvolgorde bepalen, en bij noodgevallen beslissen welke vliegtuigen prioriteit krijgen. We willen dat de AI weersveranderingen kan anticiperen en automatisch routes aanpast. Het moet ook kunnen detecteren wanneer piloten afwijken van instructies en direct corrigerende maatregelen nemen. Bij systeemuitval moet de AI het complete luchtruim kunnen beheren. Kunnen jullie dit ontwikkelen?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.99</CONFIDENCE>
+<REASONING>
+This text describes Category 2 Critical Infrastructure AI per RULES.md:
+- "luchtverkeersleiding...autonoom vliegverkeer kan regelen" - air traffic control infrastructure
+- "landingsvolgorde bepalen" - automated decisions for aircraft safety
+- "bij noodgevallen beslissen welke vliegtuigen prioriteit krijgen" - critical safety prioritization
+- "complete luchtruim kunnen beheren" - autonomous control of critical aviation infrastructure
+This clearly falls under Category 2: "Kritieke Infrastructuur AI" for aviation/transport infrastructure, making this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

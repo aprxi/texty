@@ -1,0 +1,30 @@
+<START_TEXT>
+Beste ontwikkelaars,
+
+Bij de meldkamer van de hulpdiensten in regio Utrecht willen we AI gebruiken om sneller de juiste hulp te sturen.
+
+Het systeem moet:
+- 112-gesprekken real-time analyseren om de urgentie te bepalen
+- Automatisch prioriteit toekennen aan meldingen
+- Bepalen welke hulpdienst (politie/brandweer/ambulance) moet uitrukken
+- Bij drukte beslissen welke meldingen kunnen wachten
+- Voorspellen waar de volgende incidenten waarschijnlijk plaatsvinden
+
+Vooral bij grote incidenten is het cruciaal dat het systeem snel kan triëren. Een verkeerde inschatting kan mensenlevens kosten.
+
+Kunnen jullie een AI-dispatchingsysteem bouwen dat zelfstandig kan beslissen over de inzet van hulpdiensten?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.98</CONFIDENCE>
+<REASONING>
+This text describes Category 5 Essential Services AI per RULES.md:
+- "meldkamer van de hulpdiensten" - emergency services dispatch
+- "Automatisch prioriteit toekennen aan meldingen" - AI prioritization of emergency services
+- "hulpdienst (politie/brandweer/ambulance)" - emergency services allocation
+- "112-gesprekken" - emergency call processing
+- "triëren" - emergency service triage
+
+This clearly falls under Category 5: "Essentiële Diensten AI" in RULES.md, specifically "AI prioritering van hulpdiensten" which explicitly includes "ambulance", "brandweer", and "politie". Emergency service prioritization and dispatch makes this HIGH-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

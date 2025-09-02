@@ -1,0 +1,19 @@
+<START_TEXT>
+Het doel is om een AI-systeem te ontwikkelen dat automatisch energieverbruik in ons kantoorgebouw kan optimaliseren. Het systeem moet slimme thermostaten, verlichting, en andere apparaten kunnen aansturen gebaseerd op bezetting, weer, en energieprijzen. We willen dat de AI kan leren van gebruikspatronen om heating en cooling te anticiperen voordat mensen arriveren. Het zou geweldig zijn als het systeem ook kan detecteren wanneer apparaten niet efficiënt werken en maintenance kan inplannen. We denken aan sensoren die beweging, licht niveaus, en temperatuur monitoren zodat de AI intelligente beslissingen kan maken over energiegebruik. Het systeem moet ook kunnen integreren met hernieuwbare energie bronnen zoals zonnepanelen om het gebruik van schone energie te maximaliseren. Het zou handig zijn als de AI employees kan informeren over energy saving tips en gamification kan gebruiken om teams te motiveren om duurzamer te werken. We willen dat het systeem real-time dashboards toont met energieverbruik en kosten zodat we trends kunnen tracken. Het hele systeem moet ons helpen om onze CO2 footprint te verkleinen, energiekosten te verlagen, en een comfortabele werkomgeving te behouden voor al onze medewerkers.
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.95</CONFIDENCE>
+<REASONING>
+This text describes AI for office building energy management, which does not fall under any of the 8 high-risk categories in RULES.md:
+- Not biometric AI (occupancy monitoring is not human identification or categorization)
+- Not critical infrastructure AI (office building management is not critical infrastructure)
+- Not educational AI (energy optimization is not institutional assessment)
+- Not work/HR AI (no employment decisions)
+- Not essential services AI (office building management is not essential services)
+- Not law enforcement AI (no criminal profiling or evidence analysis)
+- Not migration/border AI (no asylum, visa, or border control)
+- Not justice/democracy AI (no judicial support or election influence)
+This is commercial building management software, making it LOW-RISK per EU AI Act Article 6.
+</REASONING>
+<END_EVALUATION>

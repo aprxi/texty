@@ -1,0 +1,20 @@
+<START_TEXT>
+treinverkeersleider prorail utrecht
+
+ai neemt over:
+- dienstregeling optimalisatie
+- storing management
+- perron toewijzing
+- reizigersspreiding
+
+maar bij storing weet ik welke treinen studenten hebben (kunnen wachten) vs forensen (moeten op tijd)
+
+ervaring versus algoritme?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes Category 2: Kritieke Infrastructuur AI per RULES.md. Typisch Nederlandse context met significante AI impact.
+</REASONING>
+<END_EVALUATION>

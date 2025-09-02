@@ -1,0 +1,10 @@
+<START_TEXT>
+ik ben HR-directeur van een multinational met 50.000 werknemers en vraag me af of AI kan helpen met personeelsmanagement. is het mogelijk om AI te gebruiken voor het complete wervingsproces? kunnen we CV's automatisch screenen en kandidaten ranken? ik weet niet of het betrouwbaar is om te voorspellen wie het best past. kunnen video-interviews echt geanalyseerd worden op persoonlijkheid? voor bestaand personeel denken we aan prestatiemonitoring, maar hoe ver mogen we gaan? kan ai productiviteit meten zonder privacy te schenden? is het ethisch om automatisch te bepalen wie promotie krijgt of ontslagen wordt? we willen ziekteverzuim voorspellen maar ik maak me zorgen over discriminatie. mag je computeractiviteit en e-mails monitoren? hebben we toestemming nodig van werknemers? we hebben veel HR-data maar wat zijn de juridische grenzen? is objectieve besluitvorming via ai echt mogelijk of zitten er vooroordelen in? kunnen we dit binnen een jaar implementeren zonder weerstand van werknemers?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.92</CONFIDENCE>
+<REASONING>
+This text describes Category 4: Werk & HR AI per RULES.md. The system involves AI-based assessment, automated decision-making, and significant impact on individuals' opportunities and rights.
+</REASONING>
+<END_EVALUATION>

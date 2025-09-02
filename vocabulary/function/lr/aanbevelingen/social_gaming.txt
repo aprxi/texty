@@ -1,0 +1,145 @@
+# Social Gaming Systems - LOW RISK FUNCTION
+# Sociale Gamingsystemen
+# 
+# PATH: function/lr/aanbevelingen/social_gaming.txt
+# DIMENSION: FUNCTION (What AI does)
+# RISK: LOW (Social and multiplayer gaming)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# FUNCTION dimension contains: AI capabilities, algorithms, and actions
+# THIS FILE contains: Social gaming and multiplayer interaction capabilities
+#
+# VALIDATION RULES:
+# - Must be an AI capability or algorithm
+# - Must describe what the system DOES
+# - Must be related to social gaming and multiplayer interactions
+# - Must be low-risk gaming/social application
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Social Gaming Functions (AI capabilities for social and multiplayer gaming)
+# Gesorteerd op gebruikelijkheid (meest voorkomend eerst)
+
+# Multiplayer matching
+speler matching
+player matching
+vaardigheid gebaseerde matching
+skill-based matching
+team formatie
+team formation
+lobby beheer
+lobby management
+latentie optimalisatie
+latency optimization
+anti-cheat detectie
+anti-cheat detection
+eerlijk spel monitoring
+fair play monitoring
+# Tournament systems
+toernooi organisatie
+tournament organization
+bracket generatie
+bracket generation
+wedstrijd planning
+match scheduling
+prijs distributie
+prize distribution
+ranglijst beheer
+leaderboard management
+seizoen resets
+seasonal resets
+# Social features
+gilde beheer
+guild management
+clan systemen
+clan systems
+vriend systemen
+friend systems
+chat moderatie
+chat moderation
+sociale feeds
+social feeds
+prestatie delen
+achievement sharing
+# Community building
+evenement organisatie
+event organization
+gemeenschap uitdagingen
+community challenges
+seizoensgebonden evenementen
+seasonal events
+stem systemen
+voting systems
+speler spotlights
+player spotlights
+content creator ondersteuning
+content creator support
+# Competitive gaming
+esports ondersteuning
+esports support
+competitieve matching
+competitive matching
+rang systeem
+ranking system
+elo berekening
+elo calculation
+game prestatie tracking
+game performance tracking
+statistiek analyse
+statistics analysis
+# Casual social gaming
+party spellen
+party games
+trivia avonden
+trivia nights
+teken spellen
+drawing games
+muziek spellen
+music games
+dans competities
+dance competitions
+# Virtual events
+virtuele bijeenkomsten
+virtual meetups
+online concerten
+online concerts
+spelshows
+game shows
+komedie avonden
+comedy nights
+boekclubs
+book clubs
+film avonden
+movie nights
+# Educational gaming
+quiz competities
+quiz competitions
+taal leer spellen
+language learning games
+geschiedenis simulaties
+history simulations
+wetenschap experimenten
+science experiments
+wiskunde uitdagingen
+math challenges
+programmeer competities
+coding competitions
+# Accessibility features
+tekst-naar-spraak gaming
+text-to-speech gaming
+kleurenblind ondersteuning
+colorblind support
+één-hand bediening
+one-handed controls
+cognitieve hulp
+cognitive assistance
+aangepaste interfaces
+customizable interfaces
+moeilijkheidsgraad schaling
+difficulty scaling

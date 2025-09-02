@@ -1,0 +1,166 @@
+# Compliance and Regulatory Data - LOW RISK WHAT
+# Compliance en regelgeving gegevens
+# 
+# PATH: what/lr/commerciële_data/compliance_data.txt
+# DIMENSION: WHAT (Data processed by AI)
+# RISK: LOW (General business compliance data)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# WHAT dimension contains: Data types, information, and content that AI processes
+# THIS FILE contains: Compliance and regulatory data for business operations
+#
+# VALIDATION RULES:
+# - Must be data or information (not an action)
+# - Must be compliance and regulatory related content
+# - Must be what AI processes (not who or where)
+# - Must be low-risk commercial classification
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Regulatory compliance
+wet- en regelgeving
+laws and regulations
+bedrijfs compliance rapporten
+business compliance reports
+regelgeving updates
+regulatory updates
+beleids documenten
+policy documents
+procedure handboeken
+procedure manuals
+compliance training
+compliance training
+regelgeving kalender
+regulatory calendar
+wet wijzigingen
+law changes
+
+# Audit and control
+bedrijfs audit trails
+business audit trails
+controle logs
+control logs
+verificatie documenten
+verification documents
+attestatie rapporten
+attestation reports
+interne controles
+internal controls
+externe audits
+external audits
+bevindingen rapporten
+findings reports
+herstel plannen
+remediation plans
+
+# Risk management
+compliance risico assessments
+compliance risk assessments
+risico registers
+risk registers
+mitigatie maatregelen
+mitigation measures
+compliance incident rapporten
+compliance incident reports
+risico categorieën
+risk categories
+impact analyses
+impact analyses
+probabiliteits data
+probability data
+risico matrices
+risk matrices
+
+# Data protection
+privacy beleid
+privacy policies
+data bescherming
+data protection
+consent management
+consent management
+rechten verzoeken
+rights requests
+data breach meldingen
+data breach notifications
+privacy impact assessments
+privacy impact assessments
+verwerking registers
+processing registers
+beveiliging maatregelen
+security measures
+
+# Financial compliance
+compliance financiële rapportage
+compliance financial reporting
+boekhouding standaarden
+accounting standards
+belasting compliance
+tax compliance
+anti-witwas procedures
+anti-money laundering procedures
+fraude detectie
+fraud detection
+interne beheersing
+internal control
+solvabiliteits rapportage
+solvency reporting
+liquiditeits metingen
+liquidity measurements
+
+# Industry standards
+ISO certificering
+ISO certification
+kwaliteits standaarden
+quality standards
+veiligheids protocollen
+safety protocols
+milieu standaarden
+environmental standards
+branche certificaten
+industry certificates
+accreditatie documenten
+accreditation documents
+conformiteits verklaringen
+conformity declarations
+standaarden updates
+standards updates
+
+# Monitoring and reporting
+monitoring dashboards
+monitoring dashboards
+compliance metrieken
+compliance metrics
+rapportage schema's
+reporting schedules
+escalatie procedures
+escalation procedures
+uitzondering rapporten
+exception reports
+compliance trend analyses
+compliance trend analysis
+benchmark vergelijkingen
+benchmark comparisons
+
+# Documentation and records
+document beheer
+document management
+records management
+records management
+archivering systemen
+archival systems
+retentie schema's
+retention schedules
+versie controle
+version control
+document toegang logs
+document access logs
+distributie lijsten
+distribution lists
+review cycli
+review cycles

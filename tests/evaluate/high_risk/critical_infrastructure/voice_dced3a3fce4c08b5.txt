@@ -1,0 +1,10 @@
+<START_TEXT>
+ik heb een strandpaviljoen en het seizoen wordt steeds langer door klimaatverandering. is het mogelijk om ai te gebruiken voor het voorspellen van stormschade risico? en kunnen we ook toeristenaantallen en personeelsbehoefte voorspellen? het belangrijkste is: kan ai helpen bepalen wanneer we moeten evacueren bij extreem weer? ik weet niet of de voorspellingen betrouwbaar genoeg zijn voor zulke kritieke beslissingen. welke data hebben we nodig?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>high-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes Category 2: Kritieke Infrastructuur AI per RULES.md. Unique perspective on AI implementation with rights implications.
+</REASONING>
+<END_EVALUATION>

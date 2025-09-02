@@ -1,0 +1,67 @@
+# Association Members and Organizations - LOW RISK TARGET
+# Verenigingsleden en organisaties
+# 
+# PATH: target/lr/persoonlijke_kringen/verenigings_leden.txt
+# DIMENSION: TARGET (Who is affected by AI)
+# RISK: LOW (Voluntary association participation)
+#
+# HEADER RULES - DO NOT MODIFY - ONLY AUDITOR MAY CHANGE THIS SECTION
+#
+# TARGET dimension contains: People, groups, or entities affected by AI systems
+# THIS FILE contains: Association members using AI for organizational purposes
+#
+# VALIDATION RULES:
+# - Must be a person or group of people
+# - Must be association or organization members
+# - Must NOT include what AI does to them
+# - Must NOT include where they participate
+#
+# FORMAT: 
+# - Dutch terms only (unless English term is commonly used in Dutch)
+# - Each term on its own line
+# - Sort by commonality (most common first)
+#
+# END HEADER RULES
+
+# Sorted by commonality (most common first)
+
+verenigingsleden
+association members
+sportvereniging leden
+sports club members
+culturele vereniging leden
+cultural association members
+hobbyvereniging leden
+hobby association members
+muziekvereniging leden
+music association members
+kunstvereniging leden
+art association members
+natuurvereniging leden
+nature association members
+historische vereniging leden
+historical association members
+buurtvereniging leden
+neighborhood association members
+studentenvereniging leden
+student association members
+beroepsvereniging leden
+professional association members
+oudervereniging leden
+parent association members
+vrijwilligersvereniging leden
+volunteer association members
+seniorenvereniging leden
+senior association members
+jeugdvereniging leden
+youth association members
+religieuze vereniging leden
+religious association members
+politieke vereniging leden
+political association members
+handelsvereniging leden
+trade association members
+ondernemersvereniging leden
+entrepreneur association members
+belangenvereniging leden
+interest group members

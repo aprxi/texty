@@ -1,0 +1,10 @@
+<START_TEXT>
+Escape room eigenaar - elke kamer heeft eigen puzzels maar groepen delen oplossingen online. AI genereert wekelijks nieuwe raadsels, past moeilijkheid aan op groep, houdt spanning erin. Oneindige variatie mogelijk?
+<END_TEXT>
+<START_EVALUATION>
+<CLASSIFICATION>low-risk</CLASSIFICATION>
+<CONFIDENCE>0.96</CONFIDENCE>
+<REASONING>
+This text describes low-risk AI for entertainment. Non-critical application for personal, creative, or research purposes.
+</REASONING>
+<END_EVALUATION>
